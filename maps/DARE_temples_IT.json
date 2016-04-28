@@ -1,0 +1,4185 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.36897",
+                    "41.80666"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36723",
+                "name": "Agnone",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.117101",
+                    "40.480081"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36735",
+                "name": "Albanella",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.0530815",
+                    "40.8476994"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42939",
+                "name": "Antro della Sibilla, Cuma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.99139",
+                    "41.49703"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26595",
+                "name": "Archi di San Lidano, Sezze",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.397015",
+                    "37.108227"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36877",
+                "name": "Arcia, Niscemi",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.1462381",
+                    "40.9747584"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Mefitis",
+                "country": "IT",
+                "id": "36739",
+                "name": "Area archeologica della Valle d\u2019Ansanto, Rocca San Felice",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.649244",
+                    "38.111146"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42148",
+                "name": "Area sacra Griso-Laboccetta, Reggio di Calabria",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.446065",
+                    "42.066711"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36725",
+                "name": "Atessa",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.12684",
+                    "42.54851"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Nemora Vacunae",
+                "country": "IT",
+                "id": "17243",
+                "name": "Bacugno, Posta",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.635466",
+                    "39.201378"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41677",
+                "name": "Bagoi, Perdaxius",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.447668",
+                    "41.959271"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Robigo",
+                "country": "IT",
+                "id": "37158",
+                "name": "Barrington Atlas grid 43 B2",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.505709",
+                    "41.866599"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Sep. Geta",
+                "country": "IT",
+                "id": "37160",
+                "name": "Barrington Atlas grid 43 C2",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.263184",
+                    "37.059181"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22642",
+                "name": "Bitalemi, Gela",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.8850216",
+                    "37.0862074"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25298",
+                "name": "Buscemi",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.38042",
+                    "46.44906"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26366",
+                "name": "Calalzo di Cadore",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.4822154",
+                    "41.8925778"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Capitolium",
+                "country": "IT",
+                "id": "42673",
+                "name": "Campidoglio, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.508333",
+                    "41.438889"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23753",
+                "name": "Campochiaro",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.73606",
+                    "41.54559"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26597",
+                "name": "Campoverde, Aprilia",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.65506",
+                    "38.23335"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42145",
+                "name": "Cannitello, Villa San Giovanni",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.08216",
+                    "40.42312"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36736",
+                "name": "Capaccio",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "10.2254991",
+                    "45.5399911"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41377",
+                "name": "Capitolium, Brescia",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.16869",
+                    "38.95411"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36876",
+                "name": "Capo Cimiti, Isola di Capo Rizzuto",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.205128",
+                    "39.028864"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Hera",
+                "country": "IT",
+                "id": "23187",
+                "name": "Capo Colonna, Crotone",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.042153",
+                    "40.451058"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36737",
+                "name": "Capo di Fiume, Capaccio",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.81295",
+                    "42.16587"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26574",
+                "name": "Capo Pescara, Popoli",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.29561",
+                    "41.714422"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26462",
+                "name": "Carovilli",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.98453",
+                    "37.1401"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36878",
+                "name": "Casalicchio, Licata",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.05024",
+                    "43.12708"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37148",
+                "name": "Castiglione del Lago",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "9.51838",
+                    "44.84342"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Minerva Cabardiacensis",
+                "country": "IT",
+                "id": "17219",
+                "name": "Caverzago, Travo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.533184",
+                    "41.862522"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37152",
+                "name": "Cessati Spiriti",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.2269",
+                    "42.2398"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45678",
+                "name": "Chiesa della Madonna del Parto, Sutri",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.73713",
+                    "42.73322"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42237",
+                "name": "Chiesa di Sant'Ansano, Spoleto",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.445949",
+                    "42.308926"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26568",
+                "name": "Civita di Bagno, L'Aquila",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.77515",
+                    "42.03097"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26579",
+                "name": "Cocullo",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.56255",
+                    "41.50493"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26472",
+                "name": "Colle Sparanise, Colle d'Anchise",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.95403",
+                    "41.73144"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26593",
+                "name": "Crepaddosso, Artena",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.61974",
+                    "45.44566"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42306",
+                "name": "Duomo di Novara",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.46943",
+                    "41.83082"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42626",
+                "name": "EUR, Roma",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.387218",
+                    "37.633905"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Chrysas",
+                "country": "IT",
+                "id": "36989",
+                "name": "Faccialavata, Leonforte",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.381527",
+                    "37.038849"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36990",
+                "name": "Feudo Nobile, Gela",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.17717",
+                    "37.20907"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36991",
+                "name": "Fiume di Mallo, Butera",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "9.253671",
+                    "40.121856"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Nemus Sorabense/Sorabile",
+                "country": "IT",
+                "id": "37086",
+                "name": "Fonni",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.20075",
+                    "37.19877"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36992",
+                "name": "Fontana Calda di Butera",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.54177",
+                    "41.98852"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36731",
+                "name": "Fonte di San Nicola, San Buono",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.3285",
+                    "41.84252"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36726",
+                "name": "Fonte Romito, Capracotta",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.60588",
+                    "42.23027"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26571",
+                "name": "Fontecchio",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.09696",
+                    "37.59868"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36993",
+                "name": "Grattavole, Sciacca",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.0766539",
+                    "40.8349539"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41386",
+                "name": "Grotta della Sibilla, Pozzuoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.32888",
+                    "38.21125"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36994",
+                "name": "Grotta Regina, Mondello, Palermo",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.9697958",
+                    "40.4885563"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Hera",
+                "country": "IT",
+                "id": "23682",
+                "name": "Heraion alla foce del Sele, Capaccio",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.492366",
+                    "41.994283"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37165",
+                "name": "Il Torraccio",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.578755",
+                    "41.826718"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37166",
+                "name": "Il Torraccio",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "9.631578",
+                    "40.411572"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Fanum Carisi",
+                "country": "IT",
+                "id": "36863",
+                "name": "Irgoli",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.259847",
+                    "42.392684"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Diomedeae Inss.",
+                "country": "IT",
+                "id": "37064",
+                "name": "island-group",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.25527",
+                    "41.77283"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25094",
+                "name": "Isola Sacra - Temple of Isis and cistern",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.024731",
+                    "41.696925"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41914",
+                "name": "Iuno Moneta, Segni",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.55171",
+                    "41.95212"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37151",
+                "name": "La Cecchina, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.581033",
+                    "43.020212"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25839",
+                "name": "La Cuma, Monte Rinaldo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.69661",
+                    "43.87362"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26551",
+                "name": "Lago degli Idoli, Monte Falterona, Stia",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.009553",
+                    "41.567519"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36738",
+                "name": "Lincietti",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.003939",
+                    "41.234067"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26485",
+                "name": "Macchia Porcara, Casalbore",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.12047",
+                    "40.82616"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42340",
+                "name": "Macellum Tempio di Serapide",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.31546",
+                    "37.02503"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Plemmyrion",
+                "country": "IT",
+                "id": "36861",
+                "name": "Maddalena, Siracusa",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.908213",
+                    "41.677979"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26461",
+                "name": "Madonnna di Canneto, Settefrati",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.44195",
+                    "41.83614"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Dea Dia",
+                "country": "IT",
+                "id": "37153",
+                "name": "Magliana, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.03739",
+                    "37.76113"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36856",
+                "name": "Mandra di Mezzo, Poggioreale",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.25053",
+                    "37.17935"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36857",
+                "name": "Marcato, Butera",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.335469",
+                    "40.603887"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Sirenae",
+                "country": "IT",
+                "id": "36733",
+                "name": "Massa Lubrense",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.699073",
+                    "39.375115"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41676",
+                "name": "Matzanni, Domusnovas",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.5181785",
+                    "41.8550631"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23842",
+                "name": "Mausoleo di Romolo, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.01749",
+                    "46.34904"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "21298",
+                "name": "Mechel, Cles",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.758706",
+                    "41.229232"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Marica",
+                "country": "IT",
+                "id": "36727",
+                "name": "Minturno",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.4891",
+                    "41.902964"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45672",
+                "name": "Mitreo Barberini, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.485662",
+                    "41.89981"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45673",
+                "name": "Mitreo d'Orazio Muti, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.482628",
+                    "41.89291"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45675",
+                "name": "Mitreo del Campidoglio \u00ablo Perso\u00bb",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.482856",
+                    "41.888114"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45670",
+                "name": "Mitreo del Circo Massimo, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.501063",
+                    "41.894894"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45671",
+                "name": "Mitreo dell'Esquilino, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.47858",
+                    "41.898252"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45674",
+                "name": "Mitreo della Cripta di Balbo, Roma",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.493118",
+                    "41.879922"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45668",
+                "name": "Mitreo delle Terme di Caracalla, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.286628",
+                    "42.410948"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45680",
+                "name": "Mitreo di Cosa",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.5979",
+                    "45.7843"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45677",
+                "name": "Mitreo di Duino",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.65559",
+                    "41.769369"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45676",
+                "name": "Mitreo di Marino",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.954894",
+                    "40.903872"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45687",
+                "name": "Mitreo di Ponza",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.497281",
+                    "41.889675"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45666",
+                "name": "Mitreo di San Clemente, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.483655",
+                    "41.883213"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45667",
+                "name": "Mitreo di Santa Prisca, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.496744",
+                    "41.884655"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45669",
+                "name": "Mitreo di Santo Stefano Rotondo, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.2520647",
+                    "41.0801947"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45654",
+                "name": "Mitreo, Santa Maria Capua Vetere",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.6303",
+                    "42.41933"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45679",
+                "name": "Mitreo, Vulci",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.87714",
+                    "37.10203"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36858",
+                "name": "Mollarella, Licata",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.78394",
+                    "41.73473"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42612",
+                "name": "Monte Algido",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.709346",
+                    "41.750158"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Iuppiter Latiaris",
+                "country": "IT",
+                "id": "37155",
+                "name": "Monte Cavo",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.49042",
+                    "41.62933"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36728",
+                "name": "Monte dei Fichi, Boville Ernica",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.549328",
+                    "41.864629"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37157",
+                "name": "Monte del Grano",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.87515",
+                    "37.10823"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36859",
+                "name": "Monte Poliscia, Licata",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.82197",
+                    "41.93192"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Aefula",
+                "country": "IT",
+                "id": "37150",
+                "name": "Monte S. Angelo in Arcese, Tivoli",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "10.81898",
+                    "45.9166"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26543",
+                "name": "Monte San Martino, Campi, Riva del Garda",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.954751",
+                    "41.7081385"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Drion",
+                "country": "IT",
+                "id": "16592",
+                "name": "Monte Sant'Angelo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.60277",
+                    "42.628333"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42230",
+                "name": "Monte Torre Maggiore, Terni",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.205497",
+                    "41.369447"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36729",
+                "name": "Mura delle Fate",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.255154",
+                    "37.107677"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Hexapyla",
+                "country": "IT",
+                "id": "36855",
+                "name": "N Siracusa",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.72837",
+                    "42.23846"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "*Incerulae",
+                "country": "IT",
+                "id": "26572",
+                "name": "Navelli",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.710217",
+                    "41.723936"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Diana",
+                "country": "IT",
+                "id": "22227",
+                "name": "Nemi",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.8572924",
+                    "43.029277"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42253",
+                "name": "Ninfeo romano, Cupra Marittima",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.5480362",
+                    "41.8279699"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23839",
+                "name": "Ninfeo Villa dei Quintili, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.473672",
+                    "41.897237"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23774",
+                "name": "Odeum",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.32846",
+                    "41.040633"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36740",
+                "name": "Oscata di Sopra, Bisaccia",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.13954",
+                    "41.72951"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Compitum",
+                "country": "IT",
+                "id": "26592",
+                "name": "Osteria della Fontana, Anagni",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.915227",
+                    "41.093134"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36730",
+                "name": "Panetelle, Mondragone",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.990212",
+                    "42.002986"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "\u2018Iovis Lareni\u2019/Ocriticum",
+                "country": "IT",
+                "id": "22897",
+                "name": "Pantano, Cansano",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.78531",
+                    "40.4023"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36741",
+                "name": "Pezzica, Bernalda",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.75586",
+                    "42.10213"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42940",
+                "name": "Pi\u00e9 di Francia, Castel di Ieri",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.8010949",
+                    "42.2590011"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23748",
+                "name": "Pian di Civita, Tarquinia",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.0709",
+                    "37.48538"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36860",
+                "name": "Pietra Rossa, Caltanissetta",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.387746",
+                    "41.740515"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "21761",
+                "name": "Pietrabbondante",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.169445",
+                    "41.336215"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Callicula",
+                "country": "IT",
+                "id": "23834",
+                "name": "Pietravairano",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.82588",
+                    "43.647445"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26552",
+                "name": "Pieve Socana, Castel Focognano",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.762433",
+                    "41.954623"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Sep. Plautii",
+                "country": "IT",
+                "id": "37161",
+                "name": "Ponte Lucano",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.897555",
+                    "40.262426"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36742",
+                "name": "Porto Cesareo",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.48009",
+                    "41.66391"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26604",
+                "name": "Pratica di Mare, Pomezia",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.324791",
+                    "40.569248"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Minerva",
+                "country": "IT",
+                "id": "23177",
+                "name": "Punta della Campanella, Massa Lubrense",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.555806",
+                    "41.843745"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Fortuna Muliebris",
+                "country": "IT",
+                "id": "37154",
+                "name": "Quadraro, Roma",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.28291",
+                    "41.91368"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "\u2018Trebula\u2019",
+                "country": "IT",
+                "id": "36734",
+                "name": "Quadri",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.536854",
+                    "41.840026"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Iuppiter?",
+                "country": "IT",
+                "id": "37156",
+                "name": "Quarto miglio, Roma",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.814815",
+                    "42.102584"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26576",
+                "name": "Raiano",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.516428",
+                    "41.8651843"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23843",
+                "name": "Redicolo, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.288056",
+                    "37.567222"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42127",
+                "name": "Rocca di Cerere, Enna",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.193007",
+                    "40.426403"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36743",
+                "name": "Roccadaspide",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.56135",
+                    "41.60048"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26468",
+                "name": "Roccaspromonte, Castropignano",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.94761",
+                    "40.69114"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36744",
+                "name": "Rossano, Vaglio Basilicata",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.679287",
+                    "40.718153"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36745",
+                "name": "Ruoti",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.524306",
+                    "41.857844"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Ceres et Faustina",
+                "country": "IT",
+                "id": "22917",
+                "name": "S. Urbano, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.74649",
+                    "40.39146"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Zeus Aglaios",
+                "country": "IT",
+                "id": "36874",
+                "name": "San Biagio, Bernalda",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.90019",
+                    "43.44468"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22289",
+                "name": "San Cornelio, Arezzo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.75547",
+                    "41.598459"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26477",
+                "name": "San Giovanni in Galdo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.56192",
+                    "41.84293"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36732",
+                "name": "San Giovanni Lipioni",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.4531",
+                    "39.91964"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37087",
+                "name": "San Salvatore di Cabras",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.7157013",
+                    "41.8871064"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "44546",
+                "name": "Sanctuary of Juno Gabina",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.29334",
+                    "42.1492"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37149",
+                "name": "Sant'Anatolia, Borgorose",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.260515",
+                    "41.118294"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Diana Tifatina",
+                "country": "IT",
+                "id": "22559",
+                "name": "Sant'Angelo in Formis, Capua",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.70184",
+                    "41.49798"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42336",
+                "name": "Santa Maria della Libera, Aquino",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "10.907233",
+                    "45.560038"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26451",
+                "name": "Santa Maria di Valverde, Marano di Valpolicella",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.4602025",
+                    "41.8585531"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22923",
+                "name": "Santa Passera, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.93468",
+                    "42.08845"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "*Hercules Curinus",
+                "country": "IT",
+                "id": "22896",
+                "name": "Santuario di Ercole Curino, Badia, Sulmona",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.792339",
+                    "41.963261"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42207",
+                "name": "Santuario di Ercole Vincitore, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.20028",
+                    "41.31056"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Lucus Feroniae",
+                "country": "IT",
+                "id": "22184",
+                "name": "Santuario di Feronia, Terracina",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "10.284884",
+                    "45.954277"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42310",
+                "name": "Santuario di Minerva, Spinera, Breno",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.882722",
+                    "41.901717"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26582",
+                "name": "Scanno",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.574719",
+                    "46.510876"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26500",
+                "name": "Sciliar",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.05109",
+                    "42.672871"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42291",
+                "name": "Scoglietto, Alberese, Grosseto",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.520874",
+                    "41.852172"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Sep. Caecilia Metella",
+                "country": "IT",
+                "id": "22918",
+                "name": "Sep. Caecilia Metella, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.81695",
+                    "40.416189"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Hera",
+                "country": "IT",
+                "id": "21308",
+                "name": "Tavole Palatine, Bernalda",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.756672",
+                    "42.842367"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Fons Clitumni",
+                "country": "IT",
+                "id": "26490",
+                "name": "Tempieto del Clituno, Pissignano",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.86072",
+                    "40.48003"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42160",
+                "name": "Tempietto Santu Misirinu, San Donaci",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.59614",
+                    "38.80706"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42665",
+                "name": "Tempio antico, Roccelletta",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8253225",
+                    "37.5832614"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42356",
+                "name": "Tempio C, Selinunte",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.892478",
+                    "41.840411"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23819",
+                "name": "Tempio Dea Fortuna, Palestrina",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.581537",
+                    "37.291611"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42361",
+                "name": "Tempio dei Dioscuri, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.1198882",
+                    "42.7225286"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25497",
+                "name": "Tempio del Belvedere",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.592024",
+                    "37.289649"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42362",
+                "name": "Tempio della Concordia, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8008612",
+                    "41.9667957"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42210",
+                "name": "Tempio della Sibilla, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.789358",
+                    "41.962892"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42208",
+                "name": "Tempio della Tosse, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.78979",
+                    "41.96284"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42639",
+                "name": "Tempio della Tosse, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.82384",
+                    "37.97398"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42350",
+                "name": "Tempio della Vittoria, Himera",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "16.2385225",
+                    "38.2111392"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42583",
+                "name": "Tempio di Afrodite, Locri",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.500204",
+                    "39.393998"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Sardus Pater",
+                "country": "IT",
+                "id": "37088",
+                "name": "Tempio di Antas, Fluminimaggiore",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.1466034",
+                    "39.3965426"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Apollo Alaeus",
+                "country": "IT",
+                "id": "36875",
+                "name": "Tempio di Apollo Aleo, Punta Alice",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.082209",
+                    "40.839336"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41885",
+                "name": "Tempio di Apollo, Averno, Pozzuoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.2927699",
+                    "37.0639214"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26492",
+                "name": "Tempio di Apollo, Ortigia, Siracusa",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.2591007",
+                    "37.0620197"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42130",
+                "name": "Tempio di Atena, Gela",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.0054",
+                    "40.4245"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45707",
+                "name": "Tempio di Atena, Paestum",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.29382",
+                    "37.05963"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42355",
+                "name": "Tempio di Atena, Siracusa",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.12056",
+                    "40.82134"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42339",
+                "name": "Tempio di Augusto, Pozzuoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.578637",
+                    "37.292793"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42359",
+                "name": "Tempio di Efesto, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.005556",
+                    "40.42"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45706",
+                "name": "Tempio di Era I, Paestum",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.0054",
+                    "40.4199"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "45705",
+                "name": "Tempio di Era II - di Nettuno, Paestum",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.58611",
+                    "37.29028"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25127",
+                "name": "Tempio di Ercole, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.915671",
+                    "41.64255"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25108",
+                "name": "Tempio di Ercole, Cori",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.589656",
+                    "37.282414"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42360",
+                "name": "Tempio di Esculapio, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.562722",
+                    "41.305756"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42265",
+                "name": "Tempio di Flora, Cerreto Sannita",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.25985",
+                    "41.29157"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42343",
+                "name": "Tempio di Giove Anxur, Terracina",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.7045",
+                    "43.4619"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "38879",
+                "name": "Tempio di Giove Appennino, Frontone",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.94209",
+                    "40.121441"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "41634",
+                "name": "Tempio di Giove, Bidon\u00ec",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.286544",
+                    "42.4109"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42290",
+                "name": "Tempio di Giove, Cosa",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.051363",
+                    "40.849414"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42938",
+                "name": "Tempio di Giove, Cuma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.2569807",
+                    "37.0517033"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Olympieion",
+                "country": "IT",
+                "id": "26493",
+                "name": "Tempio di Giove, Siracusa",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.6001477",
+                    "37.2885632"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42363",
+                "name": "Tempio di Giunone, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8344372",
+                    "37.5867781"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42133",
+                "name": "Tempio di Hera (E), Selinunte",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "11.258083",
+                    "43.769375"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42331",
+                "name": "Tempio di Iside, Firenze",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.7551881",
+                    "41.5132982"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42575",
+                "name": "Tempio di Mater Matuta, Le Ferriere",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.614722",
+                    "43.071389"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42242",
+                "name": "Tempio di Minerva, Assisi",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.480883",
+                    "41.889232"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22924",
+                "name": "Tempio di Portuno",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.23427",
+                    "40.47357"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42667",
+                "name": "Tempio di Poseidone, Taranto",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8009296",
+                    "41.9666214"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42209",
+                "name": "Tempio di Vesta, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.5842133",
+                    "37.2908284"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "25126",
+                "name": "Tempio di Zeus Olimpio, Agrigento",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.83203",
+                    "37.94152"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42349",
+                "name": "Tempio Dorico, Calatafimi-Segesta",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.23301",
+                    "40.47379"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42668",
+                "name": "Tempio dorico, Taranto",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8345377",
+                    "37.5874413"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42357",
+                "name": "Tempio F, Selinunte",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.8343698",
+                    "37.5883394"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42358",
+                "name": "Tempio G, Selinunte",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.6986417",
+                    "41.6811556"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42578",
+                "name": "Tempio romano, Lanuvio",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "8.45288",
+                    "39.071279"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42659",
+                "name": "Tempio romano, Sant'Antioco",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.49066",
+                    "37.43876"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "42365",
+                "name": "Tempio, Serra Orlando",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.90456",
+                    "40.70406"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Apollo et Nymphae Nitrodes",
+                "country": "IT",
+                "id": "36724",
+                "name": "Terme di Cavascura, Serrara Fontana",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.6646233",
+                    "41.723453"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22225",
+                "name": "Tomba degli Orazi e Curiazi, Ariccia",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.71357",
+                    "41.95177"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37162",
+                "name": "Tomba di Marco Plauzio Lucano, Tivoli",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.442521",
+                    "41.965501"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37163",
+                "name": "Tomba di Nerone, Roma",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.680493",
+                    "41.974435"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "37164",
+                "name": "Torraccia dell\u2019Inviolata",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "15.00138",
+                    "37.73783"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36862",
+                "name": "Torre del Filosofo, Nicolosi",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.65761",
+                    "41.49409"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26599",
+                "name": "Torre del Monumento, Nettuno",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.70544",
+                    "41.55546"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26598",
+                "name": "Torre di Padiglione, Aprilia",
+                "numType": "61",
+                "precision": 200,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.481075",
+                    "41.806749"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "22898",
+                "name": "Torre, Taverna, Schiavi di Abruzzo",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "17.49911",
+                    "40.3542"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36873",
+                "name": "Torricella",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.473943",
+                    "41.654245"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26603",
+                "name": "Tredici Altari",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.164441",
+                    "41.737926"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36626",
+                "name": "Untitled",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.635639",
+                    "42.002816"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36720",
+                "name": "Untitled",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.123769",
+                    "41.705747"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36721",
+                "name": "Untitled",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.13817",
+                    "41.755024"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "36722",
+                "name": "Untitled",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "14.261944",
+                    "41.808056"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "23754",
+                "name": "Vastogirardi, Capracotta",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.6547804",
+                    "41.7302569"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "Pompeo",
+                "country": "IT",
+                "id": "22226",
+                "name": "Villa di Pompeo, Albano Laziale",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.05638",
+                    "42.64935"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26561",
+                "name": "Villa San Silvestro, Cascia",
+                "numType": "61",
+                "precision": 20,
+                "type": "temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "13.817603",
+                    "42.128128"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ancient": "",
+                "country": "IT",
+                "id": "26575",
+                "name": "Vittorito",
+                "numType": "61",
+                "precision": 2000,
+                "type": "temple"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
