@@ -1,0 +1,53 @@
+﻿ID	Type	Description
+5	villa
+11	city	Major settlement (capital, colonia, municipium)
+12	town	Settlement (civitas, vicus, other settlement)
+13	civitas	Civitas capital (Late Roman Gallia)
+14	villa	Villa
+15	camp
+16	station	Road or coastal station
+17	fortress	Major fort (legionary fortress)
+18	fort	Fort (castrum, castellum)
+19	oasis	Oasis
+20	well
+21	monastery	Monastery
+24	church	Church
+31	Iron-Age oppidum	Iron Age (Celtic) Oppidum
+32	tumulus	Tumulus
+33	NA
+34	settlement
+35	Late-Roman oppidum	Late Roman Oppidum
+40	lake
+41	river
+43	rapid
+44	NA
+46	mountain
+47	island
+49	pass	Pass
+50	cape
+51	bridge	Bridge
+52	aqueduct/dam/cistern/spring	Aqueduct/dam/cistern/spring
+53	fortlet\tower	Fortlet, tower
+54	wall
+55	road/milestone	Road/milestone
+56	port
+57	mine/quarry	Mine, quarry or production
+58	production
+59	amphitheatre
+60	theatre
+61	temple	Sanctuary or temple
+63	necropolis	Cemetery
+64	monument	Monument
+65	forum
+66	both	Bath
+67	basilica
+68	urban quarter
+69	circus
+70	stadium
+71	odeon
+72	bouleuterion
+74	building
+76	lighthouse
+77	canal
+98	archaeological site
+99	ruins
