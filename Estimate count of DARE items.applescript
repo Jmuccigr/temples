@@ -13,10 +13,10 @@ repeat with i from 1 to 128
 	-- Counting bytes since the returned values are all in one line.
 	-- Subtracting 42 because that's how big a "0 results" value is.
 	-- Dividing by 400 as a quick guess at how big the average entry is. Should be order-of-magnitude OK.
-	set listCount to listCount & i & tab & (round (((do shell script cmd & "| wc -c") - 42) / 400)) & (ASCII character 10)
+	set itemCount to round (((do shell script cmd & "| wc -c") - 42) / 400)
+	-- Only add ID to list if it's represented in the data.
+	if itemCount > 0 then set listCount to listCount & i & tab & itemCount & (ASCII character 10)
 end repeat
-
-set the clipboard to listCount as string
 
 do shell script "echo '" & listCount & "' > " & myGitfile
 
