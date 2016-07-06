@@ -1,3 +1,1890 @@
-{"type": "FeatureCollection","features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890278","12.478333"]},"properties":{"name":"Aesculapius"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Apollo Palatinus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892288","12.479697"]},"properties":{"name":"Apollo Sosianus/Medicus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.895355","12.476908"]},"properties":{"name":"Area Sacra del Largo Argentina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890617","12.481258"]},"properties":{"name":"Area sacra di San Omobono"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8924","12.4799"]},"properties":{"name":"Bellona"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.880581","12.48979"]},"properties":{"name":"Bona Dea"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8925778","12.4822154"]},"properties":{"name":"Capitolium"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Castor and Pollux"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891773","12.485755"]},"properties":{"name":"Castor and Pollux"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.857844","12.524306"]},"properties":{"name":"Ceres et Faustina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.862522","12.533184"]},"properties":{"name":"Cessati Spiriti"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.887594","12.493367"]},"properties":{"name":"Claudius "}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.89293","12.484245"]},"properties":{"name":"Concord"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889736","12.485042"]},"properties":{"name":"Cybele"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.959271","12.447668"]},"properties":{"name":"DARMC location 20632"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.852196","12.520981"]},"properties":{"name":"DARMC location 20654"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.83614","12.44195"]},"properties":{"name":"Dea Dia"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892139","12.486689"]},"properties":{"name":"Divus Antoninus and Diva Faustina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891616","12.484471"]},"properties":{"name":"Divus Augustus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Divus Hadrianus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.89209","12.48598"]},"properties":{"name":"Divus Iulius (Temple of Caesar)"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891943","12.486246"]},"properties":{"name":"Divus Julius"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891846","12.487166"]},"properties":{"name":"Divus Romulus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Divus Traianus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889603","12.488894"]},"properties":{"name":"Elagabal"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.895163","12.476723"]},"properties":{"name":"Feronia"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8914","12.4812"]},"properties":{"name":"Fides"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Flora"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Flora"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Fontus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889232","12.480883"]},"properties":{"name":"Fortis Fortuna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Fortuna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Fortuna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.843745","12.555806"]},"properties":{"name":"Fortuna Muliebris"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892222","12.481667"]},"properties":{"name":"GeoHack location of Temple of Jupiter Optimus Maximus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.899944","12.479404"]},"properties":{"name":"Hadrian"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Hercules Magnus Custos"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Hercules Victor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Hercules Victor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.888763","12.480748"]},"properties":{"name":"Hercules Victor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Hercules Victor/Invictus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.994283","12.492366"]},"properties":{"name":"Il Torraccio"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.897221","12.479167"]},"properties":{"name":"Isis"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.897778","12.479167"]},"properties":{"name":"Isis/Serapis"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.840026","12.536854"]},"properties":{"name":"Iuppiter?"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891111","12.479937"]},"properties":{"name":"Janus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.894862","12.476906"]},"properties":{"name":"Juno Curritis"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Juno Lucina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.88444","12.47972 N"]},"properties":{"name":"Juno Regina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["31.777972","35.235806"]},"properties":{"name":"Jupiter"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["33.510833","36.300833"]},"properties":{"name":"Jupiter"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["33.966667","36.666667"]},"properties":{"name":"Jupiter"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["34.006839","36.204425"]},"properties":{"name":"Jupiter"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Anxur"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892222","12.381667"]},"properties":{"name":"Jupiter Capitolinus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Conservator"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891825","12.481892"]},"properties":{"name":"Jupiter Custos"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Dolichenus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Feretrius"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["?","?"]},"properties":{"name":"Jupiter Heliopolitanus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Invictus "}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Libertas"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892222","12.381667"]},"properties":{"name":"Jupiter Optimus Maximus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892174","12.481689"]},"properties":{"name":"Jupiter Optimus Maximus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Patulaeius"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["40.7499","14.4845"]},"properties":{"name":"Jupiter Pompeii"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Sospita"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.893128","12.479497"]},"properties":{"name":"Jupiter Stator"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Tonans"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Jupiter Victor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["33.112906","35.531175"]},"properties":{"name":"Jupiter/Baalshamin"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.895407","12.47686"]},"properties":{"name":"Juturna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Lares"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8923136","12.4795912"]},"properties":{"name":"location of Apollo, Aedes"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.865272","12.549292"]},"properties":{"name":"location of Monte del Grano"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8907711","12.4807872"]},"properties":{"name":"location of Sacred Area of S. Omobono"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8887057","12.4806393"]},"properties":{"name":"location of Temple of Hercules Victor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8938379","12.5117027"]},"properties":{"name":"location of Temple of Minerva Medica"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8988143","12.4768418"]},"properties":{"name":"location of the Pantheon"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Luna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889444","12.485 E "]},"properties":{"name":"Magna Mater"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Mars"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Mars"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.894444","12.486944"]},"properties":{"name":"Mars Ultor"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890556","12.480833"]},"properties":{"name":"Mater Matuta"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.899964","12.478081"]},"properties":{"name":"Matidia"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8550631","12.5181785"]},"properties":{"name":"Mausoleo di Romolo, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Minerva "}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.893845","12.511867"]},"properties":{"name":"Minerva Medica"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.902964","12.4891"]},"properties":{"name":"Mitreo Barberini, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.89981","12.485662"]},"properties":{"name":"Mitreo d'Orazio Muti, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.89291","12.482628"]},"properties":{"name":"Mitreo del Campidoglio «lo Perso»"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.888114","12.482856"]},"properties":{"name":"Mitreo del Circo Massimo, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.894894","12.501063"]},"properties":{"name":"Mitreo dell'Esquilino, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.898252","12.47858"]},"properties":{"name":"Mitreo della Cripta di Balbo, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.879922","12.493118"]},"properties":{"name":"Mitreo delle Terme di Caracalla, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889675","12.497281"]},"properties":{"name":"Mitreo di San Clemente, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.883213","12.483655"]},"properties":{"name":"Mitreo di Santa Prisca, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.884655","12.496744"]},"properties":{"name":"Mitreo di Santo Stefano Rotondo, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Neptune"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8279699","12.5480362"]},"properties":{"name":"Ninfeo Villa dei Quintili, Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.885632","12.488719"]},"properties":{"name":"Nymphaeum Septizodium"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.897237","12.473672"]},"properties":{"name":"Odeum"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8951723","12.4772404"]},"properties":{"name":"Sacra di Largo di Torre Argentina"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8955776","12.4769664"]},"properties":{"name":"OSM location of so-called \"Temple A\""}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8954071","12.4769134"]},"properties":{"name":"OSM location of so-called \"Temple B\""}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8952077","12.4766288"]},"properties":{"name":"OSM location of so-called \"Temple C\""}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.894948","12.4767898"]},"properties":{"name":"OSM location of so-called \"Temple D\""}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.89856","12.47685"]},"properties":{"name":"Pantheon"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Penates"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Portunus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889267","12.480874"]},"properties":{"name":"Portunus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Quirinus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.959271","12.447668"]},"properties":{"name":"Robigo"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.934898","12.50449"]},"properties":{"name":"Rome, Asclepius temple"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889366","12.497556"]},"properties":{"name":"Rome, S. Clemente, mithraeum"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Salus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892666","12.484187"]},"properties":{"name":"Saturn"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.852172","12.520874"]},"properties":{"name":"Sep. Caecilia Metella"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Sol"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Sol et Luna"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891111","12.48"]},"properties":{"name":"Spes"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Summanus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Sybil"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Tellus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Tempestates"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.889232","12.480883"]},"properties":{"name":"Tempio di Portuno"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890049","12.501237"]},"properties":{"name":"Temple of Isis at via Labicana"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891174","12.480174"]},"properties":{"name":"Temples Forum Holitorium"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Tiberinus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892776","12.483611"]},"properties":{"name":"Veiovis"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890812","12.490168"]},"properties":{"name":"Venus and Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.890833","12.489722"]},"properties":{"name":"Venus and Roma"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.8942","12.4848"]},"properties":{"name":"Venus Genetrix"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Venus Qbsequens"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.895","12.474"]},"properties":{"name":"Venus Victrix"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.892876","12.484081"]},"properties":{"name":"Vespasian and Titus"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.891792","12.486141"]},"properties":{"name":"Vesta"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Vesta"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["41.9667","12.8009"]},"properties":{"name":"Vesta"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Vica Pota"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Victoria"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Volcanus "}},{"type":"Feature","geometry":{"type":"Point","coordinates":["",""]},"properties":{"name":"Vortumnus"}}
-]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890278",
+          "12.478333"
+        ]
+      },
+      "properties": {
+        "name": "Aesculapius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Apollo Palatinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892288",
+          "12.479697"
+        ]
+      },
+      "properties": {
+        "name": "Apollo Sosianus/Medicus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.895355",
+          "12.476908"
+        ]
+      },
+      "properties": {
+        "name": "Area Sacra del Largo Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890617",
+          "12.481258"
+        ]
+      },
+      "properties": {
+        "name": "Area sacra di San Omobono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8924",
+          "12.4799"
+        ]
+      },
+      "properties": {
+        "name": "Bellona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.880581",
+          "12.48979"
+        ]
+      },
+      "properties": {
+        "name": "Bona Dea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8925778",
+          "12.4822154"
+        ]
+      },
+      "properties": {
+        "name": "Capitolium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Castor and Pollux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891773",
+          "12.485755"
+        ]
+      },
+      "properties": {
+        "name": "Castor and Pollux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.857844",
+          "12.524306"
+        ]
+      },
+      "properties": {
+        "name": "Ceres et Faustina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.862522",
+          "12.533184"
+        ]
+      },
+      "properties": {
+        "name": "Cessati Spiriti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.887594",
+          "12.493367"
+        ]
+      },
+      "properties": {
+        "name": "Claudius "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.89293",
+          "12.484245"
+        ]
+      },
+      "properties": {
+        "name": "Concord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889736",
+          "12.485042"
+        ]
+      },
+      "properties": {
+        "name": "Cybele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.959271",
+          "12.447668"
+        ]
+      },
+      "properties": {
+        "name": "DARMC location 20632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.852196",
+          "12.520981"
+        ]
+      },
+      "properties": {
+        "name": "DARMC location 20654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.83614",
+          "12.44195"
+        ]
+      },
+      "properties": {
+        "name": "Dea Dia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892139",
+          "12.486689"
+        ]
+      },
+      "properties": {
+        "name": "Divus Antoninus and Diva Faustina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891616",
+          "12.484471"
+        ]
+      },
+      "properties": {
+        "name": "Divus Augustus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Divus Hadrianus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.89209",
+          "12.48598"
+        ]
+      },
+      "properties": {
+        "name": "Divus Iulius (Temple of Caesar)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891943",
+          "12.486246"
+        ]
+      },
+      "properties": {
+        "name": "Divus Julius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891846",
+          "12.487166"
+        ]
+      },
+      "properties": {
+        "name": "Divus Romulus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Divus Traianus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889603",
+          "12.488894"
+        ]
+      },
+      "properties": {
+        "name": "Elagabal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.895163",
+          "12.476723"
+        ]
+      },
+      "properties": {
+        "name": "Feronia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8914",
+          "12.4812"
+        ]
+      },
+      "properties": {
+        "name": "Fides"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Flora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Flora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Fontus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889232",
+          "12.480883"
+        ]
+      },
+      "properties": {
+        "name": "Fortis Fortuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Fortuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Fortuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.843745",
+          "12.555806"
+        ]
+      },
+      "properties": {
+        "name": "Fortuna Muliebris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892222",
+          "12.481667"
+        ]
+      },
+      "properties": {
+        "name": "GeoHack location of Temple of Jupiter Optimus Maximus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.899944",
+          "12.479404"
+        ]
+      },
+      "properties": {
+        "name": "Hadrian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Hercules Magnus Custos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Hercules Victor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Hercules Victor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.888763",
+          "12.480748"
+        ]
+      },
+      "properties": {
+        "name": "Hercules Victor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Hercules Victor/Invictus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.994283",
+          "12.492366"
+        ]
+      },
+      "properties": {
+        "name": "Il Torraccio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.897221",
+          "12.479167"
+        ]
+      },
+      "properties": {
+        "name": "Isis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.897778",
+          "12.479167"
+        ]
+      },
+      "properties": {
+        "name": "Isis/Serapis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.840026",
+          "12.536854"
+        ]
+      },
+      "properties": {
+        "name": "Iuppiter?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891111",
+          "12.479937"
+        ]
+      },
+      "properties": {
+        "name": "Janus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.894862",
+          "12.476906"
+        ]
+      },
+      "properties": {
+        "name": "Juno Curritis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Juno Lucina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.88444",
+          "12.47972 N"
+        ]
+      },
+      "properties": {
+        "name": "Juno Regina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "31.777972",
+          "35.235806"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "33.510833",
+          "36.300833"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "33.966667",
+          "36.666667"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "34.006839",
+          "36.204425"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Anxur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892222",
+          "12.381667"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Capitolinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Conservator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891825",
+          "12.481892"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Custos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Dolichenus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Feretrius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "?",
+          "?"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Heliopolitanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Invictus "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Libertas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892222",
+          "12.381667"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Optimus Maximus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892174",
+          "12.481689"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Optimus Maximus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Patulaeius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "40.7499",
+          "14.4845"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Pompeii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Sospita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.893128",
+          "12.479497"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Stator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Tonans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Victor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "33.112906",
+          "35.531175"
+        ]
+      },
+      "properties": {
+        "name": "Jupiter/Baalshamin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.895407",
+          "12.47686"
+        ]
+      },
+      "properties": {
+        "name": "Juturna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Lares"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8923136",
+          "12.4795912"
+        ]
+      },
+      "properties": {
+        "name": "location of Apollo, Aedes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.865272",
+          "12.549292"
+        ]
+      },
+      "properties": {
+        "name": "location of Monte del Grano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8907711",
+          "12.4807872"
+        ]
+      },
+      "properties": {
+        "name": "location of Sacred Area of S. Omobono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8887057",
+          "12.4806393"
+        ]
+      },
+      "properties": {
+        "name": "location of Temple of Hercules Victor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8938379",
+          "12.5117027"
+        ]
+      },
+      "properties": {
+        "name": "location of Temple of Minerva Medica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8988143",
+          "12.4768418"
+        ]
+      },
+      "properties": {
+        "name": "location of the Pantheon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Luna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889444",
+          "12.485 E "
+        ]
+      },
+      "properties": {
+        "name": "Magna Mater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Mars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Mars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.894444",
+          "12.486944"
+        ]
+      },
+      "properties": {
+        "name": "Mars Ultor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890556",
+          "12.480833"
+        ]
+      },
+      "properties": {
+        "name": "Mater Matuta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.899964",
+          "12.478081"
+        ]
+      },
+      "properties": {
+        "name": "Matidia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8550631",
+          "12.5181785"
+        ]
+      },
+      "properties": {
+        "name": "Mausoleo di Romolo, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Minerva "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.893845",
+          "12.511867"
+        ]
+      },
+      "properties": {
+        "name": "Minerva Medica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.902964",
+          "12.4891"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo Barberini, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.89981",
+          "12.485662"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo d'Orazio Muti, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.89291",
+          "12.482628"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo del Campidoglio «lo Perso»"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.888114",
+          "12.482856"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo del Circo Massimo, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.894894",
+          "12.501063"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo dell'Esquilino, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.898252",
+          "12.47858"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo della Cripta di Balbo, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.879922",
+          "12.493118"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo delle Terme di Caracalla, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889675",
+          "12.497281"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo di San Clemente, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.883213",
+          "12.483655"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo di Santa Prisca, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.884655",
+          "12.496744"
+        ]
+      },
+      "properties": {
+        "name": "Mitreo di Santo Stefano Rotondo, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Neptune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8279699",
+          "12.5480362"
+        ]
+      },
+      "properties": {
+        "name": "Ninfeo Villa dei Quintili, Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.885632",
+          "12.488719"
+        ]
+      },
+      "properties": {
+        "name": "Nymphaeum Septizodium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.897237",
+          "12.473672"
+        ]
+      },
+      "properties": {
+        "name": "Odeum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8951723",
+          "12.4772404"
+        ]
+      },
+      "properties": {
+        "name": "Sacra di Largo di Torre Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8955776",
+          "12.4769664"
+        ]
+      },
+      "properties": {
+        "name": "OSM location of so-called \"Temple A\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8954071",
+          "12.4769134"
+        ]
+      },
+      "properties": {
+        "name": "OSM location of so-called \"Temple B\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8952077",
+          "12.4766288"
+        ]
+      },
+      "properties": {
+        "name": "OSM location of so-called \"Temple C\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.894948",
+          "12.4767898"
+        ]
+      },
+      "properties": {
+        "name": "OSM location of so-called \"Temple D\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.89856",
+          "12.47685"
+        ]
+      },
+      "properties": {
+        "name": "Pantheon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Penates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Portunus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889267",
+          "12.480874"
+        ]
+      },
+      "properties": {
+        "name": "Portunus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Quirinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.959271",
+          "12.447668"
+        ]
+      },
+      "properties": {
+        "name": "Robigo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.934898",
+          "12.50449"
+        ]
+      },
+      "properties": {
+        "name": "Rome, Asclepius temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889366",
+          "12.497556"
+        ]
+      },
+      "properties": {
+        "name": "Rome, S. Clemente, mithraeum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Salus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892666",
+          "12.484187"
+        ]
+      },
+      "properties": {
+        "name": "Saturn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.852172",
+          "12.520874"
+        ]
+      },
+      "properties": {
+        "name": "Sep. Caecilia Metella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Sol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Sol et Luna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891111",
+          "12.48"
+        ]
+      },
+      "properties": {
+        "name": "Spes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Summanus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Sybil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Tellus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Tempestates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.889232",
+          "12.480883"
+        ]
+      },
+      "properties": {
+        "name": "Tempio di Portuno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890049",
+          "12.501237"
+        ]
+      },
+      "properties": {
+        "name": "Temple of Isis at via Labicana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891174",
+          "12.480174"
+        ]
+      },
+      "properties": {
+        "name": "Temples Forum Holitorium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Tiberinus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892776",
+          "12.483611"
+        ]
+      },
+      "properties": {
+        "name": "Veiovis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890812",
+          "12.490168"
+        ]
+      },
+      "properties": {
+        "name": "Venus and Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.890833",
+          "12.489722"
+        ]
+      },
+      "properties": {
+        "name": "Venus and Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.8942",
+          "12.4848"
+        ]
+      },
+      "properties": {
+        "name": "Venus Genetrix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Venus Qbsequens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.895",
+          "12.474"
+        ]
+      },
+      "properties": {
+        "name": "Venus Victrix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.892876",
+          "12.484081"
+        ]
+      },
+      "properties": {
+        "name": "Vespasian and Titus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.891792",
+          "12.486141"
+        ]
+      },
+      "properties": {
+        "name": "Vesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Vesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "41.9667",
+          "12.8009"
+        ]
+      },
+      "properties": {
+        "name": "Vesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Vica Pota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Volcanus "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      },
+      "properties": {
+        "name": "Vortumnus"
+      }
+    }
+  ]
+}
