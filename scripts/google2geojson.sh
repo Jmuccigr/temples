@@ -2,6 +2,8 @@
 
 # Converts a Google spreadsheet to geojson
 
+destFolder='/Users/john_muccigrosso/Documents/github/local/temples/'
+
 # Get the spreadsheet feed in json format
 g_json=`curl -s -stdout 'https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values?alt=json'`
 # Clean it up a bit
@@ -21,4 +23,4 @@ output="$output $g_json"
 output="$output  ]}"
 
 # Create output file with prettfied data
-echo $output | jq '.' > json_test.json
+echo $output | jq '.' > "$destFolder""json_test.json"
