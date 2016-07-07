@@ -62,4 +62,10 @@ I downloaded all the items with a type of "temple" (type id 61) using `curl -s -
 
 ### Location, location, location
 
-To help prioritize our own work on these various items, I used Google's API to find the modern countries all the items belong to, based on their coordinates (except for DARE, which provides country data via the API). Again, another Applescript using the API as documented in the much upvoted first comment here: <http://stackoverflow.com/questions/6159074/given-the-lat-long-coordinates-how-can-we-find-out-the-city-country>.
+To help prioritize our own work on these various items, I used Google's API to find the modern countries and cities (localities) all the items belong to, based on their coordinates (except for DARE, which provides country data via the API). Again, another Applescript using the API as documented in the much upvoted first comment here: <http://stackoverflow.com/questions/6159074/given-the-lat-long-coordinates-how-can-we-find-out-the-city-country>.
+
+### Moving them into our database
+
+1. Copied 26 vici.org sites that are in Rome into our Google doc. None had a Pleiades or DARE ID.
+1. Copied 17 Pleiades sites that are in Rome into our Google doc. None had a Pleiades or DARE ID.
+1. Copied 22 DARE sites that are in Rome into our Google doc. 9 had a Pleiades ID.
