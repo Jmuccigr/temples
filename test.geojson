@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890278",
-          "12.478333"
+          12.478333,
+          41.890278
         ]
       },
       "properties": {
@@ -19,21 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Apollo Palatinus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.892288",
-          "12.479697"
+          12.479697,
+          41.892288
         ]
       },
       "properties": {
@@ -45,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.895355",
-          "12.476908"
+          12.476908,
+          41.895355
         ]
       },
       "properties": {
@@ -58,8 +45,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890617",
-          "12.481258"
+          12.481258,
+          41.890617
         ]
       },
       "properties": {
@@ -71,8 +58,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8924",
-          "12.4799"
+          12.4799,
+          41.8924
         ]
       },
       "properties": {
@@ -84,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.880581",
-          "12.48979"
+          12.48979,
+          41.880581
         ]
       },
       "properties": {
@@ -97,8 +84,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8925778",
-          "12.4822154"
+          12.4822154,
+          41.8925778
         ]
       },
       "properties": {
@@ -110,8 +97,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.485755,
+          41.891773
         ]
       },
       "properties": {
@@ -123,21 +110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891773",
-          "12.485755"
-        ]
-      },
-      "properties": {
-        "name": "Castor and Pollux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.857844",
-          "12.524306"
+          12.524306,
+          41.857844
         ]
       },
       "properties": {
@@ -149,8 +123,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.862522",
-          "12.533184"
+          12.533184,
+          41.862522
         ]
       },
       "properties": {
@@ -162,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.887594",
-          "12.493367"
+          12.493367,
+          41.887594
         ]
       },
       "properties": {
@@ -175,8 +149,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.89293",
-          "12.484245"
+          12.484245,
+          41.89293
         ]
       },
       "properties": {
@@ -188,8 +162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.889736",
-          "12.485042"
+          12.485042,
+          41.889736
         ]
       },
       "properties": {
@@ -201,8 +175,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.959271",
-          "12.447668"
+          12.447668,
+          41.959271
         ]
       },
       "properties": {
@@ -214,8 +188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.852196",
-          "12.520981"
+          12.520981,
+          41.852196
         ]
       },
       "properties": {
@@ -227,8 +201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.83614",
-          "12.44195"
+          12.44195,
+          41.83614
         ]
       },
       "properties": {
@@ -240,8 +214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.892139",
-          "12.486689"
+          12.486689,
+          41.892139
         ]
       },
       "properties": {
@@ -253,8 +227,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891616",
-          "12.484471"
+          12.484471,
+          41.891616
         ]
       },
       "properties": {
@@ -266,21 +240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Divus Hadrianus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.89209",
-          "12.48598"
+          12.48598,
+          41.89209
         ]
       },
       "properties": {
@@ -292,8 +253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891943",
-          "12.486246"
+          12.486246,
+          41.891943
         ]
       },
       "properties": {
@@ -305,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891846",
-          "12.487166"
+          12.487166,
+          41.891846
         ]
       },
       "properties": {
@@ -318,21 +279,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Divus Traianus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.889603",
-          "12.488894"
+          12.488894,
+          41.889603
         ]
       },
       "properties": {
@@ -344,8 +292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.895163",
-          "12.476723"
+          12.476723,
+          41.895163
         ]
       },
       "properties": {
@@ -357,8 +305,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8914",
-          "12.4812"
+          12.4812,
+          41.8914
         ]
       },
       "properties": {
@@ -370,47 +318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Flora"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Flora"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Fontus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.889232",
-          "12.480883"
+          12.480883,
+          41.889232
         ]
       },
       "properties": {
@@ -422,34 +331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Fortuna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Fortuna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.843745",
-          "12.555806"
+          12.555806,
+          41.843745
         ]
       },
       "properties": {
@@ -461,8 +344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.892222",
-          "12.481667"
+          12.481667,
+          41.892222
         ]
       },
       "properties": {
@@ -474,8 +357,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.899944",
-          "12.479404"
+          12.479404,
+          41.899944
         ]
       },
       "properties": {
@@ -487,21 +370,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Hercules Magnus Custos"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
+          12.480748,
+          41.888763
         ]
       },
       "properties": {
@@ -513,47 +383,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Hercules Victor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.888763",
-          "12.480748"
-        ]
-      },
-      "properties": {
-        "name": "Hercules Victor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Hercules Victor/Invictus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.994283",
-          "12.492366"
+          12.492366,
+          41.994283
         ]
       },
       "properties": {
@@ -565,8 +396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.897221",
-          "12.479167"
+          12.479167,
+          41.897221
         ]
       },
       "properties": {
@@ -578,8 +409,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.897778",
-          "12.479167"
+          12.479167,
+          41.897778
         ]
       },
       "properties": {
@@ -591,8 +422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.840026",
-          "12.536854"
+          12.536854,
+          41.840026
         ]
       },
       "properties": {
@@ -604,8 +435,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891111",
-          "12.479937"
+          12.479937,
+          41.891111
         ]
       },
       "properties": {
@@ -617,8 +448,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.894862",
-          "12.476906"
+          12.476906,
+          41.894862
         ]
       },
       "properties": {
@@ -630,34 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Juno Lucina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.88444",
-          "12.47972 N"
-        ]
-      },
-      "properties": {
-        "name": "Juno Regina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "31.777972",
-          "35.235806"
+          35.235806,
+          31.777972
         ]
       },
       "properties": {
@@ -669,8 +474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "33.510833",
-          "36.300833"
+          36.300833,
+          33.510833
         ]
       },
       "properties": {
@@ -682,8 +487,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "33.966667",
-          "36.666667"
+          36.666667,
+          33.966667
         ]
       },
       "properties": {
@@ -695,8 +500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "34.006839",
-          "36.204425"
+          36.204425,
+          34.006839
         ]
       },
       "properties": {
@@ -708,21 +513,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Anxur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.892222",
-          "12.381667"
+          12.381667,
+          41.892222
         ]
       },
       "properties": {
@@ -734,21 +526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Conservator"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.891825",
-          "12.481892"
+          12.481892,
+          41.891825
         ]
       },
       "properties": {
@@ -760,73 +539,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Dolichenus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Feretrius"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "?",
-          "?"
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Heliopolitanus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Invictus "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Libertas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.892222",
-          "12.381667"
+          12.381667,
+          41.892222
         ]
       },
       "properties": {
@@ -838,8 +552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.892174",
-          "12.481689"
+          12.481689,
+          41.892174
         ]
       },
       "properties": {
@@ -851,21 +565,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Patulaeius"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "40.7499",
-          "14.4845"
+          14.4845,
+          40.7499
         ]
       },
       "properties": {
@@ -877,21 +578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Sospita"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.893128",
-          "12.479497"
+          12.479497,
+          41.893128
         ]
       },
       "properties": {
@@ -903,34 +591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Tonans"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Victor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "33.112906",
-          "35.531175"
+          35.531175,
+          33.112906
         ]
       },
       "properties": {
@@ -942,8 +604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.895407",
-          "12.47686"
+          12.47686,
+          41.895407
         ]
       },
       "properties": {
@@ -955,21 +617,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Lares"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.8923136",
-          "12.4795912"
+          12.4795912,
+          41.8923136
         ]
       },
       "properties": {
@@ -981,8 +630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.865272",
-          "12.549292"
+          12.549292,
+          41.865272
         ]
       },
       "properties": {
@@ -994,8 +643,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8907711",
-          "12.4807872"
+          12.4807872,
+          41.8907711
         ]
       },
       "properties": {
@@ -1007,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8887057",
-          "12.4806393"
+          12.4806393,
+          41.8887057
         ]
       },
       "properties": {
@@ -1020,8 +669,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8938379",
-          "12.5117027"
+          12.5117027,
+          41.8938379
         ]
       },
       "properties": {
@@ -1033,8 +682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8988143",
-          "12.4768418"
+          12.4768418,
+          41.8988143
         ]
       },
       "properties": {
@@ -1046,60 +695,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Luna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.889444",
-          "12.485 E "
-        ]
-      },
-      "properties": {
-        "name": "Magna Mater"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Mars"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Mars"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.894444",
-          "12.486944"
+          12.486944,
+          41.894444
         ]
       },
       "properties": {
@@ -1111,8 +708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890556",
-          "12.480833"
+          12.480833,
+          41.890556
         ]
       },
       "properties": {
@@ -1124,8 +721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.899964",
-          "12.478081"
+          12.478081,
+          41.899964
         ]
       },
       "properties": {
@@ -1137,8 +734,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8550631",
-          "12.5181785"
+          12.5181785,
+          41.8550631
         ]
       },
       "properties": {
@@ -1150,21 +747,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Minerva "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.893845",
-          "12.511867"
+          12.511867,
+          41.893845
         ]
       },
       "properties": {
@@ -1176,8 +760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.902964",
-          "12.4891"
+          12.4891,
+          41.902964
         ]
       },
       "properties": {
@@ -1189,8 +773,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.89981",
-          "12.485662"
+          12.485662,
+          41.89981
         ]
       },
       "properties": {
@@ -1202,8 +786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.89291",
-          "12.482628"
+          12.482628,
+          41.89291
         ]
       },
       "properties": {
@@ -1215,8 +799,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.888114",
-          "12.482856"
+          12.482856,
+          41.888114
         ]
       },
       "properties": {
@@ -1228,8 +812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.894894",
-          "12.501063"
+          12.501063,
+          41.894894
         ]
       },
       "properties": {
@@ -1241,8 +825,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.898252",
-          "12.47858"
+          12.47858,
+          41.898252
         ]
       },
       "properties": {
@@ -1254,8 +838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.879922",
-          "12.493118"
+          12.493118,
+          41.879922
         ]
       },
       "properties": {
@@ -1267,8 +851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.889675",
-          "12.497281"
+          12.497281,
+          41.889675
         ]
       },
       "properties": {
@@ -1280,8 +864,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.883213",
-          "12.483655"
+          12.483655,
+          41.883213
         ]
       },
       "properties": {
@@ -1293,8 +877,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.884655",
-          "12.496744"
+          12.496744,
+          41.884655
         ]
       },
       "properties": {
@@ -1306,21 +890,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Neptune"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.8279699",
-          "12.5480362"
+          12.5480362,
+          41.8279699
         ]
       },
       "properties": {
@@ -1332,8 +903,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.885632",
-          "12.488719"
+          12.488719,
+          41.885632
         ]
       },
       "properties": {
@@ -1345,8 +916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.897237",
-          "12.473672"
+          12.473672,
+          41.897237
         ]
       },
       "properties": {
@@ -1358,8 +929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8951723",
-          "12.4772404"
+          12.4772404,
+          41.8951723
         ]
       },
       "properties": {
@@ -1371,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8955776",
-          "12.4769664"
+          12.4769664,
+          41.8955776
         ]
       },
       "properties": {
@@ -1384,8 +955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8954071",
-          "12.4769134"
+          12.4769134,
+          41.8954071
         ]
       },
       "properties": {
@@ -1397,8 +968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8952077",
-          "12.4766288"
+          12.4766288,
+          41.8952077
         ]
       },
       "properties": {
@@ -1410,8 +981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.894948",
-          "12.4767898"
+          12.4767898,
+          41.894948
         ]
       },
       "properties": {
@@ -1423,8 +994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.89856",
-          "12.47685"
+          12.47685,
+          41.89856
         ]
       },
       "properties": {
@@ -1436,21 +1007,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Penates"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
+          12.480874,
+          41.889267
         ]
       },
       "properties": {
@@ -1462,34 +1020,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.889267",
-          "12.480874"
-        ]
-      },
-      "properties": {
-        "name": "Portunus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Quirinus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.959271",
-          "12.447668"
+          12.447668,
+          41.959271
         ]
       },
       "properties": {
@@ -1501,8 +1033,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.934898",
-          "12.50449"
+          12.50449,
+          41.934898
         ]
       },
       "properties": {
@@ -1514,8 +1046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.889366",
-          "12.497556"
+          12.497556,
+          41.889366
         ]
       },
       "properties": {
@@ -1527,21 +1059,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Salus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.892666",
-          "12.484187"
+          12.484187,
+          41.892666
         ]
       },
       "properties": {
@@ -1553,8 +1072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.852172",
-          "12.520874"
+          12.520874,
+          41.852172
         ]
       },
       "properties": {
@@ -1566,34 +1085,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Sol"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Sol et Luna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.891111",
-          "12.48"
+          12.48,
+          41.891111
         ]
       },
       "properties": {
@@ -1605,60 +1098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Summanus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Sybil"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Tellus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Tempestates"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.889232",
-          "12.480883"
+          12.480883,
+          41.889232
         ]
       },
       "properties": {
@@ -1670,8 +1111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890049",
-          "12.501237"
+          12.501237,
+          41.890049
         ]
       },
       "properties": {
@@ -1683,8 +1124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891174",
-          "12.480174"
+          12.480174,
+          41.891174
         ]
       },
       "properties": {
@@ -1696,21 +1137,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Tiberinus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.892776",
-          "12.483611"
+          12.483611,
+          41.892776
         ]
       },
       "properties": {
@@ -1722,8 +1150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890812",
-          "12.490168"
+          12.490168,
+          41.890812
         ]
       },
       "properties": {
@@ -1735,8 +1163,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.890833",
-          "12.489722"
+          12.489722,
+          41.890833
         ]
       },
       "properties": {
@@ -1748,8 +1176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.8942",
-          "12.4848"
+          12.4848,
+          41.8942
         ]
       },
       "properties": {
@@ -1761,21 +1189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Venus Qbsequens"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.895",
-          "12.474"
+          12.474,
+          41.895
         ]
       },
       "properties": {
@@ -1787,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.892876",
-          "12.484081"
+          12.484081,
+          41.892876
         ]
       },
       "properties": {
@@ -1800,8 +1215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "41.891792",
-          "12.486141"
+          12.486141,
+          41.891792
         ]
       },
       "properties": {
@@ -1813,77 +1228,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.8009,
+          41.9667
         ]
       },
       "properties": {
         "name": "Vesta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "41.9667",
-          "12.8009"
-        ]
-      },
-      "properties": {
-        "name": "Vesta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Vica Pota"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Victoria"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Volcanus "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      },
-      "properties": {
-        "name": "Vortumnus"
       }
     }
   ]
