@@ -14,3 +14,8 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 ## List of folders
 
 - maps - What it sounds like. Various different maps.
+- scripts - place for project-related scripts
+
+## Scripts
+
+These are so far mostly AppleScripts with some shell commands embedded in them.
