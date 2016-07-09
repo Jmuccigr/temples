@@ -34,4 +34,4 @@ output="$output $g_json"
 output="$output ]}"
 
 # Create output file with prettified data
-echo $output | jq '.' > "/Users/john_muccigrosso/Downloads/temples.json"
+echo $output | jq '.' > "/Users/$me/Downloads/temples.json"
