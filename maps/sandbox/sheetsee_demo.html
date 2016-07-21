@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<title>Sheetsee Maps Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'>
+	</script>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,400italic%7CSource+Code+Pro:400' rel='stylesheet' type='text/css'>
+	<script type='text/javascript' src='/Users/john_muccigrosso/Documents/github/local/sheetsee.js/js/tabletop1.3.4.js'>
+	</script>
+	<script type='text/javascript' src='/Users/john_muccigrosso/Documents/github/local/sheetsee.js/js/sheetsee.js'>
+	</script>
+	<link rel='stylesheet' type='text/css' href='http://api.tiles.mapbox.com/mapbox.js/v1.0.0/mapbox.css' />
+	<style>		#map {max-width: 1000px; height: 500px;}
+		.leaflet-popup-content li {list-style:none;}
+		.leaflet-popup-content {width: 102px;}
+		.leaflet-popup-content img {width: 100px;}
+		a {border: none;}
+	</style>
+</head>
+<body>
+<div class="container">
+	<div id="map">
+	</div>
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function() {
+		  var URL = "1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4"
+		  Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
+		})
+		
+		function showInfo(data) {
+		  var optionsJSON = ["name"]
+		  var template = "<ul><li>{{name}}</li></ul>"
+		  var geoJSON = Sheetsee.createGeoJSON(data, optionsJSON)
+		  var map = Sheetsee.loadMap("map")
+		  Sheetsee.addTileLayer(map, 'jllord.n7aml2bc')
+		  Sheetsee.addMarkerLayer(geoJSON, map, template)
+		}
+		
+		
+	</script>
+</div>
+</body>
+</html>
