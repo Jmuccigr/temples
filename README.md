@@ -13,6 +13,7 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 
 ## List of folders
 
+- downloads - data files from various existing databases (Pleiades, vici.org, DARE)
 - maps - What it sounds like. Various different maps.
 - scripts - place for project-related scripts
 
