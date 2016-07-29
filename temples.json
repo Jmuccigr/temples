@@ -32,12 +32,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.476908,
-          41.895355
+          12.4795912,
+          41.8923136
         ]
       },
       "properties": {
-        "name": "Area Sacra del Largo Argentina"
+        "name": "Apollo, Aedes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4772404,
+          41.8951723
+        ]
+      },
+      "properties": {
+        "name": "Area Sacra di Largo di Torre Argentina"
       }
     },
     {
@@ -50,7 +63,7 @@
         ]
       },
       "properties": {
-        "name": "Area sacra di San Omobono"
+        "name": "Area Sacra di San Omobono"
       }
     },
     {
@@ -115,7 +128,7 @@
         ]
       },
       "properties": {
-        "name": "Ceres et Faustina"
+        "name": "Ceres and Faustina"
       }
     },
     {
@@ -141,7 +154,7 @@
         ]
       },
       "properties": {
-        "name": "Claudius "
+        "name": "Divus Claudius "
       }
     },
     {
@@ -175,38 +188,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.447668,
-          41.959271
-        ]
-      },
-      "properties": {
-        "name": "DARMC location 20632"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.520981,
-          41.852196
-        ]
-      },
-      "properties": {
-        "name": "DARMC location 20654"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.44195,
           41.83614
         ]
       },
       "properties": {
         "name": "Dea Dia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.483194,
+          41.882828
+        ]
+      },
+      "properties": {
+        "name": "Diana"
       }
     },
     {
@@ -240,12 +240,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.48598,
-          41.89209
+          12.479444,
+          41.9
         ]
       },
       "properties": {
-        "name": "Divus Iulius (Temple of Caesar)"
+        "name": "Divus Hadrianus"
       }
     },
     {
@@ -272,6 +272,19 @@
       },
       "properties": {
         "name": "Divus Romulus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4858,
+          41.8956
+        ]
+      },
+      "properties": {
+        "name": "Divus Trajan"
       }
     },
     {
@@ -318,12 +331,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480883,
-          41.889232
+          12.476839,
+          41.895387
         ]
       },
       "properties": {
-        "name": "Fortis Fortuna"
+        "name": "Fortuna"
       }
     },
     {
@@ -344,19 +357,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.481667,
-          41.892222
-        ]
-      },
-      "properties": {
-        "name": "GeoHack location of Temple of Jupiter Optimus Maximus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.479404,
           41.899944
         ]
@@ -370,12 +370,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480748,
-          41.888763
+          12.4806393,
+          41.8887057
         ]
       },
       "properties": {
-        "name": "Hercules Victor"
+        "name": "Hercules Victor/Invictus"
       }
     },
     {
@@ -409,12 +409,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.479167,
-          41.897778
+          12.501237,
+          41.890049
         ]
       },
       "properties": {
-        "name": "Isis/Serapis"
+        "name": "Isis at via Labicana"
       }
     },
     {
@@ -422,12 +422,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.536854,
-          41.840026
+          12.479167,
+          41.897778
         ]
       },
       "properties": {
-        "name": "Iuppiter?"
+        "name": "Isis/Serapis"
       }
     },
     {
@@ -467,6 +467,19 @@
       },
       "properties": {
         "name": "Juno Regina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536854,
+          41.840026
+        ]
+      },
+      "properties": {
+        "name": "Jupiter"
       }
     },
     {
@@ -526,6 +539,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.260113,
+          41.290817
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Anxur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.381667,
           41.892222
         ]
@@ -552,21 +578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.381667,
+          12.481667,
           41.892222
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Optimus Maximus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.481689,
-          41.892174
         ]
       },
       "properties": {
@@ -617,8 +630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.47686,
-          41.895407
+          12.476876,
+          41.895664
         ]
       },
       "properties": {
@@ -630,77 +643,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4795912,
-          41.8923136
+          12.476957,
+          41.894983
         ]
       },
       "properties": {
-        "name": "location of Apollo, Aedes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.549292,
-          41.865272
-        ]
-      },
-      "properties": {
-        "name": "location of Monte del Grano"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4807872,
-          41.8907711
-        ]
-      },
-      "properties": {
-        "name": "location of Sacred Area of S. Omobono"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4806393,
-          41.8887057
-        ]
-      },
-      "properties": {
-        "name": "location of Temple of Hercules Victor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5117027,
-          41.8938379
-        ]
-      },
-      "properties": {
-        "name": "location of Temple of Minerva Medica"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4768418,
-          41.8988143
-        ]
-      },
-      "properties": {
-        "name": "location of the Pantheon"
+        "name": "Lares Permarini"
       }
     },
     {
@@ -791,7 +739,7 @@
         ]
       },
       "properties": {
-        "name": "Mitreo Barberini"
+        "name": "Mithraeum Barberini"
       }
     },
     {
@@ -804,72 +752,7 @@
         ]
       },
       "properties": {
-        "name": "Mitreo d'Orazio Muti"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.482628,
-          41.89291
-        ]
-      },
-      "properties": {
-        "name": "Mitreo del Campidoglio «lo Perso»"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.482856,
-          41.888114
-        ]
-      },
-      "properties": {
-        "name": "Mitreo del Circo Massimo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.501063,
-          41.894894
-        ]
-      },
-      "properties": {
-        "name": "Mitreo dell'Esquilino"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.47858,
-          41.898252
-        ]
-      },
-      "properties": {
-        "name": "Mitreo della Cripta di Balbo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.493118,
-          41.879922
-        ]
-      },
-      "properties": {
-        "name": "Mitreo delle Terme di Caracalla"
+        "name": "Mithraeum of Orazio Muti"
       }
     },
     {
@@ -882,7 +765,7 @@
         ]
       },
       "properties": {
-        "name": "Mitreo di San Clemente"
+        "name": "Mithraeum of San Clemente"
       }
     },
     {
@@ -895,7 +778,7 @@
         ]
       },
       "properties": {
-        "name": "Mitreo di Santa Prisca"
+        "name": "Mithraeum of Santa Prisca"
       }
     },
     {
@@ -908,7 +791,85 @@
         ]
       },
       "properties": {
-        "name": "Mitreo di Santo Stefano Rotondo"
+        "name": "Mithraeum of Santo Stefano Rotondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.493118,
+          41.879922
+        ]
+      },
+      "properties": {
+        "name": "Mithraeum of the Baths of Caracalla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482628,
+          41.89291
+        ]
+      },
+      "properties": {
+        "name": "Mithraeum of the Campidoglio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482856,
+          41.888114
+        ]
+      },
+      "properties": {
+        "name": "Mithraeum of the Circus Maximus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47858,
+          41.898252
+        ]
+      },
+      "properties": {
+        "name": "Mithraeum of the Cripta Balbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.501063,
+          41.894894
+        ]
+      },
+      "properties": {
+        "name": "Mithraeum of the Esquiline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549292,
+          41.865272
+        ]
+      },
+      "properties": {
+        "name": "Monte del Grano"
       }
     },
     {
@@ -921,7 +882,7 @@
         ]
       },
       "properties": {
-        "name": "Ninfeo Villa dei Quintili"
+        "name": "Nymphaeum of the Villa dei Quintili"
       }
     },
     {
@@ -955,71 +916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4772404,
-          41.8951723
-        ]
-      },
-      "properties": {
-        "name": "Sacra di Largo di Torre Argentina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4769664,
-          41.8955776
-        ]
-      },
-      "properties": {
-        "name": "OSM location of so-called \"Temple A\""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4769134,
-          41.8954071
-        ]
-      },
-      "properties": {
-        "name": "OSM location of so-called \"Temple B\""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4766288,
-          41.8952077
-        ]
-      },
-      "properties": {
-        "name": "OSM location of so-called \"Temple C\""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4767898,
-          41.894948
-        ]
-      },
-      "properties": {
-        "name": "OSM location of so-called \"Temple D\""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.47685,
           41.89856
         ]
@@ -1033,8 +929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480874,
-          41.889267
+          12.480883,
+          41.889232
         ]
       },
       "properties": {
@@ -1059,51 +955,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.50449,
-          41.934898
-        ]
-      },
-      "properties": {
-        "name": "Asclepius temple"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.497556,
-          41.889366
-        ]
-      },
-      "properties": {
-        "name": "S. Clemente, mithraeum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.484187,
           41.892666
         ]
       },
       "properties": {
         "name": "Saturn"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.520874,
-          41.852172
-        ]
-      },
-      "properties": {
-        "name": "Sep. Caecilia Metella"
       }
     },
     {
@@ -1124,38 +981,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480883,
-          41.889232
-        ]
-      },
-      "properties": {
-        "name": "Tempio di Portuno"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.501237,
-          41.890049
-        ]
-      },
-      "properties": {
-        "name": "Temple of Isis at via Labicana"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.480174,
           41.891174
         ]
       },
       "properties": {
-        "name": "Temples Forum Holitorium"
+        "name": "Temples of the Forum Holitorium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520981,
+          41.852196
+        ]
+      },
+      "properties": {
+        "name": "Tomb of Cecilia Metella"
       }
     },
     {
@@ -1181,20 +1025,7 @@
         ]
       },
       "properties": {
-        "name": "Venus and Roma"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.489722,
-          41.890833
-        ]
-      },
-      "properties": {
-        "name": "Venus and Roma"
+        "name": "Venus and Rome"
       }
     },
     {
