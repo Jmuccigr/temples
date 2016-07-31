@@ -1,1097 +1,135 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.478333,
-          41.890278
-        ]
-      },
-      "properties": {
-        "name": "Aesculapius"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479697,
-          41.892288
-        ]
-      },
-      "properties": {
-        "name": "Apollo Sosianus/Medicus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4795912,
-          41.8923136
-        ]
-      },
-      "properties": {
-        "name": "Apollo, Aedes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4772404,
-          41.8951723
-        ]
-      },
-      "properties": {
-        "name": "Area Sacra di Largo di Torre Argentina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.481258,
-          41.890617
-        ]
-      },
-      "properties": {
-        "name": "Area Sacra di San Omobono"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4799,
-          41.8924
-        ]
-      },
-      "properties": {
-        "name": "Bellona"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.48979,
-          41.880581
-        ]
-      },
-      "properties": {
-        "name": "Bona Dea"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4822154,
-          41.8925778
-        ]
-      },
-      "properties": {
-        "name": "Capitolium"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.485755,
-          41.891773
-        ]
-      },
-      "properties": {
-        "name": "Castor and Pollux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.524306,
-          41.857844
-        ]
-      },
-      "properties": {
-        "name": "Ceres and Faustina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.533184,
-          41.862522
-        ]
-      },
-      "properties": {
-        "name": "Cessati Spiriti"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.493367,
-          41.887594
-        ]
-      },
-      "properties": {
-        "name": "Divus Claudius "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.484245,
-          41.89293
-        ]
-      },
-      "properties": {
-        "name": "Concord"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.485042,
-          41.889736
-        ]
-      },
-      "properties": {
-        "name": "Cybele"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.44195,
-          41.83614
-        ]
-      },
-      "properties": {
-        "name": "Dea Dia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.483194,
-          41.882828
-        ]
-      },
-      "properties": {
-        "name": "Diana"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486689,
-          41.892139
-        ]
-      },
-      "properties": {
-        "name": "Divus Antoninus and Diva Faustina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.484471,
-          41.891616
-        ]
-      },
-      "properties": {
-        "name": "Divus Augustus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479444,
-          41.9
-        ]
-      },
-      "properties": {
-        "name": "Divus Hadrianus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486246,
-          41.891943
-        ]
-      },
-      "properties": {
-        "name": "Divus Julius"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.487166,
-          41.891846
-        ]
-      },
-      "properties": {
-        "name": "Divus Romulus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4858,
-          41.8956
-        ]
-      },
-      "properties": {
-        "name": "Divus Trajan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.488894,
-          41.889603
-        ]
-      },
-      "properties": {
-        "name": "Elagabal"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.476723,
-          41.895163
-        ]
-      },
-      "properties": {
-        "name": "Feronia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4812,
-          41.8914
-        ]
-      },
-      "properties": {
-        "name": "Fides"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.476839,
-          41.895387
-        ]
-      },
-      "properties": {
-        "name": "Fortuna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.555806,
-          41.843745
-        ]
-      },
-      "properties": {
-        "name": "Fortuna Muliebris"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479404,
-          41.899944
-        ]
-      },
-      "properties": {
-        "name": "Hadrian"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4806393,
-          41.8887057
-        ]
-      },
-      "properties": {
-        "name": "Hercules Victor/Invictus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.492366,
-          41.994283
-        ]
-      },
-      "properties": {
-        "name": "Il Torraccio"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479167,
-          41.897221
-        ]
-      },
-      "properties": {
-        "name": "Isis"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.501237,
-          41.890049
-        ]
-      },
-      "properties": {
-        "name": "Isis at via Labicana"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479167,
-          41.897778
-        ]
-      },
-      "properties": {
-        "name": "Isis/Serapis"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479937,
-          41.891111
-        ]
-      },
-      "properties": {
-        "name": "Janus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.476906,
-          41.894862
-        ]
-      },
-      "properties": {
-        "name": "Juno Curritis"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.47972,
-          41.88444
-        ]
-      },
-      "properties": {
-        "name": "Juno Regina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.536854,
-          41.840026
-        ]
-      },
-      "properties": {
-        "name": "Jupiter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.235806,
-          31.777972
-        ]
-      },
-      "properties": {
-        "name": "Jupiter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.300833,
-          33.510833
-        ]
-      },
-      "properties": {
-        "name": "Jupiter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.666667,
-          33.966667
-        ]
-      },
-      "properties": {
-        "name": "Jupiter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.204425,
-          34.006839
-        ]
-      },
-      "properties": {
-        "name": "Jupiter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.260113,
-          41.290817
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Anxur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.381667,
-          41.892222
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Capitolinus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.481892,
-          41.891825
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Custos"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.481667,
-          41.892222
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Optimus Maximus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4845,
-          40.7499
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Pompeii"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479497,
-          41.893128
-        ]
-      },
-      "properties": {
-        "name": "Jupiter Stator"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.531175,
-          33.112906
-        ]
-      },
-      "properties": {
-        "name": "Jupiter/Baalshamin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.476876,
-          41.895664
-        ]
-      },
-      "properties": {
-        "name": "Juturna"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.476957,
-          41.894983
-        ]
-      },
-      "properties": {
-        "name": "Lares Permarini"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.485,
-          41.889444
-        ]
-      },
-      "properties": {
-        "name": "Magna Mater"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486944,
-          41.894444
-        ]
-      },
-      "properties": {
-        "name": "Mars Ultor"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.480833,
-          41.890556
-        ]
-      },
-      "properties": {
-        "name": "Mater Matuta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.478081,
-          41.899964
-        ]
-      },
-      "properties": {
-        "name": "Matidia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5181785,
-          41.8550631
-        ]
-      },
-      "properties": {
-        "name": "Mausoleo di Romolo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.511867,
-          41.893845
-        ]
-      },
-      "properties": {
-        "name": "Minerva Medica"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4891,
-          41.902964
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum Barberini"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.485662,
-          41.89981
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of Orazio Muti"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.497281,
-          41.889675
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of San Clemente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.483655,
-          41.883213
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of Santa Prisca"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.496744,
-          41.884655
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of Santo Stefano Rotondo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.493118,
-          41.879922
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of the Baths of Caracalla"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.482628,
-          41.89291
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of the Campidoglio"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.482856,
-          41.888114
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of the Circus Maximus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.47858,
-          41.898252
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of the Cripta Balbi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.501063,
-          41.894894
-        ]
-      },
-      "properties": {
-        "name": "Mithraeum of the Esquiline"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.549292,
-          41.865272
-        ]
-      },
-      "properties": {
-        "name": "Monte del Grano"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5480362,
-          41.8279699
-        ]
-      },
-      "properties": {
-        "name": "Nymphaeum of the Villa dei Quintili"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.488719,
-          41.885632
-        ]
-      },
-      "properties": {
-        "name": "Nymphaeum Septizodium"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.473672,
-          41.897237
-        ]
-      },
-      "properties": {
-        "name": "Odeum"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.47685,
-          41.89856
-        ]
-      },
-      "properties": {
-        "name": "Pantheon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.480883,
-          41.889232
-        ]
-      },
-      "properties": {
-        "name": "Portunus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.447668,
-          41.959271
-        ]
-      },
-      "properties": {
-        "name": "Robigo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.484187,
-          41.892666
-        ]
-      },
-      "properties": {
-        "name": "Saturn"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.48,
-          41.891111
-        ]
-      },
-      "properties": {
-        "name": "Spes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.480174,
-          41.891174
-        ]
-      },
-      "properties": {
-        "name": "Temples of the Forum Holitorium"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.520981,
-          41.852196
-        ]
-      },
-      "properties": {
-        "name": "Tomb of Cecilia Metella"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.483611,
-          41.892776
-        ]
-      },
-      "properties": {
-        "name": "Veiovis"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.490168,
-          41.890812
-        ]
-      },
-      "properties": {
-        "name": "Venus and Rome"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4848,
-          41.8942
-        ]
-      },
-      "properties": {
-        "name": "Venus Genetrix"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.474,
-          41.895
-        ]
-      },
-      "properties": {
-        "name": "Venus Victrix"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.484081,
-          41.892876
-        ]
-      },
-      "properties": {
-        "name": "Vespasian and Titus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486141,
-          41.891792
-        ]
-      },
-      "properties": {
-        "name": "Vesta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.8009,
-          41.9667
-        ]
-      },
-      "properties": {
-        "name": "Vesta"
-      }
-    }
-  ]
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Aesculapius", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Tiber Island", "City": "Rome", "Country": "Italy", "Latitude": "41.890278", "Longitude": "12.478333", "Date": "291 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "p. 2", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 17", "Note": "", "vici.org": "23444", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.478333, 41.890278 ] } },
+{ "type": "Feature", "properties": { "Name": "Apollo Palatinus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "0000ff", "Type": "temple", "Location": "Palatine Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "28 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake, Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 116", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Apollo Sosianus\/Medicus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome", "Country": "Italy", "Latitude": "41.8923136", "Longitude": "12.4795912", "Date": "431 BCE", "Gender": "M", "Dedication Day": "23 September", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "p. 15", "Richardson": "", "Stamper": "p. 55", "Ziolkowski": "", "Note": "vici.org; coords modified", "vici.org": "15038", "pleiades": "740034026", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4795912, 41.8923136 ] } },
+{ "type": "Feature", "properties": { "Name": "Bellona", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "888888", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome", "Country": "Italy", "Latitude": "41.8924", "Longitude": "12.4799", "Date": "296 BCE", "Gender": "F", "Dedication Day": "3 June", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 55", "Ziolkowski": "p. 18", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4799, 41.8924 ] } },
+{ "type": "Feature", "properties": { "Name": "Bona Dea", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Lesser Aventine", "City": "Rome", "Country": "Italy", "Latitude": "41.880581", "Longitude": "12.48979", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake\/Ziolkowski", "Blake": "", "Platner and Ashby": "p. 85", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.48979, 41.880581 ] } },
+{ "type": "Feature", "properties": { "Name": "Capitolium", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.8925778", "Longitude": "12.4822154", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "422865", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4822154, 41.8925778 ] } },
+{ "type": "Feature", "properties": { "Name": "Castor and Pollux", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "0000ff", "Type": "temple", "Location": "Forum", "City": "Rome ", "Country": "Italy", "Latitude": "41.891773", "Longitude": "12.485755", "Date": "484 BCE", "Gender": "M", "Dedication Day": "27 January\/15 July", "Deity Type": "Hero", "Extant": "", "Source": "blake", "Blake": "", "Platner and Ashby": "p. 102", "Richardson": "p. 74", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "15011", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q380530" }, "geometry": { "type": "Point", "coordinates": [ 12.485755, 41.891773 ] } },
+{ "type": "Feature", "properties": { "Name": "Castor and Pollux", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "Hero", "Extant": "", "Source": "Coarelli", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 25", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ceres and Faustina", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "888888", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.857844", "Longitude": "12.524306", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org, DARE", "vici.org": "", "pleiades": "422889", "dare": "22917", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.524306, 41.857844 ] } },
+{ "type": "Feature", "properties": { "Name": "Ceres, Liber, Libra", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "00ff00", "Type": "temple", "Location": "Aventine", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "493 BCE", "Gender": "M\/F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "p. 80", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cessati Spiriti", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "ffffff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.862522", "Longitude": "12.533184", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "422892", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.533184, 41.862522 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Claudius ", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Caelian Hill", "City": "Rome ", "Country": "Italy", "Latitude": "41.887594", "Longitude": "12.493367", "Date": "40-60 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "120", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.493367, 41.887594 ] } },
+{ "type": "Feature", "properties": { "Name": "Concord", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Forum", "City": "Rome ", "Country": "Italy", "Latitude": "41.89293", "Longitude": "12.484245", "Date": "121 BCE", "Gender": "F", "Dedication Day": "22 July\/16 January", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 56", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.484245, 41.89293 ] } },
+{ "type": "Feature", "properties": { "Name": "Cybele\/Magna Mater", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "temple", "Location": "Palatine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "41.889736", "Longitude": "12.485042", "Date": "191 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "Foreign", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "324", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "17956", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q383609" }, "geometry": { "type": "Point", "coordinates": [ 12.485042, 41.889736 ] } },
+{ "type": "Feature", "properties": { "Name": "Dea Dia", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.83614", "Longitude": "12.44195", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "422916", "dare": "37153", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.44195, 41.83614 ] } },
+{ "type": "Feature", "properties": { "Name": "Diana", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Aventine", "City": "Rome", "Country": "Italy", "Latitude": "41.882828", "Longitude": "12.483194", "Date": "5th Century BCE", "Gender": "F", "Dedication Day": "13 August", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 149", "Richardson": "p. 108", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.483194, 41.882828 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Antoninus and Diva Faustina", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Rome", "Country": "Italy", "Latitude": "41.892139", "Longitude": "12.486689", "Date": "161 CE", "Gender": "M\/F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "p. 13", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org ", "vici.org": "15009", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q752555" }, "geometry": { "type": "Point", "coordinates": [ 12.486689, 41.892139 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Augustus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "", "City": "Rome", "Country": "Italy", "Latitude": "41.891616", "Longitude": "12.484471", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor ", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.484471, 41.891616 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Hadrianus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.9", "Longitude": "12.479444", "Date": "145 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor ", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479444, 41.9 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Julius", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome ", "Country": "Italy", "Latitude": "41.891943", "Longitude": "12.486246", "Date": "29 BCE", "Gender": "M", "Dedication Day": "18 August", "Deity Type": "Emperor ", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "15048", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q1133288" }, "geometry": { "type": "Point", "coordinates": [ 12.486246, 41.891943 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Romulus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.891846", "Longitude": "12.487166", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor ", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "15044", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.487166, 41.891846 ] } },
+{ "type": "Feature", "properties": { "Name": "Divus Trajan", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Forum of Trajan", "City": "Rome", "Country": "Italy", "Latitude": "41.8956", "Longitude": "12.4858", "Date": "128 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor ", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4858, 41.8956 ] } },
+{ "type": "Feature", "properties": { "Name": "Elagabal", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.889603", "Longitude": "12.488894", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "11503", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.488894, 41.889603 ] } },
+{ "type": "Feature", "properties": { "Name": "Feronia", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.895163", "Longitude": "12.476723", "Date": "290 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper\/Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades: Temple C", "vici.org": "17946", "pleiades": "967215409", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.476723, 41.895163 ] } },
+{ "type": "Feature", "properties": { "Name": "Fides", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "000000", "Type": "temple", "Location": "Capitoline ", "City": "Rome ", "Country": "Italy", "Latitude": "41.8914", "Longitude": "12.4812", "Date": "254 BCE", "Gender": "F", "Dedication Day": "1 October", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 28", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4812, 41.8914 ] } },
+{ "type": "Feature", "properties": { "Name": "Flora", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "Circus Maximus", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "240 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "p. 151", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Flora", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Quirinal ", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "p. 152", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Fontus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Quirinal ", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "231 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades: Temple B", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Fortis Fortuna", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.889166", "Longitude": "12.480663", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "", "pleiades": "422925", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.480663, 41.889166 ] } },
+{ "type": "Feature", "properties": { "Name": "Fortuna", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.895387", "Longitude": "12.476839", "Date": "First Century CE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 44", "Ziolkowski": "", "Note": "", "vici.org": "17946", "pleiades": "967215409", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.476839, 41.895387 ] } },
+{ "type": "Feature", "properties": { "Name": "Fortuna", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "000000", "Type": "temple", "Location": "Forum Boarium", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "212 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Platner and Ashby", "Blake": "", "Platner and Ashby": "p. 214", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Fortuna Muliebris", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.843745", "Longitude": "12.555806", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "37154", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.555806, 41.843745 ] } },
+{ "type": "Feature", "properties": { "Name": "Hadrian", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.899944", "Longitude": "12.479404", "Date": "145 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "Emperor", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "p. 250", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "15032", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479404, 41.899944 ] } },
+{ "type": "Feature", "properties": { "Name": "Hercules Magnus Custos", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Circus Flaminius ", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "220 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 50", "Note": "Pleiades", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hercules Victor", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "0000ff", "Type": "temple", "Location": "Caelian Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "145 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "Hero", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 257", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hercules Victor", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "", "City": "Tivoli", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "89-82 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "Hero", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hercules Victor\/Invictus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Forum Boarium", "City": "Rome ", "Country": "Italy", "Latitude": "41.8887057", "Longitude": "12.4806393", "Date": "", "Gender": "M", "Dedication Day": "13 August", "Deity Type": "Hero", "Extant": "yes", "Source": "", "Blake": "", "Platner and Ashby": "p. 257", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "15006", "pleiades": "825969667", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4806393, 41.8887057 ] } },
+{ "type": "Feature", "properties": { "Name": "Honor and Virtue", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "234 BCE", "Gender": "F", "Dedication Day": "17 July", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Il Torraccio", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.994283", "Longitude": "12.492366", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "37165", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.492366, 41.994283 ] } },
+{ "type": "Feature", "properties": { "Name": "Isis", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.897221", "Longitude": "12.479167", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "Foreign ", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "17963", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q2288275" }, "geometry": { "type": "Point", "coordinates": [ 12.479167, 41.897221 ] } },
+{ "type": "Feature", "properties": { "Name": "Isis at via Labicana", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.890049", "Longitude": "12.501237", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "19353", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q16612725" }, "geometry": { "type": "Point", "coordinates": [ 12.501237, 41.890049 ] } },
+{ "type": "Feature", "properties": { "Name": "Isis\/Serapis", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.897778", "Longitude": "12.479167", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "Foreign ", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "p. 283", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479167, 41.897778 ] } },
+{ "type": "Feature", "properties": { "Name": "Janus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Forum Holitorium", "City": "Rome ", "Country": "Italy", "Latitude": "41.891111", "Longitude": "12.479937", "Date": "260 BCE", "Gender": "M", "Dedication Day": "17 August", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 277", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 61", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479937, 41.891111 ] } },
+{ "type": "Feature", "properties": { "Name": "Juno Curritis", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Campus Martius ", "City": "Rome ", "Country": "Italy", "Latitude": "41.894862", "Longitude": "12.476906", "Date": "292-219 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 62", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.476906, 41.894862 ] } },
+{ "type": "Feature", "properties": { "Name": "Juno Lucina", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "temple", "Location": "Esquiline Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "375 BCE", "Gender": "F", "Dedication Day": "1 March", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 67", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Juno Moneta", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "344 BCE", "Gender": "F", "Dedication Day": "1 June", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 289", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Juno Regina", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Aventine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "41.88444", "Longitude": "12.47972", "Date": "392 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 76", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.47972, 41.88444 ] } },
+{ "type": "Feature", "properties": { "Name": "Juno Sospita", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "temple", "Location": "Forum Holitorium", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "104 BCE", "Gender": "F", "Dedication Day": "1 February", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.840026", "Longitude": "12.536854", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "37156", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.536854, 41.840026 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Jerusalem", "Country": "Israel", "Latitude": "31.777972", "Longitude": "35.235806", "Date": "130 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 35.235806, 31.777972 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "", "City": "Damascus", "Country": "Syria", "Latitude": "33.510833", "Longitude": "36.300833", "Date": "14 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 36.300833, 33.510833 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Yarbrud", "Country": "Syria", "Latitude": "33.966667", "Longitude": "36.666667", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 36.666667, 33.966667 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Baalbek", "Country": "Lebanon", "Latitude": "34.006839", "Longitude": "36.204425", "Date": "135 CE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 36.204425, 34.006839 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Anxur", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "", "City": "Terracina", "Country": "Italy", "Latitude": "41.290817", "Longitude": "13.260113", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Coord from Google maps", "vici.org": "", "pleiades": "433143", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 13.260113, 41.290817 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Capitolinus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "41.892222", "Longitude": "12.381667", "Date": "509 BCE", "Gender": "M", "Dedication Day": "13 September", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "aka: Jupiter Optimus Maximus", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.381667, 41.892222 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Conservator", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Custos", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "41.891825", "Longitude": "12.481892", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.481892, 41.891825 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Dolichenus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "", "Country": "", "Latitude": "", "Longitude": "", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Feretrius", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "752-751 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Heliopolitanus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Janiculum", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "", "Gender": "M", "Dedication Day": "29 November", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Invictus ", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "Palatine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "180-167 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 80", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Libertas", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "Aventine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "246 BCE", "Gender": "M", "Dedication Day": "13 April", "Deity Type": "", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 85", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Optimus Maximus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "41.892222", "Longitude": "12.481667", "Date": "509 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "17971", "pleiades": "871801169", "dare": "", "wikipedia": "", "wikidata": "Q586468" }, "geometry": { "type": "Point", "coordinates": [ 12.481667, 41.892222 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Patulaeius", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Ostia", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "3rd century BC", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Pompeii", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Pompeii", "Country": "Italy", "Latitude": "40.7499", "Longitude": "14.4845", "Date": "mid-2nd century BC", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 14.4845, 40.7499 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Sospita", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "", "City": "", "Country": "", "Latitude": "", "Longitude": "", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Stator", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.893128", "Longitude": "12.479497", "Date": "294 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 53", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479497, 41.893128 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Stator", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "", "Location": "", "City": "Rome", "Country": "Italy", "Latitude": "41.893081", "Longitude": "12.47926", "Date": "146 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.47926, 41.893081 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Tonans", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Capitoline Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "22 BCE", "Gender": "M", "Dedication Day": "1 September", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 305", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter Victor", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Quirinal Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "295 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Jupiter\/Baalshamin", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Kedesh", "Country": "Israel", "Latitude": "33.112906", "Longitude": "35.531175", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 35.531175, 33.112906 ] } },
+{ "type": "Feature", "properties": { "Name": "Juturna", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius ", "City": "Rome ", "Country": "Italy", "Latitude": "41.895664", "Longitude": "12.476876", "Date": "3rd Century BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "Water", "Extant": "", "Source": "Ziolkowski", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "p. 53", "Ziolkowski": "p. 94", "Note": "Pleiades: Temple A", "vici.org": "17946", "pleiades": "967215409", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.476876, 41.895664 ] } },
+{ "type": "Feature", "properties": { "Name": "Juventas", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "temple", "Location": "Circus Maximus", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "193 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 308", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Lares", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "0000ff", "Type": "temple", "Location": "in summa Sacra Via", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Lares Permarini", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "000000", "Type": "temple", "Location": "Campus Martius ", "City": "Rome", "Country": "Italy", "Latitude": "41.894983", "Longitude": "12.476957", "Date": "179 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 315", "Richardson": "", "Stamper": "p. 44", "Ziolkowski": "", "Note": "Pleiades: Temple D", "vici.org": "17946", "pleiades": "967215409", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.476957, 41.894983 ] } },
+{ "type": "Feature", "properties": { "Name": "Luna", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Aventine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "F", "Dedication Day": "31 March", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mars", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "138 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "War", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 328", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mars", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "North Via Appia", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "388 BCE", "Gender": "M", "Dedication Day": "1 June", "Deity Type": "War", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 327", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mars Ultor", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Forum of Augustus", "City": "Rome", "Country": "Italy", "Latitude": "41.894444", "Longitude": "12.486944", "Date": "2 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "War", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.486944, 41.894444 ] } },
+{ "type": "Feature", "properties": { "Name": "Mater Matuta", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "Forum Boarium", "City": "Rome ", "Country": "Italy", "Latitude": "41.890556", "Longitude": "12.480833", "Date": "490s BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.480833, 41.890556 ] } },
+{ "type": "Feature", "properties": { "Name": "Matidia", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "888888", "Type": "temple", "Location": "", "City": "", "Country": "", "Latitude": "41.899964", "Longitude": "12.478081", "Date": "119 AD", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "331", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.478081, 41.899964 ] } },
+{ "type": "Feature", "properties": { "Name": "Mausoleo di Romolo", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.8550631", "Longitude": "12.5181785", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "23842", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.5181785, 41.8550631 ] } },
+{ "type": "Feature", "properties": { "Name": "Mercury ", "hexcolor": "", "genderColor": "", "randomhex": "", "Type": "temple", "Location": "Aventine Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "495 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 339", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Minerva ", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "Aventine Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "260s BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Minerva Medica", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Esquiline Hill", "City": "Rome ", "Country": "Italy", "Latitude": "41.893845", "Longitude": "12.511867", "Date": "4th Century BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "7929", "pleiades": "540898685", "dare": "", "wikipedia": "", "wikidata": "Q1411575" }, "geometry": { "type": "Point", "coordinates": [ 12.511867, 41.893845 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum Barberini", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "ffffff", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.902964", "Longitude": "12.4891", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45672", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4891, 41.902964 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of Orazio Muti", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "ff0000", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.89981", "Longitude": "12.485662", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45673", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.485662, 41.89981 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of San Clemente", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "888888", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.889675", "Longitude": "12.497281", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org; DARE", "vici.org": "23522", "pleiades": "", "dare": "45666", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.497281, 41.889675 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of Santa Prisca", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "888888", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.883213", "Longitude": "12.483655", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45667", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.483655, 41.883213 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of Santo Stefano Rotondo", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "ffffff", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.884655", "Longitude": "12.496744", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45669", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.496744, 41.884655 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of the Baths of Caracalla", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "ffffff", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.879922", "Longitude": "12.493118", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45668", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.493118, 41.879922 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of the Campidoglio", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "ff0000", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.89291", "Longitude": "12.482628", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45675", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.482628, 41.89291 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of the Circus Maximus", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "888888", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.888114", "Longitude": "12.482856", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45670", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.482856, 41.888114 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of the Crypta Balbi", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "00ff00", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.894242", "Longitude": "12.479176", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE; coords updated", "vici.org": "", "pleiades": "", "dare": "45674", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.479176, 41.894242 ] } },
+{ "type": "Feature", "properties": { "Name": "Mithraeum of the Esquiline", "hexcolor": "0000ff", "genderColor": "888888", "randomhex": "0000ff", "Type": "mithraeum", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.894894", "Longitude": "12.501063", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "45671", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.501063, 41.894894 ] } },
+{ "type": "Feature", "properties": { "Name": "Monte del Grano", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "000000", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.865272", "Longitude": "12.549292", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "422973", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.549292, 41.865272 ] } },
+{ "type": "Feature", "properties": { "Name": "Neptune", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Circus Flaminius", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "257-228 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Nymphaeum of the Villa dei Quintili", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.8279699", "Longitude": "12.5480362", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "23839", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.5480362, 41.8279699 ] } },
+{ "type": "Feature", "properties": { "Name": "Nymphaeum Septizodium", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "ff0000", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.885632", "Longitude": "12.488719", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "17962", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q1234446" }, "geometry": { "type": "Point", "coordinates": [ 12.488719, 41.885632 ] } },
+{ "type": "Feature", "properties": { "Name": "Odeum", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.897237", "Longitude": "12.473672", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "", "dare": "23774", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.473672, 41.897237 ] } },
+{ "type": "Feature", "properties": { "Name": "Pantheon", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "ff0000", "Type": "temple", "Location": "Campus Martius", "City": "Rome ", "Country": "Italy", "Latitude": "41.89856", "Longitude": "12.47685", "Date": "126 CE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "7853", "pleiades": "128044615", "dare": "", "wikipedia": "", "wikidata": "Q99309" }, "geometry": { "type": "Point", "coordinates": [ 12.47685, 41.89856 ] } },
+{ "type": "Feature", "properties": { "Name": "Penates", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "ffffff", "Type": "temple", "Location": "Velian Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 388", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 128", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Portunus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "888888", "Type": "temple", "Location": "Forum Boarium", "City": "Rome", "Country": "Italy", "Latitude": "41.889232", "Longitude": "12.480883", "Date": "120-80 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "Water", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org; DARE", "vici.org": "11602", "pleiades": "494660670", "dare": "22924", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.480883, 41.889232 ] } },
+{ "type": "Feature", "properties": { "Name": "Quirinus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "000000", "Type": "temple", "Location": "Quirinal Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "293 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 438", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 139", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Robigo", "hexcolor": "000000", "genderColor": "888888", "randomhex": "0000ff", "Type": "sanctuary", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.959271", "Longitude": "12.447668", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "DARE", "vici.org": "", "pleiades": "423024", "dare": "37158", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.447668, 41.959271 ] } },
+{ "type": "Feature", "properties": { "Name": "Salus", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "00ff00", "Type": "temple", "Location": "Quirinal Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "303 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 462", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 144", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Saturn", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.892666", "Longitude": "12.484187", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "15012", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q746721" }, "geometry": { "type": "Point", "coordinates": [ 12.484187, 41.892666 ] } },
+{ "type": "Feature", "properties": { "Name": "Sol", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Campus Agrippae", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "273 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 491", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Sol et Luna", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "00ff00", "Type": "temple", "Location": "Circus Maximus ", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "M\/F", "Dedication Day": "28 August", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 491", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 150", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Spes", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Forum Holitorium", "City": "Rome ", "Country": "Italy", "Latitude": "41.891111", "Longitude": "12.48", "Date": "258-249 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 493", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 152", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.48, 41.891111 ] } },
+{ "type": "Feature", "properties": { "Name": "Summanus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ff0000", "Type": "temple", "Location": "Circus Maximus ", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "280-275 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 502", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 154", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Sybil", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "", "City": "Tivoli", "Country": "Italy", "Latitude": "41.966809", "Longitude": "12.800843", "Date": "150-125 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Vici.org", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.800843, 41.966809 ] } },
+{ "type": "Feature", "properties": { "Name": "Tellus", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "000000", "Type": "temple", "Location": "Esquiline Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "268 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 511", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 158", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tempestates", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "0000ff", "Type": "temple", "Location": "Porta Capena", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 511", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 162", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tiberinus", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "888888", "Type": "temple", "Location": "Tiber Island", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 536", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 166", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tomb of Cecilia Metella", "hexcolor": "00ff00", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "tomb", "Location": "Via Appia", "City": "Rome ", "Country": "Italy", "Latitude": "41.852196", "Longitude": "12.520981", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades; vici.org", "vici.org": "", "pleiades": "423064", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.520981, 41.852196 ] } },
+{ "type": "Feature", "properties": { "Name": "Veiovis", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "0000ff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.892776", "Longitude": "12.483611", "Date": "", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "17964", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q764141" }, "geometry": { "type": "Point", "coordinates": [ 12.483611, 41.892776 ] } },
+{ "type": "Feature", "properties": { "Name": "Venus and Rome", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "888888", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.890812", "Longitude": "12.490168", "Date": "", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "15008", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.490168, 41.890812 ] } },
+{ "type": "Feature", "properties": { "Name": "Venus Genetrix", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "Forum of Julius", "City": "Rome", "Country": "Italy", "Latitude": "41.8942", "Longitude": "12.4848", "Date": "46 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Blake", "Blake": "", "Platner and Ashby": "p. 225", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4848, 41.8942 ] } },
+{ "type": "Feature", "properties": { "Name": "Venus Obsequens", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ff0000", "Type": "temple", "Location": "Circus Maximus ", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "290 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 552", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 167", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Venus Victrix", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "41.895335", "Longitude": "12.473014", "Date": "55 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "yes", "Source": "Stamper", "Blake": "", "Platner and Ashby": "p. 555", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades; coords modified", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.473014, 41.895335 ] } },
+{ "type": "Feature", "properties": { "Name": "Vespasian and Titus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "ffffff", "Type": "temple", "Location": "", "City": "Rome ", "Country": "Italy", "Latitude": "41.892876", "Longitude": "12.484081", "Date": "", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "15042", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "Q731284" }, "geometry": { "type": "Point", "coordinates": [ 12.484081, 41.892876 ] } },
+{ "type": "Feature", "properties": { "Name": "Vesta", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "888888", "Type": "temple", "Location": "Forum", "City": "Rome", "Country": "Itay", "Latitude": "41.891792", "Longitude": "12.486141", "Date": "575 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "15010", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.486141, 41.891792 ] } },
+{ "type": "Feature", "properties": { "Name": "Vesta", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "00ff00", "Type": "temple", "Location": "", "City": "Tivoli", "Country": "Italy", "Latitude": "41.9667", "Longitude": "12.8009", "Date": "early 1st-Century BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 12.8009, 41.9667 ] } },
+{ "type": "Feature", "properties": { "Name": "Vica Pota", "hexcolor": "ff0000", "genderColor": "888888", "randomhex": "000000", "Type": "temple", "Location": "Velian Hill", "City": "Rome ", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BCE", "Gender": "", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 569", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 171", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Victoria", "hexcolor": "ff0000", "genderColor": "ffffff", "randomhex": "ffffff", "Type": "temple", "Location": "Palatine Hill", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "294 BCE", "Gender": "F", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "Stamper", "Blake": "", "Platner and Ashby": "p. 570", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "Pleiades", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Volcanus ", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "00ff00", "Type": "temple", "Location": "Campus Martius", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "292-219 BE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "", "Richardson": "", "Stamper": "", "Ziolkowski": "", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vortumnus", "hexcolor": "ff0000", "genderColor": "000000", "randomhex": "0000ff", "Type": "temple", "Location": "Aventine", "City": "Rome", "Country": "Italy", "Latitude": "", "Longitude": "", "Date": "264 BCE", "Gender": "M", "Dedication Day": "", "Deity Type": "", "Extant": "", "Source": "", "Blake": "", "Platner and Ashby": "p. 584", "Richardson": "", "Stamper": "", "Ziolkowski": "p. 183", "Note": "", "vici.org": "", "pleiades": "", "dare": "", "wikipedia": "", "wikidata": "" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } }
+]
 }
