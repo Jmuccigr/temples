@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Converts a Google spreadsheet to geojson, v. 2.
+
 # Set up some variables
 me=$(whoami)
 key="1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4"
