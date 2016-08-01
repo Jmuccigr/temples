@@ -4,7 +4,7 @@
 me=$(whoami)
 key="1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4"
 dest="/Users/$me/Documents/github/local/temples"
-temp="/var/tmp"
+temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Create the vrt file for the conversion from csv to geojson
 text="      <OGRVRTDataSource>"
@@ -29,7 +29,7 @@ rm "$temp/sheet.csv" 2>/dev/null
 ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml"
 
 # Convert to bad geojson
-rm "$temp/sheet.json" 2>/dev/null
+rm "$temp/sheet.json" 2>/dev/
 ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 
 # Clear false 0,0 coords resulting from empty fields, and remove some unwanted properties that were stuck in during the xml export.
