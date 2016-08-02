@@ -8,3 +8,4 @@ Various maps of the temple data.
 	- `curl --silent http://dare.ht.lu.se/api/geojson.php?typeid=61`
 - DARE_temples_IT.json - DARE's listing of all items with an ID of 61 ("temple") in Italy. Formatted with python's json.tool after retrieval with
 	- `curl --silent http://dare.ht.lu.se/api/geojson.php?"typeid=61&cc=IT"`
+- temples.json - a GeoJSON-formatted list of temples from our Google sheet

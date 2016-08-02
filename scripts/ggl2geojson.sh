@@ -8,6 +8,9 @@ key="1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4"
 dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
+# Path to include homebrew stuff like jq for running via launchctl
+export PATH=$PATH:/usr/local/bin
+
 # Create the vrt file for the conversion from csv to geojson
 text="      <OGRVRTDataSource>"
 text="$text     <OGRVRTLayer name=\"sheet\">"
