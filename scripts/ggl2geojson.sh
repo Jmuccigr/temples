@@ -31,7 +31,7 @@ rm "$temp/sheet.csv" 2>/dev/null
 ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml"
 
 # Convert to bad geojson
-rm "$temp/sheet.json" 2>/dev/
+rm "$temp/sheet.json" 2>/dev/null
 ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 
 # Clear false 0,0 coords resulting from empty fields, and remove some unwanted properties that were stuck in during the xml export.
