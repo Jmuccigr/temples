@@ -25,6 +25,11 @@ echo $text > "$temp/sheet.vrt"
 
 # Get google doc as xml via the public feed
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
+if [ -z xml ]
+   then
+   echo 1>&2 "No result from Google spreadsheet server"
+   exit
+fi
 
 # Clean up the entry names & save to file for ogr2ogr
 echo $xml | tidy -xml -iq | sed 's/gsx://g' > "$temp/sheet.xml"
