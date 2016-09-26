@@ -9,7 +9,8 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
-export PATH=$PATH:/usr/local/bin
+binaryPath=$(dirname $(which jq))
+export PATH=$PATH:$binaryPath
 
 # Create the vrt file for the conversion from csv to geojson
 text="      <OGRVRTDataSource>"
