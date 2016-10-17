@@ -31,6 +31,7 @@
         "vici.org": "23444",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -72,6 +73,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -92,7 +94,7 @@
         "country": "Italy",
         "latitude": "41.8923136",
         "longitude": "12.4795912",
-        "orientation": "",
+        "orientation": "180",
         "date": "431 BCE",
         "gender": "M",
         "dedicationday": "23",
@@ -110,6 +112,7 @@
         "vici.org": "15038",
         "pleiades": "740034026",
         "dare": "",
+        "arachne": "5665",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -131,9 +134,9 @@
         "location": "Circus Flaminius",
         "city": "Rome",
         "country": "Italy",
-        "latitude": "41.8924",
-        "longitude": "12.4799",
-        "orientation": "",
+        "latitude": "41.89238",
+        "longitude": "12.47989",
+        "orientation": "180",
         "date": "296 BCE",
         "gender": "F",
         "dedicationday": "3",
@@ -150,15 +153,16 @@
         "note": "",
         "vici.org": "",
         "pleiades": "",
-        "dare": "",
+        "dare": "3467477",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4799,
-          41.8924
+          12.47989,
+          41.89238
         ]
       }
     },
@@ -192,6 +196,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -233,6 +238,7 @@
         "vici.org": "",
         "pleiades": "422865",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -256,7 +262,7 @@
         "country": "Italy",
         "latitude": "41.891773",
         "longitude": "12.485755",
-        "orientation": "25",
+        "orientation": "24",
         "date": "484 BCE",
         "gender": "M",
         "dedicationday": "27",
@@ -274,6 +280,7 @@
         "vici.org": "15011",
         "pleiades": "",
         "dare": "",
+        "arachne": "5807",
         "wikipedia": "",
         "wikidata": "Q380530"
       },
@@ -315,6 +322,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -353,6 +361,7 @@
         "vici.org": "",
         "pleiades": "422889",
         "dare": "22917",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -394,6 +403,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -432,6 +442,7 @@
         "vici.org": "",
         "pleiades": "422892",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -473,6 +484,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -496,7 +508,7 @@
         "country": "Italy",
         "latitude": "41.89293",
         "longitude": "12.484245",
-        "orientation": "",
+        "orientation": "123",
         "date": "121 BCE",
         "gender": "F",
         "dedicationday": "22",
@@ -514,6 +526,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "5742",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -555,6 +568,7 @@
         "vici.org": "17956",
         "pleiades": "",
         "dare": "",
+        "arachne": "9110",
         "wikipedia": "",
         "wikidata": "Q383609"
       },
@@ -596,6 +610,7 @@
         "vici.org": "",
         "pleiades": "422916",
         "dare": "37153",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -637,6 +652,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -660,7 +676,7 @@
         "country": "Italy",
         "latitude": "41.892139",
         "longitude": "12.486689",
-        "orientation": "",
+        "orientation": "217",
         "date": "161 CE",
         "gender": "M/F",
         "dedicationday": "",
@@ -678,6 +694,7 @@
         "vici.org": "15009",
         "pleiades": "",
         "dare": "",
+        "arachne": "5645",
         "wikipedia": "",
         "wikidata": "Q752555"
       },
@@ -719,6 +736,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "5743",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -727,47 +745,6 @@
         "coordinates": [
           12.484471,
           41.891616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Divus Hadrianus",
-        "hexcolor": "ff0000",
-        "gendercolor": "000000",
-        "type": "temple",
-        "location": "Campus Martius",
-        "city": "Rome",
-        "country": "Italy",
-        "latitude": "41.9",
-        "longitude": "12.479444",
-        "orientation": "",
-        "date": "145 CE",
-        "gender": "M",
-        "dedicationday": "",
-        "deitytype": "Emperor",
-        "extant": "",
-        "source": "Stamper",
-        "meetings": "",
-        "blake": "",
-        "coarellicm": "",
-        "platnerandashby": "",
-        "richardson": "",
-        "stamper": "",
-        "ziolkowski": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "wikipedia": "",
-        "wikidata": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.479444,
-          41.9
         ]
       }
     },
@@ -783,7 +760,7 @@
         "country": "Italy",
         "latitude": "41.891943",
         "longitude": "12.486246",
-        "orientation": "",
+        "orientation": "300",
         "date": "29 BCE",
         "gender": "M",
         "dedicationday": "18",
@@ -801,6 +778,7 @@
         "vici.org": "15048",
         "pleiades": "",
         "dare": "",
+        "arachne": "5744",
         "wikipedia": "",
         "wikidata": "Q1133288"
       },
@@ -819,16 +797,16 @@
         "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
-        "location": "",
+        "location": "Forum",
         "city": "Rome",
         "country": "Italy",
         "latitude": "41.891846",
         "longitude": "12.487166",
-        "orientation": "",
+        "orientation": "205",
         "date": "",
         "gender": "M",
         "dedicationday": "",
-        "deitytype": "Emperor",
+        "deitytype": "",
         "extant": "",
         "source": "",
         "meetings": "",
@@ -842,6 +820,7 @@
         "vici.org": "15044",
         "pleiades": "",
         "dare": "",
+        "arachne": "10545",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -883,6 +862,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -924,6 +904,7 @@
         "vici.org": "11503",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -965,6 +946,7 @@
         "vici.org": "17946",
         "pleiades": "967215409",
         "dare": "",
+        "arachne": "5865",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1006,6 +988,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1047,6 +1030,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1085,6 +1069,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1119,10 +1104,11 @@
         "richardson": "",
         "stamper": "",
         "ziolkowski": "",
-        "note": "Pleiades: Temple B",
+        "note": "",
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1161,6 +1147,7 @@
         "vici.org": "",
         "pleiades": "422925",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1175,7 +1162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortuna",
+        "name": "Fortuna Huiusce Diei",
         "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
@@ -1184,12 +1171,12 @@
         "country": "Italy",
         "latitude": "41.895387",
         "longitude": "12.476839",
-        "orientation": "",
+        "orientation": "90",
         "date": "First Century CE",
         "gender": "F",
         "dedicationday": "",
         "deitytype": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Stamper",
         "meetings": "",
         "blake": "",
@@ -1198,10 +1185,11 @@
         "richardson": "",
         "stamper": "p. 44",
         "ziolkowski": "",
-        "note": "",
+        "note": "Pleiades: Temple B",
         "vici.org": "17946",
         "pleiades": "967215409",
         "dare": "",
+        "arachne": "6515",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1243,6 +1231,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1284,6 +1273,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "37154",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1308,7 +1298,7 @@
         "latitude": "41.899944",
         "longitude": "12.479404",
         "orientation": "",
-        "date": "145 BCE",
+        "date": "145 CE",
         "gender": "M",
         "dedicationday": "",
         "deitytype": "Emperor",
@@ -1325,6 +1315,7 @@
         "vici.org": "15032",
         "pleiades": "",
         "dare": "",
+        "arachne": "5651",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1366,12 +1357,55 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hercules Musarum",
+        "hexcolor": "ff0000",
+        "gendercolor": "000000",
+        "type": "temple",
+        "location": "",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.89315",
+        "longitude": "12.47781",
+        "orientation": "",
+        "date": "187 BC",
+        "gender": "M",
+        "dedicationday": "",
+        "deitytype": "Hero",
+        "extant": "",
+        "source": "Arachne",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "3467458",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47781,
+          41.89315
+        ]
       }
     },
     {
@@ -1404,6 +1438,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1442,6 +1477,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1480,6 +1516,7 @@
         "vici.org": "15006",
         "pleiades": "825969667",
         "dare": "",
+        "arachne": "10771, 5792",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1521,6 +1558,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1559,6 +1597,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "37165",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1600,6 +1639,7 @@
         "vici.org": "19353",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q16612725"
       },
@@ -1641,6 +1681,7 @@
         "vici.org": "17963",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q2288275"
       },
@@ -1682,6 +1723,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1723,6 +1765,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1764,6 +1807,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1802,6 +1846,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1840,6 +1885,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1881,6 +1927,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "3467454",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1919,6 +1966,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1960,6 +2008,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "37156",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2001,6 +2050,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2042,6 +2092,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2083,6 +2134,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2124,6 +2176,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2165,6 +2218,7 @@
         "vici.org": "",
         "pleiades": "433143",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2206,6 +2260,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2247,6 +2302,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2285,6 +2341,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2303,11 +2360,11 @@
         "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "",
-        "latitude": "",
-        "longitude": "",
+        "location": "Aventine Hill",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.88319",
+        "longitude": "12.4804",
         "orientation": "",
         "date": "",
         "gender": "M",
@@ -2322,16 +2379,20 @@
         "richardson": "",
         "stamper": "",
         "ziolkowski": "",
-        "note": "",
+        "note": "Location from Arachne",
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "6074",
         "wikipedia": "",
         "wikidata": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": ""
+        "coordinates": [
+          12.4804,
+          41.88319
+        ]
       }
     },
     {
@@ -2364,6 +2425,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2402,6 +2464,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2440,6 +2503,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2478,6 +2542,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2516,6 +2581,7 @@
         "vici.org": "17971",
         "pleiades": "871801169",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q586468"
       },
@@ -2557,6 +2623,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2595,6 +2662,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2636,6 +2704,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2674,6 +2743,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2715,6 +2785,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2756,6 +2827,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2794,6 +2866,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2832,6 +2905,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2873,6 +2947,7 @@
         "vici.org": "17946",
         "pleiades": "967215409",
         "dare": "",
+        "arachne": "5864",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2914,6 +2989,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2952,6 +3028,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -2972,7 +3049,7 @@
         "country": "Italy",
         "latitude": "41.894983",
         "longitude": "12.476957",
-        "orientation": "",
+        "orientation": "90",
         "date": "179 BCE",
         "gender": "",
         "dedicationday": "",
@@ -2990,6 +3067,7 @@
         "vici.org": "17946",
         "pleiades": "967215409",
         "dare": "",
+        "arachne": "6516",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3031,6 +3109,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3069,6 +3148,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3107,6 +3187,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3145,6 +3226,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "5747",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3186,6 +3268,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3227,6 +3310,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3268,6 +3352,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "23842",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3309,6 +3394,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3347,6 +3433,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3385,6 +3472,7 @@
         "vici.org": "7929",
         "pleiades": "540898685",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q1411575"
       },
@@ -3426,6 +3514,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45672",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3467,6 +3556,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45673",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3508,6 +3598,7 @@
         "vici.org": "23522",
         "pleiades": "",
         "dare": "45666",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3549,6 +3640,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45667",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3590,6 +3682,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45669",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3631,6 +3724,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45668",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3672,6 +3766,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45675",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3713,6 +3808,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45670",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3754,6 +3850,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45674",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3795,6 +3892,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "45671",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3836,6 +3934,7 @@
         "vici.org": "",
         "pleiades": "422973",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3877,6 +3976,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "3467478",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3915,6 +4015,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "23839",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3933,7 +4034,7 @@
         "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
-        "location": "",
+        "location": "Campus Martius",
         "city": "Rome",
         "country": "Italy",
         "latitude": "41.885632",
@@ -3956,6 +4057,7 @@
         "vici.org": "17962",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q1234446"
       },
@@ -3970,6 +4072,48 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Nymphs",
+        "hexcolor": "ff0000",
+        "gendercolor": "ffffff",
+        "type": "temple",
+        "location": "",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.895163",
+        "longitude": "12.478714",
+        "orientation": "",
+        "date": "",
+        "gender": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "p. 120-122",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "6079",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.478714,
+          41.895163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Odeum",
         "hexcolor": "ff0000",
         "gendercolor": "888888",
@@ -3977,7 +4121,7 @@
         "location": "",
         "city": "Rome",
         "country": "Italy",
-        "latitude": "41.897237",
+        "latitude": "",
         "longitude": "12.473672",
         "orientation": "",
         "date": "",
@@ -3997,6 +4141,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "23774",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4004,7 +4149,7 @@
         "type": "Point",
         "coordinates": [
           12.473672,
-          41.897237
+          0
         ]
       }
     },
@@ -4018,7 +4163,7 @@
         "location": "Capitoline Hill",
         "city": "Rome",
         "country": "Italy",
-        "latitude": "",
+        "latitude": "41.895163, 12.478714",
         "longitude": "",
         "orientation": "",
         "date": "",
@@ -4038,12 +4183,16 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": ""
+        "coordinates": [
+          0,
+          41.895163
+        ]
       }
     },
     {
@@ -4076,6 +4225,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4096,7 +4246,7 @@
         "country": "Italy",
         "latitude": "41.89856",
         "longitude": "12.47685",
-        "orientation": "",
+        "orientation": "354",
         "date": "126 CE",
         "gender": "",
         "dedicationday": "",
@@ -4114,6 +4264,7 @@
         "vici.org": "7853",
         "pleiades": "128044615",
         "dare": "",
+        "arachne": "5664",
         "wikipedia": "",
         "wikidata": "Q99309"
       },
@@ -4155,6 +4306,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "10557",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4193,6 +4345,7 @@
         "vici.org": "11602",
         "pleiades": "494660670",
         "dare": "22924",
+        "arachne": "5932",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4234,6 +4387,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4272,6 +4426,7 @@
         "vici.org": "",
         "pleiades": "423024",
         "dare": "37158",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4313,6 +4468,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4328,12 +4484,12 @@
         "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
-        "location": "",
+        "location": "Forum",
         "city": "Rome",
         "country": "Italy",
         "latitude": "41.892666",
         "longitude": "12.484187",
-        "orientation": "15",
+        "orientation": "32",
         "date": "498 BCE",
         "gender": "M",
         "dedicationday": "",
@@ -4351,6 +4507,7 @@
         "vici.org": "15012",
         "pleiades": "",
         "dare": "",
+        "arachne": "5644",
         "wikipedia": "",
         "wikidata": "Q746721"
       },
@@ -4392,6 +4549,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4430,6 +4588,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4468,6 +4627,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4509,6 +4669,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4547,6 +4708,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4588,6 +4750,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4626,6 +4789,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4664,6 +4828,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "3467479",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4705,6 +4870,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4743,6 +4909,7 @@
         "vici.org": "",
         "pleiades": "423064",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4784,6 +4951,7 @@
         "vici.org": "17964",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": "Q764141"
       },
@@ -4825,6 +4993,7 @@
         "vici.org": "15008",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4848,7 +5017,7 @@
         "country": "Italy",
         "latitude": "41.8942",
         "longitude": "12.4848",
-        "orientation": "",
+        "orientation": "130",
         "date": "46 BCE",
         "gender": "F",
         "dedicationday": "",
@@ -4866,6 +5035,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "5656",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4907,6 +5077,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4927,7 +5098,7 @@
         "country": "Italy",
         "latitude": "41.895335",
         "longitude": "12.473014",
-        "orientation": "",
+        "orientation": "90",
         "date": "55 BCE",
         "gender": "F",
         "dedicationday": "",
@@ -4945,6 +5116,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -4963,12 +5135,12 @@
         "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
-        "location": "",
+        "location": "Forum",
         "city": "Rome",
         "country": "Italy",
         "latitude": "41.892876",
         "longitude": "12.484081",
-        "orientation": "",
+        "orientation": "119",
         "date": "",
         "gender": "M",
         "dedicationday": "",
@@ -4986,6 +5158,7 @@
         "vici.org": "15042",
         "pleiades": "",
         "dare": "",
+        "arachne": "5643",
         "wikipedia": "",
         "wikidata": "Q731284"
       },
@@ -5009,7 +5182,7 @@
         "country": "Itay",
         "latitude": "41.891792",
         "longitude": "12.486141",
-        "orientation": "",
+        "orientation": "35",
         "date": "575 BCE",
         "gender": "F",
         "dedicationday": "",
@@ -5027,6 +5200,7 @@
         "vici.org": "15010",
         "pleiades": "",
         "dare": "",
+        "arachne": "8407",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -5068,6 +5242,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -5109,6 +5284,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -5147,6 +5323,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -5185,6 +5362,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -5223,6 +5401,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
+        "arachne": "",
         "wikipedia": "",
         "wikidata": ""
       },
