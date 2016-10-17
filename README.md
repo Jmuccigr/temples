@@ -20,3 +20,5 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 ## Scripts
 
 These are so far mostly AppleScripts with some shell commands embedded in them.
+
+- ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl- json2js.sh: Take the file created by ggl2geojson.sh and copy it into a javascript file that leaflet can use.
