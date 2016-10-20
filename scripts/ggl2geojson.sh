@@ -9,9 +9,7 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
-jqPath=$(dirname $(which jq))
-ogrPath=$(dirname $(which ogr2ogr))
-export PATH=$jqPath:$ogrPath:$PATH
+export PATH="/usr/local/bin:/usr/local/opt/gdal-20/bin:$PATH"
 
 # Create the vrt file for the conversion from csv to geojson
 text="      <OGRVRTDataSource>"
@@ -29,7 +27,7 @@ echo $text > "$temp/sheet.vrt"
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
 if [ -z xml ]
    then
-   echo 1>&2 "No result from Google spreadsheet server"
+   echo "$(date): No result from Google spreadsheet server" 1>&2
    exit
 fi
 
@@ -71,7 +69,6 @@ then
 	text="$text ]}"
 	echo $(echo $text | sed 's/, \]\}/\]\}/') >> "$temp/temples.json"
 	jq '.' "$temp/temples.json" > "$dest/maps/temples.json"
-
 else
-  echo "$(date): There was a problem with the json file." 1>&2
+  echo "$(date): There was a problem creating the json file." 1>&2
 fi
