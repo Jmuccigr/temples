@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "name": "Aesculapius",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Tiber Island",
@@ -46,8 +45,48 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Apollo Palatinus",
+        "gendercolor": "000000",
+        "type": "temple",
+        "location": "Palatine Hill",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.888854",
+        "longitude": "12.485741",
+        "orientation": "227",
+        "date": "28 BCE",
+        "gender": "M",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "Blake, Stamper",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "",
+        "richardson": "",
+        "stamper": "p. 116",
+        "ziolkowski": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "8606",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485741,
+          41.888854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Apollo Sosianus/Medicus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -89,7 +128,6 @@
       "type": "Feature",
       "properties": {
         "name": "Bellona",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -131,7 +169,6 @@
       "type": "Feature",
       "properties": {
         "name": "Bona Dea",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Lesser Aventine",
@@ -173,7 +210,6 @@
       "type": "Feature",
       "properties": {
         "name": "Capitolium",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -215,7 +251,6 @@
       "type": "Feature",
       "properties": {
         "name": "Castor(es)",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum",
@@ -257,7 +292,6 @@
       "type": "Feature",
       "properties": {
         "name": "Ceres and Faustina",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -299,7 +333,6 @@
       "type": "Feature",
       "properties": {
         "name": "Cessati Spiriti",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -341,7 +374,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Claudius",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Caelian Hill",
@@ -367,7 +399,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "6228",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -383,7 +415,6 @@
       "type": "Feature",
       "properties": {
         "name": "Concord",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum",
@@ -425,15 +456,14 @@
       "type": "Feature",
       "properties": {
         "name": "Cybele/Magna Mater",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
         "country": "Italy",
-        "latitude": "41.889736",
-        "longitude": "12.485042",
-        "orientation": "",
+        "latitude": "41.889554",
+        "longitude": "12.484984",
+        "orientation": "203",
         "date": "191 BCE",
         "gender": "F",
         "dedicationday": "",
@@ -458,8 +488,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.485042,
-          41.889736
+          12.484984,
+          41.889554
         ]
       }
     },
@@ -467,7 +497,6 @@
       "type": "Feature",
       "properties": {
         "name": "Dea Dia",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -509,7 +538,6 @@
       "type": "Feature",
       "properties": {
         "name": "Diana",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Aventine",
@@ -551,7 +579,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Antoninus and Diva Faustina",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -593,7 +620,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Augustus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -635,7 +661,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Julius",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -677,7 +702,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Romulus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum",
@@ -719,7 +743,6 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Trajan",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum of Trajan",
@@ -761,7 +784,6 @@
       "type": "Feature",
       "properties": {
         "name": "Elagabal",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -803,7 +825,6 @@
       "type": "Feature",
       "properties": {
         "name": "Feronia",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -845,7 +866,6 @@
       "type": "Feature",
       "properties": {
         "name": "Fides",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Capitoline",
@@ -887,7 +907,6 @@
       "type": "Feature",
       "properties": {
         "name": "Fortis Fortuna",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -929,7 +948,6 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna Huiusce Diei",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -971,7 +989,6 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum Boarium",
@@ -1013,7 +1030,6 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna Muliebris",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -1055,7 +1071,6 @@
       "type": "Feature",
       "properties": {
         "name": "Hadrian",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Campus Martius",
@@ -1097,7 +1112,6 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Musarum",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1139,7 +1153,6 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Victor/Invictus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum Boarium",
@@ -1181,7 +1194,6 @@
       "type": "Feature",
       "properties": {
         "name": "Il Torraccio",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -1223,7 +1235,6 @@
       "type": "Feature",
       "properties": {
         "name": "Isis at via Labicana",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -1265,7 +1276,6 @@
       "type": "Feature",
       "properties": {
         "name": "Isis/Serapis",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -1307,7 +1317,6 @@
       "type": "Feature",
       "properties": {
         "name": "Janus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1333,7 +1342,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "10761",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1349,7 +1358,6 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Curritis",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -1391,7 +1399,6 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Regina",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Aventine Hill",
@@ -1433,7 +1440,6 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Sospita",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1475,7 +1481,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1517,7 +1522,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1559,7 +1563,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1601,7 +1604,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1643,7 +1645,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1685,7 +1686,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Anxur",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1727,7 +1727,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Capitolinus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1753,7 +1752,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "3910430",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -1769,7 +1768,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Custos",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1811,7 +1809,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Dolichenus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Aventine Hill",
@@ -1853,7 +1850,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Optimus Maximus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1895,7 +1891,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Pompeii",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -1937,7 +1932,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Campus Martius",
@@ -1979,7 +1973,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -2021,7 +2014,6 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter/Baalshamin",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -2063,7 +2055,6 @@
       "type": "Feature",
       "properties": {
         "name": "Juturna",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -2105,7 +2096,6 @@
       "type": "Feature",
       "properties": {
         "name": "Lares Permarini",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "Campus Martius",
@@ -2147,7 +2137,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mars Ultor",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum of Augustus",
@@ -2189,7 +2178,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mater Matuta",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum Boarium",
@@ -2231,7 +2219,6 @@
       "type": "Feature",
       "properties": {
         "name": "Matidia",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -2273,7 +2260,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mausoleo di Romolo",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "",
@@ -2315,7 +2301,6 @@
       "type": "Feature",
       "properties": {
         "name": "Minerva Medica",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Esquiline Hill",
@@ -2356,8 +2341,48 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Minerva",
+        "gendercolor": "ffffff",
+        "type": "temple",
+        "location": "Forum of Nerva",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.893664",
+        "longitude": "12.487089",
+        "orientation": "",
+        "date": "",
+        "gender": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "Arachne",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "8405",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487089,
+          41.893664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Mithraeum Barberini",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2399,7 +2424,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Orazio Muti",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2441,7 +2465,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of San Clemente",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2483,7 +2506,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santa Prisca",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2525,7 +2547,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santo Stefano Rotondo",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2567,7 +2588,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Baths of Caracalla",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2609,7 +2629,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Campidoglio",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2651,7 +2670,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Circus Maximus",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2693,7 +2711,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Crypta Balbi",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2735,7 +2752,6 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Esquiline",
-        "hexcolor": "0000ff",
         "gendercolor": "888888",
         "type": "mithraeum",
         "location": "",
@@ -2777,7 +2793,6 @@
       "type": "Feature",
       "properties": {
         "name": "Monte del Grano",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -2819,7 +2834,6 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum of the Villa dei Quintili",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -2861,7 +2875,6 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum Septizodium",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "Campus Martius",
@@ -2903,7 +2916,6 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphs",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -2944,57 +2956,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Odeum",
-        "hexcolor": "ff0000",
-        "gendercolor": "888888",
-        "type": "temple",
-        "location": "",
-        "city": "Rome",
-        "country": "Italy",
-        "latitude": "",
-        "longitude": "12.473672",
-        "orientation": "",
-        "date": "",
-        "gender": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "blake": "",
-        "coarellicm": "",
-        "platnerandashby": "",
-        "richardson": "",
-        "stamper": "",
-        "ziolkowski": "",
-        "note": "DARE",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "23774",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.473672,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ops Opifera",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
         "country": "Italy",
-        "latitude": "41.895163, 12.478714",
-        "longitude": "",
+        "latitude": "41.895163",
+        "longitude": "12.478714",
         "orientation": "",
         "date": "",
         "gender": "",
@@ -3020,7 +2989,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
+          12.478714,
           41.895163
         ]
       }
@@ -3029,7 +2998,6 @@
       "type": "Feature",
       "properties": {
         "name": "Pantheon",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "Campus Martius",
@@ -3071,7 +3039,6 @@
       "type": "Feature",
       "properties": {
         "name": "Portunus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum Boarium",
@@ -3113,7 +3080,6 @@
       "type": "Feature",
       "properties": {
         "name": "Robigo",
-        "hexcolor": "000000",
         "gendercolor": "888888",
         "type": "sanctuary",
         "location": "",
@@ -3155,7 +3121,6 @@
       "type": "Feature",
       "properties": {
         "name": "Saturn",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum",
@@ -3197,7 +3162,6 @@
       "type": "Feature",
       "properties": {
         "name": "Spes",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -3223,7 +3187,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "10760",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3239,7 +3203,6 @@
       "type": "Feature",
       "properties": {
         "name": "Sybil",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -3281,7 +3244,6 @@
       "type": "Feature",
       "properties": {
         "name": "Temple of S. Salvatore in Campo",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -3323,7 +3285,6 @@
       "type": "Feature",
       "properties": {
         "name": "Tomb of Cecilia Metella",
-        "hexcolor": "00ff00",
         "gendercolor": "ffffff",
         "type": "tomb",
         "location": "Via Appia",
@@ -3365,7 +3326,6 @@
       "type": "Feature",
       "properties": {
         "name": "Veiovis",
-        "hexcolor": "ff0000",
         "gendercolor": "888888",
         "type": "temple",
         "location": "",
@@ -3391,7 +3351,7 @@
         "vici.org": "17964",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "1319962",
         "wikipedia": "",
         "wikidata": "Q764141"
       },
@@ -3407,7 +3367,6 @@
       "type": "Feature",
       "properties": {
         "name": "Venus and Rome",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -3433,7 +3392,7 @@
         "vici.org": "15008",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "7481",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3449,7 +3408,6 @@
       "type": "Feature",
       "properties": {
         "name": "Venus Genetrix",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum of Julius",
@@ -3491,7 +3449,6 @@
       "type": "Feature",
       "properties": {
         "name": "Venus Victrix",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Campus Martius",
@@ -3533,7 +3490,6 @@
       "type": "Feature",
       "properties": {
         "name": "Vespasian and Titus",
-        "hexcolor": "ff0000",
         "gendercolor": "000000",
         "type": "temple",
         "location": "Forum",
@@ -3575,7 +3531,6 @@
       "type": "Feature",
       "properties": {
         "name": "Vesta",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "Forum",
@@ -3617,7 +3572,6 @@
       "type": "Feature",
       "properties": {
         "name": "Vesta",
-        "hexcolor": "ff0000",
         "gendercolor": "ffffff",
         "type": "temple",
         "location": "",
@@ -3643,7 +3597,7 @@
         "vici.org": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "11457",
         "wikipedia": "",
         "wikidata": ""
       },
@@ -3652,6 +3606,47 @@
         "coordinates": [
           12.8009,
           41.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria",
+        "gendercolor": "ffffff",
+        "type": "temple",
+        "location": "Palatine Hill",
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": "41.889418",
+        "longitude": "12.48521",
+        "orientation": "219",
+        "date": "294 BCE",
+        "gender": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "Stamper",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "p. 570",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "",
+        "note": "Pleiades",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48521,
+          41.889418
         ]
       }
     }
