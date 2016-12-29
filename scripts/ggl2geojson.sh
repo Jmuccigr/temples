@@ -48,6 +48,8 @@ if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/\"\"/g"  | jq '.' | \
 	   grep -v -e \"id\": \
+	   -e \"latitude\": \
+	   -e \"longitude\": \
 	   -e \"title\": \
 	   -e \"title_type\": \
 	   -e \"updated\": \
