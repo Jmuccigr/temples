@@ -35,8 +35,9 @@ fi
 echo $xml | tidy -xml -iq | sed 's/gsx://g' > "$temp/sheet.xml"
 
 # Convert to csv
+# perl bit adds a date stamp to the warning output for log file
 rm "$temp/sheet.csv" 2>/dev/null
-ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml"
+ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Convert to bad geojson
 rm "$temp/sheet.json" 2>/dev/null
