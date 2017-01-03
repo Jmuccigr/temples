@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>testing leaflet</title>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<style>		#map { height: 600px; width: 80%; margin: auto;}
+	</style>
+</head>
+<body>
+<div id="map">
+</div>
+<script src="temples.js" type="text/javascript">
+</script>
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js">
+</script>
+<script>
+	var newIcon = L.Icon.extend( {} );
+	
+	var map = L.map('map', {center: [41.893, 12.48], zoom: 16});
+	
+	L.geoJson(temples, {
+		  pointToLayer: function (feature, latLng) {
+	          return new L.Marker(latLng, {
+	            icon: new newIcon({
+	              iconUrl: 'Jupiter_OpMax.png',
+	              iconSize: [30,35],
+	              shadowAnchor: [8, 20],
+	              shadowSize: [25, 18],
+	              iconSize: [40, 50],
+	              iconAnchor: [8, 30] // horizontal puis vertical
+	            })
+	          })
+	      },
+	    onEachFeature: function (feature, layer) {
+	        layer.bindPopup(feature.properties.name)
+	        }
+	    }
+	    ).addTo(map);
+	    
+	/* 
+	L.geoJson(temples, {
+		onEachFeature: function (feature, layer) {
+	        layer.bindPopup(feature.properties.name)
+	        }}).addTo(map);
+	 */
+	
+	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+	    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+	    maxZoom: 20,
+	    id: 'mapbox.streets',
+	    accessToken: 'pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ'
+	}).addTo(map);
+</script>
+</body>
+</html>

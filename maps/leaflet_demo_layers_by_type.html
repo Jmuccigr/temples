@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Roman Sacred Buildings</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+<!-- Pretty Stamen maps -->
+	<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
+<!--  My datafile -->
+	<script src="temples.js" type="text/javascript"></script>
+
+	<style>
+		#map {
+			width: 80%;
+			height: 600px;
+			margin: auto;
+			border: 2px black solid;
+		}
+	</style>
+
+</head>
+<body>
+
+<div id='map'></div>
+
+<script type="text/javascript" src="scripts/load_icons.js"></script>
+<script type="text/javascript" src="scripts/layer_by_century.js"></script>
+
+<script>
+
+/* 
+   For testing
+	map.on('click', function() {
+	alert(map.getCenter());
+	});
+ */
+
+</script>
+
+</body>
+</html>
