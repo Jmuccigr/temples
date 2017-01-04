@@ -24,7 +24,7 @@
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: arrowIcon,
-                rotationAngle: feature.properties.orientation,
+                rotationAngle: feature.properties.name,
                 rotationOrigin: 'center, center'
             })
         },
