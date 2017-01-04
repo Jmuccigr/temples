@@ -15,31 +15,26 @@ var awmcAttr = 'Powered by <a href="http://leafletjs.com/">Leaflet</a> and <a hr
 var osmAttr = 'OpenStreetMap',
     osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
-var grayscale = L.tileLayer(mbUrl,
-    {
+var grayscale = L.tileLayer(mbUrl, {
         id: 'mapbox.light',
         attribution: mbAttr
     }),
     // 	streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr}),
-    osm = L.tileLayer(osmUrl,
-    {
+    osm = L.tileLayer(osmUrl, {
         attribution: osmAttr
     }),
-    satellite = L.tileLayer(mbUrl,
-    {
+    satellite = L.tileLayer(mbUrl, {
         id: 'mapbox.satellite',
         attribution: mbAttr
     }),
     watercolor = new L.StamenTileLayer("watercolor"),
     toner = new L.StamenTileLayer("toner"),
     terrain = new L.StamenTileLayer("terrain"),
-    imperium = L.tileLayer(dareUrl,
-    {
+    imperium = L.tileLayer(dareUrl, {
         maxZoom: 11,
         attribution: dareAttr
     }),
-    awmc = L.tileLayer(awmcUrl,
-    {
+    awmc = L.tileLayer(awmcUrl, {
         maxZoom: 12,
         attribution: awmcAttr
     });
@@ -53,5 +48,4 @@ var baseLayers = {
     "Watercolor": watercolor,
     "Imperium": imperium,
     "Ancient terrain": awmc
-
 };
