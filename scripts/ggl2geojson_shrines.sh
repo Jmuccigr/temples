@@ -4,7 +4,7 @@
 
 # Set up some variables
 me=$(whoami)
-key="1MTaQnTbRu1hxuw-Ggfch_tvgHwc12jvEo4jr1zerZL8"
+key=$(cat "/Users/$me/Documents/Academic/Research/temples_key.txt")
 dest="/Users/$me/Documents/github/local/shrines"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
