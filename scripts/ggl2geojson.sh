@@ -11,6 +11,14 @@ temp=$(echo $TMPDIR | sed 's:/$::')
 # Path to include homebrew stuff like jq for running via launchctl
 export PATH="/usr/local/bin:/usr/local/opt/gdal-20/bin:$PATH"
 
+# Get google doc as xml via the public feed & exit on failure to return any/enough data
+xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
+if [ ${#xml} -lt 100 ]
+   then
+   echo "$(date): Too little or no data from Google spreadsheet server" 1>&2
+   exit
+fi
+
 # Create the vrt file for the conversion from csv to geojson
 text="      <OGRVRTDataSource>"
 text="$text     <OGRVRTLayer name=\"sheet\">"
@@ -23,15 +31,7 @@ text="$text </OGRVRTDataSource>"
 
 echo $text > "$temp/sheet.vrt"
 
-# Get google doc as xml via the public feed
-xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
-if [ -z xml ]
-   then
-   echo "$(date): No result from Google spreadsheet server" 1>&2
-   exit
-fi
-
-# Clean up the entry names & save to file for ogr2ogr
+# Clean up the entry names in the xml & save to file for ogr2ogr
 echo $xml | tidy -xml -iq | sed 's/gsx://g' > "$temp/sheet.xml"
 
 # Convert to csv
@@ -39,12 +39,26 @@ echo $xml | tidy -xml -iq | sed 's/gsx://g' > "$temp/sheet.xml"
 rm "$temp/sheet.csv" 2>/dev/null
 ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
+# Make sure something has changed or else exit
+csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2)
+echo $csvdiff
+if [ ${#csvdiff} -eq 0 ]
+   then
+   echo "$(date): No change!" 1>&2
+   exit
+fi
+echo "hi"
+
+# Save a copy of the csv file
+cp "$temp/sheet.csv" "$dest/temples.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+
 # Convert to bad geojson
 rm "$temp/sheet.json" 2>/dev/null
 ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 
-# Clear false 0,0 coords resulting from empty fields, and remove some unwanted properties that were stuck in during the xml export.
-# make sure file exists or else something went wrong
+# Clear false 0,0 coords resulting from empty fields, and remove some unwanted
+# properties that were stuck in during the xml export, after making sure that
+# file exists or else something went wrong
 if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/\"\"/g"  | jq '.' | \
