@@ -19,12 +19,12 @@
 
     L.geoJson(temples, {
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.orientation)
+            layer.bindPopup(feature.properties.name)
         },
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: arrowIcon,
-                rotationAngle: feature.properties.name,
+                rotationAngle: feature.properties.orientation,
                 rotationOrigin: 'center, center'
             })
         },
