@@ -15,7 +15,7 @@ export PATH="/usr/local/bin:/usr/local/opt/gdal-20/bin:$PATH"
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
 if [ ${#xml} -lt 100 ]
    then
-   echo "$(date): Too little or no data from Google spreadsheet server" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no data from Google spreadsheet server" 1>&2
    exit
 fi
 
@@ -40,14 +40,12 @@ rm "$temp/sheet.csv" 2>/dev/null
 ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Make sure something has changed or else exit
-csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2)
-echo $csvdiff
+csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv")
 if [ ${#csvdiff} -eq 0 ]
    then
-   echo "$(date): No change!" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
    exit
 fi
-echo "hi"
 
 # Save a copy of the csv file
 cp "$temp/sheet.csv" "$dest/temples.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
@@ -87,5 +85,6 @@ then
 	echo $(echo $text | sed 's/, \]\}/\]\}/') >> "$temp/temples.json"
 	jq '.' "$temp/temples.json" > "$dest/maps/temples.json"
 else
-  echo "$(date): There was a problem creating the json file." 1>&2
+  echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
+  exit
 fi
