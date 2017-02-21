@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Aesculapius",
+        "id2": "1000001",
         "type": "temple",
         "location": "Tiber Island",
         "city": "Rome",
@@ -46,6 +47,7 @@
       "type": "Feature",
       "properties": {
         "name": "Apollo Palatinus",
+        "id2": "1000002",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -87,6 +89,7 @@
       "type": "Feature",
       "properties": {
         "name": "Apollo Sosianus/Medicus",
+        "id2": "1000003",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -128,6 +131,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bellona",
+        "id2": "1000004",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -169,6 +173,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bona Dea",
+        "id2": "1000005",
         "type": "temple",
         "location": "Lesser Aventine",
         "city": "Rome",
@@ -210,6 +215,7 @@
       "type": "Feature",
       "properties": {
         "name": "Capitolium",
+        "id2": "1000006",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -251,6 +257,7 @@
       "type": "Feature",
       "properties": {
         "name": "Castor(es)",
+        "id2": "1000007",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -292,6 +299,7 @@
       "type": "Feature",
       "properties": {
         "name": "Castor and Pollux",
+        "id2": "1000008",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -330,6 +338,7 @@
       "type": "Feature",
       "properties": {
         "name": "Ceres and Faustina",
+        "id2": "1000009",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -371,6 +380,7 @@
       "type": "Feature",
       "properties": {
         "name": "Ceres, Liber, Libra",
+        "id2": "1000010",
         "type": "temple",
         "location": "Aventine",
         "city": "Rome",
@@ -409,6 +419,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cessati Spiriti",
+        "id2": "1000011",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -450,6 +461,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Claudius",
+        "id2": "1000012",
         "type": "temple",
         "location": "Caelian Hill",
         "city": "Rome",
@@ -491,6 +503,7 @@
       "type": "Feature",
       "properties": {
         "name": "Concord",
+        "id2": "1000013",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -532,6 +545,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cybele/Magna Mater",
+        "id2": "1000014",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -573,6 +587,7 @@
       "type": "Feature",
       "properties": {
         "name": "Dea Dia",
+        "id2": "1000015",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -614,6 +629,7 @@
       "type": "Feature",
       "properties": {
         "name": "Diana",
+        "id2": "1000016",
         "type": "temple",
         "location": "Aventine",
         "city": "Rome",
@@ -655,6 +671,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Antoninus and Diva Faustina",
+        "id2": "1000017",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -696,6 +713,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Augustus",
+        "id2": "1000018",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -737,6 +755,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Julius",
+        "id2": "1000019",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -778,6 +797,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Romulus",
+        "id2": "1000020",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -819,6 +839,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Trajan",
+        "id2": "1000021",
         "type": "temple",
         "location": "Forum of Trajan",
         "city": "Rome",
@@ -860,6 +881,7 @@
       "type": "Feature",
       "properties": {
         "name": "Elagabal",
+        "id2": "1000022",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -901,6 +923,7 @@
       "type": "Feature",
       "properties": {
         "name": "Feronia",
+        "id2": "1000023",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -942,6 +965,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fides",
+        "id2": "1000024",
         "type": "temple",
         "location": "Capitoline",
         "city": "Rome",
@@ -983,6 +1007,7 @@
       "type": "Feature",
       "properties": {
         "name": "Flora",
+        "id2": "1000025",
         "type": "temple",
         "location": "Circus Maximus",
         "city": "Rome",
@@ -1021,6 +1046,7 @@
       "type": "Feature",
       "properties": {
         "name": "Flora",
+        "id2": "1000026",
         "type": "temple",
         "location": "Quirinal",
         "city": "Rome",
@@ -1059,6 +1085,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fontus",
+        "id2": "1000027",
         "type": "temple",
         "location": "Quirinal",
         "city": "Rome",
@@ -1097,6 +1124,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fortis Fortuna",
+        "id2": "1000028",
         "type": "temple",
         "location": "Right bank of Tiber",
         "city": "Rome",
@@ -1135,6 +1163,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna Huiusce Diei",
+        "id2": "1000029",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1176,6 +1205,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna",
+        "id2": "1000030",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -1217,6 +1247,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fortuna Muliebris",
+        "id2": "1000031",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1258,6 +1289,7 @@
       "type": "Feature",
       "properties": {
         "name": "Divus Hadrian",
+        "id2": "1000032",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1299,6 +1331,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Magnus Custos",
+        "id2": "1000033",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1337,6 +1370,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Musarum",
+        "id2": "1000034",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1378,6 +1412,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Victor",
+        "id2": "1000035",
         "type": "temple",
         "location": "Caelian Hill",
         "city": "Rome",
@@ -1416,6 +1451,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Victor",
+        "id2": "1000036",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -1454,6 +1490,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hercules Victor/Invictus",
+        "id2": "1000037",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -1495,6 +1532,7 @@
       "type": "Feature",
       "properties": {
         "name": "Honor and Virtue",
+        "id2": "1000038",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1533,6 +1571,7 @@
       "type": "Feature",
       "properties": {
         "name": "Il Torraccio",
+        "id2": "1000039",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1574,6 +1613,7 @@
       "type": "Feature",
       "properties": {
         "name": "Isis at via Labicana",
+        "id2": "1000040",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1615,6 +1655,7 @@
       "type": "Feature",
       "properties": {
         "name": "Isis/Serapis",
+        "id2": "1000041",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1656,6 +1697,7 @@
       "type": "Feature",
       "properties": {
         "name": "Janus",
+        "id2": "1000042",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -1697,6 +1739,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Curritis",
+        "id2": "1000043",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1738,6 +1781,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Lucina",
+        "id2": "1000044",
         "type": "temple",
         "location": "Esquiline Hill",
         "city": "Rome",
@@ -1776,6 +1820,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Moneta",
+        "id2": "1000045",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -1814,6 +1859,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Regina",
+        "id2": "1000046",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -1855,6 +1901,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Regina",
+        "id2": "1000047",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1896,6 +1943,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juno Sospita",
+        "id2": "1000048",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -1937,6 +1985,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id2": "1000049",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1978,6 +2027,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id2": "1000050",
         "type": "temple",
         "location": "",
         "city": "Jerusalem",
@@ -2019,6 +2069,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id2": "1000051",
         "type": "temple",
         "location": "",
         "city": "Damascus",
@@ -2060,6 +2111,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id2": "1000052",
         "type": "temple",
         "location": "",
         "city": "Yarbrud",
@@ -2101,6 +2153,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id2": "1000053",
         "type": "temple",
         "location": "",
         "city": "Baalbek",
@@ -2142,6 +2195,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Anxur",
+        "id2": "1000054",
         "type": "temple",
         "location": "",
         "city": "Terracina",
@@ -2183,6 +2237,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Conservator",
+        "id2": "1000055",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2221,6 +2276,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Custos",
+        "id2": "1000056",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2262,6 +2318,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Dolichenus",
+        "id2": "1000057",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -2303,6 +2360,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Feretrius",
+        "id2": "1000058",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2341,6 +2399,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Heliopolitanus",
+        "id2": "1000059",
         "type": "temple",
         "location": "Janiculum",
         "city": "Rome",
@@ -2379,6 +2438,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Invictus",
+        "id2": "1000060",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -2417,6 +2477,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Libertas",
+        "id2": "1000061",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -2455,6 +2516,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Capitolinus/Optimus Maximus",
+        "id2": "1000062",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2496,6 +2558,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Patulaeius",
+        "id2": "1000063",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -2534,6 +2597,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Pompeii",
+        "id2": "1000064",
         "type": "temple",
         "location": "",
         "city": "Pompeii",
@@ -2575,6 +2639,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Sospita",
+        "id2": "1000065",
         "type": "temple",
         "location": "",
         "city": "",
@@ -2613,6 +2678,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
+        "id2": "1000066",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2654,6 +2720,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
+        "id2": "1000067",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -2695,6 +2762,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Tonans",
+        "id2": "1000068",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2733,6 +2801,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter Victor",
+        "id2": "1000069",
         "type": "temple",
         "location": "Quirinal Hill",
         "city": "Rome",
@@ -2771,6 +2840,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jupiter/Baalshamin",
+        "id2": "1000070",
         "type": "temple",
         "location": "",
         "city": "Kedesh",
@@ -2812,6 +2882,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juturna",
+        "id2": "1000071",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2853,6 +2924,7 @@
       "type": "Feature",
       "properties": {
         "name": "Juventas",
+        "id2": "1000072",
         "type": "temple",
         "location": "Circus Maximus",
         "city": "Rome",
@@ -2891,6 +2963,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lares",
+        "id2": "1000073",
         "type": "temple",
         "location": "in summa Sacra Via",
         "city": "Rome",
@@ -2929,6 +3002,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lares Permarini",
+        "id2": "1000074",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2970,6 +3044,7 @@
       "type": "Feature",
       "properties": {
         "name": "Luna",
+        "id2": "1000075",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -3008,6 +3083,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mars",
+        "id2": "1000076",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -3046,6 +3122,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mars",
+        "id2": "1000077",
         "type": "temple",
         "location": "North Via Appia",
         "city": "Rome",
@@ -3084,6 +3161,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mars Ultor",
+        "id2": "1000078",
         "type": "temple",
         "location": "Forum of Augustus",
         "city": "Rome",
@@ -3125,6 +3203,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mater Matuta",
+        "id2": "1000079",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -3166,6 +3245,7 @@
       "type": "Feature",
       "properties": {
         "name": "Matidia",
+        "id2": "1000080",
         "type": "temple",
         "location": "",
         "city": "",
@@ -3207,6 +3287,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mausoleo di Romolo",
+        "id2": "1000081",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3248,6 +3329,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mercury",
+        "id2": "1000082",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -3286,6 +3368,7 @@
       "type": "Feature",
       "properties": {
         "name": "Minerva",
+        "id2": "1000083",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -3324,6 +3407,7 @@
       "type": "Feature",
       "properties": {
         "name": "Minerva Medica",
+        "id2": "1000084",
         "type": "temple",
         "location": "Esquiline Hill",
         "city": "Rome",
@@ -3365,6 +3449,7 @@
       "type": "Feature",
       "properties": {
         "name": "Minerva",
+        "id2": "1000085",
         "type": "temple",
         "location": "Forum of Nerva",
         "city": "Rome",
@@ -3406,6 +3491,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum Barberini",
+        "id2": "1000086",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3447,6 +3533,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Orazio Muti",
+        "id2": "1000087",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3488,6 +3575,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of San Clemente",
+        "id2": "1000088",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3529,6 +3617,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santa Prisca",
+        "id2": "1000089",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3570,6 +3659,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santo Stefano Rotondo",
+        "id2": "1000090",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3611,6 +3701,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Baths of Caracalla",
+        "id2": "1000091",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3652,6 +3743,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Campidoglio",
+        "id2": "1000092",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3693,6 +3785,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Circus Maximus",
+        "id2": "1000093",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3734,6 +3827,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Crypta Balbi",
+        "id2": "1000094",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3775,6 +3869,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Esquiline",
+        "id2": "1000095",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -3816,6 +3911,7 @@
       "type": "Feature",
       "properties": {
         "name": "Monte del Grano",
+        "id2": "1000096",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3857,6 +3953,7 @@
       "type": "Feature",
       "properties": {
         "name": "Neptune",
+        "id2": "1000097",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -3895,6 +3992,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum of the Villa dei Quintili",
+        "id2": "1000098",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3936,6 +4034,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum Septizodium",
+        "id2": "1000099",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -3977,6 +4076,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nymphs",
+        "id2": "1000100",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -4018,6 +4118,7 @@
       "type": "Feature",
       "properties": {
         "name": "Ops Opifera",
+        "id2": "1000101",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -4059,6 +4160,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pales",
+        "id2": "1000102",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -4097,6 +4199,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pantheon",
+        "id2": "1000103",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -4138,6 +4241,7 @@
       "type": "Feature",
       "properties": {
         "name": "Peace",
+        "id2": "1000104",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -4179,6 +4283,7 @@
       "type": "Feature",
       "properties": {
         "name": "Penates",
+        "id2": "1000105",
         "type": "temple",
         "location": "Velian Hill",
         "city": "Rome",
@@ -4217,6 +4322,7 @@
       "type": "Feature",
       "properties": {
         "name": "Portunus",
+        "id2": "1000106",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -4258,6 +4364,7 @@
       "type": "Feature",
       "properties": {
         "name": "Quirinus",
+        "id2": "1000107",
         "type": "temple",
         "location": "Quirinal Hill",
         "city": "Rome",
@@ -4296,6 +4403,7 @@
       "type": "Feature",
       "properties": {
         "name": "Robigo",
+        "id2": "1000108",
         "type": "sanctuary",
         "location": "",
         "city": "Rome",
@@ -4337,6 +4445,7 @@
       "type": "Feature",
       "properties": {
         "name": "Salus",
+        "id2": "1000109",
         "type": "temple",
         "location": "Quirinal Hill",
         "city": "Rome",
@@ -4375,6 +4484,7 @@
       "type": "Feature",
       "properties": {
         "name": "Saturn",
+        "id2": "1000110",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -4416,6 +4526,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sol",
+        "id2": "1000111",
         "type": "temple",
         "location": "Campus Agrippae",
         "city": "Rome",
@@ -4454,6 +4565,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sol et Luna",
+        "id2": "1000112",
         "type": "temple",
         "location": "Circus Maximus",
         "city": "Rome",
@@ -4492,6 +4604,7 @@
       "type": "Feature",
       "properties": {
         "name": "Spes",
+        "id2": "1000113",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -4533,6 +4646,7 @@
       "type": "Feature",
       "properties": {
         "name": "Summanus",
+        "id2": "1000114",
         "type": "temple",
         "location": "Circus Maximus",
         "city": "Rome",
@@ -4571,6 +4685,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sybil",
+        "id2": "1000115",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -4612,6 +4727,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tellus",
+        "id2": "1000116",
         "type": "temple",
         "location": "Esquiline Hill",
         "city": "Rome",
@@ -4650,6 +4766,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tempestates",
+        "id2": "1000117",
         "type": "temple",
         "location": "Porta Capena",
         "city": "Rome",
@@ -4688,6 +4805,7 @@
       "type": "Feature",
       "properties": {
         "name": "Temple of S. Salvatore in Campo",
+        "id2": "1000118",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -4729,6 +4847,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tiberinus",
+        "id2": "1000119",
         "type": "temple",
         "location": "Tiber Island",
         "city": "Rome",
@@ -4767,6 +4886,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tomb of Cecilia Metella",
+        "id2": "1000120",
         "type": "tomb",
         "location": "Via Appia",
         "city": "Rome",
@@ -4808,6 +4928,7 @@
       "type": "Feature",
       "properties": {
         "name": "Veiovis",
+        "id2": "1000121",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -4849,6 +4970,7 @@
       "type": "Feature",
       "properties": {
         "name": "Venus and Rome",
+        "id2": "1000122",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -4890,6 +5012,7 @@
       "type": "Feature",
       "properties": {
         "name": "Venus Genetrix",
+        "id2": "1000123",
         "type": "temple",
         "location": "Forum of Julius",
         "city": "Rome",
@@ -4931,6 +5054,7 @@
       "type": "Feature",
       "properties": {
         "name": "Venus Obsequens",
+        "id2": "1000124",
         "type": "temple",
         "location": "Circus Maximus",
         "city": "Rome",
@@ -4969,6 +5093,7 @@
       "type": "Feature",
       "properties": {
         "name": "Venus Victrix",
+        "id2": "1000125",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -5010,6 +5135,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vespasian and Titus",
+        "id2": "1000126",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -5051,6 +5177,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vesta",
+        "id2": "1000127",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -5092,6 +5219,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vesta",
+        "id2": "1000128",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -5133,6 +5261,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vica Pota",
+        "id2": "1000129",
         "type": "temple",
         "location": "Velian Hill",
         "city": "Rome",
@@ -5171,6 +5300,7 @@
       "type": "Feature",
       "properties": {
         "name": "Victoria",
+        "id2": "1000130",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -5212,6 +5342,7 @@
       "type": "Feature",
       "properties": {
         "name": "Volcanus",
+        "id2": "1000131",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -5250,6 +5381,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vortumnus",
+        "id2": "1000132",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
