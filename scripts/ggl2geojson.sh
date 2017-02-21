@@ -37,14 +37,21 @@ echo $xml | tidy -xml -iq | sed 's/gsx://g' > "$temp/sheet.xml"
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
 rm "$temp/sheet.csv" 2>/dev/null
-ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+rm "$temp/sheet1.csv" 2>/dev/null
+ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+
+# Rename sheet id column and keep mine.
+cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
-csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv")
-if [ ${#csvdiff} -eq 0 ]
-   then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
-   exit
+if [ -s "$dest/temples.csv" ]
+then
+	csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv")
+	if [ ${#csvdiff} -eq 0 ]
+	   then
+	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
+	   exit
+	fi
 fi
 
 # Save a copy of the csv file
@@ -60,7 +67,7 @@ ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/\"\"/g"  | jq '.' | \
-	   grep -v -e \"id\": \
+	   grep -v -e \"googleid\": \
 	   -e \"latitude\": \
 	   -e \"longitude\": \
 	   -e \"title\": \
@@ -87,4 +94,19 @@ then
 else
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
   exit
+fi
+
+# Commit the output json files to git if they've changed
+gitList=$(cd "$dest"; git status -s)
+gitItem=$(echo "$gitList" | grep -e '^ M temples.json$')
+if [ ${#gitItem} -ne 0 ] 
+	then echo "hit" 1>&2
+	cd "$dest"; git commit -m 'Regular update' temples.json
+else echo "miss" 1>&2
+fi
+gitItem=$(echo "$gitList" | grep -e '^ M maps/temples.json$')
+if [ ${#gitItem} -ne 0 ] 
+	then echo "hit 2" 1>&2
+	cd "$dest"; git commit -m 'Regular update' maps/temples.json
+else echo "miss 2" 1>&2
 fi
