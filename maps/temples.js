@@ -5,6 +5,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Aesculapius",
+        "id": "1000001",
         "type": "temple",
         "location": "Tiber Island",
         "city": "Rome",
@@ -46,6 +47,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Apollo Palatinus",
+        "id": "1000002",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -87,6 +89,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Apollo Sosianus/Medicus",
+        "id": "1000003",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -128,6 +131,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Bellona",
+        "id": "1000004",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -169,6 +173,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Bona Dea",
+        "id": "1000005",
         "type": "temple",
         "location": "Lesser Aventine",
         "city": "Rome",
@@ -177,7 +182,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -210,6 +215,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Capitolium",
+        "id": "1000006",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -218,7 +224,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -251,6 +257,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Castor(es)",
+        "id": "1000007",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -292,6 +299,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Ceres and Faustina",
+        "id": "1000009",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -300,7 +308,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -333,6 +341,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Cessati Spiriti",
+        "id": "1000011",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -341,7 +350,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -374,6 +383,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Claudius",
+        "id": "1000012",
         "type": "temple",
         "location": "Caelian Hill",
         "city": "Rome",
@@ -415,6 +425,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Concord",
+        "id": "1000013",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -456,6 +467,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Cybele/Magna Mater",
+        "id": "1000014",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
@@ -497,6 +509,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Dea Dia",
+        "id": "1000015",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -505,7 +518,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -538,6 +551,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Diana",
+        "id": "1000016",
         "type": "temple",
         "location": "Aventine",
         "city": "Rome",
@@ -579,6 +593,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Antoninus and Diva Faustina",
+        "id": "1000017",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -620,6 +635,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Augustus",
+        "id": "1000018",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -628,7 +644,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "Emperor",
@@ -661,6 +677,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Julius",
+        "id": "1000019",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -702,6 +719,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Romulus",
+        "id": "1000020",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -710,7 +728,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -743,6 +761,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Trajan",
+        "id": "1000021",
         "type": "temple",
         "location": "Forum of Trajan",
         "city": "Rome",
@@ -784,6 +803,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Elagabal",
+        "id": "1000022",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -792,7 +812,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -825,6 +845,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Feronia",
+        "id": "1000023",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -866,6 +887,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Fides",
+        "id": "1000024",
         "type": "temple",
         "location": "Capitoline",
         "city": "Rome",
@@ -907,6 +929,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Fortuna Huiusce Diei",
+        "id": "1000029",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -948,6 +971,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Fortuna",
+        "id": "1000030",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -989,6 +1013,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Fortuna Muliebris",
+        "id": "1000031",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -997,7 +1022,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -1030,6 +1055,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Divus Hadrian",
+        "id": "1000032",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1071,6 +1097,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Hercules Musarum",
+        "id": "1000034",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1112,6 +1139,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Hercules Victor/Invictus",
+        "id": "1000037",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -1120,7 +1148,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "13",
         "deitytype": "Hero",
@@ -1153,6 +1181,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Il Torraccio",
+        "id": "1000039",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1161,7 +1190,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -1194,6 +1223,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Isis at via Labicana",
+        "id": "1000040",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1202,7 +1232,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "Foreign",
@@ -1235,6 +1265,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Isis/Serapis",
+        "id": "1000041",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1243,7 +1274,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "Foreign",
@@ -1276,6 +1307,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Janus",
+        "id": "1000042",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -1317,6 +1349,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Juno Curritis",
+        "id": "1000043",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1358,6 +1391,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Juno Regina",
+        "id": "1000046",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -1399,6 +1433,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Juno Regina",
+        "id": "1000047",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1440,6 +1475,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Juno Sospita",
+        "id": "1000048",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -1481,6 +1517,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id": "1000049",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -1489,7 +1526,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -1522,6 +1559,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id": "1000050",
         "type": "temple",
         "location": "",
         "city": "Jerusalem",
@@ -1563,6 +1601,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id": "1000051",
         "type": "temple",
         "location": "",
         "city": "Damascus",
@@ -1604,6 +1643,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id": "1000052",
         "type": "temple",
         "location": "",
         "city": "Yarbrud",
@@ -1612,7 +1652,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -1645,6 +1685,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter",
+        "id": "1000053",
         "type": "temple",
         "location": "",
         "city": "Baalbek",
@@ -1686,6 +1727,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Anxur",
+        "id": "1000054",
         "type": "temple",
         "location": "",
         "city": "Terracina",
@@ -1694,7 +1736,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -1727,6 +1769,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Custos",
+        "id": "1000056",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -1735,7 +1778,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -1768,6 +1811,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Dolichenus",
+        "id": "1000057",
         "type": "temple",
         "location": "Aventine Hill",
         "city": "Rome",
@@ -1776,7 +1820,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -1809,6 +1853,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Capitolinus/Optimus Maximus",
+        "id": "1000062",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -1850,6 +1895,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Pompeii",
+        "id": "1000064",
         "type": "temple",
         "location": "",
         "city": "Pompeii",
@@ -1891,6 +1937,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
+        "id": "1000066",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -1932,6 +1979,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter Stator",
+        "id": "1000067",
         "type": "temple",
         "location": "Circus Flaminius",
         "city": "Rome",
@@ -1973,6 +2021,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Jupiter/Baalshamin",
+        "id": "1000070",
         "type": "temple",
         "location": "",
         "city": "Kedesh",
@@ -1981,7 +2030,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -2014,6 +2063,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Juturna",
+        "id": "1000071",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2055,6 +2105,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Lares Permarini",
+        "id": "1000074",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2096,6 +2147,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mars Ultor",
+        "id": "1000078",
         "type": "temple",
         "location": "Forum of Augustus",
         "city": "Rome",
@@ -2137,6 +2189,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mater Matuta",
+        "id": "1000079",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -2178,6 +2231,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Matidia",
+        "id": "1000080",
         "type": "temple",
         "location": "",
         "city": "",
@@ -2219,6 +2273,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mausoleo di Romolo",
+        "id": "1000081",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -2227,7 +2282,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -2260,6 +2315,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Minerva Medica",
+        "id": "1000084",
         "type": "temple",
         "location": "Esquiline Hill",
         "city": "Rome",
@@ -2301,6 +2357,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Minerva",
+        "id": "1000085",
         "type": "temple",
         "location": "Forum of Nerva",
         "city": "Rome",
@@ -2309,7 +2366,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -2342,6 +2399,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum Barberini",
+        "id": "1000086",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2350,7 +2408,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2383,6 +2441,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Orazio Muti",
+        "id": "1000087",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2391,7 +2450,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2424,6 +2483,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of San Clemente",
+        "id": "1000088",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2432,7 +2492,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2465,6 +2525,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santa Prisca",
+        "id": "1000089",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2473,7 +2534,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2506,6 +2567,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of Santo Stefano Rotondo",
+        "id": "1000090",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2514,7 +2576,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2547,6 +2609,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Baths of Caracalla",
+        "id": "1000091",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2555,7 +2618,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2588,6 +2651,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Campidoglio",
+        "id": "1000092",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2596,7 +2660,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2629,6 +2693,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Circus Maximus",
+        "id": "1000093",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2637,7 +2702,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2670,6 +2735,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Crypta Balbi",
+        "id": "1000094",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2678,7 +2744,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2711,6 +2777,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Mithraeum of the Esquiline",
+        "id": "1000095",
         "type": "mithraeum",
         "location": "",
         "city": "Rome",
@@ -2719,7 +2786,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2752,6 +2819,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Monte del Grano",
+        "id": "1000096",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -2760,7 +2828,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2793,6 +2861,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum of the Villa dei Quintili",
+        "id": "1000098",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -2801,7 +2870,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2834,6 +2903,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Nymphaeum Septizodium",
+        "id": "1000099",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2842,7 +2912,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -2875,6 +2945,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Nymphs",
+        "id": "1000100",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -2883,7 +2954,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -2916,6 +2987,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Ops Opifera",
+        "id": "1000101",
         "type": "temple",
         "location": "Capitoline Hill",
         "city": "Rome",
@@ -2924,7 +2996,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "23",
         "deitytype": "",
@@ -2957,6 +3029,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Pantheon",
+        "id": "1000103",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -2998,6 +3071,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Peace",
+        "id": "1000104",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3039,6 +3113,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Portunus",
+        "id": "1000106",
         "type": "temple",
         "location": "Forum Boarium",
         "city": "Rome",
@@ -3080,6 +3155,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Robigo",
+        "id": "1000108",
         "type": "sanctuary",
         "location": "",
         "city": "Rome",
@@ -3088,7 +3164,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -3121,6 +3197,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Saturn",
+        "id": "1000110",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -3162,6 +3239,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Spes",
+        "id": "1000113",
         "type": "temple",
         "location": "Forum Holitorium",
         "city": "Rome",
@@ -3203,6 +3281,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Sybil",
+        "id": "1000115",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -3244,6 +3323,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Temple of S. Salvatore in Campo",
+        "id": "1000118",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3252,7 +3332,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -3285,6 +3365,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Tomb of Cecilia Metella",
+        "id": "1000120",
         "type": "tomb",
         "location": "Via Appia",
         "city": "Rome",
@@ -3293,7 +3374,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "",
@@ -3326,6 +3407,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Veiovis",
+        "id": "1000121",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3334,7 +3416,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -3367,6 +3449,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Venus and Rome",
+        "id": "1000122",
         "type": "temple",
         "location": "",
         "city": "Rome",
@@ -3408,6 +3491,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Venus Genetrix",
+        "id": "1000123",
         "type": "temple",
         "location": "Forum of Julius",
         "city": "Rome",
@@ -3449,6 +3533,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Venus Victrix",
+        "id": "1000125",
         "type": "temple",
         "location": "Campus Martius",
         "city": "Rome",
@@ -3490,6 +3575,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Vespasian and Titus",
+        "id": "1000126",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -3498,7 +3584,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "0",
+        "century": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "",
@@ -3531,6 +3617,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Vesta",
+        "id": "1000127",
         "type": "temple",
         "location": "Forum",
         "city": "Rome",
@@ -3572,6 +3659,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Vesta",
+        "id": "1000128",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -3613,6 +3701,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "name": "Victoria",
+        "id": "1000130",
         "type": "temple",
         "location": "Palatine Hill",
         "city": "Rome",
