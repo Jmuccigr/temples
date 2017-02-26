@@ -66,7 +66,7 @@ ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 # file exists or else something went wrong
 if [ -s "$temp/sheet.json" ]
 then
-	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/\"\"/g"  | jq '.' | \
+	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/[\"\",\"\"]/g"  | jq '.' | \
 	   grep -v -e \"googleid\": \
 	   -e \"latitude\": \
 	   -e \"longitude\": \
@@ -82,12 +82,12 @@ then
 	   -e \"link_href\": \
 	   > "$temp/temples.json"
 
-	# Get rid of last bit of extra stuff from the xml
+    # Get rid of last bit of extra stuff from the xml
 	jq '{type: .type, features: .features}' "$temp/temples.json" > "$dest/temples.json"
 
-	# For mapping, save a second copy with only entries including coordinates
+    # For mapping, save a second copy with only entries including coordinates
 	head -n 3 "$dest/temples.json" > "$temp/temples.json"
-	text=$(jq -c '.features[] | select (.geometry.coordinates != "")' "$dest/temples.json" | tr '\n' ',')
+	text=$(jq -c '.features[] | select (.geometry.coordinates[0] | length >= 1)' "$dest/temples.json" | tr '\n' ',')
 	text="$text ]}"
 	echo $(echo $text | sed 's/, \]\}/\]\}/') >> "$temp/temples.json"
 	jq '.' "$temp/temples.json" > "$dest/maps/temples.json"
