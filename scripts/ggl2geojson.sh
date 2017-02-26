@@ -44,9 +44,9 @@ ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'B
 cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
-if [ -s "$dest/temples.csv" ]
+if [ -s "$dest/sheet.csv" ]
 then
-	csvdiff=$(diff "$temp/sheet.csv" "$dest/temples.csv")
+	csvdiff=$(diff "$temp/sheet.csv" "$dest/sheet.csv")
 	if [ ${#csvdiff} -eq 0 ]
 	   then
 	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
@@ -55,7 +55,7 @@ then
 fi
 
 # Save a copy of the csv file
-cp "$temp/sheet.csv" "$dest/temples.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+cp "$temp/sheet.csv" "$dest/sheet.csv" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Convert to bad geojson
 rm "$temp/sheet.json" 2>/dev/null
