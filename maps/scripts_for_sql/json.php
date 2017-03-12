@@ -7,16 +7,15 @@
  * GitHub:  https://github.com/bmcbride/PHP-Database-GeoJSON
  */
 $servername = "localhost";
-$username = "";
-$dbname = "temples";
-$password = "";
+$username = "romerese_temples";
+$dbname = "romerese_temples";
+$password = "lXOIw2hVbezz";
 
 # Connect to SQLite database
-    $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
+$conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
 
 # Build SQL SELECT statement and return the geometry as a GeoJSON element
 $sql = 'SELECT * FROM temples where longitude != ""';
-
 
 # Try query or error
 $rs = $conn->query($sql);
@@ -56,5 +55,4 @@ while ($row = $rs->fetch(PDO::FETCH_ASSOC)) {
 //header('Content-type: application/json; charset=utf-8');
 echo json_encode($geojson, JSON_NUMERIC_CHECK);
 $conn = NULL;
-//print_r($geojson);
 ?>
