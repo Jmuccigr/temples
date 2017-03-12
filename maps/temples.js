@@ -1,4 +1,4 @@
-var temples =  {
+var temples = {
   "type": "FeatureCollection",
   "features": [
     {
@@ -278,7 +278,7 @@ var temples =  {
         "platnerandashby": "p. 102",
         "richardson": "p. 74",
         "stamper": "p. 57",
-        "ziolkowski": "p. 107, 203, 237, 242, 267, 268, 276,\n 278,",
+        "ziolkowski": "p. 107, 203, 237, 242, 267, 268, 276,\n 278",
         "note": "Vici.org",
         "vici.org": "15011",
         "pleiades": "",
