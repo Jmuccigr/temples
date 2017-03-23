@@ -1096,10 +1096,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fontus",
+        "name": "Fons/Fontus",
         "id": "1000027",
         "type": "temple",
-        "location": "Quirinal",
+        "location": "extra portam fontinalem",
         "city": "Rome",
         "country": "Italy",
         "orientation": "",
@@ -1118,7 +1118,7 @@
         "platnerandashby": "",
         "richardson": "",
         "stamper": "",
-        "ziolkowski": "",
+        "ziolkowski": "p. 38",
         "note": "",
         "vici.org": "",
         "pleiades": "",
