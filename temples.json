@@ -5544,6 +5544,48 @@
           ""
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moneta",
+        "id": "1000133",
+        "type": "temple",
+        "location": "Alban Mount",
+        "city": "",
+        "country": "Italy",
+        "orientation": "",
+        "date": "-168",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      }
     }
   ]
 }
