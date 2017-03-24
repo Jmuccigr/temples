@@ -100,13 +100,11 @@ fi
 gitList=$(cd "$dest"; git status -s)
 gitItem=$(echo "$gitList" | grep -e '^ M temples.json$')
 if [ ${#gitItem} -ne 0 ] 
-	then echo "hit" 1>&2
+	then echo "$(date +%Y-%m-%d\ %H:%M:%S) temples.json pushed to github" 1>&2
 	cd "$dest"; git commit -m 'Regular update' temples.json
-else echo "miss" 1>&2
 fi
 gitItem=$(echo "$gitList" | grep -e '^ M maps/temples.json$')
 if [ ${#gitItem} -ne 0 ] 
-	then echo "hit 2" 1>&2
+	then echo "$(date +%Y-%m-%d\ %H:%M:%S) temples.json for maps pushed to github" 1>&2
 	cd "$dest"; git commit -m 'Regular update' maps/temples.json
-else echo "miss 2" 1>&2
 fi
