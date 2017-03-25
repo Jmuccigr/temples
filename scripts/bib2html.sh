@@ -32,3 +32,10 @@ nocite: |
   '@*'
 ...
 " | pandoc --filter pandoc-citeproc -s -o "$dest/temple_bib.html"
+
+# Also generate a simple csv file with key and citation string
+csv=$(grep 'id:' $temp/refs.txt | sed 's/^- id\: //' | sort)
+# Feed pandoc a modified chicago-style csl where the citation is replaced by the bibliography
+# 'awk NF' will delete empty lines
+echo $csv | perl -pe 's/ /\n\n/g' | perl -pe 's/(.+)/\1, @\1/g' > $temp/csv.txt
+cat $temp/csv.txt | pandoc --wrap=none --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t plain | awk NF | perl -pe 's/^([^\s]+? )/\1"/' | perl -pe 's/(.)$/\1"/g' > $dest/bibliography.csv
