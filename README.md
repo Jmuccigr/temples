@@ -10,6 +10,7 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 - DARE\_type\_ids.csv - List of the item types with their IDs in the Digital Atlas of the  Roman Empire (DARE). Compiled by hand for reference. See the less complete, but official version at <http://dare.ht.lu.se/print.php?doc=info_api>.
 - Estimate count of DARE items.applescript - a script to estimate the number of items for each DARE ID. It outputs to DARE\_count.csv in this folder.
 - temple\_bib.json: Bibliography in CSL JSON format on such temples from my [Zotero](https://zotero.org/) [library](https://www.zotero.org/john_muccigrosso/items). The bibliography contains citekeys which can be used in place of the full entry in other files and then converted by such things as pandoc.
+- citations.csv: file joining reference citation from the Zotero library to the temple IDs.
 
 ## List of folders
 
@@ -21,4 +22,5 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 
 These are so far mostly AppleScripts with some shell commands embedded in them.
 
-- ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl- json2js.sh: Take the file created by ggl2geojson.sh and copy it into a javascript file that leaflet can use.
+- ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl
+- json2js.sh: Take the file created by ggl2geojson.sh and copy it into a javascript file that leaflet can use.
