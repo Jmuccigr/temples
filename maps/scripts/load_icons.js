@@ -54,7 +54,7 @@ var redIcon = new L.Icon(
 var arrowIcon = L.icon(
 {
     iconUrl: 'icons/arrow-markerup_red.png',
-    iconSize: [24, 48]
+    iconSize: [36, 36]
 });
 
 var circleIcon = L.icon(
