@@ -1,4 +1,4 @@
-var temples = {
+var temples =  {
   "type": "FeatureCollection",
   "features": [
     {
@@ -850,7 +850,7 @@ var temples = {
         "location": "Campus Martius",
         "city": "Rome",
         "country": "Italy",
-        "orientation": "180",
+        "orientation": "90",
         "date": "-290",
         "startdateearly": "-290",
         "startdatelate": "",
