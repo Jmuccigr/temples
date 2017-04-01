@@ -95,16 +95,3 @@ else
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
   exit
 fi
-
-# Commit the output json files to git if they've changed
-gitList=$(cd "$dest"; git status -s)
-gitItem=$(echo "$gitList" | grep -e '^ M temples.json$')
-if [ ${#gitItem} -ne 0 ] 
-	then echo "$(date +%Y-%m-%d\ %H:%M:%S) temples.json pushed to github" 1>&2
-	cd "$dest"; git commit -m 'Regular update' temples.json
-fi
-gitItem=$(echo "$gitList" | grep -e '^ M maps/temples.json$')
-if [ ${#gitItem} -ne 0 ] 
-	then echo "$(date +%Y-%m-%d\ %H:%M:%S) temples.json for maps pushed to github" 1>&2
-	cd "$dest"; git commit -m 'Regular update' maps/temples.json
-fi
