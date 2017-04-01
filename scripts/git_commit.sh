@@ -15,7 +15,7 @@ do
 	gitItem=$(echo "$gitList" | grep -e " M $f")
 	if [ ${#gitItem} -ne 0 ] 
 		then echo "$(date +%Y-%m-%d\ %H:%M:%S) $f pushed to github" 1>&2
-		cd "$dest"; git commit -m 'Regular update' $f
+		cd "$dest"; git commit -m 'Automated update' $f
 		((counter++))
 	fi
 done
