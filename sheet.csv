@@ -1,20 +1,20 @@
 googleid,updated,category_scheme,category_term,title,title_type,content,content_type,link_rel,link_type,link_href,name,id,dedicatee,type,location,city,country,latitude,longitude,orientation,date,startdateearly,startdatelate,century,sex,dedicationday,deitytype,extant,source,meetings,blake,coarellicm,platnerandashby,richardson,stamper,ziolkowski,note,vici.org,pleiades,dare,arachne,wikipedia,wikidata
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cokwr",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Aesculapius,text,"id: 1000001, dedicatee: Aesculapius, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cokwr",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Aesculapius,text,"id: 1000001, dedicatee: Aesculapius, type:
     temple, location: Tiber Island, city: Rome, country: Italy,
     latitude: 41.890278, longitude: 12.478333, date: -291,
     startdateearly: -291, century: -3, sex: M, deitytype: hero,
     source: Ziolkowski, platnerandashby: p. 2, ziolkowski: p. 17,
     vici.org: 23444",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cokwr,Aesculapius,1000001,Aesculapius,temple,Tiber Island,Rome,Italy,41.890278,12.478333,,-291,-291,,-3,M,,hero,,Ziolkowski,,,,p. 2,,,p. 17,,23444,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cpzh4",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Apollo Palatinus,text,"id: 1000002, dedicatee: Apollo, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cpzh4",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Apollo Palatinus,text,"id: 1000002, dedicatee: Apollo, type:
     temple, location: Palatine Hill, city: Rome, country: Italy,
     latitude: 41.888854, longitude: 12.485741, orientation: 227,
     date: -28, startdateearly: -28, century: -1, sex: M, deitytype:
     god, source: Blake, Stamper, stamper: p. 116, arachne:
     8606",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cpzh4,Apollo Palatinus,1000002,Apollo,temple,Palatine Hill,Rome,Italy,41.888854,12.485741,227,-28,-28,,-1,M,,god,,"Blake, Stamper",,,,,,p. 116,,,,,,8606,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cre1l",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Apollo Sosianus/Medicus,text,"id: 1000003, dedicatee: Apollo, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cre1l",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Apollo Sosianus/Medicus,text,"id: 1000003, dedicatee: Apollo, type:
     temple, location: Circus Flaminius, city: Rome, country: Italy,
     latitude: 41.8923136, longitude: 12.4795912, orientation: 180,
     date: -431, startdateearly: -431, century: -5, sex: M,
@@ -23,7 +23,7 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     vici.org; coords modified, vici.org: 15038, pleiades:
     740034026, arachne: 5665",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cre1l,Apollo Sosianus/Medicus,1000003,Apollo,temple,Circus Flaminius,Rome,Italy,41.8923136,12.4795912,180,-431,-431,,-5,M,23,god,,Stamper,senate,,,p. 15,,p. 55,,"vici.org; coords modified",15038,740034026,,5665,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/chk2m",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Bellona,text,"id: 1000004, dedicatee: Bellona, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/chk2m",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Bellona,text,"id: 1000004, dedicatee: Bellona, type:
     temple, location: Circus Flaminius, city: Rome, country: Italy,
     latitude: 41.89238, longitude: 12.47989, orientation: 180,
     date: -296, startdateearly: -296, century: -3, sex: F,
@@ -31,12 +31,12 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     meetings: senate, stamper: p. 55, ziolkowski: p. 18, dare:
     3467477",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/chk2m,Bellona,1000004,Bellona,temple,Circus Flaminius,Rome,Italy,41.89238,12.47989,180,-296,-296,,-3,F,3,god,,Ziolkowski,senate,,,,,p. 55,p. 18,,,,3467477,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ciyn3",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Bona Dea,text,"id: 1000005, dedicatee: Bona Dea, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ciyn3",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Bona Dea,text,"id: 1000005, dedicatee: Bona Dea, type:
     temple, location: Lesser Aventine, city: Rome, country: Italy,
     latitude: 41.880581, longitude: 12.48979, sex: F, deitytype:
     god, source: Blake/Ziolkowski, platnerandashby: p. 85",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ciyn3,Bona Dea,1000005,Bona Dea,temple,Lesser Aventine,Rome,Italy,41.880581,12.48979,,,,,,F,,god,,Blake/Ziolkowski,,,,p. 85,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ckd7g",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Castor(es),text,"id: 1000007, dedicatee: Castor(es), type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ckd7g",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Castor(es),text,"id: 1000007, dedicatee: Castor(es), type:
     temple, location: Forum, city: Rome , country: Italy, latitude:
     41.891773, longitude: 12.485755, orientation: 24, date: -484,
     startdateearly: -484, century: -5, sex: M, dedicationday: 27
@@ -47,42 +47,42 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     Q380530",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ckd7g,Castor(es),1000007,Castor(es),temple,Forum,Rome,Italy,41.891773,12.485755,24,-484,-484,,-5,M,27,hero,,blake,senate,,,p. 102,p. 74,p. 57,"p. 107, 203, 237, 242, 267, 268, 276,
     278",Vici.org,15011,,,5807,,Q380530
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/clrrx",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Castor et Pollux,text,"id: 1000008, dedicatee: Castor, Pollux,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/clrrx",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Castor et Pollux,text,"id: 1000008, dedicatee: Castor, Pollux,
     type: temple, location: Circus Flaminius, city: Rome, country:
     Italy, orientation: 30, date: -179-91, startdateearly: -179,
     startdatelate: -91, century: -2, sex: M, deitytype: hero,
     source: Coarelli, ziolkowski: p. 14, 311, arachne:
     4052753",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/clrrx,Castor et Pollux,1000008,"Castor, Pollux",temple,Circus Flaminius,Rome,Italy,,,30,-179-91,-179,-91,-2,M,,hero,,Coarelli,,,,,,,"p. 14, 311",,,,,4052753,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cyevm",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Ceres et Faustina,text,"id: 1000009, dedicatee: Ceres, Faustina,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cyevm",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Ceres et Faustina,text,"id: 1000009, dedicatee: Ceres, Faustina,
     type: temple, city: Rome , country: Italy, latitude: 41.857844,
     longitude: 12.524306, sex: F, deitytype: god, family, note:
     Vici.org, DARE, pleiades: 422889, dare: 22917",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cyevm,Ceres et Faustina,1000009,"Ceres, Faustina",temple,,Rome,Italy,41.857844,12.524306,,,,,,F,,"god, family",,,,,,,,,,"Vici.org, DARE",,422889,22917,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cztg3",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,"Ceres, Liber, Libera",text,"id: 1000010, dedicatee: Ceres, Liber,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cztg3",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,"Ceres, Liber, Libera",text,"id: 1000010, dedicatee: Ceres, Liber,
     Libera, type: temple, location: Aventine, city: Rome, country:
     Italy, date: -493, startdateearly: -493, century: -5, sex: M/F,
     deitytype: god, richardson: p. 80",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cztg3,"Ceres, Liber, Libera",1000010,"Ceres, Liber, Libera",temple,Aventine,Rome,Italy,,,,-493,-493,,-5,M/F,,god,,,,,,,p. 80,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d180g",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Cessati Spiriti,text,"id: 1000011, type: temple, city: Rome ,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d180g",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Cessati Spiriti,text,"id: 1000011, type: temple, city: Rome ,
     country: Italy, latitude: 41.862522, longitude: 12.533184,
     note: DARE, pleiades: 422892",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d180g,Cessati Spiriti,1000011,,temple,,Rome,Italy,41.862522,12.533184,,,,,,,,,,,,,,,,,,DARE,,422892,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d2mkx",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Claudius,text,"id: 1000012, dedicatee: Claudius , type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d2mkx",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Claudius,text,"id: 1000012, dedicatee: Claudius , type:
     temple, location: Caelian Hill, city: Rome , country: Italy,
     latitude: 41.887594, longitude: 12.493367, date: 40-60,
     startdateearly: 40, startdatelate: 60, century: 1, sex: M,
     deitytype: emperor, platnerandashby: 120, arachne:
     6228",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d2mkx,Divus Claudius,1000012,Claudius,temple,Caelian Hill,Rome,Italy,41.887594,12.493367,,40-60,40,60,1,M,,emperor,,,,,,120,,,,,,,,6228,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cssly",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Concordia,text,"id: 1000013, dedicatee: Concord, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cssly",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Concordia,text,"id: 1000013, dedicatee: Concord, type:
     temple, location: Forum, city: Rome , country: Italy, latitude:
     41.89293, longitude: 12.484245, orientation: 123, date: -121,
     startdateearly: -121, century: -2, sex: F, dedicationday: 22
     July/16 January, deitytype: concept, source: Blake, meetings:
     senate, stamper: p. 56, arachne: 5742",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cssly,Concordia,1000013,Concord,temple,Forum,Rome,Italy,41.89293,12.484245,123,-121,-121,,-2,F,22,concept,,Blake,senate,,,,,p. 56,,,,,,5742,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cu76f",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Cybele/Magna Mater,text,"id: 1000014, dedicatee: Cybele/Magna
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cu76f",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Cybele/Magna Mater,text,"id: 1000014, dedicatee: Cybele/Magna
     Mater, type: temple, location: Palatine Hill, city: Rome ,
     country: Italy, latitude: 41.889554, longitude: 12.484984,
     orientation: 203, date: -191, startdateearly: -191, century:
@@ -90,19 +90,19 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     platnerandashby: 324, note: Vici.org, vici.org: 17956, arachne:
     9110, wikidata: Q383609",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cu76f,Cybele/Magna Mater,1000014,Cybele/Magna Mater,temple,Palatine Hill,Rome,Italy,41.889554,12.484984,203,-191,-191,,-2,F,,god,,Stamper,senate,,,324,,,,Vici.org,17956,,,9110,,Q383609
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cvlqs",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Dea Dia,text,"id: 1000015, dedicatee: Dea Dia, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cvlqs",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Dea Dia,text,"id: 1000015, dedicatee: Dea Dia, type:
     temple, city: Rome , country: Italy, latitude: 41.83614,
     longitude: 12.44195, sex: F, deitytype: god, note: DARE,
     pleiades: 422916, dare: 37153",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cvlqs,Dea Dia,1000015,Dea Dia,temple,,Rome,Italy,41.83614,12.44195,,,,,,F,,god,,,,,,,,,,DARE,,422916,37153,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cx0b9",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Diana,text,"id: 1000016, dedicatee: Diana, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cx0b9",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Diana,text,"id: 1000016, dedicatee: Diana, type:
     temple, location: Aventine, city: Rome, country: Italy,
     latitude: 41.882828, longitude: 12.483194, date: -499-400,
     startdateearly: -499, startdatelate: -400, century: -5, sex: F,
     dedicationday: 13 August, deitytype: god, platnerandashby: p.
     149, richardson: p. 108",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cx0b9,Diana,1000016,Diana,temple,Aventine,Rome,Italy,41.882828,12.483194,,-499-400,-499,-400,-5,F,13,god,,,,,,p. 149,p. 108,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d9ney",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Antoninus et Diva Faustina,text,"id: 1000017, dedicatee: Antoninus,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d9ney",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Antoninus et Diva Faustina,text,"id: 1000017, dedicatee: Antoninus,
     Faustina, type: temple, location: Forum, city: Rome, country:
     Italy, latitude: 41.892139, longitude: 12.486689, orientation:
     217, date: 161, startdateearly: 161, century: 2, sex: M/F,
@@ -110,70 +110,71 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     13, stamper: p. 216, note: Vici.org , vici.org: 15009, arachne:
     5645, wikidata: Q752555",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d9ney,Divus Antoninus et Diva Faustina,1000017,"Antoninus, Faustina",temple,Forum,Rome,Italy,41.892139,12.486689,217,161,161,,2,M/F,,"emperor, family",,Blake,,,,p. 13,,p. 216,,Vici.org,15009,,,5645,,Q752555
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/db1zf",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Augustus,text,"id: 1000018, dedicatee: Augustus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/db1zf",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Augustus,text,"id: 1000018, dedicatee: Augustus, type:
     temple, city: Rome, country: Italy, latitude: 41.891616,
     longitude: 12.484471, sex: M, deitytype: emperor, source:
     Blake, arachne: 5743",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/db1zf,Divus Augustus,1000018,Augustus,temple,,Rome,Italy,41.891616,12.484471,,,,,,M,,emperor,,Blake,,,,,,,,,,,,5743,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dcgjs",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Julius,text,"id: 1000019, dedicatee: Julius, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dcgjs",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Julius,text,"id: 1000019, dedicatee: Julius, type:
     temple, location: Circus Flaminius, city: Rome , country:
     Italy, latitude: 41.891943, longitude: 12.486246, orientation:
     300, date: -29, startdateearly: -29, century: -1, sex: M,
     dedicationday: 18 August, deitytype: emperor, source: Stamper,
     vici.org: 15048, arachne: 5744, wikidata: Q1133288",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dcgjs,Divus Julius,1000019,Julius,temple,Circus Flaminius,Rome,Italy,41.891943,12.486246,300,-29,-29,,-1,M,18,emperor,,Stamper,,,,,,,,,15048,,,5744,,Q1133288
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ddv49",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Romulus,text,"id: 1000020, dedicatee: Romulus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ddv49",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Romulus,text,"id: 1000020, dedicatee: Romulus, type:
     temple, location: Forum, city: Rome , country: Italy, latitude:
     41.891846, longitude: 12.487166, orientation: 205, sex: M,
     deitytype: hero, note: Vici.org, vici.org: 15044, arachne:
     10545",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ddv49,Divus Romulus,1000020,Romulus,temple,Forum,Rome,Italy,41.891846,12.487166,205,,,,,M,,hero,,,,,,,,,,Vici.org,15044,,,10545,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d415a",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Trajanus,text,"id: 1000021, dedicatee: Trajan, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d415a",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Trajanus,text,"id: 1000021, dedicatee: Trajan, type:
     temple, location: Forum of Trajan, city: Rome, country: Italy,
     latitude: 41.895471, longitude: 12.484645, date: 128,
     startdateearly: 128, century: 2, sex: M, deitytype: emperor,
     source: Stamper",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d415a,Divus Trajanus,1000021,Trajan,temple,Forum of Trajan,Rome,Italy,41.895471,12.484645,,128,128,,2,M,,emperor,,Stamper,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d5fpr",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Elagabal,text,"id: 1000022, dedicatee: Elagabal, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d5fpr",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Elagabal,text,"id: 1000022, dedicatee: Elagabal, type:
     temple, city: Rome , country: Italy, latitude: 41.889603,
     longitude: 12.488894, orientation: , sex: M, deitytype:
     emperor, note: Vici.org, vici.org: 11503",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d5fpr,Elagabal,1000022,Elagabal,temple,,Rome,Italy,41.889603,12.488894,,,,,,M,,emperor,,,,,,,,,,Vici.org,11503,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d6ua4",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Feronia,text,"id: 1000023, dedicatee: Feronia, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d6ua4",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Feronia,text,"id: 1000023, dedicatee: Feronia, type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     latitude: 41.895163, longitude: 12.476723, orientation: 90,
-    date: -290, startdateearly: -290, century: -3, sex: F, source:
-    Stamper/Ziolkowski, note: Pleiades: Temple C, vici.org: 17946,
-    pleiades: 967215409, arachne: 5865",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d6ua4,Feronia,1000023,Feronia,temple,Campus Martius,Rome,Italy,41.895163,12.476723,90,-290,-290,,-3,F,,,,Stamper/Ziolkowski,,,,,,,,Pleiades: Temple C,17946,967215409,,5865,,
+    date: -290, startdateearly: -290, century: -3, sex: F,
+    deitytype: god, source: Stamper/Ziolkowski, note: Pleiades:
+    Temple C, vici.org: 17946, pleiades: 967215409, arachne:
+    5865",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d6ua4,Feronia,1000023,Feronia,temple,Campus Martius,Rome,Italy,41.895163,12.476723,90,-290,-290,,-3,F,,god,,Stamper/Ziolkowski,,,,,,,,Pleiades: Temple C,17946,967215409,,5865,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d88ul",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fides,text,"id: 1000024, dedicatee: Fides, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d88ul",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fides,text,"id: 1000024, dedicatee: Fides, type:
     temple, location: Capitoline , city: Rome , country: Italy,
     latitude: 41.8914, longitude: 12.4812, date: -254,
     startdateearly: -254, century: -3, sex: F, dedicationday: 1
     October, deitytype: concept, source: Ziolkowski, meetings:
     senate, ziolkowski: p. 28",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/d88ul,Fides,1000024,Fides,temple,Capitoline,Rome,Italy,41.8914,12.4812,,-254,-254,,-3,F,1,concept,,Ziolkowski,senate,,,,,,p. 28,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dkvya",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Flora,text,"id: 1000025, dedicatee: Flora, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dkvya",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Flora,text,"id: 1000025, dedicatee: Flora, type:
     temple, location: Circus Maximus, city: Rome, country: Italy,
     date: -240, startdateearly: -240, century: -3, sex: F,
     deitytype: nature, richardson: p. 151",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dkvya,Flora,1000025,Flora,temple,Circus Maximus,Rome,Italy,,,,-240,-240,,-3,F,,nature,,,,,,,p. 151,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dmair",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Flora,text,"id: 1000026, dedicatee: Flora, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dmair",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Flora,text,"id: 1000026, dedicatee: Flora, type:
     temple, location: Quirinal , city: Rome , country: Italy, date:
     -292-219, startdateearly: -292, startdatelate: -219, century:
     -3, sex: F, deitytype: nature, richardson: p. 152",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dmair,Flora,1000026,Flora,temple,Quirinal,Rome,Italy,,,,-292-219,-292,-219,-3,F,,nature,,,,,,,p. 152,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dnp34",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fons/Fontus,text,"id: 1000027, dedicatee: Fons/Fontus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dnp34",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fons/Fontus,text,"id: 1000027, dedicatee: Fons/Fontus, type:
     temple, location: extra portam fontinalem , city: Rome ,
     country: Italy, date: -231, startdateearly: -231, century: -3,
     sex: M, deitytype: nature, ziolkowski: p. 38",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dnp34,Fons/Fontus,1000027,Fons/Fontus,temple,extra portam fontinalem,Rome,Italy,,,,-231,-231,,-3,M,,nature,,,,,,,,,p. 38,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dp3nl",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortis Fortuna,text,"id: 1000028, dedicatee: Fortis Fortuna,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dp3nl",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortis Fortuna,text,"id: 1000028, dedicatee: Fortis Fortuna,
     type: temple, location: Right bank of Tiber, city: Rome ,
     country: Italy, sex: F, deitytype: concept, note: Vici.org,
     pleiades: 422925",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dp3nl,Fortis Fortuna,1000028,Fortis Fortuna,temple,Right bank of Tiber,Rome,Italy,,,,,,,,F,,concept,,,,,,,,,,Vici.org,,422925,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/df9om",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna Huiusce Diei,text,"id: 1000029, dedicatee: Fortuna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/df9om",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna Huiusce Diei,text,"id: 1000029, dedicatee: Fortuna, type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     latitude: 41.895387, longitude: 12.476839, orientation: 90,
     date: 1-99, startdateearly: 1, startdatelate: 99, century: 1,
@@ -182,189 +183,189 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     B, vici.org: 17946, pleiades: 967215409, arachne:
     6515",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/df9om,Fortuna Huiusce Diei,1000029,Fortuna,temple,Campus Martius,Rome,Italy,41.895387,12.476839,90,1-99,1,99,1,F,,concept,yes,Stamper,,,,p. 216,,p. 44,,Pleiades: Temple B,17946,967215409,,6515,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dgo93",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna,text,"id: 1000030, dedicatee: Fortuna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dgo93",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna,text,"id: 1000030, dedicatee: Fortuna, type:
     temple, location: Forum Boarium, city: Rome, country: Italy,
     latitude: 41.890556, longitude: 12.480833, orientation: 180,
     date: -396, startdateearly: -396, century: -4, sex: F,
     deitytype: concept, source: Platner and Ashby, platnerandashby:
     p. 214, stamper: p. 40",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dgo93,Fortuna,1000030,Fortuna,temple,Forum Boarium,Rome,Italy,41.890556,12.480833,180,-396,-396,,-4,F,,concept,,Platner and Ashby,,,,p. 214,,p. 40,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/di2tg",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna Muliebris,text,"id: 1000031, dedicatee: Fortuna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/di2tg",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Fortuna Muliebris,text,"id: 1000031, dedicatee: Fortuna, type:
     temple, city: Rome , country: Italy, latitude: 41.843745,
     longitude: 12.555806, sex: F, deitytype: concept, note: DARE,
     dare: 37154",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/di2tg,Fortuna Muliebris,1000031,Fortuna,temple,,Rome,Italy,41.843745,12.555806,,,,,,F,,concept,,,,,,,,,,DARE,,,37154,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/djhdx",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Hadrianus,text,"id: 1000032, dedicatee: Hadrian, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/djhdx",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Hadrianus,text,"id: 1000032, dedicatee: Hadrian, type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     latitude: 41.899944, longitude: 12.479404, orientation: 90,
     date: 145, startdateearly: 145, century: 2, sex: M, deitytype:
     emperor, source: Blake, platnerandashby: p. 250, note:
     Vici.org, vici.org: 15032, arachne: 5651",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/djhdx,Divus Hadrianus,1000032,Hadrian,temple,Campus Martius,Rome,Italy,41.899944,12.479404,90,145,145,,2,M,,emperor,,Blake,,,,p. 250,,,,Vici.org,15032,,,5651,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dw4je",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Magnus Custos,text,"id: 1000033, dedicatee: Hercules, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dw4je",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Magnus Custos,text,"id: 1000033, dedicatee: Hercules, type:
     temple, location: Circus Flaminius , city: Rome, country:
     Italy, date: -220, startdateearly: -220, century: -3, sex: M,
     deitytype: hero, source: Ziolkowski, ziolkowski: p. 50, note:
     Pleiades",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dw4je,Hercules Magnus Custos,1000033,Hercules,temple,Circus Flaminius,Rome,Italy,,,,-220,-220,,-3,M,,hero,,Ziolkowski,,,,,,,p. 50,Pleiades,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dxj3v",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Musarum,text,"id: 1000034, dedicatee: Hercules, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dxj3v",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Musarum,text,"id: 1000034, dedicatee: Hercules, type:
     temple, location: Circus Flaminius , city: Rome, country:
     Italy, latitude: 41.8931188, longitude: 12.477733, orientation:
     208, date: -187, startdateearly: -187, century: -2, sex: M,
     dedicationday: 30 June, deitytype: hero, source: Arachne,
     platnerandashby: p. 255, arachne: 3467458",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dxj3v,Hercules Musarum,1000034,Hercules,temple,Circus Flaminius,Rome,Italy,41.8931188,12.477733,208,-187,-187,,-2,M,30,hero,,Arachne,,,,p. 255,,,,,,,,3467458,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dyxo8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor,text,"id: 1000035, dedicatee: Hercules, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dyxo8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor,text,"id: 1000035, dedicatee: Hercules, type:
     temple, location: Caelian Hill, city: Rome , country: Italy,
     date: -145, startdateearly: -145, century: -2, sex: M,
     deitytype: hero, platnerandashby: p. 257",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dyxo8,Hercules Victor,1000035,Hercules,temple,Caelian Hill,Rome,Italy,,,,-145,-145,,-2,M,,hero,,,,,,p. 257,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e0c8p",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor,text,"id: 1000036, dedicatee: Hercules, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e0c8p",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor,text,"id: 1000036, dedicatee: Hercules, type:
     temple, city: Tivoli, country: Italy, date: -89-82,
     startdateearly: -89, startdatelate: -82, century: -1, sex: M,
     deitytype: hero, source: Stamper",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e0c8p,Hercules Victor,1000036,Hercules,temple,,Tivoli,Italy,,,,-89-82,-89,-82,-1,M,,hero,,Stamper,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dqi9q",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor/Invictus,text,"id: 1000037, dedicatee: Hercules, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dqi9q",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Hercules Victor/Invictus,text,"id: 1000037, dedicatee: Hercules, type:
     temple, location: Forum Boarium, city: Rome , country: Italy,
     latitude: 41.8887057, longitude: 12.4806393, orientation: 93,
     sex: M, dedicationday: 13 August, deitytype: hero, extant: yes,
     platnerandashby: p. 257, vici.org: 15006, pleiades: 825969667,
     arachne: 10771, 5792",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dqi9q,Hercules Victor/Invictus,1000037,Hercules,temple,Forum Boarium,Rome,Italy,41.8887057,12.4806393,93,,,,,M,13,hero,yes,,,,,p. 257,,,,,15006,825969667,,"10771, 5792",,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/drwu7",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Honor et Virtus,text,"id: 1000038, dedicatee: Honor, Virtue,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/drwu7",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Honor et Virtus,text,"id: 1000038, dedicatee: Honor, Virtue,
     type: temple, city: Rome , country: Italy, date: -234,
     startdateearly: -234, century: -3, sex: F, dedicationday: 17
     July, deitytype: concept, meetings: senate",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/drwu7,Honor et Virtus,1000038,"Honor, Virtue",temple,,Rome,Italy,,,,-234,-234,,-3,F,17,concept,,,senate,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dtbek",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Il Torraccio,text,"id: 1000039, type: temple, city: Rome ,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dtbek",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Il Torraccio,text,"id: 1000039, type: temple, city: Rome ,
     country: Italy, latitude: 41.994283, longitude: 12.492366,
     note: DARE, dare: 37165",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dtbek,Il Torraccio,1000039,,temple,,Rome,Italy,41.994283,12.492366,,,,,,,,,,,,,,,,,,DARE,,,37165,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dupz1",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Isis at via Labicana,text,"id: 1000040, dedicatee: Isis, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dupz1",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Isis at via Labicana,text,"id: 1000040, dedicatee: Isis, type:
     temple, city: Rome , country: Italy, latitude: 41.890049,
     longitude: 12.501237, sex: F, deitytype: god, note: Pleiades,
     vici.org: 19353, wikidata: Q16612725",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/dupz1,Isis at via Labicana,1000040,Isis,temple,,Rome,Italy,41.890049,12.501237,,,,,,F,,god,,,,,,,,,,Pleiades,19353,,,,,Q16612725
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e7d2q",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Isis/Serapis,text,"id: 1000041, dedicatee: Isis/Serapis,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e7d2q",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Isis/Serapis,text,"id: 1000041, dedicatee: Isis/Serapis,
     type: temple, location: Campus Martius, city: Rome, country:
     Italy, latitude: 41.897221, longitude: 12.479167, sex: F,
     deitytype: god, source: Blake, platnerandashby: p. 283, note:
     Pleiades, vici.org: 17963, wikidata: Q2288275",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e7d2q,Isis/Serapis,1000041,Isis/Serapis,temple,Campus Martius,Rome,Italy,41.897221,12.479167,,,,,,F,,god,,Blake,,,,p. 283,,,,Pleiades,17963,,,,,Q2288275
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e8rn7",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Janus,text,"id: 1000042, dedicatee: Janus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e8rn7",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Janus,text,"id: 1000042, dedicatee: Janus, type:
     temple, location: Forum Holitorium, city: Rome , country:
     Italy, latitude: 41.891289, longitude: 12.479947, orientation:
     71, date: -260, startdateearly: -260, century: -3, sex: M,
     dedicationday: 17 August, deitytype: god, platnerandashby: p.
     277, ziolkowski: p. 61, arachne: 10761",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e8rn7,Janus,1000042,Janus,temple,Forum Holitorium,Rome,Italy,41.891289,12.479947,71,-260,-260,,-3,M,17,god,,,,,,p. 277,,,p. 61,,,,,10761,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ea67k",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Curritis,text,"id: 1000043, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ea67k",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Curritis,text,"id: 1000043, dedicatee: Juno, type:
     temple, location: Campus Martius , city: Rome , country: Italy,
     latitude: 41.894862, longitude: 12.476906, date: -292-219,
     startdateearly: -292, startdatelate: -219, century: -3, sex: F,
     deitytype: god, source: Ziolkowski, ziolkowski: p. 62",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ea67k,Juno Curritis,1000043,Juno,temple,Campus Martius,Rome,Italy,41.894862,12.476906,,-292-219,-292,-219,-3,F,,god,,Ziolkowski,,,,,,,p. 62,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ebks1",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Lucina,text,"id: 1000044, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ebks1",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Lucina,text,"id: 1000044, dedicatee: Juno, type:
     temple, location: Esquiline Hill, city: Rome , country: Italy,
     date: -375, startdateearly: -375, century: -4, sex: F,
     dedicationday: 1 March, deitytype: god, source: Ziolkowski,
     ziolkowski: p. 67",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ebks1,Juno Lucina,1000044,Juno,temple,Esquiline Hill,Rome,Italy,,,,-375,-375,,-4,F,1,god,,Ziolkowski,,,,,,,p. 67,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e1qt2",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Moneta,text,"id: 1000045, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e1qt2",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Moneta,text,"id: 1000045, dedicatee: Juno, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     date: -344, startdateearly: -344, century: -4, sex: F,
     dedicationday: 1 June, deitytype: god, platnerandashby: p. 289,
     arachne: 3910432",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e1qt2,Juno Moneta,1000045,Juno,temple,Capitoline Hill,Rome,Italy,,,,-344,-344,,-4,F,1,god,,,,,,p. 289,,,,,,,,3910432,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e35dj",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Regina,text,"id: 1000046, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e35dj",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Regina,text,"id: 1000046, dedicatee: Juno, type:
     temple, location: Aventine Hill, city: Rome , country: Italy,
     latitude: 41.88444, longitude: 12.47972, date: -392,
     startdateearly: -392, century: -4, sex: F, deitytype: god,
     source: Ziolkowski, platnerandashby: p. 290, ziolkowski: p.
     76",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e35dj,Juno Regina,1000046,Juno,temple,Aventine Hill,Rome,Italy,41.88444,12.47972,,-392,-392,,-4,F,,god,,Ziolkowski,,,,p. 290,,,p. 76,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e4jxw",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Regina,text,"id: 1000047, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e4jxw",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Regina,text,"id: 1000047, dedicatee: Juno, type:
     temple, location: Circus Flaminius, city: Rome, country: Italy,
     latitude: 41.893141, longitude: 12.478602, orientation: 208,
     date: -179, startdateearly: -179, century: -2, sex: F,
     dedicationday: 23 December, deitytype: god, platnerandashby: p.
     290, stamper: p. 53, arachne: 3467454",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e4jxw,Juno Regina,1000047,Juno,temple,Circus Flaminius,Rome,Italy,41.893141,12.478602,208,-179,-179,,-2,F,23,god,,,,,,p. 290,,p. 53,,,,,,3467454,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e5yid",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Sospita,text,"id: 1000048, dedicatee: Juno, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e5yid",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juno Sospita,text,"id: 1000048, dedicatee: Juno, type:
     temple, location: Forum Holitorium, city: Rome, country: Italy,
     latitude: 41.891093, longitude: 12.479937, orientation: 71,
     date: -197-194, startdateearly: -197, startdatelate: -194,
     century: -2, sex: F, dedicationday: 1 February, deitytype: god,
     platnerandashby: p. 291, stamper: p. 61",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/e5ygoogleid,Juno Sospita,1000048,Juno,temple,Forum Holitorium,Rome,Italy,41.891093,12.479937,71,-197-194,-197,-194,-2,F,1,god,,,,,,p. 291,,p. 61,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eilm2",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000049, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eilm2",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000049, dedicatee: Jupiter, type:
     temple, city: Rome , country: Italy, latitude: 41.840026,
     longitude: 12.536854, sex: M, deitytype: god, note: DARE, dare:
     37156",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eilm2,Jupiter,1000049,Jupiter,temple,,Rome,Italy,41.840026,12.536854,,,,,,M,,god,,,,,,,,,,DARE,,,37156,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ek06j",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000050, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ek06j",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000050, dedicatee: Jupiter, type:
     temple, city: Jerusalem, country: Israel, latitude: 31.777972,
     longitude: 35.235806, date: 130, startdateearly: 130, century:
     2, sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ek06j,Jupiter,1000050,Jupiter,temple,,Jerusalem,Israel,31.777972,35.235806,,130,130,,2,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eleqw",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000051, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eleqw",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000051, dedicatee: Jupiter, type:
     temple, city: Damascus, country: Syria, latitude: 33.510833,
     longitude: 36.300833, date: 14, startdateearly: 14, century: 1,
     sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eleqw,Jupiter,1000051,Jupiter,temple,,Damascus,Syria,33.510833,36.300833,,14,14,,1,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/emtbd",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000052, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/emtbd",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000052, dedicatee: Jupiter, type:
     temple, city: Yarbrud, country: Syria, latitude: 33.966667,
     longitude: 36.666667, sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/emtbd,Jupiter,1000052,Jupiter,temple,,Yarbrud,Syria,33.966667,36.666667,,,,,,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eczce",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000053, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eczce",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter,text,"id: 1000053, dedicatee: Jupiter, type:
     temple, city: Baalbek, country: Lebanon, latitude: 34.006839,
     longitude: 36.204425, date: 135, startdateearly: 135, century:
     2, sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eczce,Jupiter,1000053,Jupiter,temple,,Baalbek,Lebanon,34.006839,36.204425,,135,135,,2,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eedwv",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Anxur,text,"id: 1000054, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eedwv",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Anxur,text,"id: 1000054, dedicatee: Jupiter, type:
     temple, city: Terracina, country: Italy, latitude: 41.290817,
     longitude: 13.260113, sex: M, deitytype: god, note: Coord from
     Google maps, pleiades: 433143",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eedwv,Jupiter Anxur,1000054,Jupiter,temple,,Terracina,Italy,41.290817,13.260113,,,,,,M,,god,,,,,,,,,,Coord from Google maps,,433143,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/efsh8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Conservator,text,"id: 1000055, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/efsh8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Conservator,text,"id: 1000055, dedicatee: Jupiter, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     sex: M, deitytype: god, source: Stamper",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/efsh8,Jupiter Conservator,1000055,Jupiter,temple,Capitoline Hill,Rome,Italy,,,,,,,,M,,god,,Stamper,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eh71p",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Custos,text,"id: 1000056, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eh71p",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Custos,text,"id: 1000056, dedicatee: Jupiter, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     latitude: 41.891825, longitude: 12.481892, sex: M, deitytype:
     god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eh71p,Jupiter Custos,1000056,Jupiter,temple,Capitoline Hill,Rome,Italy,41.891825,12.481892,,,,,,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/etu5e",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Dolichenus,text,"id: 1000057, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/etu5e",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Dolichenus,text,"id: 1000057, dedicatee: Jupiter, type:
     temple, location: Aventine Hill, city: Rome, country: Italy,
     latitude: 41.88319, longitude: 12.4804, sex: M, deitytype: god,
     source: Blake, note: Location from Arachne, arachne:
     6074",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/etu5e,Jupiter Dolichenus,1000057,Jupiter,temple,Aventine Hill,Rome,Italy,41.88319,12.4804,,,,,,M,,god,,Blake,,,,,,,,Location from Arachne,,,,6074,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ev8pv",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Feretrius,text,"id: 1000058, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ev8pv",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Feretrius,text,"id: 1000058, dedicatee: Jupiter, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     date: -752-751, startdateearly: -752, startdatelate: -751,
     century: -8, sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ev8pv,Jupiter Feretrius,1000058,Jupiter,temple,Capitoline Hill,Rome,Italy,,,,-752-751,-752,-751,-8,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ewna8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Heliopolitanus,text,"id: 1000059, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ewna8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Heliopolitanus,text,"id: 1000059, dedicatee: Jupiter, type:
     temple, location: Janiculum, city: Rome , country: Italy, date:
     Late 1st Century CE, startdateearly: 75, startdatelate: 100,
     century: 1, sex: M, dedicationday: 29 November, deitytype: god,
     source: Blake, platnerandashby: p. 294",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ewna8,Jupiter Heliopolitanus,1000059,Jupiter,temple,Janiculum,Rome,Italy,,,,Late 1st Century CE,75,100,1,M,29,god,,Blake,,,,p. 294,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ey1up",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Invictus,text,"id: 1000060, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ey1up",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Invictus,text,"id: 1000060, dedicatee: Jupiter, type:
     temple, location: Palatine Hill, city: Rome , country: Italy,
     date: -180-167, startdateearly: -180, startdatelate: -167,
     century: -2, sex: M, deitytype: god, source: Ziolkowski,
     ziolkowski: p. 80",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ey1up,Jupiter Invictus,1000060,Jupiter,temple,Palatine Hill,Rome,Italy,,,,-180-167,-180,-167,-2,M,,god,,Ziolkowski,,,,,,,p. 80,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eo7vq",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Libertas,text,"id: 1000061, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eo7vq",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Libertas,text,"id: 1000061, dedicatee: Jupiter, type:
     temple, location: Aventine Hill, city: Rome , country: Italy,
     date: -246, startdateearly: -246, century: -3, sex: M,
     dedicationday: 13 April, deitytype: god, source: Ziolkowski,
     platnerandashby: p. 296, ziolkowski: p. 85",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/eo7vq,Jupiter Libertas,1000061,Jupiter,temple,Aventine Hill,Rome,Italy,,,,-246,-246,,-3,M,13,god,,Ziolkowski,,,,p. 296,,,p. 85,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/epmg7",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Capitolinus/Optimus Maximus,text,"id: 1000062, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/epmg7",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Capitolinus/Optimus Maximus,text,"id: 1000062, dedicatee: Jupiter, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     latitude: 41.892222, longitude: 12.481667, date: -509,
     startdateearly: -509, century: -6, sex: M, dedicationday: 13
@@ -372,51 +373,51 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     vici.org: 17971, pleiades: 871801169, arachne: 3910430,
     wikidata: Q586468",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/epmg7,Jupiter Capitolinus/Optimus Maximus,1000062,Jupiter,temple,Capitoline Hill,Rome,Italy,41.892222,12.481667,,-509,-509,,-6,M,13,god,,Blake,senate,,,,,,,,17971,871801169,,3910430,,Q586468
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/er10k",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Patulaeius,text,"id: 1000063, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/er10k",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Patulaeius,text,"id: 1000063, dedicatee: Jupiter, type:
     temple, city: Ostia, country: Italy, date: -299-200,
     startdateearly: -299, startdatelate: -200, century: -3, sex: M,
     deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/er10k,Jupiter Patulaeius,1000063,Jupiter,temple,,Ostia,Italy,,,,-299-200,-299,-200,-3,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/esfl1",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Pompeii,text,"id: 1000064, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/esfl1",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Pompeii,text,"id: 1000064, dedicatee: Jupiter, type:
     temple, city: Pompeii, country: Italy, latitude: 40.7499,
     longitude: 14.4845, date: mid-2nd century BC, startdateearly:
     -175, startdatelate: -125, century: -2, sex: M, deitytype:
     god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/esfl1,Jupiter Pompeii,1000064,Jupiter,temple,,Pompeii,Italy,40.7499,14.4845,,mid-2nd century BC,-175,-125,-2,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a59y2",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Sospita,text,"id: 1000065, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a59y2",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Sospita,text,"id: 1000065, dedicatee: Jupiter, type:
     temple, sex: M, deitytype: god, source: Stamper",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a59y2,Jupiter Sospita,1000065,Jupiter,temple,,,,,,,,,,,M,,god,,Stamper,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a6oij",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Stator,text,"id: 1000066, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a6oij",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Stator,text,"id: 1000066, dedicatee: Jupiter, type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     latitude: 41.890487, longitude: 12.488793, date: -294,
     startdateearly: -294, century: -3, sex: M, dedicationday: 27
     January, deitytype: god, meetings: senate, note: Tenative
     coordinates",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a6oij,Jupiter Stator,1000066,Jupiter,temple,Campus Martius,Rome,Italy,41.890487,12.488793,,-294,-294,,-3,M,27,god,,,senate,,,,,,,Tenative coordinates,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a832w",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Stator,text,"id: 1000067, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a832w",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Stator,text,"id: 1000067, dedicatee: Jupiter, type:
     temple, location: Circus Flaminius , city: Rome, country:
     Italy, latitude: 41.892897, longitude: 12.479021, orientation:
     208, date: -146, startdateearly: -146, century: -2, sex: M,
     deitytype: god, platnerandashby: p. 304, stamper: p.
     53",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a832w,Jupiter Stator,1000067,Jupiter,temple,Circus Flaminius,Rome,Italy,41.892897,12.479021,208,-146,-146,,-2,M,,god,,,,,,p. 304,,p. 53,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a9hnd",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Tonans,text,"id: 1000068, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a9hnd",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Tonans,text,"id: 1000068, dedicatee: Jupiter, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     date: -22, startdateearly: -22, century: -1, sex: M,
     dedicationday: 1 September, deitytype: god, platnerandashby: p.
     305, stamper: p. 125",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a9hnd,Jupiter Tonans,1000068,Jupiter,temple,Capitoline Hill,Rome,Italy,,,,-22,-22,,-1,M,1,god,,,,,,p. 305,,p. 125,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/9znoe",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Victor,text,"id: 1000069, dedicatee: Jupiter, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/9znoe",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter Victor,text,"id: 1000069, dedicatee: Jupiter, type:
     temple, location: Quirinal Hill, city: Rome , country: Italy,
     date: -295, startdateearly: -295, century: -3, sex: M,
     deitytype: god, source: Blake",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/9znoe,Jupiter Victor,1000069,Jupiter,temple,Quirinal Hill,Rome,Italy,,,,-295,-295,,-3,M,,god,,Blake,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a128v",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter/Baalshamin,text,"id: 1000070, dedicatee: Jupiter,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a128v",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Jupiter/Baalshamin,text,"id: 1000070, dedicatee: Jupiter,
     Baalshamin, type: temple, city: Kedesh, country: Israel,
     latitude: 33.112906, longitude: 35.531175, sex: M, deitytype:
     god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a128v,Jupiter/Baalshamin,1000070,"Jupiter, Baalshamin",temple,,Kedesh,Israel,33.112906,35.531175,,,,,,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a2gt8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juturna,text,"id: 1000071, dedicatee: Juturna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a2gt8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juturna,text,"id: 1000071, dedicatee: Juturna, type:
     temple, location: Campus Martius , city: Rome , country: Italy,
     latitude: 41.895664, longitude: 12.476876, orientation: 90,
     date: -299-200, startdateearly: -299, startdatelate: -200,
@@ -425,18 +426,18 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     Pleiades: Temple A, vici.org: 17946, pleiades: 967215409,
     arachne: 5864",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a2gt8,Juturna,1000071,Juturna,temple,Campus Martius,Rome,Italy,41.895664,12.476876,90,-299-200,-299,-200,-3,F,11,god,,Ziolkowski,,,,,,p. 53,p. 94,Pleiades: Temple A,17946,967215409,,5864,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a3vdp",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juventas,text,"id: 1000072, dedicatee: Juventas, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a3vdp",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Juventas,text,"id: 1000072, dedicatee: Juventas, type:
     temple, location: Circus Maximus, city: Rome, country: Italy,
     date: -193, startdateearly: -193, century: -2, sex: F,
     deitytype: concept, platnerandashby: p. 308",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/a3vdp,Juventas,1000072,Juventas,temple,Circus Maximus,Rome,Italy,,,,-193,-193,,-2,F,,concept,,,,,,p. 308,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/agihe",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Lares,text,"id: 1000073, dedicatee: Lares, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/agihe",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Lares,text,"id: 1000073, dedicatee: Lares, type:
     temple, location: in summa Sacra Via, city: Rome , country:
     Italy, date: -292-219, startdateearly: -292, startdatelate:
     -219, century: -3, sex: M, dedicationday: 27 June, deitytype:
     god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/agihe,Lares,1000073,Lares,temple,in summa Sacra Via,Rome,Italy,,,,-292-219,-292,-219,-3,M,27,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ahx1v",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Lares Permarini,text,"id: 1000074, dedicatee: Lares Permarini,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ahx1v",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Lares Permarini,text,"id: 1000074, dedicatee: Lares Permarini,
     type: temple, location: Campus Martius , city: Rome, country:
     Italy, latitude: 41.894983, longitude: 12.476957, orientation:
     90, date: -179, startdateearly: -179, century: -2, sex: M,
@@ -444,165 +445,165 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     Pleiades: Temple D, vici.org: 17946, pleiades: 967215409,
     arachne: 6516",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ahx1v,Lares Permarini,1000074,Lares Permarini,temple,Campus Martius,Rome,Italy,41.894983,12.476957,90,-179,-179,,-2,M,,god,,,,,,p. 315,,p. 44,,Pleiades: Temple D,17946,967215409,,6516,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ajbm8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Luna,text,"id: 1000075, dedicatee: Luna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ajbm8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Luna,text,"id: 1000075, dedicatee: Luna, type:
     temple, location: Aventine Hill, city: Rome , country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: F, dedicationday: 31 March, deitytype:
     nature",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ajbm8,Luna,1000075,Luna,temple,Aventine Hill,Rome,Italy,,,,-292-219,-292,-219,-3,F,31,nature,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/akq6p",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars,text,"id: 1000076, dedicatee: Mars, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/akq6p",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars,text,"id: 1000076, dedicatee: Mars, type:
     temple, location: Circus Flaminius, city: Rome, country: Italy,
     date: -138, startdateearly: -138, century: -2, sex: M,
     deitytype: god, platnerandashby: p. 328",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/akq6p,Mars,1000076,Mars,temple,Circus Flaminius,Rome,Italy,,,,-138,-138,,-2,M,,god,,,,,,p. 328,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aaw7q",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars,text,"id: 1000077, dedicatee: Mars, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aaw7q",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars,text,"id: 1000077, dedicatee: Mars, type:
     temple, location: North Via Appia, city: Rome, country: Italy,
     date: -388, startdateearly: -388, century: -4, sex: M,
     dedicationday: 1 June, deitytype: god, platnerandashby: p.
     327",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aaw7q,Mars,1000077,Mars,temple,North Via Appia,Rome,Italy,,,,-388,-388,,-4,M,1,god,,,,,,p. 327,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/acas7",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars Ultor,text,"id: 1000078, dedicatee: Mars, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/acas7",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mars Ultor,text,"id: 1000078, dedicatee: Mars, type:
     temple, location: Forum of Augustus, city: Rome, country:
     Italy, latitude: 41.894444, longitude: 12.486944, orientation:
     233, date: -2, startdateearly: -2, century: -1, sex: M,
     deitytype: god, source: Stamper, arachne: 5747",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/acas7,Mars Ultor,1000078,Mars,temple,Forum of Augustus,Rome,Italy,41.894444,12.486944,233,-2,-2,,-1,M,,god,,Stamper,,,,,,,,,,,,5747,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/adpck",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mater Matuta,text,"id: 1000079, dedicatee: Mater Matuta,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/adpck",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mater Matuta,text,"id: 1000079, dedicatee: Mater Matuta,
     type: temple, location: Forum Boarium, city: Rome , country:
     Italy, latitude: 41.890556, longitude: 12.480833, orientation:
     180, date: -368, startdateearly: -368, century: -4, sex: F,
     deitytype: god, source: Stamper",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/adpck,Mater Matuta,1000079,Mater Matuta,temple,Forum Boarium,Rome,Italy,41.890556,12.480833,180,-368,-368,,-4,F,,god,,Stamper,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/af3x1",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Matidia,text,"id: 1000080, dedicatee: Matidia, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/af3x1",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Matidia,text,"id: 1000080, dedicatee: Matidia, type:
     temple, latitude: 41.899964, longitude: 12.478081, date: 119,
     startdateearly: 119, century: 2, sex: F, deitytype: family,
     source: Stamper, platnerandashby: p. 331, stamper: p.
     259",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/af3x1,Matidia,1000080,Matidia,temple,,,,41.899964,12.478081,,119,119,,2,F,,family,,Stamper,,,,p. 331,,p. 259,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/arr0q",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mausoleum Romuli,text,"id: 1000081, type: temple, city: Rome ,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/arr0q",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mausoleum Romuli,text,"id: 1000081, type: temple, city: Rome ,
     country: Italy, latitude: 41.8550631, longitude: 12.5181785,
     sex: M, deitytype: emperor, note: DARE, dare: 23842",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/arr0q,Mausoleum Romuli,1000081,,temple,,Rome,Italy,41.8550631,12.5181785,,,,,,M,,emperor,,,,,,,,,,DARE,,,23842,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/at5l7",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mercury,text,"id: 1000082, dedicatee: Mercury , type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/at5l7",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mercury,text,"id: 1000082, dedicatee: Mercury , type:
     temple, location: Aventine Hill, city: Rome, country: Italy,
     date: -495, startdateearly: -495, century: -5, sex: M,
     deitytype: god, platnerandashby: p. 339",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/at5l7,Mercury,1000082,Mercury,temple,Aventine Hill,Rome,Italy,,,,-495,-495,,-5,M,,god,,,,,,p. 339,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/auk5k",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva,text,"id: 1000083, dedicatee: Minerva , type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/auk5k",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva,text,"id: 1000083, dedicatee: Minerva , type:
     temple, location: Aventine Hill, city: Rome , country: Italy,
     date: -269-260, startdateearly: -269, startdatelate: -260,
     century: -3, sex: F, deitytype: god, note: Vici.org",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/auk5k,Minerva,1000083,Minerva,temple,Aventine Hill,Rome,Italy,,,,-269-260,-269,-260,-3,F,,god,,,,,,,,,,Vici.org,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/avyq1",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva Medica,text,"id: 1000084, dedicatee: Minerva, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/avyq1",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva Medica,text,"id: 1000084, dedicatee: Minerva, type:
     temple, location: Esquiline Hill, city: Rome , country: Italy,
     latitude: 41.893845, longitude: 12.511867, date: -399-300,
     startdateearly: -399, startdatelate: -300, century: -4, sex: F,
     deitytype: god, note: Pleiades, vici.org: 7929, pleiades:
     540898685, wikidata: Q1411575",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/avyq1,Minerva Medica,1000084,Minerva,temple,Esquiline Hill,Rome,Italy,41.893845,12.511867,,-399-300,-399,-300,-4,F,,god,,,,,,,,,,Pleiades,7929,540898685,,,,Q1411575
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/am4r2",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva,text,"id: 1000085, dedicatee: Minerva, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/am4r2",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Minerva,text,"id: 1000085, dedicatee: Minerva, type:
     temple, location: Forum of Nerva, city: Rome, country: Italy,
     latitude: 41.893664, longitude: 12.487089, sex: F, deitytype:
     god, source: Arachne, arachne: 8405",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/am4r2,Minerva,1000085,Minerva,temple,Forum of Nerva,Rome,Italy,41.893664,12.487089,,,,,,F,,god,,Arachne,,,,,,,,,,,,8405,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/anjbj",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum Barberini,text,"id: 1000086, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/anjbj",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum Barberini,text,"id: 1000086, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.902964,
     longitude: 12.4891, note: DARE, dare: 45672",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/anjbj,Mithraeum Barberini,1000086,Mithras,mithraeum,,Rome,Italy,41.902964,12.4891,,,,,,,,,,,,,,,,,,DARE,,,45672,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aoxvw",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Orazio Muti,text,"id: 1000087, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aoxvw",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Orazio Muti,text,"id: 1000087, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.89981,
     longitude: 12.485662, note: DARE, dare: 45673",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aoxvw,Mithraeum of Orazio Muti,1000087,Mithras,mithraeum,,Rome,Italy,41.89981,12.485662,,,,,,,,,,,,,,,,,,DARE,,,45673,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aqcgd",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of San Clemente,text,"id: 1000088, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aqcgd",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of San Clemente,text,"id: 1000088, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.889675,
     longitude: 12.497281, note: Vici.org; DARE, vici.org: 23522,
     dare: 45666",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/aqcgd,Mithraeum of San Clemente,1000088,Mithras,mithraeum,,Rome,Italy,41.889675,12.497281,,,,,,,,,,,,,,,,,,"Vici.org; DARE",23522,,45666,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b2zk2",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Santa Prisca,text,"id: 1000089, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b2zk2",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Santa Prisca,text,"id: 1000089, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.883213,
     longitude: 12.483655, note: DARE, dare: 45667",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b2zk2,Mithraeum of Santa Prisca,1000089,Mithras,mithraeum,,Rome,Italy,41.883213,12.483655,,,,,,,,,,,,,,,,,,DARE,,,45667,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b4e4j",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Santo Stefano Rotondo,text,"id: 1000090, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b4e4j",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of Santo Stefano Rotondo,text,"id: 1000090, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.884655,
     longitude: 12.496744, note: DARE, dare: 45669",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b4e4j,Mithraeum of Santo Stefano Rotondo,1000090,Mithras,mithraeum,,Rome,Italy,41.884655,12.496744,,,,,,,,,,,,,,,,,,DARE,,,45669,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b5sow",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Baths of Caracalla,text,"id: 1000091, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b5sow",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Baths of Caracalla,text,"id: 1000091, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.879922,
     longitude: 12.493118, note: DARE, dare: 45668",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b5sow,Mithraeum of the Baths of Caracalla,1000091,Mithras,mithraeum,,Rome,Italy,41.879922,12.493118,,,,,,,,,,,,,,,,,,DARE,,,45668,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b779d",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Campidoglio,text,"id: 1000092, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b779d",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Campidoglio,text,"id: 1000092, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.89291,
     longitude: 12.482628, note: DARE, dare: 45675",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b779d,Mithraeum of the Campidoglio,1000092,Mithras,mithraeum,,Rome,Italy,41.89291,12.482628,,,,,,,,,,,,,,,,,,DARE,,,45675,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/axdae",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Circus Maximus,text,"id: 1000093, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/axdae",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Circus Maximus,text,"id: 1000093, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.888114,
     longitude: 12.482856, note: DARE, dare: 45670",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/axdae,Mithraeum of the Circus Maximus,1000093,Mithras,mithraeum,,Rome,Italy,41.888114,12.482856,,,,,,,,,,,,,,,,,,DARE,,,45670,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ayruv",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Crypta Balbi,text,"id: 1000094, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ayruv",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Crypta Balbi,text,"id: 1000094, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.894242,
     longitude: 12.479176, note: DARE; coords updated, dare:
     45674",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ayruv,Mithraeum of the Crypta Balbi,1000094,Mithras,mithraeum,,Rome,Italy,41.894242,12.479176,,,,,,,,,,,,,,,,,,"DARE; coords updated",,,45674,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b06f8",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Esquiline,text,"id: 1000095, dedicatee: Mithras, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b06f8",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Mithraeum of the Esquiline,text,"id: 1000095, dedicatee: Mithras, type:
     mithraeum, city: Rome , country: Italy, latitude: 41.894894,
     longitude: 12.501063, note: DARE, dare: 45671",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b06f8,Mithraeum of the Esquiline,1000095,Mithras,mithraeum,,Rome,Italy,41.894894,12.501063,,,,,,,,,,,,,,,,,,DARE,,,45671,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b1kzp",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Monte del Grano,text,"id: 1000096, type: temple, city: Rome ,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b1kzp",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Monte del Grano,text,"id: 1000096, type: temple, city: Rome ,
     country: Italy, latitude: 41.865272, longitude: 12.549292,
     pleiades: 422973",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b1kzp,Monte del Grano,1000096,,temple,,Rome,Italy,41.865272,12.549292,,,,,,,,,,,,,,,,,,,,422973,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/be856",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Neptunus,text,"id: 1000097, dedicatee: Neptune, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/be856",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Neptunus,text,"id: 1000097, dedicatee: Neptune, type:
     temple, location: Circus Flaminius, city: Rome , country:
     Italy, date: -257-228, startdateearly: -257, startdatelate:
     -228, century: -3, sex: M, deitytype: god, arachne:
     3467478",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/be856,Neptunus,1000097,Neptune,temple,Circus Flaminius,Rome,Italy,,,,-257-228,-257,-228,-3,M,,god,,,,,,,,,,,,,,3467478,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bfmpn",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphaeum of the Villa dei Quintili,text,"id: 1000098, dedicatee: Nymphs, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bfmpn",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphaeum of the Villa dei Quintili,text,"id: 1000098, dedicatee: Nymphs, type:
     temple, city: Rome , country: Italy, latitude: 41.8279699,
     longitude: 12.5480362, sex: F, deitytype: god, note: DARE,
     dare: 23839",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bfmpn,Nymphaeum of the Villa dei Quintili,1000098,Nymphs,temple,,Rome,Italy,41.8279699,12.5480362,,,,,,F,,god,,,,,,,,,,DARE,,,23839,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bh1a0",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphaeum Septizodium,text,"id: 1000099, dedicatee: Nymphs, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bh1a0",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphaeum Septizodium,text,"id: 1000099, dedicatee: Nymphs, type:
     temple, location: Campus Martius, city: Rome , country: Italy,
     latitude: 41.885632, longitude: 12.488719, sex: F, deitytype:
     god, note: Vici.org, vici.org: 17962, wikidata:
     Q1234446",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bh1a0,Nymphaeum Septizodium,1000099,Nymphs,temple,Campus Martius,Rome,Italy,41.885632,12.488719,,,,,,F,,god,,,,,,,,,,Vici.org,17962,,,,,Q1234446
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bifuh",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphs,text,"id: 1000100, dedicatee: Nymphs, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bifuh",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Nymphs,text,"id: 1000100, dedicatee: Nymphs, type:
     temple, city: Rome , country: Italy, latitude: 41.895163,
     longitude: 12.478714, sex: F, deitytype: god, ziolkowski: p.
     120-122, arachne: 6079",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bifuh,Nymphs,1000100,Nymphs,temple,,Rome,Italy,41.895163,12.478714,,,,,,F,,god,,,,,,,,,p. 120-122,,,,,6079,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b8lvi",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Ops Opifera,text,"id: 1000101, dedicatee: Ops Opifera, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b8lvi",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Ops Opifera,text,"id: 1000101, dedicatee: Ops Opifera, type:
     temple, location: Capitoline Hill, city: Rome, country: Italy,
     latitude: 41.895163, longitude: 12.478714, sex: F,
     dedicationday: 23 August, deitytype: concept, platnerandashby:
     p. 372, ziolkowski: p. 122",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/b8lvi,Ops Opifera,1000101,Ops Opifera,temple,Capitoline Hill,Rome,Italy,41.895163,12.478714,,,,,,F,23,concept,,,,,,p. 372,,,p. 122,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ba0fz",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pales,text,"id: 1000102, dedicatee: Pales, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ba0fz",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pales,text,"id: 1000102, dedicatee: Pales, type:
     temple, location: Palatine Hill, city: Rome , country: Italy,
     date: -267, startdateearly: -267, century: -3, sex: F,
     deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ba0fz,Pales,1000102,Pales,temple,Palatine Hill,Rome,Italy,,,,-267,-267,,-3,F,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bbf0c",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pantheon,text,"id: 1000103, dedicatee: Pantheon, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bbf0c",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pantheon,text,"id: 1000103, dedicatee: Pantheon, type:
     temple, location: Campus Martius, city: Rome , country: Italy,
     latitude: 41.89856, longitude: 12.47685, orientation: 354,
     date: 126, startdateearly: 126, century: 2, deitytype: god,
     note: Vici.org, vici.org: 7853, pleiades: 128044615, arachne:
     5664, wikidata: Q99309",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bbf0c,Pantheon,1000103,Pantheon,temple,Campus Martius,Rome,Italy,41.89856,12.47685,354,126,126,,2,,,god,,,,,,,,,,Vici.org,7853,128044615,,5664,,Q99309
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bctkt",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pax,text,"id: 1000104, dedicatee: Peace, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bctkt",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Pax,text,"id: 1000104, dedicatee: Peace, type:
     temple, city: Rome, country: Italy, latitude: 41.8926,
     longitude: 12.4876, date: 75, startdateearly: 75, century: 1,
     sex: F, deitytype: concept, stamper: p. 157",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bctkt,Pax,1000104,Peace,temple,,Rome,Italy,41.8926,12.4876,,75,75,,1,F,,concept,,,,,,,,p. 157,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bpgoi",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Penates,text,"id: 1000105, dedicatee: Penates, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bpgoi",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Penates,text,"id: 1000105, dedicatee: Penates, type:
     temple, location: Velian Hill, city: Rome, country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: M, deitytype: god, platnerandashby: p. 388,
     ziolkowski: p. 128, arachne: 10557",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bpgoi,Penates,1000105,Penates,temple,Velian Hill,Rome,Italy,,,,-292-219,-292,-219,-3,M,,god,,,,,,p. 388,,,p. 128,,,,,10557,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bqv8z",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Portunus,text,"id: 1000106, dedicatee: Portunus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bqv8z",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Portunus,text,"id: 1000106, dedicatee: Portunus, type:
     temple, location: Forum Boarium, city: Rome, country: Italy,
     latitude: 41.889232, longitude: 12.480883, orientation: 347,
     date: -120, startdateearly: -120, century: -2, sex: M,
@@ -610,42 +611,42 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     vici.org: 11602, pleiades: 494660670, dare: 22924, arachne:
     5932",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bqv8z,Portunus,1000106,Portunus,temple,Forum Boarium,Rome,Italy,41.889232,12.480883,347,-120,-120,,-2,M,,god,,Stamper,,,,,,,,"Vici.org; DARE",11602,494660670,22924,5932,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bs9tc",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Quirinus,text,"id: 1000107, dedicatee: Quirinus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bs9tc",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Quirinus,text,"id: 1000107, dedicatee: Quirinus, type:
     temple, location: Quirinal Hill, city: Rome , country: Italy,
     date: -293, startdateearly: -293, century: -3, sex: M,
     deitytype: god, platnerandashby: p. 438, ziolkowski: p.
     139",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bs9tc,Quirinus,1000107,Quirinus,temple,Quirinal Hill,Rome,Italy,,,,-293,-293,,-3,M,,god,,,,,,p. 438,,,p. 139,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/btodt",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Robigo,text,"id: 1000108, dedicatee: Robigo, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/btodt",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Robigo,text,"id: 1000108, dedicatee: Robigo, type:
     sanctuary, city: Rome , country: Italy, latitude: 41.959271,
     longitude: 12.447668, sex: F, deitytype: nature, note: DARE,
     pleiades: 423024, dare: 37158",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/btodt,Robigo,1000108,Robigo,sanctuary,,Rome,Italy,41.959271,12.447668,,,,,,F,,nature,,,,,,,,,,DARE,,423024,37158,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bjueu",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Salus,text,"id: 1000109, dedicatee: Salus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bjueu",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Salus,text,"id: 1000109, dedicatee: Salus, type:
     temple, location: Quirinal Hill, city: Rome, country: Italy,
     date: -303, startdateearly: -303, century: -4, sex: F,
     deitytype: concept, platnerandashby: p. 462, ziolkowski: p.
     144",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bjueu,Salus,1000109,Salus,temple,Quirinal Hill,Rome,Italy,,,,-303,-303,,-4,F,,concept,,,,,,p. 462,,,p. 144,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bl8zb",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Saturnus,text,"id: 1000110, dedicatee: Saturn, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bl8zb",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Saturnus,text,"id: 1000110, dedicatee: Saturn, type:
     temple, location: Forum , city: Rome , country: Italy,
     latitude: 41.892666, longitude: 12.484187, orientation: 32,
     date: -498, startdateearly: -498, century: -5, sex: M,
     deitytype: god, stamper: p. 36, note: Pleiades, vici.org:
     15012, arachne: 5644, wikidata: Q746721",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bl8zb,Saturnus,1000110,Saturn,temple,Forum,Rome,Italy,41.892666,12.484187,32,-498,-498,,-5,M,,god,,,,,,,,p. 36,,Pleiades,15012,,,5644,,Q746721
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bmnjo",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sol,text,"id: 1000111, dedicatee: Sol, type: temple,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bmnjo",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sol,text,"id: 1000111, dedicatee: Sol, type: temple,
     location: Campus Agrippae, city: Rome, country: Italy, date:
     -273, startdateearly: -273, century: -3, sex: M, deitytype:
     nature, platnerandashby: p. 491",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bmnjo,Sol,1000111,Sol,temple,Campus Agrippae,Rome,Italy,,,,-273,-273,,-3,M,,nature,,,,,,p. 491,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bo245",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sol et Luna,text,"id: 1000112, dedicatee: Sol, Luna, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bo245",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sol et Luna,text,"id: 1000112, dedicatee: Sol, Luna, type:
     temple, location: Circus Maximus , city: Rome, country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: M/F, dedicationday: 28 August, deitytype:
     nature, platnerandashby: p. 491, ziolkowski: p. 150",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bo245,Sol et Luna,1000112,"Sol, Luna",temple,Circus Maximus,Rome,Italy,,,,-292-219,-292,-219,-3,M/F,28,nature,,,,,,p. 491,,,p. 150,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c0p7u",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Spes,text,"id: 1000113, dedicatee: Spes, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c0p7u",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Spes,text,"id: 1000113, dedicatee: Spes, type:
     temple, location: Forum Holitorium, city: Rome , country:
     Italy, latitude: 41.890962, longitude: 12.480052, orientation:
     71, date: -258-249, startdateearly: -258, startdatelate: -249,
@@ -653,70 +654,70 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     493, stamper: p. 61, ziolkowski: p. 152, arachne:
     10760",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c0p7u,Spes,1000113,Spes,temple,Forum Holitorium,Rome,Italy,41.890962,12.480052,71,-258-249,-258,-249,-3,F,,concept,,,,,,p. 493,,p. 61,p. 152,,,,,10760,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c23sb",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Summanus,text,"id: 1000114, dedicatee: Summanus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c23sb",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Summanus,text,"id: 1000114, dedicatee: Summanus, type:
     temple, location: Circus Maximus , city: Rome, country: Italy,
     date: -280-275, startdateearly: -280, startdatelate: -275,
     century: -3, sex: M, deitytype: god, platnerandashby: p. 502,
     ziolkowski: p. 154",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c23sb,Summanus,1000114,Summanus,temple,Circus Maximus,Rome,Italy,,,,-280-275,-280,-275,-3,M,,god,,,,,,p. 502,,,p. 154,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c3ico",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sybil,text,"id: 1000115, dedicatee: Sybil, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c3ico",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Sybil,text,"id: 1000115, dedicatee: Sybil, type:
     temple, city: Tivoli, country: Italy, latitude: 41.966809,
     longitude: 12.800843, date: -150-125, startdateearly: -150,
     startdatelate: -125, century: -2, sex: F, deitytype: god,
     source: Stamper, note: Vici.org",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c3ico,Sybil,1000115,Sybil,temple,,Tivoli,Italy,41.966809,12.800843,,-150-125,-150,-125,-2,F,,god,,Stamper,,,,,,,,Vici.org,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c4wx5",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tellus,text,"id: 1000116, dedicatee: Tellus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c4wx5",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tellus,text,"id: 1000116, dedicatee: Tellus, type:
     temple, location: Esquiline Hill, city: Rome, country: Italy,
     date: -268, startdateearly: -268, century: -3, sex: F,
     deitytype: nature, meetings: senate, platnerandashby: p. 511,
     ziolkowski: p. 158",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c4wx5,Tellus,1000116,Tellus,temple,Esquiline Hill,Rome,Italy,,,,-268,-268,,-3,F,,nature,,,senate,,,p. 511,,,p. 158,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bv2y6",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tempestates,text,"id: 1000117, dedicatee: Tempestates, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bv2y6",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tempestates,text,"id: 1000117, dedicatee: Tempestates, type:
     temple, location: Porta Capena, city: Rome, country: Italy,
     sex: F, dedicationday: 23 December, deitytype: nature,
     platnerandashby: p. 511, ziolkowski: p. 162",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bv2y6,Tempestates,1000117,Tempestates,temple,Porta Capena,Rome,Italy,,,,,,,,F,23,nature,,,,,,p. 511,,,p. 162,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bwhin",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Temple of S. Salvatore in Campo,text,"id: 1000118, type: temple, city: Rome,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bwhin",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Temple of S. Salvatore in Campo,text,"id: 1000118, type: temple, city: Rome,
     country: Italy, latitude: 41.893685, longitude: 12.474003,
     coarellicm: p. 212, arachne: 3467479",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bwhin,Temple of S. Salvatore in Campo,1000118,,temple,,Rome,Italy,41.893685,12.474003,,,,,,,,,,,,,p. 212,,,,,,,,,3467479,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bxw30",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tiberinus,text,"id: 1000119, dedicatee: Tiberinus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bxw30",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tiberinus,text,"id: 1000119, dedicatee: Tiberinus, type:
     temple, location: Tiber Island, city: Rome, country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: M, deitytype: nature, platnerandashby: p.
     536, ziolkowski: p. 166",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bxw30,Tiberinus,1000119,Tiberinus,temple,Tiber Island,Rome,Italy,,,,-292-219,-292,-219,-3,M,,nature,,,,,,p. 536,,,p. 166,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bzanh",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tomb of Cecilia Metella,text,"id: 1000120, type: tomb, location: Via
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bzanh",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Tomb of Cecilia Metella,text,"id: 1000120, type: tomb, location: Via
     Appia, city: Rome , country: Italy, latitude: 41.852196,
     longitude: 12.520981, note: Pleiades; vici.org, pleiades:
     423064",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/bzanh,Tomb of Cecilia Metella,1000120,,tomb,Via Appia,Rome,Italy,41.852196,12.520981,,,,,,,,,,,,,,,,,,"Pleiades; vici.org",,423064,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cbxr6",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Veiovis,text,"id: 1000121, dedicatee: Veiovis, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cbxr6",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Veiovis,text,"id: 1000121, dedicatee: Veiovis, type:
     temple, city: Rome , country: Italy, latitude: 41.892776,
     longitude: 12.483611, sex: M, deitytype: god, note: Pleiades,
     vici.org: 17964, arachne: 1319962, wikidata: Q764141",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cbxr6,Veiovis,1000121,Veiovis,temple,,Rome,Italy,41.892776,12.483611,,,,,,M,,god,,,,,,,,,,Pleiades,17964,,,1319962,,Q764141
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cdcbn",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus et Roma,text,"id: 1000122, dedicatee: Venus, Rome, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cdcbn",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus et Roma,text,"id: 1000122, dedicatee: Venus, Rome, type:
     temple, city: Rome , country: Italy, latitude: 41.890812,
     longitude: 12.490168, orientation: 113, date: 140-145,
     startdateearly: 140, startdatelate: 145, century: 2, sex: F,
     deitytype: god, city, note: Pleiades, vici.org: 15008, arachne:
     7481",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cdcbn,Venus et Roma,1000122,"Venus, Rome",temple,,Rome,Italy,41.890812,12.490168,113,140-145,140,145,2,F,,"god, city",,,,,,,,,,Pleiades,15008,,,7481,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ceqw0",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Genetrix,text,"id: 1000123, dedicatee: Venus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ceqw0",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Genetrix,text,"id: 1000123, dedicatee: Venus, type:
     temple, location: Forum of Julius, city: Rome, country: Italy,
     latitude: 41.8942, longitude: 12.4848, orientation: 130, date:
     -46, startdateearly: -46, century: -1, sex: F, deitytype: god,
     source: Blake, platnerandashby: p. 225, note: Pleiades,
     arachne: 5656",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/ceqw0,Venus Genetrix,1000123,Venus,temple,Forum of Julius,Rome,Italy,41.8942,12.4848,130,-46,-46,,-1,F,,god,,Blake,,,,p. 225,,,,Pleiades,,,,5656,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cg5gh",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Obsequens,text,"id: 1000124, dedicatee: Venus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cg5gh",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Obsequens,text,"id: 1000124, dedicatee: Venus, type:
     temple, location: Circus Maximus , city: Rome, country: Italy,
     date: -290, startdateearly: -290, century: -3, sex: F,
     deitytype: god, platnerandashby: p. 552, ziolkowski: p.
     167",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/cg5gh,Venus Obsequens,1000124,Venus,temple,Circus Maximus,Rome,Italy,,,,-290,-290,,-3,F,,god,,,,,,p. 552,,,p. 167,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c6bhi",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Victrix,text,"id: 1000125, dedicatee: Venus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c6bhi",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Venus Victrix,text,"id: 1000125, dedicatee: Venus, type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     latitude: 41.895335, longitude: 12.473014, orientation: 90,
     date: -55, startdateearly: -55, century: -1, sex: F, deitytype:
@@ -724,49 +725,49 @@ googleid,updated,category_scheme,category_term,title,title_type,content,content_
     platnerandashby: p. 555, note: Pleiades; coords
     modified",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c6bhi,Venus Victrix,1000125,Venus,temple,Campus Martius,Rome,Italy,41.895335,12.473014,90,-55,-55,,-1,F,,god,yes,Stamper,senate,,,p. 555,,,,"Pleiades; coords modified",,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c7q1z",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Vespasian et Divus Titus,text,"id: 1000126, dedicatee: Vespasian, Titus,
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c7q1z",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Divus Vespasian et Divus Titus,text,"id: 1000126, dedicatee: Vespasian, Titus,
     type: temple, location: Forum, city: Rome , country: Italy,
     latitude: 41.892876, longitude: 12.484081, orientation: 119,
     sex: M, deitytype: emperor, note: Pleiades, vici.org: 15042,
     arachne: 5643, wikidata: Q731284",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c7q1z,Divus Vespasian et Divus Titus,1000126,"Vespasian, Titus",temple,Forum,Rome,Italy,41.892876,12.484081,119,,,,,M,,emperor,,,,,,,,,,Pleiades,15042,,,5643,,Q731284
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c94mc",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vesta,text,"id: 1000127, dedicatee: Vesta, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c94mc",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vesta,text,"id: 1000127, dedicatee: Vesta, type:
     temple, location: Forum, city: Rome, country: Itay, latitude:
     41.891792, longitude: 12.486141, orientation: 35, date: -575,
     startdateearly: -575, century: -6, sex: F, deitytype: god,
     source: Stamper, note: Pleiades, vici.org: 15010, arachne:
     8407",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/c94mc,Vesta,1000127,Vesta,temple,Forum,Rome,Itay,41.891792,12.486141,35,-575,-575,,-6,F,,god,,Stamper,,,,,,,,Pleiades,15010,,,8407,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/caj6t",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vesta,text,"id: 1000128, dedicatee: Vesta, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/caj6t",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vesta,text,"id: 1000128, dedicatee: Vesta, type:
     temple, city: Tivoli, country: Italy, latitude: 41.9667,
     longitude: 12.8009, orientation: 190, date: early 1st-Century
     BCE, startdateearly: -99, startdatelate: -75, century: -1, sex:
     F, deitytype: god, note: Pleiades, arachne: 11457",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/caj6t,Vesta,1000128,Vesta,temple,,Tivoli,Italy,41.9667,12.8009,190,early 1st-Century BCE,-99,-75,-1,F,,god,,,,,,,,,,Pleiades,,,,11457,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hmyxm",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vica Pota,text,"id: 1000129, dedicatee: Vica Pota, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hmyxm",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vica Pota,text,"id: 1000129, dedicatee: Vica Pota, type:
     temple, location: Velian Hill, city: Rome , country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: F, deitytype: god, platnerandashby: p. 569,
     ziolkowski: p. 171",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hmyxm,Vica Pota,1000129,Vica Pota,temple,Velian Hill,Rome,Italy,,,,-292-219,-292,-219,-3,F,,god,,,,,,p. 569,,,p. 171,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hodi3",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Victoria,text,"id: 1000130, dedicatee: Victoria, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hodi3",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Victoria,text,"id: 1000130, dedicatee: Victoria, type:
     temple, location: Palatine Hill, city: Rome, country: Italy,
     latitude: 41.889418, longitude: 12.48521, orientation: 219,
     date: -294, startdateearly: -294, century: -3, sex: F,
     deitytype: concept, source: Stamper, platnerandashby: p. 570,
     note: Pleiades",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hodi3,Victoria,1000130,Victoria,temple,Palatine Hill,Rome,Italy,41.889418,12.48521,219,-294,-294,,-3,F,,concept,,Stamper,,,,p. 570,,,,Pleiades,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hps2g",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Volcanus,text,"id: 1000131, dedicatee: Volcanus , type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hps2g",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Volcanus,text,"id: 1000131, dedicatee: Volcanus , type:
     temple, location: Campus Martius, city: Rome, country: Italy,
     date: -292-219, startdateearly: -292, startdatelate: -219,
     century: -3, sex: M, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hps2g,Volcanus,1000131,Volcanus,temple,Campus Martius,Rome,Italy,,,,-292-219,-292,-219,-3,M,,god,,,,,,,,,,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hr6mx",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vortumnus,text,"id: 1000132, dedicatee: Vortumnus, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hr6mx",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Vortumnus,text,"id: 1000132, dedicatee: Vortumnus, type:
     temple, location: Aventine Hill, city: Rome, country: Italy,
     date: -264, startdateearly: -264, century: -3, sex: M,
     dedicationday: 13 August, deitytype: god, platnerandashby: p.
     584, ziolkowski: p. 183",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hr6mx,Vortumnus,1000132,Vortumnus,temple,Aventine Hill,Rome,Italy,,,,-264,-264,,-3,M,13,god,,,,,,p. 584,,,p. 183,,,,,,,
 "
-    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hhcny",2017/04/02 15:33:58.997+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Moneta,text,"id: 1000133, dedicatee: Moneta, type:
+    https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hhcny",2017/04/02 19:31:37.884+00,http://schemas.google.com/spreadsheets/2006,http://schemas.google.com/spreadsheets/2006#list,Moneta,text,"id: 1000133, dedicatee: Moneta, type:
     temple, location: Alban Mount, country: Italy, date: -168, sex:
     F, deitytype: god",text,self,application/atom+xml,https://spreadsheets.google.com/feeds/list/1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4/1/public/values/hhcny,Moneta,1000133,Moneta,temple,Alban Mount,,Italy,,,,-168,,,,F,,god,,,,,,,,,,,,,,,,
