@@ -835,7 +835,7 @@ var temples =  {
         "century": "-3",
         "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "extant": "",
         "source": "Stamper/Ziolkowski",
         "meetings": "",
