@@ -262,7 +262,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ceres and Faustina",
+        "name": "Ceres et Faustina",
         "id": "1000009",
         "dedicatee": "Ceres, Faustina",
         "type": "temple",
@@ -391,7 +391,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Concord",
+        "name": "Concordia",
         "id": "1000013",
         "dedicatee": "Concord",
         "type": "temple",
@@ -563,7 +563,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Antoninus and Diva Faustina",
+        "name": "Divus Antoninus et Diva Faustina",
         "id": "1000017",
         "dedicatee": "Antoninus, Faustina",
         "type": "temple",
@@ -735,7 +735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Trajan",
+        "name": "Divus Trajanus",
         "id": "1000021",
         "dedicatee": "Trajan",
         "type": "temple",
@@ -1036,7 +1036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Hadrian",
+        "name": "Divus Hadrianus",
         "id": "1000032",
         "dedicatee": "Hadrian",
         "type": "temple",
@@ -2283,7 +2283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mausoleo di Romolo",
+        "name": "Mausoleum Romuli",
         "id": "1000081",
         "dedicatee": "",
         "type": "temple",
@@ -3100,7 +3100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Peace",
+        "name": "Pax",
         "id": "1000104",
         "dedicatee": "Peace",
         "type": "temple",
@@ -3229,7 +3229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saturn",
+        "name": "Saturnus",
         "id": "1000110",
         "dedicatee": "Saturn",
         "type": "temple",
@@ -3487,7 +3487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venus and Rome",
+        "name": "Venus et Roma",
         "id": "1000122",
         "dedicatee": "Venus, Rome",
         "type": "temple",
@@ -3616,7 +3616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vespasian and Titus",
+        "name": "Divus Vespasian et Divus Titus",
         "id": "1000126",
         "dedicatee": "Vespasian, Titus",
         "type": "temple",
