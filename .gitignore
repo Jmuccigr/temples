@@ -1,4 +1,4 @@
 forbidden/
 
 scripts/ggl2geojson.sh.orig
-maps/scripts/standalone/*.js
+maps/scripts/standalone
