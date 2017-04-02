@@ -31,7 +31,7 @@
             return L.marker(latlng, {
                 icon: arrowIcon,
                 rotationAngle: feature.properties.orientation,
-                rotationOrigin: 'center, center'
+                rotationOrigin: 'center center'
             })
         },
         filter: function (feature, layer) {
