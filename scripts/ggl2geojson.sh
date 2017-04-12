@@ -9,7 +9,7 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
-export PATH="/usr/local/bin:/usr/local/opt/gdal-20/bin:$PATH"
+export PATH="/usr/local/bin:/usr/local/opt/gdal2/bin:$PATH"
 
 # Get google doc as xml via the public feed & exit on failure to return any/enough data
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
@@ -40,7 +40,16 @@ rm "$temp/sheet.csv" 2>/dev/null
 rm "$temp/sheet1.csv" 2>/dev/null
 ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
-# Rename sheet id column and keep mine.
+# Make sure the csv has been created or else exit
+if  [ ! -s "$temp/sheet1.csv" ]
+then
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
+   echo "Error with sheet1.csv creation" | mail -s "Temples problem" $me 
+   exit
+   echo "hello"
+fi
+
+# Rename google's sheet id column and keep mine.
 cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
