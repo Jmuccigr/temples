@@ -6,5 +6,5 @@ if [ -s $HOME/Documents/github/local/temples/maps/temples.json ]
   then echo "var temples =  $(cat $HOME/Documents/github/local/temples/maps/temples.json)
 ;" > "$HOME/Documents/github/local/temples/maps/temples.js"
   else
-    echo "$(date): The temples json file was empty or non-existent." 1>&2
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) The temples json file was empty or non-existent." 1>&2
 fi
