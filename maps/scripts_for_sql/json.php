@@ -9,7 +9,7 @@
 $servername = "localhost";
 $username = "romerese_temples";
 $dbname = "romerese_temples";
-$password = trim(file_get_contents("forbidden/pw.txt"));
+$password = trim(file_get_contents("../../forbidden/pw.txt"));
 
 # Connect to SQLite database
 $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
