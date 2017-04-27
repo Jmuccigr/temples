@@ -13,6 +13,6 @@ Various maps of the temple data.
 
 ## List of folders
 
-- icons - some local icon files
+- icons - some local icon files with markers from <https://github.com/pointhi/leaflet-color-markers>
 - scripts - mapping-related scripts
 - scripts_for_sql - same set of scripts, but adapted to pull data from mysql database, not a static file. Currently synced with romeresearchgroup.org.
