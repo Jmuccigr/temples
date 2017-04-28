@@ -25,7 +25,7 @@
 
    templesO = new L.geoJson(null, {
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
+            layer.bindPopup(feature.properties.name + ': ' + feature.properties.orientation.toString() + '° ' )
         },
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
@@ -41,7 +41,7 @@
 
    templesN = new L.geoJson(null, {
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.orientation)
+            layer.bindPopup(feature.properties.name)
         },
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
