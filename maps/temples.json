@@ -1380,6 +1380,49 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Juno Moneta",
+        "id": "1000045",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "location": "Capitoline Hill",
+        "city": "Rome",
+        "country": "Italy",
+        "orientation": "",
+        "date": "-344",
+        "startdateearly": "-344",
+        "startdatelate": "",
+        "century": "-4",
+        "sex": "F",
+        "dedicationday": "1",
+        "deitytype": "god",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "blake": "",
+        "coarellicm": "",
+        "platnerandashby": "p. 289-290",
+        "richardson": "",
+        "stamper": "",
+        "ziolkowski": "p. 71-72",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "3910432",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.483497,
+          41.894009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Juno Regina",
         "id": "1000046",
         "dedicatee": "Juno",
