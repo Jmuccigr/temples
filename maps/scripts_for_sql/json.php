@@ -15,8 +15,13 @@ $password = trim(file_get_contents("../../forbidden/pw.txt"));
 $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
 
 # Build SQL SELECT statement and return the geometry as a GeoJSON element
-$sql = 'SELECT * FROM temples where longitude != ""';
-
+# Check for cookie first
+if ($_COOKIE["sqlquery"] != '') {
+    $sql = $_COOKIE["sqlquery"] . ' AND longitude != ""';
+    }
+else {
+     $sql = 'SELECT * FROM temples where longitude != ""';
+    }
 # Try query or error
 $rs = $conn->query($sql);
 if (!$rs) {
