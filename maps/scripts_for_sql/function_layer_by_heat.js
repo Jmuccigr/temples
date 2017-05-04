@@ -1,10 +1,9 @@
 function layer_by_heat() {
-<!--  My datafile -->
-	$.getJSON("scripts/json.php", function (data) {
-        temples = data;
-    });
+    <!--  My datafile -->
 
-var temples = {};
+    $.getJSON("scripts/json.php", function (data) {
+        addDataToMap(data, map);
+    });
 
     // Save the currently visible basemap
     // but switch to osm if it can't be seen at high zoom
@@ -27,19 +26,24 @@ var temples = {};
 
     // Load heatmap goodies and create layer
     geoJson2heat = function (geojson) {
-        alert (geojson);
         return geojson.features.map(function (feature) {
             return [parseFloat(feature.geometry.coordinates[1]), parseFloat(feature.geometry.coordinates[0])];
         });
     }
 
-	var geoData = geoJson2heat(temples, 1);
+    function addDataToMap(data, map) {
 
-    var heatMap = new L.heatLayer(geoData, {
-        radius: 40,
-        blur: 25,
-        maxZoom: 17
-    });
+        var geoData = geoJson2heat(data, 1);
+
+        var heatMap = new L.heatLayer(geoData, {
+            radius: 40,
+            blur: 25,
+            maxZoom: 17
+        });
+
+        // Now add the heatmap overlay
+        map.addLayer(heatMap);
+    }
 
     // Create empty variable for the control
     var overlays = {};
@@ -53,9 +57,6 @@ var temples = {};
     // Make the layers visible
     // First restore the map currently in use
     map.addLayer(currentMap)
-
-    // Now add the heatmap overlay
-    map.addLayer(heatMap);
 
     // Zoom in and re-center around Rome or it won't be visible
     map.flyTo([41.893, 12.48], 14, {
