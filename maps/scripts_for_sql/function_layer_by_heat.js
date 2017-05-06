@@ -58,8 +58,4 @@ function layer_by_heat() {
     // First restore the map currently in use
     map.addLayer(currentMap)
 
-    // Zoom in and re-center around Rome or it won't be visible
-    map.flyTo([41.893, 12.48], 14, {
-        animate: true
-    });
 }
