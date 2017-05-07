@@ -39,9 +39,9 @@ $geojson = array(
 # Loop through rows to build feature arrays
 while ($row = $rs->fetch(PDO::FETCH_ASSOC)) {
     $properties = $row;
-//     # Remove x and y fields from properties (optional)
-//     unset($properties['latitude']);
-//     unset($properties['longitude']);
+# Remove lat and long fields from properties (optional)
+    unset($properties['latitude']);
+    unset($properties['longitude']);
     $feature = array(
         'type' => 'Feature',
         'geometry' => array(
