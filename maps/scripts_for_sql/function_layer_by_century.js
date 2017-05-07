@@ -29,10 +29,11 @@
         fourth = new L.LayerGroup(),
         fifth = new L.LayerGroup();
 
+    // Set the offset value for the tooltip
+    oset = -28;
+
    temples1 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: blackIcon
@@ -44,9 +45,7 @@
     }).addTo(first);
 
    temples2 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: greenIcon
@@ -58,9 +57,7 @@
     }).addTo(second);
 
    temples3 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: greyIcon
@@ -72,9 +69,7 @@
     }).addTo(third);
 
    temples4 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: blueIcon
@@ -86,9 +81,7 @@
     }).addTo(fourth);
 
    temples5 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: redIcon

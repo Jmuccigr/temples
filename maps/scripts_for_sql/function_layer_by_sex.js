@@ -6,7 +6,7 @@
         templesB.addData(data);
     });
 
-    // Save the currently visible basemap
+// Save the currently visible basemap
     for (i in baseLayers)
     {
         if (map.hasLayer(baseLayers[i]) == true)
@@ -27,12 +27,12 @@
         f = new L.LayerGroup(),
         b = new L.LayerGroup();
 
+    // Set the offset value for the tooltip
+    oset = -28;
+
    templesM = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -48,10 +48,7 @@
 
    templesF = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -67,10 +64,7 @@
 
    templesB = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -105,4 +99,5 @@
     map.addLayer(m);
     map.addLayer(f);
     map.addLayer(b);
+
 }

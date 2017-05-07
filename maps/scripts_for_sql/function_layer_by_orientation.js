@@ -23,10 +23,11 @@
     var orientations = new L.LayerGroup(),
         none = new L.LayerGroup();
 
+    // Set the offset value for the tooltip
+    oset = 0;
+
    templesO = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name + ': ' + feature.properties.orientation.toString() + '° ' )
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: arrowIcon,
@@ -40,9 +41,7 @@
     }).addTo(orientations);
 
    templesN = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+		onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: circleIcon

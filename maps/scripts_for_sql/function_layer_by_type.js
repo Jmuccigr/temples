@@ -30,12 +30,12 @@
         t = new L.LayerGroup(),
         tb = new L.LayerGroup();
 
+    // Set the offset value for the tooltip
+    oset = -28;
+
    mithrae = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -51,10 +51,7 @@
 
    sanctuaries = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -70,10 +67,7 @@
 
    temples = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,
@@ -89,10 +83,7 @@
 
    tombs = new L.geoJson(null,
     {
-        onEachFeature: function (feature, layer)
-        {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
             return L.marker(latlng,

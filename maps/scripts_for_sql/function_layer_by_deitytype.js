@@ -33,10 +33,11 @@
         hero = new L.LayerGroup(),
         nature = new L.LayerGroup();
 
+    // Set the offset value for the tooltip
+    oset = -28;
+
     temples1 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: greyIcon
@@ -48,9 +49,7 @@
     }).addTo(city);
 
     temples2 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: blackIcon
@@ -62,9 +61,7 @@
     }).addTo(concept);
 
     temples3 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: orangeIcon
@@ -76,9 +73,7 @@
     }).addTo(emperor);
 
     temples4 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: yellowIcon
@@ -90,9 +85,7 @@
     }).addTo(family);
 
     temples5 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: redIcon
@@ -104,9 +97,7 @@
     }).addTo(god);
 
     temples6 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: blueIcon
@@ -118,9 +109,7 @@
     }).addTo(hero);
 
     temples7 = new L.geoJson(null, {
-        onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name)
-        },
+        onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
                 icon: greenIcon
