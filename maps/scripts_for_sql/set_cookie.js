@@ -11,7 +11,7 @@ function setCookie(name, value, days) {
     }
     document.cookie = escape(name) + "=" + escape(value) + expires + "; path=/";
     if (days != '-1') {
-        document.getElementById("side").innerHTML = 'Current query:' + value;
+//         document.getElementById("side").innerHTML = 'Current query:' + value;
         var map = document.getElementById("mymenu").options[selectmenu.selectedIndex].value;
         if (map == 'nothing') {
             alert("Don't forget to select a map variable!")

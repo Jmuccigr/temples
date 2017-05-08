@@ -6,7 +6,8 @@ function onEachFeature(feature, layer) {
         layer.on({
             'click': function (e) {
                 document.getElementById("side").innerHTML = '<h4>Temple of ' + feature.properties.name + '</h4><span style="font-size:small">' +
-                    'Cited in:<br>' + getCitations(biblio.items, Number(feature.properties.id)) + '</span>';
+                    'Cited in:<br>' + getCitations(biblio.items, Number(feature.properties.id)) + '</span>' +
+                    '<span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation insructions.)</span>';
             }
         });
 }
