@@ -20,7 +20,7 @@ if ($_COOKIE["sqlquery"] != '') {
     $sql = $_COOKIE["sqlquery"] . ' AND longitude != ""';
     }
 else {
-     $sql = 'SELECT * FROM temples where longitude != ""';
+     $sql = 'select temples.*, citations.loci, biblio.citation_html from temples left join citations on id = templeID left join biblio on citations.refKey = biblio.refKey WHERE longitude != "" AND type = "temple" ORDER BY name';
     }
 # Try query or error
 $rs = $conn->query($sql);

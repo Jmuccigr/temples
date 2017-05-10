@@ -15,7 +15,7 @@ try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     
-$sql = "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA='" . $dbname . "' AND TABLE_NAME ='temples' AND COLUMN_NAME NOT LIKE '%itude' ";
+$sql = "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA='" . $dbname . "' AND TABLE_NAME ='temples' AND COLUMN_NAME NOT LIKE '%itude' AND COLUMN_NAME != 'type'";
 
     $stmt = $conn->prepare($sql); 
     $stmt->execute();
