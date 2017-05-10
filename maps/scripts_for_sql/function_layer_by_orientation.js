@@ -3,6 +3,7 @@
 	$.getJSON("scripts/json.php", function (data) {
         templesO.addData(data);
         templesN.addData(data);
+        allPoints = data.features;
     });
 
     // Save the currently visible basemap
@@ -14,10 +15,7 @@
 
     // Remove existing layers & controls
     clearLayers();
-
-    if (typeof ctl !== 'undefined') {
-        map.removeControl(ctl);
-    }
+	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
     var orientations = new L.LayerGroup(),

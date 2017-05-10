@@ -8,10 +8,7 @@
 
     // Remove existing layers & controls
     clearLayers();
-
-    if (typeof ctl !== 'undefined') {
-        map.removeControl(ctl);
-    }
+	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
     var first = new L.LayerGroup(),
@@ -19,6 +16,9 @@
         third = new L.LayerGroup(),
         fourth = new L.LayerGroup(),
         fifth = new L.LayerGroup();
+
+    // Set the offset value for the tooltip
+    oset = -28;
 
     L.geoJson(temples, {
         onEachFeature: function (feature, layer) {

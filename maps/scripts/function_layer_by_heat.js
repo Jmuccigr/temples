@@ -13,10 +13,7 @@ function layer_by_heat() {
 
     // Remove existing layers & controls
     clearLayers();
-
-    if (typeof ctl !== 'undefined') {
-        map.removeControl(ctl);
-    }
+	clearControls();
 
     // Load heatmap goodies and create layer
     geoJson2heat = function (geojson) {

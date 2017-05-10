@@ -5,6 +5,7 @@
         mithrae.addData(data);
         sanctuaries.addData(data);
         tombs.addData(data);
+        allPoints = data.features;
     });
 
     // Save the currently visible basemap
@@ -18,11 +19,7 @@
 
     // Remove existing layers & controls
     clearLayers();
-
-    if (typeof ctl !== 'undefined')
-    {
-        map.removeControl(ctl);
-    }
+	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
     var m = new L.LayerGroup(),

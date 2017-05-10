@@ -11,11 +11,7 @@
 
     // Remove existing layers & controls
     clearLayers();
-
-    if (typeof ctl !== 'undefined')
-    {
-        map.removeControl(ctl);
-    }
+	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
     var m = new L.LayerGroup(),
