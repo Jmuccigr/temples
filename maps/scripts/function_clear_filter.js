@@ -1,4 +1,5 @@
 function clearFilter () {
+	// Reset filter
 	document.getElementById("first").value = '';
 	document.getElementById("firstOp").value = 'contains';
 	document.getElementById("firstTxt").value = '';
@@ -8,5 +9,8 @@ function clearFilter () {
 	document.getElementById("third").value = '';
 	document.getElementById("thirdOp").value = 'contains';
 	document.getElementById("thirdTxt").value = '';
-	setCookie(name, value, days);
+	// Reset cookie
+	setCookie('sqlquery', 'dummy', '-1');
+    // Send change event to menu that selects overlay layers so it updates the map
+    selectmenu.dispatchEvent(new Event('change'));
 	}
