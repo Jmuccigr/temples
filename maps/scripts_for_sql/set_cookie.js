@@ -17,8 +17,7 @@ function setCookie(name, value, days) {
             alert("Don't forget to select a map variable!")
         } else {
             // Send change event to menu that selects overlay layers so it updates the map
-            var event = new Event('change');
-            selectmenu.dispatchEvent(event);
+            selectmenu.dispatchEvent(new Event('change'));
         }
     }
 }
