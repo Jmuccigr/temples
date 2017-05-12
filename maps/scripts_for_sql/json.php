@@ -15,12 +15,17 @@ $password = trim(file_get_contents("../../forbidden/pw.txt"));
 $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
 
 # Build SQL SELECT statement and return the geometry as a GeoJSON element
-# Check for cookie first
+// $queryStart = 'select temples.*, citations.loci, biblio.citation_html from temples left join citations on id = templeID left join biblio on citations.refKey = biblio.refKey WHERE ';
+// $queryEnd = ' longitude != "" AND type = "temple" ORDER BY name';
+$queryStart = 'select temples.*, IFNULL(cite,"") as cite from temples left join (select templeID, GROUP_CONCAT(concat(loci, IF(biblio.citation_html IS NULL, "", " in "), biblio.citation_html) SEPARATOR "</li>\n<li>") AS cite from citations left join biblio on citations.refKey = biblio.refKey group by templeID) cites on id = templeID WHERE ';
+// $queryStart = 'select * from temples WHERE ';
+$queryEnd = ' longitude != "" AND type = "temple" ORDER BY name';
+# Check for cookie
 if ($_COOKIE["sqlquery"] != '') {
-    $sql = $_COOKIE["sqlquery"] . ' AND longitude != ""';
+    $sql = $queryStart . $_COOKIE["sqlquery"] . ' AND ' . $queryEnd;
     }
 else {
-     $sql = 'select temples.*, citations.loci, biblio.citation_html from temples left join citations on id = templeID left join biblio on citations.refKey = biblio.refKey WHERE longitude != "" AND type = "temple" ORDER BY name';
+     $sql = $queryStart . $queryEnd;
     }
 # Try query or error
 $rs = $conn->query($sql);
