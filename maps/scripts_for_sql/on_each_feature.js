@@ -6,6 +6,9 @@ function onEachFeature(feature, layer) {
         layer.on({
             'click': function (e) {
                 otherDB = '<li>';
+                loc = '';
+                cites = '';
+    			l = false;
                 text = '<h4>Temple of ' + feature.properties.name + '</h4><span style="font-size:small"><ul>';
                 if (feature.properties.id != '') {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
@@ -13,6 +16,23 @@ function onEachFeature(feature, layer) {
                 if (feature.properties.dedicatee != '') {
                     text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace (',', ' and ') + '</li>';
                     }                
+                if (feature.properties.location != '' || feature.properties.city != '' || feature.properties.country != '') {
+                    loc = '<li>Location: ';
+                    if (feature.properties.location != '') { 
+						loc = loc + feature.properties.location;
+						l = true;
+						}
+                    if (feature.properties.city != '') {
+						if (l) { loc = loc +  ' in '; } 
+						loc = loc + feature.properties.city; 
+						}
+                    if (feature.properties.country != '') { 
+						if (loc.length > 14 ) {loc = loc +  ', ' }
+						loc = loc + feature.properties.country; 
+						}
+                    text = text + loc + '</li>';
+                    }                
+                // Get the other database info and put it on one line
                 if (feature.properties.pleiades != '') {
                     otherDB = otherDB + '<a target="_blank" href="https://pleiades.stoa.org/places/' + feature.properties.pleiades + '">Pleiades</a>';
                     }                
@@ -33,9 +53,11 @@ function onEachFeature(feature, layer) {
                     otherDB = otherDB + '<a target="_blank" href="https://www.wikidata.org/wiki/' + feature.properties.arachne + '">WikiData</a>';
                     }            
                 if (otherDB.length == 4) { otherDB = '' } else { otherDB = otherDB + '</li>' }
-                document.getElementById("side").innerHTML = text + otherDB + 
-                    '<li>Cited in:<br>' + getCitations(biblio.items, Number(feature.properties.id)) + '</span>' +
-                    '<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation insructions.)</span>';
+                if (feature.properties.cite != '') {
+                    cites = '<li>Cited in<ol><li>' + feature.properties.cite + '</li></ol>';
+                    }                
+                document.getElementById("side").innerHTML = text + otherDB + cites +
+				'<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation insructions.)</span>';
             }
         });
 }
