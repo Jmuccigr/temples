@@ -17,7 +17,7 @@
         "startdatelate": "",
         "century": "-3",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "1",
         "deitytype": "hero",
         "extant": "",
         "source": "Ziolkowski",
@@ -4903,6 +4903,43 @@
         "sex": "M",
         "dedicationday": "",
         "deitytype": "god",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jupiter",
+        "id": "10000135",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "Tiber Island",
+        "city": "Rome",
+        "country": "Italy",
+        "orientation": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
         "extant": "",
         "source": "",
         "meetings": "",
