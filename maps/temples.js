@@ -17,7 +17,7 @@ var temples =  {
         "startdatelate": "",
         "century": "-3",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "1",
         "deitytype": "hero",
         "extant": "",
         "source": "Ziolkowski",
