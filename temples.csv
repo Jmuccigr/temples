@@ -1,5 +1,5 @@
 "name","id","dedicatee","type","location","city","country","orientation","date","startdateearly","startdatelate","century","sex","dedicationday","deitytype","extant","source","meetings","note","vici.org","pleiades","dare","arachne","wikipedia","wikidata","longitude","latitude"
-"Aesculapius","1000001","Aesculapius","temple","Tiber Island","Rome","Italy","","-291","-291","","-3","M","","hero","","Ziolkowski","","","23444","","","","","",12.478333,41.890278
+"Aesculapius","1000001","Aesculapius","temple","Tiber Island","Rome","Italy","","-291","-291","","-3","M","1","hero","","Ziolkowski","","","23444","","","","","",12.478333,41.890278
 "Apollo Palatinus","1000002","Apollo","temple","Palatine Hill","Rome","Italy","227","-28","-28","","-1","M","","god","","Blake, Stamper","","","","","","8606","","",12.485741,41.888854
 "Apollo Sosianus/Medicus","1000003","Apollo","temple","Circus Flaminius","Rome","Italy","180","-431","-431","","-5","M","23","god","","Stamper","senate","vici.org; coords modified","15038","740034026","","5665","","",12.4795912,41.8923136
 "Bellona","1000004","Bellona","temple","Circus Flaminius","Rome","Italy","180","-296","-296","","-3","F","3","god","","Ziolkowski","senate","","","","3467477","","","",12.47989,41.89238
@@ -132,3 +132,4 @@
 "Vortumnus","1000132","Vortumnus","temple","Aventine Hill","Rome","Italy","","-264","-264","","-3","M","13","god","","","","","","","","","","","",""
 "Moneta","1000133","Moneta","temple","Alban Mount","","Italy","","-168","","","","F","","god","","","","","","","","","","","",""
 "Janus Quadrifons","1000134","Janus","temple","Forum Transitorium","Rome","Italy","","81-96","81","","1","M","","god","","","","","","","","","","","",""
+"Jupiter","10000135","","temple","Tiber Island","Rome","Italy","","","","","","","","","","","","","","","","","","","",""
