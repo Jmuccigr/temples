@@ -11,11 +11,19 @@ temp=$(echo $TMPDIR | sed 's:/$::')
 # Path to include homebrew stuff like jq for running via launchctl
 export PATH="/usr/local/bin:/usr/local/opt/gdal2/bin:$PATH"
 
+# Quick check that ogr2ogr exists
+check=$(which ogr2ogr)
+if [ ${#check} = 0 ]
+    then
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) ogr2ogr not found." 1>&2
+      exit
+fi
+
 # Get google doc as xml via the public feed & exit on failure to return any/enough data
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
 if [ ${#xml} -lt 100 ]
    then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no data from Google spreadsheet server" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no temple data from Google spreadsheet server" 1>&2
    exit
 fi
 
@@ -44,9 +52,8 @@ ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'B
 if  [ ! -s "$temp/sheet1.csv" ]
 then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
-   echo "Error with sheet1.csv creation" | mail -s "Temples problem" $me 
+   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me 
    exit
-   echo "hello"
 fi
 
 # Rename google's sheet id column and keep mine.
