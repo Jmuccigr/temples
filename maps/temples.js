@@ -3005,7 +3005,7 @@ var temples =  {
         "id": "1000121",
         "dedicatee": "Veiovis",
         "type": "temple",
-        "location": "",
+        "location": "Inter duos lucos",
         "city": "Rome",
         "country": "Italy",
         "orientation": "",
