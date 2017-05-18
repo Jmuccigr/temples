@@ -4958,6 +4958,43 @@
           ""
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10000136",
+        "name": "Aesculapius",
+        "dedicatee": "",
+        "type": "",
+        "location": "",
+        "city": "",
+        "country": "",
+        "orientation": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      }
     }
   ]
 }
