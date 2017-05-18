@@ -27,23 +27,24 @@ if [ ${#xml} -lt 100 ]
    exit
 fi
 
-# Clean up the entry names in the xml, filter out unwanted fields & save to file for ogr2ogr
-xml=$(echo $xml | tidy -xml -iq | sed 's/gsx://g' | grep -e entry -e /loci -e /refkey -e /templeid)
-echo "<feed>
-$xml
-</feed>" > "$temp/citations.xml"
+# Clean up the entry names in the xml & save to file for ogr2ogr
+echo $xml | tidy -xml -iq | sed 's/gsx://g'  > "$temp/citations.xml"
 
-# Convert to csv
+# Convert to csv and select only wanted fields
 # perl bit adds a date stamp to the warning output for log file
 rm "$temp/citations.csv" 2>/dev/null
-ogr2ogr -f csv "$temp/citations.csv" "$temp/citations.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+rm "$temp/citations1.csv" 2>/dev/null
+ogr2ogr -f csv -select templeid,refkey,loci "$temp/citations1.csv" "$temp/citations.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Make sure the csv has been created or else exit
-if  [ ! -s "$temp/citations.csv" ]
+if  [ ! -s "$temp/citations1.csv" ]
 then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) citations.csv not created." 1>&2
-   echo "Error with citations.csv creation" | mail -s "Temples problem: citations" $me 
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) citations1.csv not created." 1>&2
+   echo "Error with citations1.csv creation" | mail -s "Temples problem: citations" $me 
    exit
+else
+   # Trim off the header line for easy import into sql
+   cat "$temp/citations1.csv" | sed -e '1d' | sort > "$temp/citations.csv"
 fi
 
 # Make sure something has changed or else exit
