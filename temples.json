@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aesculapius",
         "id": "1000001",
+        "name": "Aesculapius",
         "dedicatee": "Aesculapius",
         "type": "temple",
         "location": "Tiber Island",
@@ -41,8 +41,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Apollo Palatinus",
         "id": "1000002",
+        "name": "Apollo Palatinus",
         "dedicatee": "Apollo",
         "type": "temple",
         "location": "Palatine Hill",
@@ -78,8 +78,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Apollo Sosianus/Medicus",
         "id": "1000003",
+        "name": "Apollo Sosianus/Medicus",
         "dedicatee": "Apollo",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -115,8 +115,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bellona",
         "id": "1000004",
+        "name": "Bellona",
         "dedicatee": "Bellona",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -152,8 +152,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bona Dea",
         "id": "1000005",
+        "name": "Bona Dea",
         "dedicatee": "Bona Dea",
         "type": "temple",
         "location": "Lesser Aventine",
@@ -189,8 +189,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Castor(es)",
         "id": "1000007",
+        "name": "Castor(es)",
         "dedicatee": "Castor(es)",
         "type": "temple",
         "location": "Forum",
@@ -226,8 +226,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Castor et Pollux",
         "id": "1000008",
+        "name": "Castor et Pollux",
         "dedicatee": "Castor, Pollux",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -263,8 +263,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ceres et Faustina",
         "id": "1000009",
+        "name": "Ceres et Faustina",
         "dedicatee": "Ceres, Faustina",
         "type": "temple",
         "location": "",
@@ -300,8 +300,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ceres, Liber, Libera",
         "id": "1000010",
+        "name": "Ceres, Liber, Libera",
         "dedicatee": "Ceres, Liber, Libera",
         "type": "temple",
         "location": "Aventine",
@@ -337,8 +337,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cessati Spiriti",
         "id": "1000011",
+        "name": "Cessati Spiriti",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -374,8 +374,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Claudius",
         "id": "1000012",
+        "name": "Divus Claudius",
         "dedicatee": "Claudius",
         "type": "temple",
         "location": "Caelian Hill",
@@ -411,8 +411,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Concordia",
         "id": "1000013",
+        "name": "Concordia",
         "dedicatee": "Concord",
         "type": "temple",
         "location": "Forum",
@@ -448,8 +448,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cybele/Magna Mater",
         "id": "1000014",
+        "name": "Cybele/Magna Mater",
         "dedicatee": "Cybele/Magna Mater",
         "type": "temple",
         "location": "Palatine Hill",
@@ -485,8 +485,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dea Dia",
         "id": "1000015",
+        "name": "Dea Dia",
         "dedicatee": "Dea Dia",
         "type": "temple",
         "location": "",
@@ -522,8 +522,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Diana",
         "id": "1000016",
+        "name": "Diana",
         "dedicatee": "Diana",
         "type": "temple",
         "location": "Aventine",
@@ -559,8 +559,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Antoninus et Diva Faustina",
         "id": "1000017",
+        "name": "Divus Antoninus et Diva Faustina",
         "dedicatee": "Antoninus, Faustina",
         "type": "temple",
         "location": "Forum",
@@ -596,8 +596,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Augustus",
         "id": "1000018",
+        "name": "Divus Augustus",
         "dedicatee": "Augustus",
         "type": "temple",
         "location": "",
@@ -633,8 +633,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Julius",
         "id": "1000019",
+        "name": "Divus Julius",
         "dedicatee": "Julius",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -670,8 +670,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Romulus",
         "id": "1000020",
+        "name": "Divus Romulus",
         "dedicatee": "Romulus",
         "type": "temple",
         "location": "Forum",
@@ -707,8 +707,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Trajanus",
         "id": "1000021",
+        "name": "Divus Trajanus",
         "dedicatee": "Trajan",
         "type": "temple",
         "location": "Forum of Trajan",
@@ -744,8 +744,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elagabal",
         "id": "1000022",
+        "name": "Elagabal",
         "dedicatee": "Elagabal",
         "type": "temple",
         "location": "",
@@ -781,8 +781,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Feronia",
         "id": "1000023",
+        "name": "Feronia",
         "dedicatee": "Feronia",
         "type": "temple",
         "location": "Campus Martius",
@@ -818,8 +818,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fides",
         "id": "1000024",
+        "name": "Fides",
         "dedicatee": "Fides",
         "type": "temple",
         "location": "Capitoline",
@@ -855,8 +855,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Flora",
         "id": "1000025",
+        "name": "Flora",
         "dedicatee": "Flora",
         "type": "temple",
         "location": "Circus Maximus",
@@ -892,8 +892,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Flora",
         "id": "1000026",
+        "name": "Flora",
         "dedicatee": "Flora",
         "type": "temple",
         "location": "Quirinal",
@@ -929,8 +929,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fons/Fontus",
         "id": "1000027",
+        "name": "Fons/Fontus",
         "dedicatee": "Fons/Fontus",
         "type": "temple",
         "location": "extra portam fontinalem",
@@ -966,8 +966,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortis Fortuna",
         "id": "1000028",
+        "name": "Fortis Fortuna",
         "dedicatee": "Fortis Fortuna",
         "type": "temple",
         "location": "Right bank of Tiber",
@@ -1003,8 +1003,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortuna Huiusce Diei",
         "id": "1000029",
+        "name": "Fortuna Huiusce Diei",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "Campus Martius",
@@ -1040,8 +1040,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortuna",
         "id": "1000030",
+        "name": "Fortuna",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "Forum Boarium",
@@ -1077,8 +1077,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fortuna Muliebris",
         "id": "1000031",
+        "name": "Fortuna Muliebris",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "",
@@ -1114,8 +1114,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Hadrianus",
         "id": "1000032",
+        "name": "Divus Hadrianus",
         "dedicatee": "Hadrian",
         "type": "temple",
         "location": "Campus Martius",
@@ -1151,8 +1151,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hercules Magnus Custos",
         "id": "1000033",
+        "name": "Hercules Magnus Custos",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1188,8 +1188,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hercules Musarum",
         "id": "1000034",
+        "name": "Hercules Musarum",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1225,8 +1225,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hercules Victor",
         "id": "1000035",
+        "name": "Hercules Victor",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Caelian Hill",
@@ -1262,8 +1262,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hercules Victor",
         "id": "1000036",
+        "name": "Hercules Victor",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "",
@@ -1299,8 +1299,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hercules Victor/Invictus",
         "id": "1000037",
+        "name": "Hercules Victor/Invictus",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Forum Boarium",
@@ -1336,8 +1336,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Honor et Virtus",
         "id": "1000038",
+        "name": "Honor et Virtus",
         "dedicatee": "Honor, Virtue",
         "type": "temple",
         "location": "",
@@ -1373,8 +1373,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Il Torraccio",
         "id": "1000039",
+        "name": "Il Torraccio",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -1410,8 +1410,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Isis at via Labicana",
         "id": "1000040",
+        "name": "Isis at via Labicana",
         "dedicatee": "Isis",
         "type": "temple",
         "location": "",
@@ -1447,8 +1447,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Isis/Serapis",
         "id": "1000041",
+        "name": "Isis/Serapis",
         "dedicatee": "Isis/Serapis",
         "type": "temple",
         "location": "Campus Martius",
@@ -1484,8 +1484,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Janus",
         "id": "1000042",
+        "name": "Janus",
         "dedicatee": "Janus",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1521,8 +1521,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Curritis",
         "id": "1000043",
+        "name": "Juno Curritis",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Campus Martius",
@@ -1558,8 +1558,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Lucina",
         "id": "1000044",
+        "name": "Juno Lucina",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Esquiline Hill",
@@ -1595,8 +1595,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Moneta",
         "id": "1000045",
+        "name": "Juno Moneta",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1632,8 +1632,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Regina",
         "id": "1000046",
+        "name": "Juno Regina",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Aventine Hill",
@@ -1669,8 +1669,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Regina",
         "id": "1000047",
+        "name": "Juno Regina",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1706,8 +1706,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juno Sospita",
         "id": "1000048",
+        "name": "Juno Sospita",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1743,8 +1743,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "1000049",
+        "name": "Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1780,8 +1780,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "1000050",
+        "name": "Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1817,8 +1817,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "1000051",
+        "name": "Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1854,8 +1854,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "1000052",
+        "name": "Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1891,8 +1891,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "1000053",
+        "name": "Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1928,8 +1928,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Anxur",
         "id": "1000054",
+        "name": "Jupiter Anxur",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1965,8 +1965,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Conservator",
         "id": "1000055",
+        "name": "Jupiter Conservator",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2002,8 +2002,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Custos",
         "id": "1000056",
+        "name": "Jupiter Custos",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2039,8 +2039,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Dolichenus",
         "id": "1000057",
+        "name": "Jupiter Dolichenus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Aventine Hill",
@@ -2076,8 +2076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Feretrius",
         "id": "1000058",
+        "name": "Jupiter Feretrius",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2113,8 +2113,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Heliopolitanus",
         "id": "1000059",
+        "name": "Jupiter Heliopolitanus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Janiculum",
@@ -2150,8 +2150,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Invictus",
         "id": "1000060",
+        "name": "Jupiter Invictus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Palatine Hill",
@@ -2187,8 +2187,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Libertas",
         "id": "1000061",
+        "name": "Jupiter Libertas",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Aventine Hill",
@@ -2224,8 +2224,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Capitolinus/Optimus Maximus",
         "id": "1000062",
+        "name": "Jupiter Capitolinus/Optimus Maximus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2261,8 +2261,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Patulaeius",
         "id": "1000063",
+        "name": "Jupiter Patulaeius",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -2298,8 +2298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Pompeii",
         "id": "1000064",
+        "name": "Jupiter Pompeii",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -2335,8 +2335,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Sospita",
         "id": "1000065",
+        "name": "Jupiter Sospita",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -2372,8 +2372,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Stator",
         "id": "1000066",
+        "name": "Jupiter Stator",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Campus Martius",
@@ -2409,8 +2409,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Stator",
         "id": "1000067",
+        "name": "Jupiter Stator",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -2446,8 +2446,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Tonans",
         "id": "1000068",
+        "name": "Jupiter Tonans",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2483,8 +2483,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter Victor",
         "id": "1000069",
+        "name": "Jupiter Victor",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Quirinal Hill",
@@ -2520,8 +2520,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter/Baalshamin",
         "id": "1000070",
+        "name": "Jupiter/Baalshamin",
         "dedicatee": "Jupiter, Baalshamin",
         "type": "temple",
         "location": "",
@@ -2557,8 +2557,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juturna",
         "id": "1000071",
+        "name": "Juturna",
         "dedicatee": "Juturna",
         "type": "temple",
         "location": "Campus Martius",
@@ -2594,8 +2594,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juventas",
         "id": "1000072",
+        "name": "Juventas",
         "dedicatee": "Juventas",
         "type": "temple",
         "location": "Circus Maximus",
@@ -2631,8 +2631,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lares",
         "id": "1000073",
+        "name": "Lares",
         "dedicatee": "Lares",
         "type": "temple",
         "location": "in summa Sacra Via",
@@ -2668,8 +2668,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lares Permarini",
         "id": "1000074",
+        "name": "Lares Permarini",
         "dedicatee": "Lares Permarini",
         "type": "temple",
         "location": "Campus Martius",
@@ -2705,8 +2705,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Luna",
         "id": "1000075",
+        "name": "Luna",
         "dedicatee": "Luna",
         "type": "temple",
         "location": "Aventine Hill",
@@ -2742,8 +2742,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mars",
         "id": "1000076",
+        "name": "Mars",
         "dedicatee": "Mars",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -2779,8 +2779,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mars",
         "id": "1000077",
+        "name": "Mars",
         "dedicatee": "Mars",
         "type": "temple",
         "location": "North Via Appia",
@@ -2816,8 +2816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mars Ultor",
         "id": "1000078",
+        "name": "Mars Ultor",
         "dedicatee": "Mars",
         "type": "temple",
         "location": "Forum of Augustus",
@@ -2853,8 +2853,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mater Matuta",
         "id": "1000079",
+        "name": "Mater Matuta",
         "dedicatee": "Mater Matuta",
         "type": "temple",
         "location": "Forum Boarium",
@@ -2890,8 +2890,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Matidia",
         "id": "1000080",
+        "name": "Matidia",
         "dedicatee": "Matidia",
         "type": "temple",
         "location": "",
@@ -2927,8 +2927,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mausoleum Romuli",
         "id": "1000081",
+        "name": "Mausoleum Romuli",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -2964,8 +2964,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mercury",
         "id": "1000082",
+        "name": "Mercury",
         "dedicatee": "Mercury",
         "type": "temple",
         "location": "Aventine Hill",
@@ -3001,8 +3001,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minerva",
         "id": "1000083",
+        "name": "Minerva",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "Aventine Hill",
@@ -3038,8 +3038,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minerva Medica",
         "id": "1000084",
+        "name": "Minerva Medica",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "Esquiline Hill",
@@ -3075,8 +3075,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Minerva",
         "id": "1000085",
+        "name": "Minerva",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "Forum of Nerva",
@@ -3112,8 +3112,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum Barberini",
         "id": "1000086",
+        "name": "Mithraeum Barberini",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3149,8 +3149,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of Orazio Muti",
         "id": "1000087",
+        "name": "Mithraeum of Orazio Muti",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3186,8 +3186,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of San Clemente",
         "id": "1000088",
+        "name": "Mithraeum of San Clemente",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3223,8 +3223,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of Santa Prisca",
         "id": "1000089",
+        "name": "Mithraeum of Santa Prisca",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3260,8 +3260,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of Santo Stefano Rotondo",
         "id": "1000090",
+        "name": "Mithraeum of Santo Stefano Rotondo",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3297,8 +3297,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of the Baths of Caracalla",
         "id": "1000091",
+        "name": "Mithraeum of the Baths of Caracalla",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3334,8 +3334,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of the Campidoglio",
         "id": "1000092",
+        "name": "Mithraeum of the Campidoglio",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3371,8 +3371,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of the Circus Maximus",
         "id": "1000093",
+        "name": "Mithraeum of the Circus Maximus",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3408,8 +3408,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of the Crypta Balbi",
         "id": "1000094",
+        "name": "Mithraeum of the Crypta Balbi",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3445,8 +3445,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mithraeum of the Esquiline",
         "id": "1000095",
+        "name": "Mithraeum of the Esquiline",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -3482,8 +3482,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Monte del Grano",
         "id": "1000096",
+        "name": "Monte del Grano",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -3519,8 +3519,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Neptunus",
         "id": "1000097",
+        "name": "Neptunus",
         "dedicatee": "Neptune",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -3556,8 +3556,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nymphaeum of the Villa dei Quintili",
         "id": "1000098",
+        "name": "Nymphaeum of the Villa dei Quintili",
         "dedicatee": "Nymphs",
         "type": "temple",
         "location": "",
@@ -3593,8 +3593,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nymphaeum Septizodium",
         "id": "1000099",
+        "name": "Nymphaeum Septizodium",
         "dedicatee": "Nymphs",
         "type": "temple",
         "location": "Campus Martius",
@@ -3630,8 +3630,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nymphs",
         "id": "1000100",
+        "name": "Nymphs",
         "dedicatee": "Nymphs",
         "type": "temple",
         "location": "",
@@ -3667,8 +3667,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ops Opifera",
         "id": "1000101",
+        "name": "Ops Opifera",
         "dedicatee": "Ops Opifera",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -3704,8 +3704,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pales",
         "id": "1000102",
+        "name": "Pales",
         "dedicatee": "Pales",
         "type": "temple",
         "location": "Palatine Hill",
@@ -3741,8 +3741,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pantheon",
         "id": "1000103",
+        "name": "Pantheon",
         "dedicatee": "Pantheon",
         "type": "temple",
         "location": "Campus Martius",
@@ -3778,8 +3778,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pax",
         "id": "1000104",
+        "name": "Pax",
         "dedicatee": "Peace",
         "type": "temple",
         "location": "",
@@ -3815,8 +3815,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Penates",
         "id": "1000105",
+        "name": "Penates",
         "dedicatee": "Penates",
         "type": "temple",
         "location": "Velian Hill",
@@ -3852,8 +3852,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Portunus",
         "id": "1000106",
+        "name": "Portunus",
         "dedicatee": "Portunus",
         "type": "temple",
         "location": "Forum Boarium",
@@ -3889,8 +3889,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quirinus",
         "id": "1000107",
+        "name": "Quirinus",
         "dedicatee": "Quirinus",
         "type": "temple",
         "location": "Quirinal Hill",
@@ -3926,8 +3926,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Robigo",
         "id": "1000108",
+        "name": "Robigo",
         "dedicatee": "Robigo",
         "type": "sanctuary",
         "location": "",
@@ -3963,8 +3963,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Salus",
         "id": "1000109",
+        "name": "Salus",
         "dedicatee": "Salus",
         "type": "temple",
         "location": "Quirinal Hill",
@@ -4000,8 +4000,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saturnus",
         "id": "1000110",
+        "name": "Saturnus",
         "dedicatee": "Saturn",
         "type": "temple",
         "location": "Forum",
@@ -4037,8 +4037,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sol",
         "id": "1000111",
+        "name": "Sol",
         "dedicatee": "Sol",
         "type": "temple",
         "location": "Campus Agrippae",
@@ -4074,8 +4074,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sol et Luna",
         "id": "1000112",
+        "name": "Sol et Luna",
         "dedicatee": "Sol, Luna",
         "type": "temple",
         "location": "Circus Maximus",
@@ -4111,8 +4111,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Spes",
         "id": "1000113",
+        "name": "Spes",
         "dedicatee": "Spes",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -4148,8 +4148,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Summanus",
         "id": "1000114",
+        "name": "Summanus",
         "dedicatee": "Summanus",
         "type": "temple",
         "location": "Circus Maximus",
@@ -4185,8 +4185,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sybil",
         "id": "1000115",
+        "name": "Sybil",
         "dedicatee": "Sybil",
         "type": "temple",
         "location": "",
@@ -4222,8 +4222,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tellus",
         "id": "1000116",
+        "name": "Tellus",
         "dedicatee": "Tellus",
         "type": "temple",
         "location": "Esquiline Hill",
@@ -4259,8 +4259,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tempestates",
         "id": "1000117",
+        "name": "Tempestates",
         "dedicatee": "Tempestates",
         "type": "temple",
         "location": "Porta Capena",
@@ -4296,8 +4296,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Temple of S. Salvatore in Campo",
         "id": "1000118",
+        "name": "Temple of S. Salvatore in Campo",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -4333,8 +4333,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tiberinus",
         "id": "1000119",
+        "name": "Tiberinus",
         "dedicatee": "Tiberinus",
         "type": "temple",
         "location": "Tiber Island",
@@ -4370,8 +4370,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tomb of Cecilia Metella",
         "id": "1000120",
+        "name": "Tomb of Cecilia Metella",
         "dedicatee": "",
         "type": "tomb",
         "location": "Via Appia",
@@ -4407,8 +4407,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Veiovis",
         "id": "1000121",
+        "name": "Veiovis",
         "dedicatee": "Veiovis",
         "type": "temple",
         "location": "Inter duos lucos",
@@ -4444,8 +4444,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venus et Roma",
         "id": "1000122",
+        "name": "Venus et Roma",
         "dedicatee": "Venus, Rome",
         "type": "temple",
         "location": "",
@@ -4481,8 +4481,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venus Genetrix",
         "id": "1000123",
+        "name": "Venus Genetrix",
         "dedicatee": "Venus",
         "type": "temple",
         "location": "Forum of Julius",
@@ -4518,8 +4518,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venus Obsequens",
         "id": "1000124",
+        "name": "Venus Obsequens",
         "dedicatee": "Venus",
         "type": "temple",
         "location": "Circus Maximus",
@@ -4555,8 +4555,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venus Victrix",
         "id": "1000125",
+        "name": "Venus Victrix",
         "dedicatee": "Venus",
         "type": "temple",
         "location": "Campus Martius",
@@ -4592,8 +4592,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Divus Vespasian et Divus Titus",
         "id": "1000126",
+        "name": "Divus Vespasian et Divus Titus",
         "dedicatee": "Vespasian, Titus",
         "type": "temple",
         "location": "Forum",
@@ -4629,8 +4629,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vesta",
         "id": "1000127",
+        "name": "Vesta",
         "dedicatee": "Vesta",
         "type": "temple",
         "location": "Forum",
@@ -4666,8 +4666,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vesta",
         "id": "1000128",
+        "name": "Vesta",
         "dedicatee": "Vesta",
         "type": "temple",
         "location": "",
@@ -4703,8 +4703,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vica Pota",
         "id": "1000129",
+        "name": "Vica Pota",
         "dedicatee": "Vica Pota",
         "type": "temple",
         "location": "Velian Hill",
@@ -4740,8 +4740,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Victoria",
         "id": "1000130",
+        "name": "Victoria",
         "dedicatee": "Victoria",
         "type": "temple",
         "location": "Palatine Hill",
@@ -4777,8 +4777,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Volcanus",
         "id": "1000131",
+        "name": "Volcanus",
         "dedicatee": "Volcanus",
         "type": "temple",
         "location": "Campus Martius",
@@ -4814,8 +4814,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vortumnus",
         "id": "1000132",
+        "name": "Vortumnus",
         "dedicatee": "Vortumnus",
         "type": "temple",
         "location": "Aventine Hill",
@@ -4851,8 +4851,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Moneta",
         "id": "1000133",
+        "name": "Moneta",
         "dedicatee": "Moneta",
         "type": "temple",
         "location": "Alban Mount",
@@ -4888,8 +4888,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Janus Quadrifons",
         "id": "1000134",
+        "name": "Janus Quadrifons",
         "dedicatee": "Janus",
         "type": "temple",
         "location": "Forum Transitorium",
@@ -4925,8 +4925,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jupiter",
         "id": "10000135",
+        "name": "Jupiter",
         "dedicatee": "",
         "type": "temple",
         "location": "Tiber Island",
