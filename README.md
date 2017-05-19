@@ -24,7 +24,8 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 
 These are a combo of sheel scripts & AppleScripts with some embedded shell commands.
 
-- ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl
+- ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl.
+- ggl2citations.sh: Download the google spreadsheet and convert it to csv. This runs every hour via launchctl.
 - google2geojson.sh: old version of the previous
 - json2js.sh: Take the file created by ggl2geojson.sh and copy it into a javascript file that leaflet can use.
 - json2csv.sh: Take the file created by ggl2geojson.sh and convert it to csv.
@@ -36,3 +37,26 @@ These are a combo of sheel scripts & AppleScripts with some embedded shell comma
 - Get_dare_info.applescript
 - Pleiades_titles.applescript
 - Vici_get_external_IDs.applescript
+
+## How it works
+
+### Maintaining the data
+
+- The data on temples (and other structures) as well as citations for each structure are maintained in a Google sheet. This is mainly for convenience and will likely not be a long-term solution.
+- Periodically scripts run on my laptop to download the data and convert it to more useful forms than the XML it arrives as.
+- These more convenient forms are saved in this github repository and pushed to github, as long as they differ from the already existing version.
+
+### Bibliography
+
+- The bibliography for the project is kept in my [Zotero](http://zotero.org/) library.
+- This collection is automatically exported upon change to this github folder.
+- Scripts run upon a change to the bibliography export to convert it to csv which is then automatically pushed to github when the other data files are.
+
+### The Working Database
+
+- The data are transferred into a mysql database to be served on line. This is done by directly importing the csv files mentioned above via phpAdmin.
+- A local mysql/apache server is maintained via [MAMP](http://mamp.info/) for testing.
+
+### Maps
+
+- Maps are created using [Leaflet](http://leafletjs.com) by querying the database directly.
