@@ -85,7 +85,7 @@
     // Make sure this is global so the control can be deleted by other scripts.
     ctl = L.control.layers(baseLayers, overlays,
     {
-        collapsed: false,
+        collapsed: true,
         position: 'bottomleft'
     }).addTo(map);
 
