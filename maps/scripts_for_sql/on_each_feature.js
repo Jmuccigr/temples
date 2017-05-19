@@ -57,7 +57,7 @@ function onEachFeature(feature, layer) {
                     cites = '<li>Cited in<ol><li>' + feature.properties.cite + '</li></ol>';
                     }                
                 document.getElementById("side").innerHTML = text + otherDB + cites +
-				'<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation insructions.)</span>';
+				'<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation instructions.)</span>';
             }
         });
 }
