@@ -59,4 +59,6 @@ These are a combo of sheel scripts & AppleScripts with some embedded shell comma
 
 ### Maps
 
-- Maps are created using [Leaflet](http://leafletjs.com) by querying the database directly.
+- Maps are created using [Leaflet](http://leafletjs.com) by querying the database directly (either locally or on-line).
+- The map itself is handled through a drop-down menu that calls the scripts to load, clear, and re-load the map and its controls.
+- The data are called via php from the server sql database and turned into geojson for leaflet.
