@@ -3293,6 +3293,43 @@ var temples =  {
           41.889418
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000137",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Cosa",
+        "country": "Italy",
+        "orientation": "68",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "B",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286364,
+          42.410911
+        ]
+      }
     }
   ]
 }
