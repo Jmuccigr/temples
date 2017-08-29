@@ -3309,7 +3309,7 @@ var temples =  {
         "startdateearly": "",
         "startdatelate": "",
         "century": "",
-        "sex": "B",
+        "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
         "extant": "yes",
