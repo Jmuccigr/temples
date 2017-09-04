@@ -3330,6 +3330,43 @@
           42.410911
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000138",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Cumae",
+        "country": "Italy",
+        "orientation": "105",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "14783",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.057007,
+          40.848488
+        ]
+      }
     }
   ]
 }
