@@ -3342,7 +3342,7 @@ var temples =  {
         "city": "Cumae",
         "country": "Italy",
         "orientation": "105",
-        "date": "",
+        "date": "26",
         "startdateearly": "",
         "startdatelate": "",
         "century": "",
