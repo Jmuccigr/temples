@@ -3367,6 +3367,43 @@ var temples =  {
           40.848488
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000139",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Verona",
+        "country": "Italy",
+        "orientation": "144",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.996195,
+          45.443872
+        ]
+      }
     }
   ]
 }
