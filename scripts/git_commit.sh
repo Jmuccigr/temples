@@ -10,7 +10,7 @@ counter=0
 # Commit the various temple-db output files to git if they've changed
 gitList=$(cd "$dest"; git status -s)
 
-for f in temples.json temples.csv maps/temples.json maps/temples.js sheet.csv citations.csv
+for f in temples.json temples.csv maps/temples.json maps/temples.js sheet.csv citations.csv bibliography.csv temple_bib.html temple_bib.json
 do
 	gitItem=$(echo "$gitList" | grep -e " M $f")
 	if [ ${#gitItem} -ne 0 ] 
