@@ -130,10 +130,12 @@
 "1000130","Victoria","Victoria","temple","Palatine Hill","Rome","Italy","219","-294","-294","","-3","F","","concept","","Stamper","","Pleiades","","","","","","",12.48521,41.889418
 "1000131","Volcanus","Volcanus","temple","Campus Martius","Rome","Italy","","-292-219","-292","-219","-3","M","","god","","","","","","","","","","","",""
 "1000132","Vortumnus","Vortumnus","temple","Aventine Hill","Rome","Italy","","-264","-264","","-3","M","13","god","","","","","","","","","","","",""
-"1000133","Moneta","Moneta","temple","Alban Mount","","Italy","","-168","","","","F","","god","","","","","","","","","","","",""
+"1000133","Moneta","Moneta","temple","Alban Mount","","Italy","","-168","-168","","-2","F","","god","","","","","","","","","","","",""
 "1000134","Janus Quadrifons","Janus","temple","Forum Transitorium","Rome","Italy","","81-96","81","","1","M","","god","","","","","","","","","","","",""
 "1000135","Veiovis","Veiovis","temple","Tiber Island","Rome","Italy","","","","","","","","god","","","","","","","","","","","",""
 "1000136","Aesculapius","Aesculapius","temple","Esquiline","Rome","Italy","","","","","","M","","hero","no","","","","","","","","","","",""
 "1000137","Capitolium","Jupiter, Juno, Minerva","temple","","Cosa","Italy","68","","","","","M/F","","god","yes","","","","","","","","","",11.286364,42.410911
 "1000138","Capitolium","Jupiter, Juno, Minerva","temple","","Cumae","Italy","105","26","","","","M/F","","god","yes","","","","14783","","","","","",14.057007,40.848488
 "1000139","Capitolium","Jupiter, Juno, Minerva","temple","","Verona","Italy","144","","","","","M/F","","god","","","","","","","","","","",10.996195,45.443872
+"1000140","Capitolium","Jupiter, Juno, Minerva","temple","","Scarbantia","Hungary","208","","","","","M/F","","god","","","","","","","","","","",16.58305,47.68489
+"1000141","Capitolium","Jupiter, Juno, Minerva","temple","","Jerusalem","Israel","349","130","130","","2","M/F","","god","no","","","","","","","","","",35.235619,31.776306
