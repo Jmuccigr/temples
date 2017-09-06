@@ -4860,9 +4860,9 @@
         "country": "Italy",
         "orientation": "",
         "date": "-168",
-        "startdateearly": "",
+        "startdateearly": "-168",
         "startdatelate": "",
-        "century": "",
+        "century": "-2",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
@@ -5104,6 +5104,80 @@
         "coordinates": [
           10.996195,
           45.443872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000140",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Scarbantia",
+        "country": "Hungary",
+        "orientation": "208",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.58305,
+          47.68489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000141",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Jerusalem",
+        "country": "Israel",
+        "orientation": "349",
+        "date": "130",
+        "startdateearly": "130",
+        "startdatelate": "",
+        "century": "2",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.235619,
+          31.776306
         ]
       }
     }
