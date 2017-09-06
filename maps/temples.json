@@ -1374,21 +1374,21 @@
       "type": "Feature",
       "properties": {
         "id": "1000050",
-        "name": "Jupiter",
-        "dedicatee": "Jupiter",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
         "type": "temple",
         "location": "",
         "city": "Jerusalem",
         "country": "Israel",
-        "orientation": "",
+        "orientation": "349",
         "date": "130",
         "startdateearly": "130",
         "startdatelate": "",
         "century": "2",
-        "sex": "M",
+        "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
-        "extant": "",
+        "extant": "no",
         "source": "",
         "meetings": "",
         "note": "",
@@ -1402,8 +1402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.235806,
-          31.777972
+          35.235619,
+          31.776306
         ]
       }
     },
@@ -3439,43 +3439,6 @@
         "coordinates": [
           16.58305,
           47.68489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000141",
-        "name": "Capitolium",
-        "dedicatee": "Jupiter, Juno, Minerva",
-        "type": "temple",
-        "location": "",
-        "city": "Jerusalem",
-        "country": "Israel",
-        "orientation": "349",
-        "date": "130",
-        "startdateearly": "130",
-        "startdatelate": "",
-        "century": "2",
-        "sex": "M/F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "extant": "no",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.235619,
-          31.776306
         ]
       }
     }
