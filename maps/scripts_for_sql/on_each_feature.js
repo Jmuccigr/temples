@@ -14,7 +14,7 @@ function onEachFeature(feature, layer) {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
                     }                
                 if (feature.properties.dedicatee != '') {
-                    text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace (',', ' and ') + '</li>';
+                    text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace (/,/g, ' and ') + '</li>';
                     }                
                 if (feature.properties.location != '' || feature.properties.city != '' || feature.properties.country != '') {
                     loc = '<li>Location: ';
