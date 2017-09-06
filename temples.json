@@ -5143,6 +5143,43 @@
           47.68489
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000141",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Constantinople",
+        "country": "Turkey",
+        "orientation": "",
+        "date": "330",
+        "startdateearly": "330",
+        "startdatelate": "",
+        "century": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.956067,
+          41.013342
+        ]
+      }
     }
   ]
 }
