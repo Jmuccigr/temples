@@ -50,7 +50,7 @@ function onEachFeature(feature, layer) {
                     }                
                 if (feature.properties.wikidata != '') {
                     if (otherDB.length > 4) { otherDB = otherDB + ', ' };
-                    otherDB = otherDB + '<a target="_blank" href="https://www.wikidata.org/wiki/' + feature.properties.arachne + '">WikiData</a>';
+                    otherDB = otherDB + '<a target="_blank" href="https://www.wikidata.org/wiki/' + feature.properties.wikidata + '">WikiData</a>';
                     }            
                 if (otherDB.length == 4) { otherDB = '' } else { otherDB = otherDB + '</li>' }
                 if (feature.properties.cite != '') {
