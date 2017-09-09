@@ -5180,6 +5180,80 @@
           41.013342
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000142",
+        "name": "Augustus",
+        "dedicatee": "Augustus, Rome",
+        "type": "temple",
+        "location": "",
+        "city": "Pula",
+        "country": "Croatia",
+        "orientation": "156",
+        "date": "",
+        "startdateearly": "-2",
+        "startdatelate": "14",
+        "century": "1",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "emperor, city",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple_of_Augustus,_Pula",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.841842,
+          44.870213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000143",
+        "name": "Augustus",
+        "dedicatee": "Augustus",
+        "type": "temple",
+        "location": "",
+        "city": "Barcelona",
+        "country": "Spain",
+        "orientation": "224",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-1",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177103,
+          41.383351
+        ]
+      }
     }
   ]
 }
