@@ -3552,6 +3552,43 @@
           41.383351
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "100144",
+        "name": "Augustus",
+        "dedicatee": "Augustus",
+        "type": "temple",
+        "location": "",
+        "city": "Pozzuoli",
+        "country": "Italy",
+        "orientation": "178",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.120447,
+          40.821276
+        ]
+      }
     }
   ]
 }
