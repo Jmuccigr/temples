@@ -3567,7 +3567,7 @@ var temples =  {
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "",
+        "century": "1",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "emperor",
