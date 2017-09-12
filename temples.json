@@ -5265,7 +5265,7 @@
         "location": "",
         "city": "Pozzuoli",
         "country": "Italy",
-        "orientation": "",
+        "orientation": "178",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5287,8 +5287,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          14.120447,
+          40.821276
         ]
       }
     }
