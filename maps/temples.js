@@ -3600,15 +3600,15 @@ var temples =  {
         "location": "",
         "city": "Althiburos",
         "country": "Tunisia",
-        "orientation": "",
+        "orientation": "43",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
         "century": "",
-        "sex": "",
+        "sex": "M/F",
         "dedicationday": "",
-        "deitytype": "",
-        "extant": "",
+        "deitytype": "god",
+        "extant": "yes",
         "source": "",
         "meetings": "",
         "note": "",
@@ -3624,6 +3624,43 @@ var temples =  {
         "coordinates": [
           8.785101,
           35.873886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000146",
+        "name": "Unknown",
+        "dedicatee": "Unknown",
+        "type": "temple",
+        "location": "",
+        "city": "Althiburos",
+        "country": "Tunisia",
+        "orientation": "224",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.785616,
+          35.874468
         ]
       }
     }
