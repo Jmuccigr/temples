@@ -3589,6 +3589,43 @@ var temples =  {
           40.821276
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000145",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Althiburos",
+        "country": "Tunisia",
+        "orientation": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.785101,
+          35.873886
+        ]
+      }
     }
   ]
 }
