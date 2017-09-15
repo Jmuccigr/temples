@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>allPointsing</title>
+</head>
+<body>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+		</script>
+
+<script type="text/javascript" src="scripts/function_layer_by_sex.js">
+</script>
+
+<script type="text/javascript">
+var allPoints = [];
+
+$.getJSON("scripts/json.php", function (data) {
+    allPoints = data.features;
+    alert(JSON.stringify(allPoints));
+});
+
+function getByID(code) {
+  return allPoints.filter(
+    function(allPoints) {
+      return allPoints.properties.id == code
+    }
+  );
+}
+
+function load() {
+    var f = getByID(1000004);
+    if (typeof f[0] == 'undefined') {
+        alert('Nothing returned')
+    } else {
+        document.write(f[0].properties.name)
+    }
+}
+
+</script>
+
+<input type="button" onclick="load();" value="click">
+
+</body>
+</html>

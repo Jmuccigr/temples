@@ -1,0 +1,122 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+	"http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+	<title>Mapping with php</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+	<style>		#map {
+			width: 95%;
+			height: 650px;
+			margin: auto;
+			border: 2px black solid;
+			}
+		body {
+			font-family: Helvetica,sans-serif; 
+			background:#EEEEEE;
+			}
+		table {
+			 margin: auto; 
+			 }
+		td {
+			vertical-align: top;		
+		}
+		li {
+			font-size: small;
+		}
+		td > form {
+			margin-left: 50pt;
+		}
+	</style>
+<!-- Load jQuery library using plain JavaScript
+	<script src="jquery.min.js"></script> -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+</head>
+<body>
+<div id="map">
+</div>
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js">
+</script>
+<script src="temples.js"></script>
+<script type="text/javascript">
+	
+	var first = new L.LayerGroup(),
+		second = new L.LayerGroup(),
+		karta = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ', {
+	maxZoom: 18,
+	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+	'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+	'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+	id: 'mapbox.streets'
+	}),
+		mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+	    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+	    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+	    mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ',
+	    grayscale = L.tileLayer(mbUrl, {
+	        id: 'mapbox.light',
+	        attribution: mbAttr
+	    });
+	    	
+	t = new L.geoJson(null, {
+		pointToLayer: function (feature, latlng) {
+			return L.marker(latlng, {
+			});
+		},
+		onEachFeature: function (feature, layer) {
+			layer.bindPopup(feature.properties.name);
+		}
+		}).addTo(first);
+
+/* 
+	L.geoJson(t, {
+		pointToLayer: function (feature, latlng) {
+			return L.marker(latlng, {
+				icon: blackIcon
+			});
+		},
+		onEachFeature: function (feature, layer) {
+			layer.bindPopup(feature.properties.name);
+		}
+		}).addTo(first);
+ */
+	
+	$.getJSON("scripts/json.php", function (data) {
+        t.addData(data);
+//        t = '"' + data + '"';
+    });
+
+/* 
+    L.geoJson(temples, {
+        onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.name)
+        },
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+            });
+        }
+    }).addTo(second);
+ */
+
+	var map = L.map('map', {
+	        center: [41.6, 12.75336],
+	        zoom: 9,
+	        layers: [karta, first]
+	    });
+	
+	var baseLayers = {
+	        "Grayscale": grayscale,
+	        "Karta": karta
+	    };
+	
+	    var overlays = {
+	        "Temples": first
+	        };
+
+	    L.control.layers(baseLayers, overlays).addTo(map);
+	    
+	    map.addLayer(first);
+</script>
+</body>
+</html>
