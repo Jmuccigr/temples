@@ -19,6 +19,7 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 - forbidden - for storing passwords
 - maps - What it sounds like. Various different maps.
 - scripts - place for project-related scripts
+- htdocs-maps - directory from local MAMP installation. Mirrored by on-line version of <http://RomeResearchGroup.org>
 
 ## Scripts
 
