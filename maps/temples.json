@@ -3700,6 +3700,43 @@
           35.404638
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000148",
+        "name": "A",
+        "dedicatee": "Apollo, Artemis, Aphrodite",
+        "type": "temple",
+        "location": "",
+        "city": "Laodicea on the Lycus",
+        "country": "Turkey",
+        "orientation": "27",
+        "date": "2nd c. CE",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "2",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.109669,
+          37.83629
+        ]
+      }
     }
   ]
 }
