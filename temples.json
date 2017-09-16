@@ -5462,7 +5462,7 @@
         "source": "",
         "meetings": "",
         "note": "",
-        "vici.org": "",
+        "vici.org": "18182",
         "pleiades": "",
         "dare": "",
         "arachne": "",
@@ -5472,8 +5472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.109669,
-          37.83629
+          29.109676,
+          37.836269
         ]
       }
     }
