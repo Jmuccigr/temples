@@ -3663,6 +3663,43 @@ var temples =  {
           35.874468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000147",
+        "name": "Minerva",
+        "dedicatee": "Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Tebessa",
+        "country": "Algeria",
+        "orientation": "121",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.122492,
+          35.404638
+        ]
+      }
     }
   ]
 }
