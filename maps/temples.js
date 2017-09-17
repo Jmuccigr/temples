@@ -5,7 +5,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000001",
-        "name": "Aesculapius",
+        "name": "Temple of Aesculapius",
         "dedicatee": "Aesculapius",
         "type": "temple",
         "location": "Tiber Island",
@@ -44,7 +44,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000002",
-        "name": "Apollo Palatinus",
+        "name": "Temple of Apollo Palatinus",
         "dedicatee": "Apollo",
         "type": "temple",
         "location": "Palatine Hill",
@@ -83,7 +83,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000003",
-        "name": "Apollo Sosianus/Medicus",
+        "name": "Temple of Apollo Sosianus/Medicus",
         "dedicatee": "Apollo",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -122,7 +122,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000004",
-        "name": "Bellona",
+        "name": "Temple of Bellona",
         "dedicatee": "Bellona",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -161,7 +161,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000005",
-        "name": "Bona Dea",
+        "name": "Temple of Bona Dea",
         "dedicatee": "Bona Dea",
         "type": "temple",
         "location": "Lesser Aventine",
@@ -200,7 +200,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000007",
-        "name": "Castor(es)",
+        "name": "Temple of Castor(es)",
         "dedicatee": "Castor(es)",
         "type": "temple",
         "location": "Forum",
@@ -239,7 +239,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000009",
-        "name": "Ceres et Faustina",
+        "name": "Temple of Ceres and Faustina",
         "dedicatee": "Ceres, Faustina",
         "type": "temple",
         "location": "",
@@ -278,7 +278,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000011",
-        "name": "Cessati Spiriti",
+        "name": "Temple of Cessati Spiriti",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -317,7 +317,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000012",
-        "name": "Divus Claudius",
+        "name": "Temple of the Divine Claudius",
         "dedicatee": "Claudius",
         "type": "temple",
         "location": "Caelian Hill",
@@ -356,7 +356,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000013",
-        "name": "Concordia",
+        "name": "Temple of Concord",
         "dedicatee": "Concord",
         "type": "temple",
         "location": "Forum",
@@ -395,7 +395,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000014",
-        "name": "Cybele/Magna Mater",
+        "name": "Temple of Cybele/Magna Mater",
         "dedicatee": "Cybele/Magna Mater",
         "type": "temple",
         "location": "Palatine Hill",
@@ -434,7 +434,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000015",
-        "name": "Dea Dia",
+        "name": "Temple of Dea Dia",
         "dedicatee": "Dea Dia",
         "type": "temple",
         "location": "",
@@ -473,7 +473,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000016",
-        "name": "Diana",
+        "name": "Temple of Diana",
         "dedicatee": "Diana",
         "type": "temple",
         "location": "Aventine",
@@ -512,7 +512,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000017",
-        "name": "Divus Antoninus et Diva Faustina",
+        "name": "Temple of the Divine Antoninus and Diva\n Faustina",
         "dedicatee": "Antoninus, Faustina",
         "type": "temple",
         "location": "Forum",
@@ -551,7 +551,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000018",
-        "name": "Divus Augustus",
+        "name": "Temple of the Divine Augustus",
         "dedicatee": "Augustus",
         "type": "temple",
         "location": "",
@@ -590,7 +590,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000019",
-        "name": "Divus Julius",
+        "name": "Temple of the Divine Julius",
         "dedicatee": "Julius",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -629,7 +629,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000020",
-        "name": "Divus Romulus",
+        "name": "Temple of the Divine Romulus",
         "dedicatee": "Romulus",
         "type": "temple",
         "location": "Forum",
@@ -668,7 +668,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000021",
-        "name": "Divus Trajanus",
+        "name": "Temple of the Divine Trajanus",
         "dedicatee": "Trajan",
         "type": "temple",
         "location": "Forum of Trajan",
@@ -707,7 +707,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000022",
-        "name": "Elagabal",
+        "name": "Temple of Elagabal",
         "dedicatee": "Elagabal",
         "type": "temple",
         "location": "",
@@ -746,7 +746,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000023",
-        "name": "Feronia",
+        "name": "Temple of Feronia",
         "dedicatee": "Feronia",
         "type": "temple",
         "location": "Campus Martius",
@@ -785,7 +785,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000024",
-        "name": "Fides",
+        "name": "Temple of Fides",
         "dedicatee": "Fides",
         "type": "temple",
         "location": "Capitoline",
@@ -824,7 +824,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000029",
-        "name": "Fortuna Huiusce Diei",
+        "name": "Temple of Fortuna Huiusce Diei",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "Campus Martius",
@@ -863,7 +863,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000030",
-        "name": "Fortuna",
+        "name": "Temple of Fortuna",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "Forum Boarium",
@@ -902,7 +902,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000031",
-        "name": "Fortuna Muliebris",
+        "name": "Temple of Fortuna Muliebris",
         "dedicatee": "Fortuna",
         "type": "temple",
         "location": "",
@@ -941,7 +941,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000032",
-        "name": "Divus Hadrianus",
+        "name": "Temple of the Divine Hadrian",
         "dedicatee": "Hadrian",
         "type": "temple",
         "location": "Campus Martius",
@@ -980,7 +980,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000034",
-        "name": "Hercules Musarum",
+        "name": "Temple of Hercules Musarum",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1019,7 +1019,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000037",
-        "name": "Hercules Victor/Invictus",
+        "name": "Temple of Hercules Victor/Invictus",
         "dedicatee": "Hercules",
         "type": "temple",
         "location": "Forum Boarium",
@@ -1058,7 +1058,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000039",
-        "name": "Il Torraccio",
+        "name": "Temple at Il Torraccio",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -1097,7 +1097,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000040",
-        "name": "Isis at via Labicana",
+        "name": "Temple of Isis at via Labicana",
         "dedicatee": "Isis",
         "type": "temple",
         "location": "",
@@ -1136,7 +1136,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000041",
-        "name": "Isis/Serapis",
+        "name": "Temple of Isis/Serapis",
         "dedicatee": "Isis/Serapis",
         "type": "temple",
         "location": "Campus Martius",
@@ -1175,7 +1175,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000042",
-        "name": "Janus",
+        "name": "Temple of Janus",
         "dedicatee": "Janus",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1214,7 +1214,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000043",
-        "name": "Juno Curritis",
+        "name": "Temple of Juno Curritis",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Campus Martius",
@@ -1253,7 +1253,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000045",
-        "name": "Juno Moneta",
+        "name": "Temple of Juno Moneta",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1292,7 +1292,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000046",
-        "name": "Juno Regina",
+        "name": "Temple of Juno Regina",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Aventine Hill",
@@ -1331,7 +1331,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000047",
-        "name": "Juno Regina",
+        "name": "Temple of Juno Regina",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1370,7 +1370,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000048",
-        "name": "Juno Sospita",
+        "name": "Temple of Juno Sospita",
         "dedicatee": "Juno",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -1409,7 +1409,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000049",
-        "name": "Jupiter",
+        "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1487,7 +1487,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000051",
-        "name": "Jupiter",
+        "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1526,7 +1526,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000052",
-        "name": "Jupiter",
+        "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1565,7 +1565,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000053",
-        "name": "Jupiter",
+        "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1604,7 +1604,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000054",
-        "name": "Jupiter Anxur",
+        "name": "Temple of Jupiter Anxur",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1643,7 +1643,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000056",
-        "name": "Jupiter Custos",
+        "name": "Temple of Jupiter Custos",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1682,7 +1682,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000057",
-        "name": "Jupiter Dolichenus",
+        "name": "Temple of Jupiter Dolichenus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Aventine Hill",
@@ -1721,7 +1721,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000062",
-        "name": "Jupiter Capitolinus/Optimus Maximus",
+        "name": "Temple of Jupiter Capitolinus/Optimus\n Maximus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -1760,7 +1760,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000064",
-        "name": "Jupiter Pompeii",
+        "name": "Temple of Jupiter Pompeii",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
@@ -1799,7 +1799,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000066",
-        "name": "Jupiter Stator",
+        "name": "Temple of Jupiter Stator",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Campus Martius",
@@ -1838,7 +1838,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000067",
-        "name": "Jupiter Stator",
+        "name": "Temple of Jupiter Stator",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Circus Flaminius",
@@ -1877,7 +1877,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000070",
-        "name": "Jupiter/Baalshamin",
+        "name": "Temple of Jupiter/Baalshamin",
         "dedicatee": "Jupiter, Baalshamin",
         "type": "temple",
         "location": "",
@@ -1916,7 +1916,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000071",
-        "name": "Juturna",
+        "name": "Temple of Juturna",
         "dedicatee": "Juturna",
         "type": "temple",
         "location": "Campus Martius",
@@ -1955,7 +1955,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000074",
-        "name": "Lares Permarini",
+        "name": "Temple of the Lares Permarini",
         "dedicatee": "Lares Permarini",
         "type": "temple",
         "location": "Campus Martius",
@@ -1994,7 +1994,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000078",
-        "name": "Mars Ultor",
+        "name": "Temple of Mars Ultor",
         "dedicatee": "Mars",
         "type": "temple",
         "location": "Forum of Augustus",
@@ -2033,7 +2033,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000079",
-        "name": "Mater Matuta",
+        "name": "Temple of Mater Matuta",
         "dedicatee": "Mater Matuta",
         "type": "temple",
         "location": "Forum Boarium",
@@ -2072,7 +2072,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000080",
-        "name": "Matidia",
+        "name": "Temple of Matidia",
         "dedicatee": "Matidia",
         "type": "temple",
         "location": "",
@@ -2111,7 +2111,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000081",
-        "name": "Mausoleum Romuli",
+        "name": "Mausoleum of Romulus",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -2150,7 +2150,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000084",
-        "name": "Minerva Medica",
+        "name": "Temple of Minerva Medica",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "Esquiline Hill",
@@ -2189,7 +2189,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000085",
-        "name": "Minerva",
+        "name": "Temple of Minerva",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "Forum of Nerva",
@@ -2618,7 +2618,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000096",
-        "name": "Monte del Grano",
+        "name": "Temple at Monte del Grano",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -2735,7 +2735,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000100",
-        "name": "Nymphs",
+        "name": "Temple of the Nymphs",
         "dedicatee": "Nymphs",
         "type": "temple",
         "location": "",
@@ -2774,7 +2774,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000101",
-        "name": "Ops Opifera",
+        "name": "Temple of Ops Opifera",
         "dedicatee": "Ops Opifera",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -2852,7 +2852,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000104",
-        "name": "Pax",
+        "name": "Temple of Pax",
         "dedicatee": "Peace",
         "type": "temple",
         "location": "",
@@ -2891,7 +2891,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000106",
-        "name": "Portunus",
+        "name": "Temple of Portunus",
         "dedicatee": "Portunus",
         "type": "temple",
         "location": "Forum Boarium",
@@ -2930,7 +2930,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000108",
-        "name": "Robigo",
+        "name": "Temple of Robigo",
         "dedicatee": "Robigo",
         "type": "sanctuary",
         "location": "",
@@ -2969,7 +2969,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000110",
-        "name": "Saturnus",
+        "name": "Temple of Saturnus",
         "dedicatee": "Saturn",
         "type": "temple",
         "location": "Forum",
@@ -3008,7 +3008,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000113",
-        "name": "Spes",
+        "name": "Temple of Spes",
         "dedicatee": "Spes",
         "type": "temple",
         "location": "Forum Holitorium",
@@ -3047,7 +3047,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000115",
-        "name": "Sybil",
+        "name": "Temple of Sybil",
         "dedicatee": "Sybil",
         "type": "temple",
         "location": "",
@@ -3086,7 +3086,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000118",
-        "name": "Temple of S. Salvatore in Campo",
+        "name": "Temple at S. Salvatore in Campo",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -3164,7 +3164,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000121",
-        "name": "Veiovis",
+        "name": "Temple of Veiovis",
         "dedicatee": "Veiovis",
         "type": "temple",
         "location": "Inter duos lucos",
@@ -3203,7 +3203,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000122",
-        "name": "Venus et Roma",
+        "name": "Temple of Venus and Roma",
         "dedicatee": "Venus, Rome",
         "type": "temple",
         "location": "",
@@ -3242,7 +3242,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000123",
-        "name": "Venus Genetrix",
+        "name": "Temple of Venus Genetrix",
         "dedicatee": "Venus",
         "type": "temple",
         "location": "Forum of Julius",
@@ -3281,7 +3281,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000125",
-        "name": "Venus Victrix",
+        "name": "Temple of Venus Victrix",
         "dedicatee": "Venus",
         "type": "temple",
         "location": "Campus Martius",
@@ -3320,7 +3320,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000126",
-        "name": "Divus Vespasian et Divus Titus",
+        "name": "Temple of the Divine Vespasian and the Divine\n Titus",
         "dedicatee": "Vespasian, Titus",
         "type": "temple",
         "location": "Forum",
@@ -3359,7 +3359,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000127",
-        "name": "Vesta",
+        "name": "Temple of Vesta",
         "dedicatee": "Vesta",
         "type": "temple",
         "location": "Forum",
@@ -3398,7 +3398,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000128",
-        "name": "Vesta",
+        "name": "Temple of Vesta",
         "dedicatee": "Vesta",
         "type": "temple",
         "location": "",
@@ -3437,7 +3437,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000130",
-        "name": "Victoria",
+        "name": "Temple of Victory",
         "dedicatee": "Victoria",
         "type": "temple",
         "location": "Palatine Hill",
@@ -3671,7 +3671,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000142",
-        "name": "Augustus",
+        "name": "Temple of Augustus",
         "dedicatee": "Augustus, Rome",
         "type": "temple",
         "location": "",
@@ -3710,7 +3710,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000143",
-        "name": "Augustus",
+        "name": "Temple of Augustus",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -3749,7 +3749,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000144",
-        "name": "Augustus",
+        "name": "Temple of Augustus",
         "dedicatee": "Augustus",
         "type": "temple",
         "location": "",
@@ -3866,7 +3866,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000147",
-        "name": "Minerva",
+        "name": "Temple of Minerva",
         "dedicatee": "Minerva",
         "type": "temple",
         "location": "",
@@ -3905,7 +3905,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000148",
-        "name": "A",
+        "name": "Temple A",
         "dedicatee": "Apollo, Artemis, Aphrodite",
         "type": "temple",
         "location": "",
