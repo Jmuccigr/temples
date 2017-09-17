@@ -9,7 +9,7 @@ function onEachFeature(feature, layer) {
                 loc = '';
                 cites = '';
     			l = false;
-                text = '<h4>feature.properties.name + '</h4><span style="font-size:small"><ul>';
+                text = '<h4>' + feature.properties.name + '</h4><span style="font-size:small"><ul>';
                 if (feature.properties.id != '') {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
                     }
