@@ -28,7 +28,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -65,7 +67,9 @@ var temples =  {
         "dare": "",
         "arachne": "8606",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +106,9 @@ var temples =  {
         "dare": "",
         "arachne": "5665",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +145,9 @@ var temples =  {
         "dare": "3467477",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +184,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -213,7 +223,9 @@ var temples =  {
         "dare": "",
         "arachne": "5807",
         "wikipedia": "",
-        "wikidata": "Q380530"
+        "wikidata": "Q380530",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -250,7 +262,9 @@ var temples =  {
         "dare": "22917",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +301,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +340,9 @@ var temples =  {
         "dare": "",
         "arachne": "6228",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -361,7 +379,9 @@ var temples =  {
         "dare": "",
         "arachne": "5742",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -398,7 +418,9 @@ var temples =  {
         "dare": "",
         "arachne": "9110",
         "wikipedia": "",
-        "wikidata": "Q383609"
+        "wikidata": "Q383609",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -435,7 +457,9 @@ var temples =  {
         "dare": "37153",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -472,7 +496,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +535,9 @@ var temples =  {
         "dare": "",
         "arachne": "5645",
         "wikipedia": "",
-        "wikidata": "Q752555"
+        "wikidata": "Q752555",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +574,9 @@ var temples =  {
         "dare": "",
         "arachne": "5743",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +613,9 @@ var temples =  {
         "dare": "",
         "arachne": "5744",
         "wikipedia": "",
-        "wikidata": "Q1133288"
+        "wikidata": "Q1133288",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +652,9 @@ var temples =  {
         "dare": "",
         "arachne": "10545",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +691,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +730,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +769,9 @@ var temples =  {
         "dare": "",
         "arachne": "5865",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +808,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -805,7 +847,9 @@ var temples =  {
         "dare": "",
         "arachne": "6515",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +886,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -879,7 +925,9 @@ var temples =  {
         "dare": "37154",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -916,7 +964,9 @@ var temples =  {
         "dare": "",
         "arachne": "5651",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +1003,9 @@ var temples =  {
         "dare": "",
         "arachne": "3467458",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -990,7 +1042,9 @@ var temples =  {
         "dare": "",
         "arachne": "10771, 5792",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1081,9 @@ var temples =  {
         "dare": "37165",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1064,7 +1120,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": "Q16612725"
+        "wikidata": "Q16612725",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1159,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": "Q2288275"
+        "wikidata": "Q2288275",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1138,7 +1198,9 @@ var temples =  {
         "dare": "",
         "arachne": "10761",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1237,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1212,7 +1276,9 @@ var temples =  {
         "dare": "",
         "arachne": "3910432",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1249,7 +1315,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1286,7 +1354,9 @@ var temples =  {
         "dare": "",
         "arachne": "3467454",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1393,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1360,7 +1432,9 @@ var temples =  {
         "dare": "37156",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1397,7 +1471,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1510,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1471,7 +1549,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1508,7 +1588,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1545,7 +1627,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1582,7 +1666,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1619,7 +1705,9 @@ var temples =  {
         "dare": "",
         "arachne": "6074",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1744,9 @@ var temples =  {
         "dare": "",
         "arachne": "3910430",
         "wikipedia": "",
-        "wikidata": "Q586468"
+        "wikidata": "Q586468",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1693,7 +1783,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1730,7 +1822,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1767,7 +1861,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1900,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1841,7 +1939,9 @@ var temples =  {
         "dare": "",
         "arachne": "5864",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1878,7 +1978,9 @@ var temples =  {
         "dare": "",
         "arachne": "6516",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1915,7 +2017,9 @@ var temples =  {
         "dare": "",
         "arachne": "5747",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1952,7 +2056,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -1989,7 +2095,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2026,7 +2134,9 @@ var temples =  {
         "dare": "23842",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2063,7 +2173,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": "Q1411575"
+        "wikidata": "Q1411575",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2100,7 +2212,9 @@ var temples =  {
         "dare": "",
         "arachne": "8405",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2137,7 +2251,9 @@ var temples =  {
         "dare": "45672",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2174,7 +2290,9 @@ var temples =  {
         "dare": "45673",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2329,9 @@ var temples =  {
         "dare": "45666",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2248,7 +2368,9 @@ var temples =  {
         "dare": "45667",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2285,7 +2407,9 @@ var temples =  {
         "dare": "45669",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2322,7 +2446,9 @@ var temples =  {
         "dare": "45668",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2359,7 +2485,9 @@ var temples =  {
         "dare": "45675",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2396,7 +2524,9 @@ var temples =  {
         "dare": "45670",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2433,7 +2563,9 @@ var temples =  {
         "dare": "45674",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2470,7 +2602,9 @@ var temples =  {
         "dare": "45671",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2507,7 +2641,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2544,7 +2680,9 @@ var temples =  {
         "dare": "23839",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2581,7 +2719,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": "Q1234446"
+        "wikidata": "Q1234446",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2618,7 +2758,9 @@ var temples =  {
         "dare": "",
         "arachne": "6079",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2655,7 +2797,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2692,7 +2836,9 @@ var temples =  {
         "dare": "",
         "arachne": "5664",
         "wikipedia": "",
-        "wikidata": "Q99309"
+        "wikidata": "Q99309",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2729,7 +2875,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2914,9 @@ var temples =  {
         "dare": "22924",
         "arachne": "5932",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2803,7 +2953,9 @@ var temples =  {
         "dare": "37158",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2840,7 +2992,9 @@ var temples =  {
         "dare": "",
         "arachne": "5644",
         "wikipedia": "Temple_of_Saturn",
-        "wikidata": "Q746721"
+        "wikidata": "Q746721",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2877,7 +3031,9 @@ var temples =  {
         "dare": "",
         "arachne": "10760",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2914,7 +3070,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2951,7 +3109,9 @@ var temples =  {
         "dare": "",
         "arachne": "3467479",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -2988,7 +3148,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3025,7 +3187,9 @@ var temples =  {
         "dare": "",
         "arachne": "1319962",
         "wikipedia": "",
-        "wikidata": "Q764141"
+        "wikidata": "Q764141",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3062,7 +3226,9 @@ var temples =  {
         "dare": "",
         "arachne": "7481",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3099,7 +3265,9 @@ var temples =  {
         "dare": "",
         "arachne": "5656",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3136,7 +3304,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3173,7 +3343,9 @@ var temples =  {
         "dare": "",
         "arachne": "5643",
         "wikipedia": "",
-        "wikidata": "Q731284"
+        "wikidata": "Q731284",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3210,7 +3382,9 @@ var temples =  {
         "dare": "",
         "arachne": "8407",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3247,7 +3421,9 @@ var temples =  {
         "dare": "",
         "arachne": "11457",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3284,7 +3460,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3499,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3358,7 +3538,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3395,7 +3577,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3432,7 +3616,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3469,7 +3655,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3506,7 +3694,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "Temple_of_Augustus,_Pula",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3543,7 +3733,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "Temple_of_Augustus,_Barcelona",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3580,7 +3772,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3617,7 +3811,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3654,7 +3850,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3691,7 +3889,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
@@ -3728,7 +3928,9 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "wikipedia": "",
-        "wikidata": ""
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
       },
       "geometry": {
         "type": "Point",
