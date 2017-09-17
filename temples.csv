@@ -29,7 +29,7 @@
 "1000029","Temple of Fortuna Huiusce Diei","Fortuna","temple","Campus Martius","Rome","Italy","90","1-99","1","99","1","F","","concept","yes","Stamper","","Pleiades: Temple B","17946","967215409","","6515","","",12.476839,41.895387
 "1000030","Temple of Fortuna","Fortuna","temple","Forum Boarium","Rome","Italy","180","-396","-396","","-4","F","","concept","","Platner and Ashby","","","","","","","","",12.480833,41.890556
 "1000031","Temple of Fortuna Muliebris","Fortuna","temple","","Rome","Italy","","","","","","F","","concept","","","","DARE","","","37154","","","",12.555806,41.843745
-"1000032","Temple of the Divine Hadrian","Hadrian","temple","Campus Martius","Rome","Italy","90","145","145","","2","M","","emperor","","Blake","","Vici.org","15032","","","5651","","",12.479404,41.899944
+"1000032","Temple of the Divine Hadrian","Hadrian","temple","Campus Martius","Rome","Italy","90","145","145","","2","M","","emperor","","Blake","","Vici.org","15032","","","5651","","",12.479621,41.899876
 "1000033","Temple of Hercules Magnus Custos","Hercules","temple","Circus Flaminius","Rome","Italy","","-220","-220","","-3","M","","hero","","Ziolkowski","","Pleiades","","","","","","","",""
 "1000034","Temple of Hercules Musarum","Hercules","temple","Circus Flaminius","Rome","Italy","208","-187","-187","","-2","M","30","hero","","Arachne","","","","","","3467458","","",12.477733,41.8931188
 "1000035","Temple of Hercules Victor","Hercules","temple","Caelian Hill","Rome","Italy","","-145","-145","","-2","M","","hero","","","","","","","","","","","",""
@@ -78,7 +78,7 @@
 "1000077","Temple of Mars","Mars","temple","North Via Appia","Rome","Italy","","-388","-388","","-4","M","1","god","","","","","","","","","","","",""
 "1000078","Temple of Mars Ultor","Mars","temple","Forum of Augustus","Rome","Italy","233","-2","-2","","-1","M","","god","","Stamper","","","","","","5747","","",12.486944,41.894444
 "1000079","Temple of Mater Matuta","Mater Matuta","temple","Forum Boarium","Rome","Italy","180","-368","-368","","-4","F","","god","","Stamper","","","","","","","","",12.480833,41.890556
-"1000080","Temple of Matidia","Matidia","temple","","","","","119","119","","2","F","","family","","Stamper","","","","","","","","",12.478081,41.899964
+"1000080","Temple of Matidia","Matidia","temple","Campus Martius","Rome","Italy","","119","119","","2","F","","family","","Stamper","","","","","","","","",12.478081,41.899964
 "1000081","Mausoleum of Romulus","","temple","","Rome","Italy","","","","","","M","","emperor","","","","DARE","","","23842","","","",12.5181785,41.8550631
 "1000082","Temple of Mercury","Mercury","temple","Aventine Hill","Rome","Italy","","-495","-495","","-5","M","","god","","","","","","","","","","","",""
 "1000083","Temple of Minerva","Minerva","temple","Aventine Hill","Rome","Italy","","-269-260","-269","-260","-3","F","","god","","","","Vici.org","","","","","","","",""
@@ -146,6 +146,6 @@
 "1000144","Temple of Augustus","Augustus","temple","","Pozzuoli","Italy","178","","","","1","M","","emperor","yes","","","","","","","","","",14.120447,40.821276
 "1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Abthugni","Tunisia","90","","","","","M/F","","god","yes","","","","","","","","","","",""
 "1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Althiburos","Tunisia","43","","","","","M/F","","god","yes","","","","","","","","","",8.785101,35.873886
-"1000146","Unknown","Unknown","temple","","Althiburos","Tunisia","224","","","","","","","","yes","","","","","","","","","",8.785616,35.874468
+"1000146","Unknown","","temple","","Althiburos","Tunisia","224","","","","","","","","yes","","","","","","","","","",8.785616,35.874468
 "1000147","Temple of Minerva","Minerva","temple","","Tebessa","Algeria","121","","","","","F","","god","yes","","","","","","","","","",8.122492,35.404638
 "1000148","Temple A","Apollo, Artemis, Aphrodite","temple","","Laodicea on the Lycus","Turkey","27","2nd c. CE","","","2","M/F","","god","yes","","","","18182","","","","","",29.109676,37.836269
