@@ -971,8 +971,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.479404,
-          41.899944
+          12.479621,
+          41.899876
         ]
       }
     },
@@ -2075,9 +2075,9 @@ var temples =  {
         "name": "Temple of Matidia",
         "dedicatee": "Matidia",
         "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "",
+        "location": "Campus Martius",
+        "city": "Rome",
+        "country": "Italy",
         "orientation": "",
         "date": "119",
         "startdateearly": "119",
@@ -3828,7 +3828,7 @@ var temples =  {
       "properties": {
         "id": "1000146",
         "name": "Unknown",
-        "dedicatee": "Unknown",
+        "dedicatee": "",
         "type": "temple",
         "location": "",
         "city": "Althiburos",
