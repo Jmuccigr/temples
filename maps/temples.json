@@ -3939,6 +3939,45 @@
           37.836269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000149",
+        "name": "Temple of Trajan",
+        "dedicatee": "Trajan",
+        "type": "temple",
+        "location": "",
+        "city": "Pergamon",
+        "country": "Turkey",
+        "orientation": "201",
+        "date": "2nd c. CE",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "2",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.183256,
+          39.132812
+        ]
+      }
     }
   ]
 }
