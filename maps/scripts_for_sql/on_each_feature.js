@@ -50,6 +50,7 @@ function onEachFeature(feature, layer) {
                     otherDB = otherDB + '<a target="_blank" href="http://www.digitales-forum-romanum.de/gebaeude/' + feature.properties.digitalesforumromanum + '/?lang=en/">Digitales Forum Romanum</a>';
                     }
                 if (feature.properties.pleiades != '') {
+                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
                     otherDB = otherDB + '<a target="_blank" href="https://pleiades.stoa.org/places/' + feature.properties.pleiades + '">Pleiades</a>';
                     }
                 if (feature.properties.trismegistos != '') {
