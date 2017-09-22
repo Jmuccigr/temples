@@ -525,7 +525,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000017",
-        "name": "Temple of the Divine Antoninus and Diva\n Faustina",
+        "name": "Temple of the Divine Antoninus and Diva Faustina",
         "dedicatee": "Antoninus, Faustina",
         "type": "temple",
         "location": "Forum",
@@ -1765,7 +1765,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000062",
-        "name": "Temple of Jupiter Capitolinus/Optimus\n Maximus",
+        "name": "Temple of Jupiter Capitolinus/Optimus Maximus",
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "Capitoline Hill",
@@ -3070,7 +3070,7 @@ var temples =  {
         "wikipedia": "Temple_of_Saturn",
         "wikidata": "Q746721",
         "digitalromanforum": "",
-        "digitalesforumromanum": "\n saturntempel",
+        "digitalesforumromanum": "saturntempel",
         "trismegistos": ""
       },
       "geometry": {
@@ -3405,7 +3405,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000126",
-        "name": "Temple of the Divine Vespasian and the Divine\n Titus",
+        "name": "Temple of the Divine Vespasian and the Divine Titus",
         "dedicatee": "Vespasian, Titus",
         "type": "temple",
         "location": "Forum",
