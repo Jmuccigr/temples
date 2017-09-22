@@ -3405,7 +3405,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000126",
-        "name": "Temple of the Divine Vespasian and the Divine\n Titus",
+        "name": "Temple of the Divine Vespasian and the\n DivineTitus",
         "dedicatee": "Vespasian, Titus",
         "type": "temple",
         "location": "Forum",
