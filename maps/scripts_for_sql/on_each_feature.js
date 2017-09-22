@@ -33,20 +33,32 @@ function onEachFeature(feature, layer) {
                     text = text + loc + '</li>';
                     }
                 // Get the other database info and put it on one line
-                if (feature.properties.pleiades != '') {
-                    otherDB = otherDB + '<a target="_blank" href="https://pleiades.stoa.org/places/' + feature.properties.pleiades + '">Pleiades</a>';
+                if (feature.properties.arachne != '') {
+                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
+                    otherDB = otherDB + '<a target="_blank" href="https://arachne.dainst.org/entity/' + feature.properties.arachne + '">Arachne</a>';
                     }
                 if (feature.properties.dare != '') {
                     if (otherDB.length > 4) { otherDB = otherDB + ', ' };
                     otherDB = otherDB + '<a target="_blank" href="http://dare.ht.lu.se/places/' + feature.properties.dare + '">DARE</a>';
                     }
+                if (feature.properties.digitalromanforum != '') {
+                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
+                    otherDB = otherDB + '<a target="_blank" href="https://www.wikidata.org/wiki/' + feature.properties.digitalromanforum + '">Digital Roman Forum</a>';
+                    }
+                if (feature.properties.digitalesforumromanum != '') {
+                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
+                    otherDB = otherDB + '<a target="_blank" href="http://www.digitales-forum-romanum.de/gebaeude/' + feature.properties.digitalesforumromanum + '/?lang=en/">Digitales Forum Romanum</a>';
+                    }
+                if (feature.properties.pleiades != '') {
+                    otherDB = otherDB + '<a target="_blank" href="https://pleiades.stoa.org/places/' + feature.properties.pleiades + '">Pleiades</a>';
+                    }
+                if (feature.properties.trismegistos != '') {
+                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
+                    otherDB = otherDB + '<a target="_blank" href="http://www.trismegistos.org/place/' + feature.properties.trismegistos + '">Trismegistos</a>';
+                    }
                 if (feature.properties["vici.org"] != '') {
                     if (otherDB.length > 4) { otherDB = otherDB + ', ' };
                     otherDB = otherDB + '<a target="_blank" href="https://vici.org/vici/' + feature.properties["vici.org"] + '">Vici.org</a>';
-                    }
-                if (feature.properties.arachne != '') {
-                    if (otherDB.length > 4) { otherDB = otherDB + ', ' };
-                    otherDB = otherDB + '<a target="_blank" href="https://arachne.dainst.org/entity/' + feature.properties.arachne + '">Arachne</a>';
                     }
                 if (feature.properties.wikidata != '') {
                     if (otherDB.length > 4) { otherDB = otherDB + ', ' };
