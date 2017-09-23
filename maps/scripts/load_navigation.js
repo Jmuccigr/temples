@@ -1,6 +1,6 @@
 // Load navigation instructions
 function loadNavigation () {
-document.getElementById("side").innerHTML = 
+document.getElementById("side_bottom").innerHTML = 
 '<h4>Navigating the map</h4>' + 
 	'<ul>' +
 		'<li> Re-center the map by simply clicking and dragging it around. </li>' +

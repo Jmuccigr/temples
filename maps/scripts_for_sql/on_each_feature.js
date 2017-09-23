@@ -9,7 +9,7 @@ function onEachFeature(feature, layer) {
                 loc = '';
                 cites = '';
     			l = false;
-                text = '<h4>' + feature.properties.name + '</h4><span style="font-size:small"><ul>';
+                text = '<h2>' + feature.properties.name + '</h2><span style="font-size:small"><ul>';
                 if (feature.properties.id != '') {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
                     }
@@ -71,9 +71,9 @@ function onEachFeature(feature, layer) {
                     }
                 if (otherDB.length == 4) { otherDB = '' } else { otherDB = otherDB + '</li>' }
                 if (feature.properties.cite != '') {
-                    cites = '<li>Cited in<ol><li>' + feature.properties.cite + '</li></ol>';
+                    cites = '<li>Citations:<ol><li>' + feature.properties.cite + '</li></ol>';
                     }
-                document.getElementById("side").innerHTML = text + otherDB + cites +
+                document.getElementById("side_bottom").innerHTML = text + otherDB + cites +
 				'<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation instructions.)</span>';
             }
         });

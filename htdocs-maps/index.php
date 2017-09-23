@@ -4,23 +4,38 @@
 		<title>
 			Roman Sacred Buildings
 		</title>
-		<meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/> <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/> <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
   integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
   crossorigin=""></script>
         <style>
+            html, body, #mask {
+                /* Height and width fallback for older browsers. */
+                height: 100%;
+                width: 100%;
+
+                /* Set the height & width to match that of the viewport. */
+                height: 95vh;
+                width:  98vw;
+
+                /* Remove any browser-default margins. */
+                margin: 0;
+            }
+
 			#map {
-				width: 95%;
-				height: 550px;
-				margin: auto;
+				height: 85vh;
 				border: 2px black solid;
 				}
 			body {
 				font-family: Helvetica,sans-serif;
-				background: #EEEEEE;
+				background: #eeeeee;
 				}
 			table {
+/* 
 				 margin: auto;
-				 }
+ */
+			}
 			td {
 				vertical-align: top;		
 			}
@@ -28,25 +43,54 @@
 				font-size: small;
 			}
 			td > form {
-				margin-left: 50pt;
+				margin-left: 10pt;
 			}
 			a {
 			    word-wrap: break-word;
 			    word-break: break-all;
 			}
+			#side_top {
+				height: 20vh;
+				padding-left: 3pt;
+				width: 25%;
+			}
+			#side_bottom {
+			    overflow: scroll;
+				padding-left: 3pt;
+				max-height: 65vh;
+			}
+			h1 {
+			    font-size: 13pt;
+			}
+			h2 {
+			    font-weight: 100;
+			    font-size: 10pt;
+			    margin-bottom: 1pt;
+			    margin-left: 1pt;
+			}
+			.leaflet-container {
+			    font: inherit;
+			}
+			#bottom {
+                height: 10vh;
+                border-top: solid grey 1px;
+                td padding-top: 20px;
+                font-size: small;
+            }
 		</style>
 	</head>
 	<body>
-		<table style="border-collapse: collapse;table-layout: fixed; width: 100%;">
+<div  id='mask'>
+        <table>
 			<tr>
-				<td width="25%">
+				<td id='side_top'>
 					<h1>
 						Roman Sacred Buildings
 					</h1>
-					<h4>
+					<h2>
 						Pick a variable by which to map the structures in the database:
-					</h4>
-					<form id="mapType" style="display:inline">
+					</h2>
+					<form id="mapType" style="display:inline; vertical-align=left">
 						<select id="mymenu" size="1">
 							<option value="nothing" selected="selected">
 								none
@@ -85,32 +129,31 @@
 					</p>
 					<hr width="80%">
 				</td>
-				<td rowspan="2">
-					<div id='map'>
-					</div>
+				<td rowspan="2" id='map'>
 				</td>
 			</tr>
 			<tr>
-				<td id="side">
+				<td>
+				    <div id="side_bottom"></div>
 				</td>
 			</tr>
-			<tr style="border-top: solid grey 1px; td padding-top: 20px;">
-				<td colspan=2 style="fontsize:small;">
-<?php
-		include 'scripts/make_menues.php';
-		makeMenu('first', '1');
-		makeOperatorMenu('firstOp');
-		echo '<input name=" firsttxt" type="text" maxlength="512" id="firstTxt" class="searchField" /> +
-		'; makeMenu('second', '2');		
-		makeOperatorMenu('secondOp');
- echo '
-		<input name="secondTxt" type="text" maxlength="512" id="secondTxt" class="searchField" /> +
-		'; makeMenu('third', '3'); 		
-		makeOperatorMenu('thirdOp');
-echo '
-		<input name="thirdTxt" type="text" maxlength="512" id="thirdTxt" class="searchField" />
-		';
-?>
+			<tr id='bottom'>
+				<td colspan=2>
+                    <?php
+                            include 'scripts/make_menues.php';
+                            makeMenu('first', '1');
+                            makeOperatorMenu('firstOp');
+                            echo '<input name=" firsttxt" type="text" maxlength="512" id="firstTxt" class="searchField" /> +
+                            '; makeMenu('second', '2');		
+                            makeOperatorMenu('secondOp');
+                     echo '
+                            <input name="secondTxt" type="text" maxlength="512" id="secondTxt" class="searchField" /> +
+                            '; makeMenu('third', '3'); 		
+                            makeOperatorMenu('thirdOp');
+                    echo '
+                            <input name="thirdTxt" type="text" maxlength="512" id="thirdTxt" class="searchField" />
+                            ';
+                    ?>
 					<button id="process" onclick="readInput();">
 						Process
 					</button>
@@ -120,7 +163,7 @@ echo '
 				</td>
 			</tr>
 		</table>
-
+</div>
 		<script type="text/javascript" src="scripts/function_check_run.js">
 		</script>
 		<script type="text/javascript" src="scripts/set_cookie.js">
@@ -159,8 +202,10 @@ echo '
 		</script>
 		<script type="text/javascript" src="scripts/load_navigation.js">
 		</script>
+<!-- 
 		<script type="text/javascript" src="scripts/get_citations.js">
 		</script>
+ -->
 		<script type="text/javascript" src="scripts/on_each_feature.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_filter.js">
