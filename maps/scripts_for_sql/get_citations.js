@@ -5,13 +5,14 @@ function getCitations(array, id) {
     j = 0;
     for (var i = 0, len = array.length; i < len; i++) {
         if (array[i].templeID === id) {
-             if (array[i].loci != '') {lociConn = ' of '} else {lociConn = ''};
+             if (array[i].loci != '') {lociConn = ' in '} else {lociConn = ''};
              j++;
-             citations = citations + j + '. ' + array[i].loci + lociConn + array[i].citation_html + '<br>';
+             citations = citations + j + '. ' + titleCase(array[i].loci) + lociConn + array[i].citation_html + '<br>';
         }
     }
-    if (citations == '') { 
-        citations = '<em>No citations in the database.</em>'; 
-    }  // Nothing found
     return citations;
+}
+
+function titleCase(string) {
+    string.charAt(0).toUpperCase() + string.slice(1);
 }
