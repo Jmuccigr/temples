@@ -2,7 +2,7 @@
 "1000002","Temple of Apollo Palatinus","Apollo","temple","Palatine Hill","Rome","Italy","227","-28","-28","","-1","M","","god","","Blake, Stamper","","","","","","8606","","","","","",12.485741,41.888854
 "1000003","Temple of Apollo Sosianus/Medicus","Apollo","temple","Circus Flaminius","Rome","Italy","180","-431","-431","","-5","M","23","god","","Stamper","senate","vici.org; coords modified","15038","740034026","","5665","","","","","",12.4795912,41.8923136
 "1000004","Temple of Bellona","Bellona","temple","Circus Flaminius","Rome","Italy","180","-296","-296","","-3","F","3","god","","Ziolkowski","senate","","","","3467477","","","","","","",12.47989,41.89238
-"1000005","Temple of Bona Dea","Bona Dea","temple","Lesser Aventine","Rome","Italy","","","","","","F","","god","","Blake/Ziolkowski","","","","","","","","","","","",12.48979,41.880581
+"1000005","Temple of Bona Dea","Bona Dea","temple","Lesser Aventine","Rome","Italy","","","-123","","-2","F","1","god","","Blake/Ziolkowski","","","","","","","","","","","",12.48979,41.880581
 "1000007","Temple of Castor(es)","Castor(es)","temple","Forum","Rome","Italy","24","-484","-484","","-5","M","27","hero","","blake","senate","Vici.org","15011","","","5807","","","","","Q380530",12.485755,41.891773
 "1000008","Temple of Castor and Pollux","Castor, Pollux","temple","Circus Flaminius","Rome","Italy","30","-179-91","-179","-91","-2","M","","hero","","Coarelli","","","","","","4052753","","","","","","",""
 "1000009","Temple of Ceres and Faustina","Ceres, Faustina","temple","","Rome","Italy","","","","","","F","","god, family","","","","Vici.org, DARE","","422889","22917","","","","","","",12.524306,41.857844
@@ -13,7 +13,7 @@
 "1000014","Temple of Cybele/Magna Mater","Cybele/Magna Mater","temple","Palatine Hill","Rome","Italy","203","-191","-191","","-2","F","","god","","Stamper","senate","Vici.org","17956","","","9110","","","","","Q383609",12.484984,41.889554
 "1000015","Temple of Dea Dia","Dea Dia","temple","","Rome","Italy","","","","","","F","","god","","","","DARE","","422916","37153","","","","","","",12.44195,41.83614
 "1000016","Temple of Diana","Diana","temple","Aventine","Rome","Italy","","-499-400","-499","-400","-5","F","13","god","","","","","","","","","","","","","",12.483194,41.882828
-"1000017","Temple of the Divine Antoninus and Diva Faustina","Antoninus, Faustina","temple","Forum","Rome","Italy","217","161","161","","2","M/F","","emperor, family","","Blake","","Vici.org","15009","","","5645","","","","","Q752555",12.486689,41.892139
+"1000017","Temple of the Divine Antoninus and the Divine Faustina","Antoninus, Faustina","temple","Forum","Rome","Italy","217","161","161","","2","M/F","","emperor, family","","Blake","","Vici.org","15009","","","5645","","","","","Q752555",12.486689,41.892139
 "1000018","Temple of the Divine Augustus","Augustus","temple","","Rome","Italy","","","","","","M","","emperor","","Blake","","","","","","5743","","","","","",12.484471,41.891616
 "1000019","Temple of the Divine Julius","Julius","temple","Circus Flaminius","Rome","Italy","300","-29","-29","","-1","M","18","emperor","","Stamper","","","15048","","","5744","","","","","Q1133288",12.486246,41.891943
 "1000020","Temple of the Divine Romulus","Romulus","temple","Forum","Rome","Italy","205","","","","","M","","hero","","","","Vici.org","15044","","","10545","","","","","",12.487166,41.891846
