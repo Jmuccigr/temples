@@ -6000,6 +6000,46 @@
           39.132283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000151",
+        "name": "Temple of Consus",
+        "dedicatee": "Consus",
+        "type": "temple",
+        "location": "Aventine",
+        "city": "Rome",
+        "country": "Italy",
+        "orientation": "",
+        "date": "-272",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-3",
+        "sex": "M",
+        "dedicationday": "12",
+        "deitytype": "god",
+        "extant": "no",
+        "source": "Ziolkowski",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      }
     }
   ]
 }
