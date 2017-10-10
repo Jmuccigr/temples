@@ -19,10 +19,10 @@
 "1000020","Temple of the Divine Romulus","Romulus","temple","Forum","Rome","Italy","205","","","","","M","","hero","","","","Vici.org","15044","","","10545","","","","","",12.487166,41.891846
 "1000021","Temple of the Divine Trajanus","Trajan","temple","Forum of Trajan","Rome","Italy","","128","128","","2","M","","emperor","","Stamper","","","","","","","","","","","",12.484645,41.895471
 "1000022","Temple of Elagabal","Elagabal","temple","","Rome","Italy","","","","","","M","","emperor","","","","Vici.org","11503","","","","","","","","",12.488894,41.889603
-"1000023","Temple of Feronia","Feronia","temple","Campus Martius","Rome","Italy","90","-290","-290","","-3","F","","god","","Stamper/Ziolkowski","","Pleiades: Temple C","17946","967215409","","5865","","","","","",12.476723,41.895163
-"1000024","Temple of Fides","Fides","temple","Capitoline","Rome","Italy","","-254","-254","","-3","F","1","concept","","Ziolkowski","senate","","","","","","","","","","",12.4812,41.8914
-"1000025","Temple of Flora","Flora","temple","Circus Maximus","Rome","Italy","","-240","-240","","-3","F","","nature","","","","","","","","","","","","","","",""
-"1000026","Temple of Flora","Flora","temple","Quirinal","Rome","Italy","","-292-219","-292","-219","-3","F","","nature","","","","","","","","","","","","","","",""
+"1000023","Temple of Feronia","Feronia","temple","Campus Martius","Rome","Italy","90","-290","-290","","-3","F","13","god","","Stamper/Ziolkowski","","Pleiades: Temple C","39266","967215409","","5865","","","","","",12.476723,41.895163
+"1000024","Temple of Fides","Fides","temple","Capitoline","Rome","Italy","","-254","-254","","-3","F","1","concept","","Ziolkowski","senate","","","","","","","","","Temple_of_Fides","Q3983246",12.4812,41.8914
+"1000025","Temple of Flora","Flora","temple","Circus Maximus","Rome","Italy","","-240","-240","","-3","F","28","nature","","","","","","","","","","","","","","",""
+"1000026","Temple of Flora","Flora","temple","Quirinal","Rome","Italy","","-292-219","-292","-219","-3","F","3","nature","","","","","","","","","","","","","","",""
 "1000027","Temple of Fons/Fontus","Fons/Fontus","temple","extra portam fontinalem","Rome","Italy","","-231","-231","","-3","M","","nature","","","","","","","","","","","","","","",""
 "1000028","Temple of Fortis Fortuna","Fortis Fortuna","temple","Right bank of Tiber","Rome","Italy","","","","","","F","","concept","","","","Vici.org","","422925","","","","","","","","",""
 "1000029","Temple of Fortuna Huiusce Diei","Fortuna","temple","Campus Martius","Rome","Italy","90","1-99","1","99","1","F","","concept","yes","Stamper","","Pleiades: Temple B","17946","967215409","","6515","","","","","",12.476839,41.895387
