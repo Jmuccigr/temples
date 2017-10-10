@@ -28,13 +28,14 @@ if [ ${#xml} -lt 100 ]
 fi
 
 # Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq | sed 's/gsx://g'  > "$temp/citations.xml"
+# Edit first id tag which is google's, not ours
+echo $xml | tidy -xml -iq | perl -pe "s/(<\/*)(id>)/\1google\2/g" | sed 's/gsx://g'  > "$temp/citations.xml"
 
 # Convert to csv and select only wanted fields
 # perl bit adds a date stamp to the warning output for log file
 rm "$temp/citations.csv" 2>/dev/null
 rm "$temp/citations1.csv" 2>/dev/null
-ogr2ogr -f csv -select templeid,refkey,loci "$temp/citations1.csv" "$temp/citations.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+ogr2ogr -f csv -select id,templeid,refkey,loci "$temp/citations1.csv" "$temp/citations.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Make sure the csv has been created or else exit
 if  [ ! -s "$temp/citations1.csv" ]
