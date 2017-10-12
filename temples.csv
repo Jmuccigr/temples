@@ -23,7 +23,7 @@
 "1000024","Temple of Fides","Fides","temple","Capitoline","Rome","Italy","","-254","-254","","-3","F","1","concept","","Ziolkowski","senate","","","","","","","","","Temple_of_Fides","Q3983246",12.4812,41.8914
 "1000025","Temple of Flora","Flora","temple","Circus Maximus","Rome","Italy","","-240","-240","","-3","F","28","nature","","","","","","","","","","","","","","",""
 "1000026","Temple of Flora","Flora","temple","Quirinal","Rome","Italy","","-292-219","-292","-219","-3","F","3","nature","","","","","","","","","","","","","","",""
-"1000027","Temple of Fons/Fontus","Fons/Fontus","temple","extra portam fontinalem","Rome","Italy","","-231","-231","","-3","M","","nature","","","","","","","","","","","","","","",""
+"1000027","Temple of Fons/Fontus","Fons/Fontus","temple","extra portam fontinalem","Rome","Italy","","-231","-231","","-3","M","13","nature","","","","","","","","","","","","","","",""
 "1000028","Temple of Fortis Fortuna","Fortis Fortuna","temple","Right bank of Tiber","Rome","Italy","","","","","","F","","concept","","","","Vici.org","","422925","","","","","","","","",""
 "1000029","Temple of Fortuna Huiusce Diei","Fortuna","temple","Campus Martius","Rome","Italy","90","1-99","1","99","1","F","","concept","yes","Stamper","","Pleiades: Temple B","17946","967215409","","6515","","","","","",12.476839,41.895387
 "1000030","Temple of Fortuna","Fortuna","temple","Forum Boarium","Rome","Italy","180","-396","-396","","-4","F","","concept","","Platner and Ashby","","","","","","","","","","","",12.480833,41.890556
@@ -99,7 +99,7 @@
 "1000100","Temple of the Nymphs","Nymphs","temple","","Rome","Italy","","","","","","F","","god","","","","","","","","6079","","","","","",12.478714,41.895163
 "1000101","Temple of Ops Opifera","Ops Opifera","temple","Capitoline Hill","Rome","Italy","","","","","","F","23","concept","","","","","","","","","","","","","",12.478714,41.895163
 "1000102","Temple of Pales","Pales","temple","Palatine Hill","Rome","Italy","","-267","-267","","-3","F","","god","","","","","","","","","","","","","","",""
-"1000103","Pantheon","Pantheon","temple","Campus Martius","Rome","Italy","354","126","126","","2","","","god","","","","Vici.org","7853","128044615","","5664","","","","","Q99309",12.47685,41.89856
+"1000103","Pantheon","Pantheon","temple","Campus Martius","Rome","Italy","354","126","126","","2","M/F","","god","","","","Vici.org","7853","128044615","","5664","","","","","Q99309",12.47685,41.89856
 "1000104","Temple of Pax","Peace","temple","","Rome","Italy","","75","75","","1","F","","concept","","","","","","","","","","","","","",12.4876,41.8926
 "1000105","Temple of the Penates","Penates","temple","Velian Hill","Rome","Italy","","-292-219","-292","-219","-3","M","","god","","","","","","","","10557","","","","","","",""
 "1000106","Temple of Portunus","Portunus","temple","Forum Boarium","Rome","Italy","347","-120","-120","","-2","M","","god","","Stamper","","Vici.org; DARE","11602","494660670","22924","5932","","","","","",12.480883,41.889232
@@ -114,9 +114,9 @@
 "1000115","Temple of Sybil","Sybil","temple","","Tivoli","Italy","","-150-125","-150","-125","-2","F","","god","","Stamper","","Vici.org","","","","","","","","","",12.800843,41.966809
 "1000116","Temple of Tellus","Tellus","temple","Esquiline Hill","Rome","Italy","","-268","-268","","-3","F","","nature","","","senate","","","","","","","","","","","",""
 "1000117","Temple of the Tempestates","Tempestates","temple","Porta Capena","Rome","Italy","","","","","","F","23","nature","","","","","","","","","","","","","","",""
-"1000118","Temple at S. Salvatore in Campo","","temple","","Rome","Italy","","","","","","","","","","","","","","","","3467479","","","","","",12.474003,41.893685
+"1000118","Temple at S. Salvatore in Campo","","temple","","Rome","Italy","","","","","","M","","nature","","","","","","","","3467479","","","","","",12.474003,41.893685
 "1000119","Temple of Tiberinus","Tiberinus","temple","Tiber Island","Rome","Italy","","-292-219","-292","-219","-3","M","","nature","","","","","","","","","","","","","","",""
-"1000120","Tomb of Cecilia Metella","","tomb","Via Appia","Rome","Italy","","","","","","","","","","","","Pleiades; vici.org","","423064","","","","","","","",12.520981,41.852196
+"1000120","Tomb of Cecilia Metella","","tomb","Via Appia","Rome","Italy","","","","","","F","","","","","","Pleiades; vici.org","","423064","","","","","","","",12.520981,41.852196
 "1000121","Temple of Veiovis","Veiovis","temple","Inter duos lucos","Rome","Italy","","","","","","M","","god","","","","Pleiades","17964","","","1319962","","","","","Q764141",12.483611,41.892776
 "1000122","Temple of Venus and Roma","Venus, Rome","temple","","Rome","Italy","113","140-145","140","145","2","F","","god, city","","","","Pleiades","15008","","","7481","","","","","",12.490168,41.890812
 "1000123","Temple of Venus Genetrix","Venus","temple","Forum of Julius","Rome","Italy","130","-46","-46","","-1","F","","god","","Blake","","Pleiades","","","","5656","","","","","",12.4848,41.8942
@@ -131,7 +131,7 @@
 "1000132","Temple of Vortumnus","Vortumnus","temple","Aventine Hill","Rome","Italy","","-264","-264","","-3","M","13","god","","","","","","","","","","","","","","",""
 "1000133","Temple of Moneta","Moneta","temple","Alban Mount","","Italy","","-168","-168","","-2","F","","god","","","","","","","","","","","","","","",""
 "1000134","Temple of Janus Quadrifons","Janus","temple","Forum Transitorium","Rome","Italy","","81-96","81","","1","M","","god","","","","","","","","","","","","","","",""
-"1000135","Temple of Veiovis","Veiovis","temple","Tiber Island","Rome","Italy","","","","","","","","god","","","","","","","","","","","","","","",""
+"1000135","Temple of Veiovis","Veiovis","temple","Tiber Island","Rome","Italy","","","","","","M","","god","","","","","","","","","","","","","","",""
 "1000136","Temple of Aesculapius","Aesculapius","temple","Esquiline","Rome","Italy","","","","","","M","","hero","no","","","","","","","","","","","","","",""
 "1000137","Capitolium","Jupiter, Juno, Minerva","temple","","Cosa","Italy","68","","","","","M/F","","god","yes","","","","","","","","","","","","",11.286364,42.410911
 "1000138","Capitolium","Jupiter, Juno, Minerva","temple","","Cumae","Italy","105","26","","","","M/F","","god","yes","","","","14783","","","","","","","","",14.057007,40.848488
@@ -139,7 +139,7 @@
 "1000140","Capitolium","Jupiter, Juno, Minerva","temple","","Scarbantia","Hungary","208","","","","","M/F","","god","","","","","","","","","","","","","",16.58305,47.68489
 "1000141","Capitolium","Jupiter, Juno, Minerva","temple","","Constantinople","Turkey","","330","330","","","M/F","","god","no","","","","","","","","","","","","",28.956067,41.013342
 "1000142","Temple of Augustus","Augustus, Rome","temple","","Pula","Croatia","156","","-2","14","1","M/F","","emperor, city","yes","","","","","","","","","","","Temple_of_Augustus,_Pula","",13.841842,44.870213
-"1000143","Temple of Augustus","","temple","","Barcelona","Spain","314","1st c. BCE","","","-1","","","","yes","","","","","","","","","","","Temple_of_Augustus,_Barcelona","",2.177103,41.383351
+"1000143","Temple of Augustus","","temple","","Barcelona","Spain","314","1st c. BCE","","","-1","M","","emperor","yes","","","","","","","","","","","Temple_of_Augustus,_Barcelona","",2.177103,41.383351
 "1000144","Temple of Augustus","Augustus","temple","","Pozzuoli","Italy","178","","","","1","M","","emperor","yes","","","","","","","","","","","","",14.120447,40.821276
 "1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Abthugni","Tunisia","90","","","","","M/F","","god","yes","","","","","","","","","","","","","",""
 "1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Althiburos","Tunisia","43","","","","","M/F","","god","yes","","","","","","","","","","","","",8.785101,35.873886
@@ -149,3 +149,4 @@
 "1000149","Temple of Trajan","Trajan","temple","","Pergamon","Turkey","201","2nd c. CE","","","2","M","","emperor","yes","","","","","","","","","","","","",27.183256,39.132812
 "1000150","Temple of Dionysus","Dionysus","temple","","Pergamon","Turkey","166","Early 3rd c. CE","","","3","M","","god","yes","","","","","","","","","","","","",27.182573,39.132283
 "1000151","Temple of Consus","Consus","temple","Aventine","Rome","Italy","","-272","","","-3","M","12","god","no","Ziolkowski","","","","","","","","","","","","",""
+"1000152","Temple of Hercules at the Colline Gate","Hercules","temple","ad portam collina","Rome","Italy","","","","-211","","M","","hero","no","Ziolkowski","","","","","","","","","","","","",""
