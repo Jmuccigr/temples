@@ -29,7 +29,7 @@
 "1000030","Temple of Fortuna","Fortuna","temple","Forum Boarium","Rome","Italy","180","-396","-396","","-4","F","","concept","","Platner and Ashby","","","","","","","","","","","",12.480833,41.890556
 "1000031","Temple of Fortuna Muliebris","Fortuna","temple","","Rome","Italy","","","","","","F","","concept","","","","DARE","","","37154","","","","","","",12.555806,41.843745
 "1000032","Temple of the Divine Hadrian","Hadrian","temple","Campus Martius","Rome","Italy","90","145","145","","2","M","","emperor","","Blake","","Vici.org","15032","","","5651","","","","","",12.479621,41.899876
-"1000033","Temple of Hercules Magnus Custos","Hercules","temple","Circus Flaminius","Rome","Italy","","-220","-220","","-3","M","","hero","","Ziolkowski","","Pleiades","","","","","","","","","","",""
+"1000033","Temple of Hercules Magnus Custos","Hercules","temple","Circus Flaminius","Rome","Italy","","-220","-220","","-3","M","4","hero","","Ziolkowski","","Pleiades","","","","","","","","","","",""
 "1000034","Temple of Hercules Musarum","Hercules","temple","Circus Flaminius","Rome","Italy","208","-187","-187","","-2","M","30","hero","","Arachne","","","","","","3467458","","","","","",12.477733,41.8931188
 "1000035","Temple of Hercules Victor","Hercules","temple","Caelian Hill","Rome","Italy","","-145","-145","","-2","M","","hero","","","","","","","","","","","","","","",""
 "1000036","Temple of Hercules Victor","Hercules","temple","","Tivoli","Italy","","-89-82","-89","-82","-1","M","","hero","","Stamper","","","","","","","","","","","","",""
@@ -149,4 +149,5 @@
 "1000149","Temple of Trajan","Trajan","temple","","Pergamon","Turkey","201","2nd c. CE","","","2","M","","emperor","yes","","","","","","","","","","","","",27.183256,39.132812
 "1000150","Temple of Dionysus","Dionysus","temple","","Pergamon","Turkey","166","Early 3rd c. CE","","","3","M","","god","yes","","","","","","","","","","","","",27.182573,39.132283
 "1000151","Temple of Consus","Consus","temple","Aventine","Rome","Italy","","-272","","","-3","M","12","god","no","Ziolkowski","","","","","","","","","","","","",""
-"1000152","Temple of Hercules at the Colline Gate","Hercules","temple","ad portam collina","Rome","Italy","","","","-211","","M","","hero","no","Ziolkowski","","","","","","","","","","","","",""
+"1000152","Temple of Hercules at the Colline Gate","Hercules","temple","ad portam collinam","Rome","Italy","","","","-211","","M","","hero","no","Ziolkowski","","","","","","","","","","","","",""
+"1000153","Temple of Honos","Honor","temple","extra portam collinam","Rome","Italy","","3rd c. BCE","-292","-219","-3","M","","concept","no","Ziolkowski","","","","","","","","","","","",12.498676,41.906487
