@@ -1257,7 +1257,7 @@
         "startdatelate": "",
         "century": "-3",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "4",
         "deitytype": "hero",
         "extant": "",
         "source": "Ziolkowski",
@@ -6048,7 +6048,7 @@
         "name": "Temple of Hercules at the Colline Gate",
         "dedicatee": "Hercules",
         "type": "temple",
-        "location": "ad portam collina",
+        "location": "ad portam collinam",
         "city": "Rome",
         "country": "Italy",
         "orientation": "",
@@ -6078,6 +6078,46 @@
         "coordinates": [
           "",
           ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000153",
+        "name": "Temple of Honos",
+        "dedicatee": "Honor",
+        "type": "temple",
+        "location": "extra portam collinam",
+        "city": "Rome",
+        "country": "Italy",
+        "orientation": "",
+        "date": "3rd c. BCE",
+        "startdateearly": "-292",
+        "startdatelate": "-219",
+        "century": "-3",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "concept",
+        "extant": "no",
+        "source": "Ziolkowski",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.498676,
+          41.906487
         ]
       }
     }
