@@ -13,6 +13,8 @@ function onEachFeature(feature, layer) {
                 if (feature.properties.id != '') {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
                     }
+                // There must be coordinates, or it couldn't be mapped & therefore clicked on
+                text = text + '<li>' + feature.geometry.coordinates[1] + ', ' + feature.geometry.coordinates[0] + '</li>';
                 if (feature.properties.dedicatee != '') {
                     text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace (/,/g, ' and ') + '</li>';
                     }
