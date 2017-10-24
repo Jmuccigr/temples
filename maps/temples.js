@@ -1384,7 +1384,7 @@ var temples =  {
         "preceded": "",
         "succeeded": "",
         "sex": "F",
-        "dedicationday": "",
+        "dedicationday": "7",
         "deitytype": "god",
         "culture": "Roman",
         "extant": "",
