@@ -129,7 +129,7 @@
 "1000130","Temple of Victory","Victoria","temple","Palatine Hill","Rome","Italy","219","-294","-294","","-3","F","","concept","","Stamper","","Pleiades","","","","","","","","","",12.48521,41.889418
 "1000131","Temple of Volcanus","Volcanus","temple","Campus Martius","Rome","Italy","","-292-219","-292","-219","-3","M","","god","","","","","","","","","","","","","","",""
 "1000132","Temple of Vortumnus","Vortumnus","temple","Aventine Hill","Rome","Italy","","-264","-264","","-3","M","13","god","","","","","","","","","","","","","","",""
-"1000133","Temple of Moneta","Moneta","temple","Alban Mount","","Italy","","-168","-168","","-2","F","","god","","","","","","","","","","","","","","",""
+"1000133","Temple of Moneta","Moneta","temple","Alban Mount","","Italy","","-168","-168","","-2","F","1","god","","","","","","","","","","","","","","",""
 "1000134","Temple of Janus Quadrifons","Janus","temple","Forum Transitorium","Rome","Italy","","81-96","81","","1","M","","god","","","","","","","","","","","","","","",""
 "1000135","Temple of Veiovis","Veiovis","temple","Tiber Island","Rome","Italy","","","","","","M","","god","","","","","","","","","","","","","","",""
 "1000136","Temple of Aesculapius","Aesculapius","temple","Esquiline","Rome","Italy","","","","","","M","","hero","no","","","","","","","","","","","","","",""
