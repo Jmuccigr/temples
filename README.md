@@ -9,8 +9,13 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 - DARE\_Pleiades\_type\_crosswalk.csv - Crosswalk between the DARE and Pleiades types.
 - DARE\_type\_ids.csv - List of the item types with their IDs in the Digital Atlas of the  Roman Empire (DARE). Compiled by hand for reference. See the less complete, but official version at <http://dare.ht.lu.se/print.php?doc=info_api>.
 - Estimate count of DARE items.applescript - a script to estimate the number of items for each DARE ID. It outputs to DARE\_count.csv in this folder.
+- sheet.csv: modified dump from Google sheet
+- temples.csv: CSV version of the preceding, with simplified format, intended for import into SQL database.
+- temples.json: JSON version of the preceding
 - temple\_bib.json: Bibliography in CSL JSON format on such temples from my [Zotero](https://zotero.org/) [library](https://www.zotero.org/john_muccigrosso/items). The bibliography contains citekeys which can be used in place of the full entry in other files and then converted by such things as pandoc.
-- citations.csv: file joining reference citation from the Zotero library to the temple IDs.
+- temple\_bib.htm: Same as preceding, but in html format.
+- bibliography.csv: Same as preceding, but in CSV format, intended for import into SQL database.
+- citations.csv: file joining reference citation from the Zotero library to the temple IDs, intended for import into SQL database.
 - chicago-author-date.csl - the standard csl for this style, but with citations formatted as biblio. Used to generate simple cite-key:citation pairs for csv.
 
 ## List of folders
