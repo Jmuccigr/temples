@@ -39,6 +39,8 @@ function makeOperatorMenu($id) {
 	echo '<option value="beginsWith">begins with</option>' . "\n"; 
 	echo '<option value="is">is</option>' . "\n"; 
 	echo '<option value="isNot">is not</option>' . "\n"; 
+	echo '<option value="lessThan">less than (for numbers)</option>' . "\n"; 
+	echo '<option value="greaterThan">greater than (for numbers)</option>' . "\n"; 
 	echo '</select>' . "\n" . '</form>' . "\n";
 }
 

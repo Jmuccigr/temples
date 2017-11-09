@@ -351,6 +351,12 @@
 				    case "isNot":
 				   	    translation=" != '";
 				        break;
+				    case "lessThan":
+				   	    translation=" < '";
+				        break;
+				    case "greaterThan":
+				   	    translation=" > '";
+				        break;
 				    }
 				    return (translation + str + endStr);
 				}
