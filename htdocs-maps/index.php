@@ -22,7 +22,9 @@
                 /* Remove any browser-default margins. */
                 margin: 0;
             }
-
+            .leaflet-control-layers-expanded {
+                font-size: small;
+                }
 			#map {
 				height: 85vh;
 				border: 2px black solid;

@@ -35,7 +35,7 @@ function layer_by_heat() {
 
     // Make sure this is global so the control can be deleted.
     ctl = L.control.layers(baseLayers, overlays, {
-        collapsed: true,
+        collapsed: false,
         position: 'bottomleft'
     }).addTo(map);
 
