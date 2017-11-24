@@ -34,3 +34,11 @@ Get an item by:
 - ID: `curl -s -stdout http://pleiades.stoa.org/places/<###>/json`
 
 Get the whole thing via daily dump at <http://atlantides.org/downloads/pleiades/json/> or <http://atlantides.org/downloads/pleiades/dumps/>.
+
+# ADS: [The Rural Settlement of Roman Britain: an online resource](http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=3031)
+
+Get the whole thing via an [advanced search query](http://archaeologydataservice.ac.uk/archives/view/romangl/query.cfm?queryType=structured) for minor sites that are Romano-Celtic temples. Use the R script [here](https://www.reddit.com/r/rstats/comments/5yao7z/how_to_convert_coordinates_from_osgb_to_wgs84/) to convert the OSGB geographical data into latitude and longitude values. Most of the other values in the download did not have obvious analogues in the database.
+
+Get an item by:
+
+- ID: `curl -s -stdout http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=<###>`

@@ -16,7 +16,7 @@ function onEachFeature(feature, layer) {
                     text = text + '<li>ID: ' + feature.properties.id + '</li>';
                 }
                 // There must be coordinates, or it couldn't be mapped & therefore clicked on
-                text = text + '<li>' + feature.geometry.coordinates[1] + ', ' + feature.geometry.coordinates[0] + '</li>';
+                text = text + '<li>Lat, Long: ' + feature.geometry.coordinates[1] + ', ' + feature.geometry.coordinates[0] + '</li>';
                 if (feature.properties.dedicatee != '') {
                     text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace(/,/g, ' and ')
                     if (feature.properties.dedicationday != '') {
@@ -98,6 +98,12 @@ function onEachFeature(feature, layer) {
                         otherDB = otherDB + ', '
                     };
                     otherDB = otherDB + '<a target="_blank" href="https://en.wikipedia.org/wiki/' + feature.properties.wikipedia + '">Wikipedia</a>';
+                }
+                if (feature.properties.ads != '') {
+                    if (otherDB.length > 4) {
+                        otherDB = otherDB + ', '
+                    };
+                    otherDB = otherDB + '<a target="_blank" href="http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + feature.properties.ads + '">Archaeological Data Service</a>';
                 }
                 if (otherDB.length == 4) {
                     otherDB = ''
