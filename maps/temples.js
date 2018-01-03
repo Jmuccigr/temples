@@ -5850,6 +5850,141 @@ var temples =  {
           52.5169
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000209",
+        "name": "Temple of Saturn",
+        "dedicatee": "Saturn",
+        "type": "temple",
+        "location": "",
+        "city": "Dougga",
+        "country": "Tunisia",
+        "orientation": "109",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22063,
+          36.42555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000210",
+        "name": "Temple of Saturn",
+        "dedicatee": "Saturn",
+        "type": "temple",
+        "location": "",
+        "city": "Thuburbo Majus",
+        "country": "Tunisia",
+        "orientation": "132",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "31251",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907412,
+          36.400753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000211",
+        "name": "Temple of Saturn",
+        "dedicatee": "Saturn",
+        "type": "temple",
+        "location": "",
+        "city": "Tiddis",
+        "country": "Algeria",
+        "orientation": "75",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.483889,
+          36.463333
+        ]
+      }
     }
   ]
 }
