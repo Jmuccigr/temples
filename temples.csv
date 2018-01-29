@@ -7,3 +7,205 @@
 "1000008","Temple of Castor and Pollux","Castor, Pollux","temple","Circus Flaminius","Rome","Italy","30","-179-91","-179","-91","-2","M","","hero","","Coarelli","","","","","","4052753","","","","","","","",""
 "1000009","Temple of Ceres and Faustina","Ceres, Faustina","temple","","Rome","Italy","","","","","","F","","god, family","","","","Vici.org, DARE","","422889","22917","","","","","","","",12.524306,41.857844
 "1000010","Temple of Ceres, Liber, and Libera","Ceres, Liber, Libera","temple","Aventine","Rome","Italy","","-493","-493","","-5","M/F","","god","","","","","","","","","","","","","","","",""
+"1000011","Temple of Cessati Spiriti","","temple","","Rome","Italy","","","","","","","","","","","","DARE","","422892","","","","","","","","",12.533184,41.862522
+"1000012","Temple of the Divine Claudius","Claudius","temple","Caelian Hill","Rome","Italy","","40-60","40","60","1","M","","emperor","","","","","","","","6228","","","","","","",12.493367,41.887594
+"1000013","Temple of Concord","Concord","temple","Forum","Rome","Italy","123","-121","-121","","-2","F","22 July/16 January","concept","","Blake","senate","","","","","5742","","","","","","",12.484245,41.89293
+"1000014","Temple of Cybele/Magna Mater","Cybele/Magna Mater","temple","Palatine Hill","Rome","Italy","203","-191","-191","","-2","F","","god","","Stamper","senate","Vici.org","17956","","","9110","","","","","Q383609","",12.484984,41.889554
+"1000015","Temple of Dea Dia","Dea Dia","temple","","Rome","Italy","","","","","","F","","god","","","","DARE","","422916","37153","","","","","","","",12.44195,41.83614
+"1000016","Temple of Diana","Diana","temple","Aventine","Rome","Italy","","-499-400","-499","-400","-5","F","August 13","god","","","","","","","","","","","","","","",12.483194,41.882828
+"1000017","Temple of the Divine Antoninus and the Divine Faustina","Antoninus, Faustina","temple","Forum","Rome","Italy","217","161","161","","2","M/F","","emperor, family","","Blake","","Vici.org","15009","","","5645","","","","","Q752555","",12.486689,41.892139
+"1000018","Temple of the Divine Augustus","Augustus","temple","","Rome","Italy","","","","","","M","","emperor","","Blake","","","","","","5743","","","","","","",12.484471,41.891616
+"1000019","Temple of the Divine Julius","Julius","temple","Circus Flaminius","Rome","Italy","300","-29","-29","","-1","M","August 18","emperor","","Stamper","","","15048","","","5744","","","","","Q1133288","",12.486246,41.891943
+"1000020","Temple of the Divine Romulus","Romulus","temple","Forum","Rome","Italy","205","","","","","M","","hero","","","","Vici.org","15044","","","10545","","","","","","",12.487166,41.891846
+"1000021","Temple of the Divine Trajanus","Trajan","temple","Forum of Trajan","Rome","Italy","","128","128","","2","M","","emperor","","Stamper","","","","","","","","","","","","",12.484645,41.895471
+"1000022","Temple of Elagabal","Elagabal","temple","","Rome","Italy","","","","","","M","","emperor","","","","Vici.org","11503","","","","","","","","","",12.488894,41.889603
+"1000023","Temple of Feronia","Feronia","temple","Campus Martius","Rome","Italy","90","-290","-290","","-3","F","November 13","god","","Stamper/Ziolkowski","","Pleiades: Temple C","39266","967215409","","5865","","","","","","",12.476723,41.895163
+"1000024","Temple of Fides","Fides","temple","Capitoline","Rome","Italy","","-254","-254","","-3","F","October 1","concept","","Ziolkowski","senate","","","","","","","","","Temple_of_Fides","Q3983246","",12.4812,41.8914
+"1000025","Temple of Flora","Flora","temple","Circus Maximus","Rome","Italy","","-240","-240","","-3","F","April 28","nature","","","","","","","","","","","","","","","",""
+"1000026","Temple of Flora","Flora","temple","Quirinal","Rome","Italy","","-292-219","-292","-219","-3","F","May 3","nature","","","","","","","","","","","","","","","",""
+"1000027","Temple of Fons/Fontus","Fons/Fontus","temple","extra portam fontinalem","Rome","Italy","","-231","-231","","-3","M","October 13","nature","","","","","","","","","","","","","","","",""
+"1000028","Temple of Fortis Fortuna","Fortis Fortuna","temple","Right bank of Tiber","Rome","Italy","","","","","","F","","concept","","","","Vici.org","","422925","","","","","","","","","",""
+"1000029","Temple of Fortuna Huiusce Diei","Fortuna","temple","Campus Martius","Rome","Italy","90","1-99","1","99","1","F","","concept","yes","Stamper","","Pleiades: Temple B","17946","967215409","","6515","","","","","","",12.476839,41.895387
+"1000030","Temple of Fortuna","Fortuna","temple","Forum Boarium","Rome","Italy","180","-396","-396","","-4","F","","concept","","Platner and Ashby","","","","","","","","","","","","",12.480833,41.890556
+"1000031","Temple of Fortuna Muliebris","Fortuna","temple","","Rome","Italy","","","","","","F","","concept","","","","DARE","","","37154","","","","","","","",12.555806,41.843745
+"1000032","Temple of the Divine Hadrian","Hadrian","temple","Campus Martius","Rome","Italy","90","145","145","","2","M","","emperor","","Blake","","Vici.org","15032","","","5651","","","","","","",12.479621,41.899876
+"1000033","Temple of Hercules Magnus Custos","Hercules","temple","Circus Flaminius","Rome","Italy","","-220","-220","","-3","M","June 4","hero","","Ziolkowski","","Pleiades","","","","","","","","","","","",""
+"1000034","Temple of Hercules Musarum","Hercules","temple","Circus Flaminius","Rome","Italy","208","-187","-187","","-2","M","June 30","hero","","Arachne","","","","","","3467458","","","","","","",12.477733,41.8931188
+"1000035","Temple of Hercules Victor","Hercules","temple","Caelian Hill","Rome","Italy","","-145","-145","","-2","M","","hero","","","","","","","","","","","","","","","",""
+"1000036","Temple of Hercules Victor","Hercules","temple","","Tivoli","Italy","","-89-82","-89","-82","-1","M","","hero","","Stamper","","","","","","","","","","","","","",""
+"1000037","Temple of Hercules Victor/Invictus","Hercules","temple","Forum Boarium","Rome","Italy","93","","","","","M","August 13","hero","yes","","","","15006","825969667","","10771, 5792","","","","","","",12.4806393,41.8887057
+"1000038","Temple of Honos and Virtus","Honor, Virtue","temple","ad Portam Capenam","Rome","Italy","","-205","-205","","-3","F","July 17","concept","","","senate","","","","","","","","","","","","",""
+"1000039","Temple at Il Torraccio","","temple","","Rome","Italy","","","","","","","","","","","","DARE","","","37165","","","","","","","",12.492366,41.994283
+"1000040","Temple of Isis at via Labicana","Isis","temple","","Rome","Italy","","","","","","F","","god","","","","Pleiades","19353","","","","","","","","Q16612725","",12.501237,41.890049
+"1000041","Temple of Isis/Serapis","Isis/Serapis","temple","Campus Martius","Rome","Italy","","","","","","F","","god","","Blake","","Pleiades","17963","","","","","","","","Q2288275","",12.479167,41.897221
+"1000042","Temple of Janus","Janus","temple","Forum Holitorium","Rome","Italy","71","-260","-260","","-3","M","August 17","god","","","","","","","","10761","","","","","","",12.479947,41.891289
+"1000043","Temple of Juno Curritis","Juno","temple","Campus Martius","Rome","Italy","","-292-219","-292","-219","-3","F","October 7","god","","Ziolkowski","","","","","","","","","","","","",12.476906,41.894862
+"1000044","Temple of Juno Lucina","Juno","temple","Esquiline Hill","Rome","Italy","","-375","-375","","-4","F","March 1","god","","Ziolkowski","","","","","","","","","","","","","",""
+"1000045","Temple of Juno Moneta","Juno","temple","Capitoline Hill","Rome","Italy","","-344","-344","","-4","F","June 1","god","","","","","","","","3910432","","","","","","",12.483497,41.894009
+"1000046","Temple of Juno Regina","Juno","temple","Aventine Hill","Rome","Italy","","-392","-392","","-4","F","","god","","Ziolkowski","","","","","","","","","","","","",12.47972,41.88444
+"1000047","Temple of Juno Regina","Juno","temple","Circus Flaminius","Rome","Italy","208","-179","-179","","-2","F","December 23","god","","","","","","","","3467454","","","","","","",12.478602,41.893141
+"1000048","Temple of Juno Sospita","Juno","temple","Forum Holitorium","Rome","Italy","71","-197-194","-197","-194","-2","F","February 1","god","","","","","","","","","","","","","","",12.479937,41.891093
+"1000049","Temple of Jupiter","Jupiter","temple","","Rome","Italy","","","","","","M","","god","","","","DARE","","","37156","","","","","","","",12.536854,41.840026
+"1000050","Capitolium","Jupiter, Juno, Minerva","temple","","Jerusalem","Israel","349","130","130","","2","M/F","","god","no","","","","","","","","","","","","","",35.235619,31.776306
+"1000051","Temple of Jupiter","Jupiter","temple","","Damascus","Syria","","14","14","","1","M","","god","","","","","","","","","","","","","","",36.300833,33.510833
+"1000052","Temple of Jupiter","Jupiter","temple","","Yarbrud","Syria","","","","","","M","","god","","","","","","","","","","","","","","",36.666667,33.966667
+"1000053","Temple of Jupiter","Jupiter","temple","","Baalbek","Lebanon","","135","135","","2","M","","god","","","","","","","","","","","","","","",36.204425,34.006839
+"1000054","Temple of Jupiter Anxur","Jupiter","temple","","Terracina","Italy","","","","","","M","","god","","","","Coord from Google maps","","433143","","","","","","","","",13.260113,41.290817
+"1000055","Temple of Jupiter Conservator","Jupiter","temple","Capitoline Hill","Rome","Italy","","","","","","M","","god","","Stamper","","","","","","","","","","","","","",""
+"1000056","Temple of Jupiter Custos","Jupiter","temple","Capitoline Hill","Rome","Italy","","","","","","M","","god","","","","","","","","","","","","","","",12.481892,41.891825
+"1000057","Temple of Jupiter Dolichenus","Jupiter","temple","Aventine Hill","Rome","Italy","","","","","","M","","god","","Blake","","Location from Arachne","","","","6074","","","","","","",12.4804,41.88319
+"1000058","Temple of Jupiter Feretrius","Jupiter","temple","Capitoline Hill","Rome","Italy","","-752-751","-752","-751","-8","M","","god","","","","","","","","","","","","","","","",""
+"1000059","Temple of Jupiter Heliopolitanus","Jupiter","temple","Janiculum","Rome","Italy","","Late 1st Century CE","75","100","1","M","November 29","god","","Blake","","","","","","","","","","","","","",""
+"1000060","Temple of Jupiter Invictus","Jupiter","temple","Palatine Hill","Rome","Italy","","-180-167","-180","-167","-2","M","","god","","Ziolkowski","","","","","","","","","","","","","",""
+"1000061","Temple of Jupiter Libertas","Jupiter","temple","Aventine Hill","Rome","Italy","","-246","-246","","-3","M","April 13","god","","Ziolkowski","","","","","","","","","","","","","",""
+"1000062","Temple of Jupiter Capitolinus/Optimus Maximus","Jupiter","temple","Capitoline Hill","Rome","Italy","","-509","-509","","-6","M","September 13","god","","Blake","senate","","17971","871801169","","3910430","","","","","Q586468","",12.481667,41.892222
+"1000063","Temple of Jupiter Patulaeius","Jupiter","temple","","Ostia","Italy","","-299-200","-299","-200","-3","M","","god","","","","","","","","","","","","","","","",""
+"1000064","Temple of Jupiter Pompeii","Jupiter","temple","","Pompeii","Italy","","mid-2nd century BC","-175","-125","-2","M","","god","","","","","","","","","","","","","","",14.4845,40.7499
+"1000065","Temple of Jupiter Sospita","Jupiter","temple","","","","","","","","","M","","god","","Stamper","","","","","","","","","","","","","",""
+"1000066","Temple of Jupiter Stator","Jupiter","temple","Campus Martius","Rome","Italy","","-294","-294","","-3","M","January 27","god","","","senate","Tenative coordinates","","","","","","","","","","",12.488793,41.890487
+"1000067","Temple of Jupiter Stator","Jupiter","temple","Circus Flaminius","Rome","Italy","208","-146","-146","","-2","M","","god","","","","","","","","","","","","","","",12.479021,41.892897
+"1000068","Temple of Jupiter Tonans","Jupiter","temple","Capitoline Hill","Rome","Italy","","-22","-22","","-1","M","September 1","god","","","","","","","","","","","","","","","",""
+"1000069","Temple of Jupiter Victor","Jupiter","temple","Quirinal Hill","Rome","Italy","","-295","-295","","-3","M","","god","","Blake","","","","","","","","","","","","","",""
+"1000070","Temple of Jupiter/Baalshamin","Jupiter, Baalshamin","temple","","Kedesh","Israel","","","","","","M","","god","","","","","","","","","","","","","","",35.531175,33.112906
+"1000071","Temple of Juturna","Juturna","temple","Campus Martius","Rome","Italy","90","-299-200","-299","-200","-3","F","January 11","god","","Ziolkowski","","Pleiades: Temple A","17946","967215409","","5864","","","","","","",12.476876,41.895664
+"1000072","Temple of Juventas","Juventas","temple","Circus Maximus","Rome","Italy","","-193","-193","","-2","F","","concept","","","","","","","","","","","","","","","",""
+"1000073","Temple of the Lares","Lares","temple","in summa Sacra Via","Rome","Italy","","-292-219","-292","-219","-3","M","June 27","god","","","","","","","","","","","","","","","",""
+"1000074","Temple of the Lares Permarini","Lares Permarini","temple","Campus Martius","Rome","Italy","90","-179","-179","","-2","M","","god","","","","Pleiades: Temple D","17946","967215409","","6516","","","","","","",12.476957,41.894983
+"1000075","Temple of Luna","Luna","temple","Aventine Hill","Rome","Italy","","-292-219","-292","-219","-3","F","March 31","nature","","","","","","","","","","","","","","","",""
+"1000076","Temple of Mars","Mars","temple","Circus Flaminius","Rome","Italy","","-138","-138","","-2","M","","god","","","","","","","","","","","","","","","",""
+"1000077","Temple of Mars","Mars","temple","North Via Appia","Rome","Italy","","-388","-388","","-4","M","June 1","god","","","","","","","","","","","","","","","",""
+"1000078","Temple of Mars Ultor","Mars","temple","Forum of Augustus","Rome","Italy","233","-2","-2","","-1","M","","god","","Stamper","","","","","","5747","43987","","","","","",12.486944,41.894444
+"1000079","Temple of Mater Matuta","Mater Matuta","temple","Forum Boarium","Rome","Italy","180","-368","-368","","-4","F","","god","","Stamper","","","","","","","","","","","","",12.480833,41.890556
+"1000080","Temple of Matidia","Matidia","temple","Campus Martius","Rome","Italy","","119","119","","2","F","","family","","Stamper","","","","","","","","","","","","",12.478081,41.899964
+"1000081","Mausoleum of Romulus","","temple","","Rome","Italy","","","","","","M","","emperor","","","","DARE","","","23842","","","","","","","",12.5181785,41.8550631
+"1000082","Temple of Mercury","Mercury","temple","Aventine Hill","Rome","Italy","","-495","-495","","-5","M","","god","","","","","","","","","","","","","","","",""
+"1000083","Temple of Minerva","Minerva","temple","Aventine Hill","Rome","Italy","","-269-260","-269","-260","-3","F","","god","","","","Vici.org","","","","","","","","","","","",""
+"1000084","Temple of Minerva Medica","Minerva","temple","Esquiline Hill","Rome","Italy","","-399-300","-399","-300","-4","F","","god","","","","Pleiades","7929","540898685","","","","","","","Q1411575","",12.511867,41.893845
+"1000085","Temple of Minerva","Minerva","temple","Forum of Nerva","Rome","Italy","","","","","","F","","god","","Arachne","","","","","","8405","","","","","","",12.487089,41.893664
+"1000086","Mithraeum Barberini","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45672","","","","","","","",12.4891,41.902964
+"1000087","Mithraeum of Orazio Muti","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45673","","","","","","","",12.485662,41.89981
+"1000088","Mithraeum of San Clemente","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","Vici.org; DARE","23522","","45666","","","","","","","",12.497281,41.889675
+"1000089","Mithraeum of Santa Prisca","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45667","","","","","","","",12.483655,41.883213
+"1000090","Mithraeum of Santo Stefano Rotondo","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45669","","","","","","","",12.496744,41.884655
+"1000091","Mithraeum of the Baths of Caracalla","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45668","","","","","","","",12.493118,41.879922
+"1000092","Mithraeum of the Campidoglio","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45675","","","","","","","",12.482628,41.89291
+"1000093","Mithraeum of the Circus Maximus","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45670","","","","","","","",12.482856,41.888114
+"1000094","Mithraeum of the Crypta Balbi","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE; coords updated","","","45674","","","","","","","",12.479176,41.894242
+"1000095","Mithraeum of the Esquiline","Mithras","mithraeum","","Rome","Italy","","","","","","","","","","","","DARE","","","45671","","","","","","","",12.501063,41.894894
+"1000096","Temple at Monte del Grano","","temple","","Rome","Italy","","","","","","","","","","","","","","422973","","","","","","","","",12.549292,41.865272
+"1000097","Temple of Neptune","Neptune","temple","Circus Flaminius","Rome","Italy","","-257-228","-257","-228","-3","M","","god","","","","","","","","3467478","","","","","","","",""
+"1000098","Nymphaeum of the Villa dei Quintili","Nymphs","temple","","Rome","Italy","","","","","","F","","god","","","","DARE","","","23839","","","","","","","",12.5480362,41.8279699
+"1000099","Nymphaeum Septizodium","Nymphs","temple","Campus Martius","Rome","Italy","","","","","","F","","god","","","","Vici.org","17962","","","","","","","","Q1234446","",12.488719,41.885632
+"1000100","Temple of the Nymphs","Nymphs","temple","","Rome","Italy","","","","","","F","","god","","","","","","","","6079","","","","","","",12.478714,41.895163
+"1000101","Temple of Ops Opifera","Ops Opifera","temple","Capitoline Hill","Rome","Italy","","","","","","F","August 23","concept","","","","","","","","","","","","","","",12.478714,41.895163
+"1000102","Temple of Pales","Pales","temple","Palatine Hill","Rome","Italy","","-267","-267","","-3","F","","god","","","","","","","","","","","","","","","",""
+"1000103","Pantheon","Pantheon","temple","Campus Martius","Rome","Italy","354","126","126","","2","M/F","","god","","","","Vici.org","7853","128044615","","5664","","","","","Q99309","",12.47685,41.89856
+"1000104","Temple of Pax","Peace","temple","","Rome","Italy","","75","75","","1","F","","concept","","","","","","","","","","","","","","",12.4876,41.8926
+"1000105","Temple of the Penates","Penates","temple","Velian Hill","Rome","Italy","","-292-219","-292","-219","-3","M","","god","","","","","","","","10557","","","","","","","",""
+"1000106","Temple of Portunus","Portunus","temple","Forum Boarium","Rome","Italy","347","-120","-120","","-2","M","","god","","Stamper","","Vici.org; DARE","11602","494660670","22924","5932","","","","","","",12.480883,41.889232
+"1000107","Temple of Quirinus","Quirinus","temple","Quirinal Hill","Rome","Italy","","-293","-293","","-3","M","","god","","","","","","","","","","","","","","","",""
+"1000108","Temple of Robigo","Robigo","sanctuary","","Rome","Italy","","","","","","F","","nature","","","","DARE","","423024","37158","","","","","","","",12.447668,41.959271
+"1000109","Temple of Salus","Salus","temple","Quirinal Hill","Rome","Italy","","-303","-303","","-4","F","","concept","","","","","","","","","","","","","","","",""
+"1000110","Temple of Saturn","Saturn","temple","Forum","Rome","Italy","32","-498","-498","","-5","M","","god","","","","Pleiades","15012","","","5644","","","saturntempel","Temple_of_Saturn","Q746721","",12.484187,41.892666
+"1000111","Temple of Sol","Sol","temple","Campus Agrippae","Rome","Italy","","-273","-273","","-3","M","","nature","","","","","","","","","","","","","","","",""
+"1000112","Temple of Sol and Luna","Sol, Luna","temple","Circus Maximus","Rome","Italy","","-292-219","-292","-219","-3","M/F","August 28","nature","","","","","","","","","","","","","","","",""
+"1000113","Temple of Spes","Spes","temple","Forum Holitorium","Rome","Italy","71","-258-249","-258","-249","-3","F","","concept","","","","","","","","10760","","","","","","",12.480052,41.890962
+"1000114","Temple of Summanus","Summanus","temple","Circus Maximus","Rome","Italy","","-280-275","-280","-275","-3","M","","god","","","","","","","","","","","","","","","",""
+"1000115","Temple of Sybil","Sybil","temple","","Tivoli","Italy","","-150-125","-150","-125","-2","F","","god","","Stamper","","Vici.org","","","","","","","","","","",12.800843,41.966809
+"1000116","Temple of Tellus","Tellus","temple","Esquiline Hill","Rome","Italy","","-268","-268","","-3","F","","nature","","","senate","","","","","","","","","","","","",""
+"1000117","Temple of the Tempestates","Tempestates","temple","Porta Capena","Rome","Italy","","","","","","F","December 23","nature","","","","","","","","","","","","","","","",""
+"1000118","Temple at S. Salvatore in Campo","","temple","","Rome","Italy","","","","","","M","","nature","","","","","","","","3467479","","","","","","",12.474003,41.893685
+"1000119","Temple of Tiberinus","Tiberinus","temple","Tiber Island","Rome","Italy","","-292-219","-292","-219","-3","M","","nature","","","","","","","","","","","","","","","",""
+"1000120","Tomb of Cecilia Metella","","tomb","Via Appia","Rome","Italy","","","","","","F","","","","","","Pleiades; vici.org","","423064","","","","","","","","",12.520981,41.852196
+"1000121","Temple of Veiovis","Veiovis","temple","Inter duos lucos","Rome","Italy","","","","","","M","","god","","","","Pleiades","17964","","","1319962","","","","","Q764141","",12.483611,41.892776
+"1000122","Temple of Venus and Roma","Venus, Rome","temple","","Rome","Italy","113","140-145","140","145","2","F","","god, city","","","","Pleiades","15008","","","7481","","","","","","",12.490168,41.890812
+"1000123","Temple of Venus Genetrix","Venus","temple","Forum of Julius","Rome","Italy","130","-46","-46","","-1","F","","god","","Blake","","Pleiades","","","","5656","","","","","","",12.4848,41.8942
+"1000124","Temple of Venus Obsequens","Venus","temple","Circus Maximus","Rome","Italy","","-290","-290","","-3","F","","god","","","","","","","","","","","","","","","",""
+"1000125","Temple of Venus Victrix","Venus","temple","Campus Martius","Rome","Italy","90","-55","-55","","-1","F","","god","yes","Stamper","senate","Pleiades; coords modified","","","","","","","","","","",12.473014,41.895335
+"1000126","Temple of the Divine Vespasian and the Divine Titus","Vespasian, Titus","temple","Forum","Rome","Italy","119","","","","","M","","emperor","","","","Pleiades","15042","","","5643","","","","","Q731284","",12.484081,41.892876
+"1000127","Temple of Vesta","Vesta","temple","Forum","Rome","Itay","35","-575","-575","","-6","F","","god","","Stamper","","Pleiades","15010","","","8407","","","","","","",12.486141,41.891792
+"1000128","Temple of Vesta","Vesta","temple","","Tivoli","Italy","190","early 1st-Century BCE","-99","-75","-1","F","","god","","","","Pleiades","","","","11457","","","","","","",12.8009,41.9667
+"1000129","Temple of Vica Pota","Vica Pota","temple","Velian Hill","Rome","Italy","","-292-219","-292","-219","-3","F","","god","","","","","","","","","","","","","","","",""
+"1000130","Temple of Victory","Victoria","temple","Palatine Hill","Rome","Italy","219","-294","-294","","-3","F","","concept","","Stamper","","Pleiades","","","","","","","","","","",12.48521,41.889418
+"1000131","Temple of Volcanus","Volcanus","temple","Campus Martius","Rome","Italy","","-292-219","-292","-219","-3","M","","god","","","","","","","","","","","","","","","",""
+"1000132","Temple of Vortumnus","Vortumnus","temple","Aventine Hill","Rome","Italy","","-264","-264","","-3","M","August 13","god","","","","","","","","","","","","","","","",""
+"1000133","Temple of Moneta","Moneta","temple","Alban Mount","","Italy","","-168","-168","","-2","F","June 1","god","","","","","","","","","","","","","","","",""
+"1000134","Temple of Janus Quadrifons","Janus","temple","Forum Transitorium","Rome","Italy","","81-96","81","","1","M","","god","","","","","","","","","","","","","","","",""
+"1000135","Temple of Veiovis","Veiovis","temple","Tiber Island","Rome","Italy","","","","","","M","","god","","","","","","","","","","","","","","","",""
+"1000136","Temple of Aesculapius","Aesculapius","temple","Esquiline","Rome","Italy","","","","","","M","","hero","no","","","","","","","","","","","","","","",""
+"1000137","Capitolium","Jupiter, Juno, Minerva","temple","","Cosa","Italy","68","","","","","M/F","","god","yes","","","","","","","","","","","","","",11.286364,42.410911
+"1000138","Capitolium","Jupiter, Juno, Minerva","temple","","Cumae","Italy","105","26","","","","M/F","","god","yes","","","","14783","","","","","","","","","",14.057007,40.848488
+"1000139","Capitolium","Jupiter, Juno, Minerva","temple","","Verona","Italy","144","","","","","M/F","","god","","","","","","","","","","","","","","",10.996195,45.443872
+"1000140","Capitolium","Jupiter, Juno, Minerva","temple","","Scarbantia","Hungary","208","","","","","M/F","","god","","","","","","","","","","","","","","",16.58305,47.68489
+"1000141","Capitolium","Jupiter, Juno, Minerva","temple","","Constantinople","Turkey","","330","330","","","M/F","","god","no","","","","","","","","","","","","","",28.956067,41.013342
+"1000142","Temple of Augustus","Augustus, Rome","temple","","Pula","Croatia","156","","-2","14","1","M/F","","emperor, city","yes","","","","","","","","","","","Temple_of_Augustus,_Pula","","",13.841842,44.870213
+"1000143","Temple of Augustus","","temple","","Barcelona","Spain","314","1st c. BCE","","","-1","M","","emperor","yes","","","","","","","","","","","Temple_of_Augustus,_Barcelona","","",2.177103,41.383351
+"1000144","Temple of Augustus","Augustus","temple","","Pozzuoli","Italy","178","","","","1","M","","emperor","yes","","","","","","","","","","","","","",14.120447,40.821276
+"1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Abthugni","Tunisia","90","","","","","M/F","","god","yes","","","","","","","","","","","","","","",""
+"1000145","Capitolium","Jupiter, Juno, Minerva","temple","","Althiburos","Tunisia","43","","","","","M/F","","god","yes","","","","","","","","","","","","","",8.785101,35.873886
+"1000146","Unknown","","temple","","Althiburos","Tunisia","224","","","","","","","","yes","","","","","","","","","","","","","",8.785616,35.874468
+"1000147","Temple of Minerva","Minerva","temple","","Tebessa","Algeria","121","","","","","F","","god","yes","","","","","","","","","","","","","",8.122492,35.404638
+"1000148","Temple A","Apollo, Artemis, Aphrodite","temple","","Laodicea on the Lycus","Turkey","27","2nd c. CE","","","2","M/F","","god","yes","","","","18182","","","","","","","","","",29.109676,37.836269
+"1000149","Temple of Trajan","Trajan","temple","","Pergamon","Turkey","201","2nd c. CE","","","2","M","","emperor","yes","","","","","","","","","","","","","",27.183256,39.132812
+"1000150","Temple of Dionysus","Dionysus","temple","","Pergamon","Turkey","166","Early 3rd c. CE","","","3","M","","god","yes","","","","","","","","","","","","","",27.182573,39.132283
+"1000151","Temple of Consus","Consus","temple","Aventine","Rome","Italy","","-272","","","-3","M","December 12","god","no","Ziolkowski","","","","","","","","","","","","","",""
+"1000152","Temple of Hercules at the Colline Gate","Hercules","temple","ad portam collinam","Rome","Italy","","","","-211","","M","","hero","no","Ziolkowski","","","","","","","","","","","","","",""
+"1000153","Temple of Honos","Honor","temple","extra portam collinam","Rome","Italy","","3rd c. BCE","-292","-219","-3","M","","concept","no","Ziolkowski","","","","","","","","","","","","",12.498676,41.906487
+"1000154","Temple of Honos","Honor","temple","ad Portam Capenam","Rome","Italy","","-233","-233","","-3","F","July 17","concept","no","Ziolkowski","","","","","","","","","","","","","",""
+"1000155","Portonaccio Temple","Apollo","temple","","Veii","Italy","97","-510","","","-6","M","","god","yes","","","","23458","","","","","","","","","",12.390661,42.021223
+"1000156","Great Chesterford Temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","1002",0.208052084,52.07048
+"1000157","Harlow","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","1045",0.127076484,51.79013
+"1000158","Gosbecks, Colchester","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","1106",0.856901856,51.86582
+"1000159","Stonea Grange","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","2042",0.134535711,52.52174
+"1000160","Waste Management Park, Waterbeach, Cambridge","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","2068",0.1791583,52.2972
+"1000161","Baldock","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","3012",-0.184278987,51.99054
+"1000162","Wood End Lane/Buncefield Lane","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","3031",-0.433190999,51.7593
+"1000163","Friars Wash, Redbourn","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","3073",-0.404061466,51.81901
+"1000164","Caistor St Edmund temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","4023",1.304821414,52.58692
+"1000165","Scole, A143 Scole-Stuston Bypass","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","4031",1.159824025,52.36266
+"1000166","Crownthorpe, Wicklewood","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","4083",1.080879369,52.58352
+"1000167","Lancing Down","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","7006",-0.328010681,50.84807
+"1000168","Greenwich Park","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","8036",0.001558654,51.48127
+"1000169","Lullingstone","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9013",0.196533335,51.36418
+"1000170","Castle Field, Worth","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9015",1.3458945,51.25017
+"1000171","Keston","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9016",0.029,51.3505
+"1000172","Springhead, sanctuary complex","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9020",0.32613761,51.43066
+"1000173","Springhead, roadside settlement","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9021",0.323981736,51.4307
+"1000174","Thurnham","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9069",0.579052952,51.2847
+"1000175","Richborough temples","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9106",1.329420998,51.28995
+"1000176","Boxted, Upchurch","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","9126",0.658099701,51.36451
+"1000177","Farley Heath","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","10005",-0.49751161,51.19389
+"1000178","Wanborough Roman Temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","10027",-0.683091189,51.23794
+"1000179","Church Field, Titsey","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","10035",0.035920719,51.27624
+"1000180","Chanctonbury Ring","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","11012",-0.381227592,50.89682
+"1000181","Broadbridge, Bosham","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","11023",-0.852303555,50.83983
+"1000182","Ratham Mill, Funtington","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","11062",-0.852122691,50.85183
+"1000183","Weycock Hill","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","12055",-0.817544128,51.49345
+"1000184","Bancroft temple-Mausoleum","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","13002",-0.797733369,52.05657
+"1000185","Bourton Grounds temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","13039",-0.939216473,51.99158
+"1000186","Chedworth temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","14072",-1.91261855,51.81811
+"1000187","Lydney Park","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","14074",-2.557441682,51.72146
+"1000188","Uley","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","14103",-2.306678281,51.69565
+"1000189","Hayling Island temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","15044",-0.972536725,50.82193
+"1000190","Sansom's Platt","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","16063",-1.343901034,51.86778
+"1000191","Woodeaton","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","16093",-1.223670327,51.80893
+"1000192","Marcham/Frilford","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","16099",-1.366780827,51.6633
+"1000193","Nettleton","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","17001",-2.257769643,51.49076
+"1000194","Badbury Romano-Celtic temple","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","20014",-2.057591749,50.82652
+"1000195","Maiden Castle","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","20035",-2.46999813,50.69488
+"1000196","Poundbury","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","20060",-2.451285648,50.71896
+"1000197","Jordan Hill","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","20079",-2.427115997,50.63755
+"1000198","Brean Down","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","21004",-3.015511638,51.32421
+"1000199","Henley Wood","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","21047",-2.801914168,51.3831
+"1000200","Pagans Hill, Chew Stoke","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","21106",-2.637358019,51.36073
+"1000201","Lamyatt Beacon","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","21127",-2.473626892,51.12394
+"1000202","Redhill, Ratcliffe on Soar","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","25035",-1.269562233,52.86942
+"1000203","Cosgrove","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","26043",-0.841971487,52.07176
+"1000204","Thistleton religious complex/town","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","27005",-0.65474716,52.74453
+"1000205","Grimstock Hill, Coleshill","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","32006",-1.714308514,52.51183
+"1000206","Maryport","","temple","","","England","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","41043",-3.489841344,54.72287
+"1000207","Great Bulmore","","temple","","","Wales","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","43021",-2.927248119,51.61875
+"1000208","Caersws Vicus 84-93","","temple","","","Wales","","","","","","","","","","The Rural Settlement of Roman Britain","","","","","","","","","","","","45019",-3.428691514,52.5169
+"1000209","Temple of Saturn","Saturn","temple","","Dougga","Tunisia","109","","","","","M","","god","","","","","","","","","","","","","","",9.22063,36.42555
+"1000210","Temple of Saturn","Saturn","temple","","Thuburbo Majus","Tunisia","132","","","","","M","","god","","","","","31251","","","","","","","","","",9.907412,36.400753
+"1000211","Temple of Saturn","Saturn","temple","","Tiddis","Algeria","75","","","","","M","","god","","","","","","","","","","","","","","",6.483889,36.463333
