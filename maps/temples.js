@@ -36,7 +36,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +82,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +128,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +174,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +220,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +266,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +312,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +358,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +404,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +450,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +496,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +542,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +588,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +634,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +680,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +726,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +772,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +818,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +864,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +910,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +956,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1002,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1048,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1094,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1140,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1186,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1232,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1278,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1324,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1370,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1416,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1462,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1508,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1554,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1600,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1646,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1692,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1738,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1784,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1830,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1876,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1922,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +1968,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +2014,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2060,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2106,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2152,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2198,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2244,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2290,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2336,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2382,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "43987",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2428,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2474,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2520,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2566,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2612,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2658,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2704,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2750,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2796,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2842,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +2888,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +2934,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +2980,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +3026,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3006,7 +3072,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3118,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3164,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3210,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3256,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3302,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3276,7 +3348,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3394,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3366,7 +3440,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3486,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3456,7 +3532,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "saturntempel",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3578,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3624,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3670,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3636,7 +3716,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3762,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3808,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +3854,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +3900,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +3946,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +3992,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +4038,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +4084,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4130,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4176,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4222,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4176,7 +4268,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4314,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4266,7 +4360,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4406,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4356,7 +4452,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4498,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4446,7 +4544,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4491,7 +4590,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4536,7 +4636,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4581,7 +4682,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4626,7 +4728,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4671,7 +4774,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4716,7 +4820,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": ""
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4761,7 +4866,8 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": "4023"
+        "ads": "4023",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
@@ -4806,1183 +4912,14 @@ var temples =  {
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
-        "ads": "4031"
+        "ads": "",
+        "g": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.159824025,
           52.36266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000166",
-        "name": "Crownthorpe, Wicklewood",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "4083"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.080879369,
-          52.58352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000170",
-        "name": "Castle Field, Worth",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "9015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.3458945,
-          51.25017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000175",
-        "name": "Richborough temples",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "9106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.329420998,
-          51.28995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000186",
-        "name": "Chedworth temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "14072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.91261855,
-          51.81811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000187",
-        "name": "Lydney Park",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "14074"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.557441682,
-          51.72146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000188",
-        "name": "Uley",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "14103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.306678281,
-          51.69565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000190",
-        "name": "Sansom's Platt",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "16063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.343901034,
-          51.86778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000191",
-        "name": "Woodeaton",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "16093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.223670327,
-          51.80893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000192",
-        "name": "Marcham/Frilford",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "16099"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.366780827,
-          51.6633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000193",
-        "name": "Nettleton",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "17001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.257769643,
-          51.49076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000194",
-        "name": "Badbury Romano-Celtic temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "20014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.057591749,
-          50.82652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000195",
-        "name": "Maiden Castle",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "20035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.46999813,
-          50.69488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000196",
-        "name": "Poundbury",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "20060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.451285648,
-          50.71896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000197",
-        "name": "Jordan Hill",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "20079"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.427115997,
-          50.63755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000198",
-        "name": "Brean Down",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "21004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.015511638,
-          51.32421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000199",
-        "name": "Henley Wood",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "21047"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.801914168,
-          51.3831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000200",
-        "name": "Pagans Hill, Chew Stoke",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "21106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.637358019,
-          51.36073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000201",
-        "name": "Lamyatt Beacon",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "21127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.473626892,
-          51.12394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000202",
-        "name": "Redhill, Ratcliffe on Soar",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "25035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.269562233,
-          52.86942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000205",
-        "name": "Grimstock Hill, Coleshill",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "32006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.714308514,
-          52.51183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000206",
-        "name": "Maryport",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "England",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "41043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.489841344,
-          54.72287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000207",
-        "name": "Great Bulmore",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "Wales",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "43021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.927248119,
-          51.61875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000208",
-        "name": "Caersws Vicus 84-93",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "",
-        "country": "Wales",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Romano-Celtic",
-        "extant": "",
-        "source": "The Rural Settlement of Roman Britain",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "45019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.428691514,
-          52.5169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000209",
-        "name": "Temple of Saturn",
-        "dedicatee": "Saturn",
-        "type": "temple",
-        "location": "",
-        "city": "Dougga",
-        "country": "Tunisia",
-        "orientation": "109",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.22063,
-          36.42555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000210",
-        "name": "Temple of Saturn",
-        "dedicatee": "Saturn",
-        "type": "temple",
-        "location": "",
-        "city": "Thuburbo Majus",
-        "country": "Tunisia",
-        "orientation": "132",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici.org": "31251",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.907412,
-          36.400753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000211",
-        "name": "Temple of Saturn",
-        "dedicatee": "Saturn",
-        "type": "temple",
-        "location": "",
-        "city": "Tiddis",
-        "country": "Algeria",
-        "orientation": "75",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.483889,
-          36.463333
         ]
       }
     }
