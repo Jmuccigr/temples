@@ -9495,6 +9495,51 @@
           36.463333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000212",
+        "name": "Temple of Hercules",
+        "dedicatee": "Hercules",
+        "type": "temple",
+        "location": "",
+        "city": "Amman",
+        "country": "Jordan",
+        "orientation": "",
+        "date": "",
+        "startdateearly": "162",
+        "startdatelate": "",
+        "century": "2",
+        "enddate": "166",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "extant": "",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple of Hercules (Amman)",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9349,
+          31.9538
+        ]
+      }
     }
   ]
 }
