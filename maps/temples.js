@@ -5996,7 +5996,7 @@ var temples =  {
         "location": "",
         "city": "Amman",
         "country": "Jordan",
-        "orientation": "",
+        "orientation": "76",
         "date": "",
         "startdateearly": "162",
         "startdatelate": "",
