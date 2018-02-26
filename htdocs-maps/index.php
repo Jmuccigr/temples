@@ -7,10 +7,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
-<!-- 
-		<script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA=="
+<!--
+		<script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
  -->
-  crossorigin=""></script>
         <style>
             html, body, #mask {
                 /* Height and width fallback for older browsers. */
@@ -36,12 +35,12 @@
 				background: #eeeeee;
 				}
 			table {
-/* 
+/*
 				 margin: auto;
  */
 			}
 			td {
-				vertical-align: top;		
+				vertical-align: top;
 			}
 			li {
 				font-size: small;
@@ -148,11 +147,11 @@
                             makeMenu('first', '1');
                             makeOperatorMenu('firstOp');
                             echo '<input name=" firsttxt" type="text" maxlength="512" id="firstTxt" class="searchField" /> +
-                            '; makeMenu('second', '2');		
+                            '; makeMenu('second', '2');
                             makeOperatorMenu('secondOp');
                      echo '
                             <input name="secondTxt" type="text" maxlength="512" id="secondTxt" class="searchField" /> +
-                            '; makeMenu('third', '3'); 		
+                            '; makeMenu('third', '3');
                             makeOperatorMenu('thirdOp');
                     echo '
                             <input name="thirdTxt" type="text" maxlength="512" id="thirdTxt" class="searchField" />
@@ -206,7 +205,7 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_navigation.js">
 		</script>
-<!-- 
+<!--
 		<script type="text/javascript" src="scripts/get_citations.js">
 		</script>
  -->
@@ -223,7 +222,7 @@
 			// Set a variable to indicate start-up
 			// Cookies last a day, so they won't do.
 			var allPoints = [];
-			
+
 			// Create menu to select the way to format the data
 			var selectmenu = document.getElementById("mymenu")
 				selectmenu.onchange = function () {
@@ -255,7 +254,7 @@
 				}
 
 			// Create map without layers since the user will do that.
-			
+
 			// Define the bounds for the zoomed out map to show all points
 			// Could make this a calculated value based on range of points
 			var
@@ -269,29 +268,29 @@
 
 			// Zoom out
 			all();
-			
+
 			L.control.scale({
 			    position: 'bottomright'
 			}).addTo(map);
-			
+
 			// Clear the cookie on startup
 			var sqlquery = '';
 			setCookie('sqlquery', 'dummy', '-1');
 
 			// Load navigation instructions
 			loadNavigation();
-			
+
 			// Center map on Rome at decent zoom
 			function rome() {
 				mapZoom = Math.min(map.getMaxZoom(), 14);
 				map.flyTo([41.893, 12.48], mapZoom)
 			};
-			
+
 			// Zoom out at start
 			function all() {
 				map.fitBounds(bounds);
 			};
-			
+
 			// Zoom out
 			function showAll() {
 				map.flyToBounds(bounds, {
@@ -331,7 +330,7 @@
 					alert('You need to select a field to search on.')
 				}
 			};
-			
+
 			// Translate operator into sql
 				function opTrans(option, str) {
 				    translation = "";
@@ -371,7 +370,7 @@
 			    data=data.replace(/[^a-z\d '"%=-]+/ig,'')
 			    return data;
 			};
-			
+
 			// Listen for return in text fields
 			document.getElementById("firstTxt")
 			    .addEventListener("keyup", function(event) {
