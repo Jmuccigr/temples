@@ -9540,6 +9540,96 @@
           31.9538
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000213",
+        "name": "Temple of Herakles",
+        "dedicatee": "Hercules",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "89",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple of Heracles, Agrigento",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.586221,
+          37.290252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000214",
+        "name": "Temple of Hera Lakinia",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "82",
+        "date": "ca. 450",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple of Juno, Agrigento",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.600197,
+          37.288662
+        ]
+      }
     }
   ]
 }
