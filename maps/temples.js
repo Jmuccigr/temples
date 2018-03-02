@@ -6087,7 +6087,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "Italy",
         "orientation": "82",
-        "date": "ca. 450",
+        "date": "ca. 450 BC",
         "startdateearly": "",
         "startdatelate": "",
         "century": "-5",
@@ -6118,6 +6118,51 @@ var temples =  {
         "coordinates": [
           13.600197,
           37.288662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000215",
+        "name": "Temple of Concord",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "",
+        "date": "c. 440â€“430 BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple of Concordia, Agrigento",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.592005,
+          37.289747
         ]
       }
     }
