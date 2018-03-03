@@ -6345,6 +6345,141 @@ var temples =  {
           37.292956
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000220",
+        "name": "Temple of the Dioscuri",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "83",
+        "date": "mid-5th c. BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Valle dei Templi#Temple of the Dioscuri",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.581507,
+          37.291344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000221",
+        "name": "Temple L",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "77",
+        "date": "late 5th c. BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.581401,
+          37.291043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000222",
+        "name": "Temple of Demeter",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "123",
+        "date": "ca. 480-470 BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.603379,
+          37.299241
+        ]
+      }
     }
   ]
 }
