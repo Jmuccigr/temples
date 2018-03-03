@@ -6480,6 +6480,51 @@
           37.299241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000223",
+        "name": "Temple of Isis",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Agrigento",
+        "country": "Italy",
+        "orientation": "167",
+        "date": "late 1st c. BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "extant": "Yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.589222,
+          37.298272
+        ]
+      }
     }
   ]
 }
