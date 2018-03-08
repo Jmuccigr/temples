@@ -6132,7 +6132,7 @@
         "city": "Agrigento",
         "country": "Italy",
         "orientation": "89",
-        "date": "ca. 440â€“430 BC",
+        "date": "ca. 440-430 BC",
         "startdateearly": "",
         "startdatelate": "",
         "century": "-5",
@@ -6196,7 +6196,7 @@
         "pleiades": "",
         "dare": "",
         "arachne": "",
-        "wikipedia": "Valle dei Templi#Temple of Asclepius",
+        "wikipedia": "Valle dei Templi",
         "wikidata": "",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
@@ -6286,7 +6286,7 @@
         "pleiades": "",
         "dare": "",
         "arachne": "",
-        "wikipedia": "Valle dei Templi#Temple of Hephaestus",
+        "wikipedia": "Valle dei Templi",
         "wikidata": "",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
@@ -6331,7 +6331,7 @@
         "pleiades": "",
         "dare": "",
         "arachne": "",
-        "wikipedia": "Valle dei Templi#Temple of Hephaestus",
+        "wikipedia": "Valle dei Templi",
         "wikidata": "",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
@@ -6376,7 +6376,7 @@
         "pleiades": "",
         "dare": "",
         "arachne": "",
-        "wikipedia": "Valle dei Templi#Temple of the Dioscuri",
+        "wikipedia": "Valle dei Templi",
         "wikidata": "",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
@@ -6523,6 +6523,51 @@
         "coordinates": [
           13.589222,
           37.298272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000224",
+        "name": "Temple of Poseidon",
+        "dedicatee": "Neptune",
+        "type": "temple",
+        "location": "",
+        "city": "Sounion",
+        "country": "Greece",
+        "orientation": "103",
+        "date": "444-440 BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "Temple of Poseidon at Sounion",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.024573,
+          37.650153
         ]
       }
     }
