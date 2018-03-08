@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Roman Sacred Buildings
+			Sacred Buildings of the Classical World
 		</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,6 +33,7 @@
 			body {
 				font-family: Helvetica,sans-serif;
 				background: #eeeeee;
+				font-weight: 100;
 				}
 			table {
 /*
@@ -67,7 +68,7 @@
 			}
 			h2 {
 			    font-weight: 100;
-			    font-size: 10pt;
+			    font-size: 11pt;
 			    margin-bottom: 1pt;
 			    margin-left: 1pt;
 			}
@@ -88,7 +89,7 @@
 			<tr>
 				<td id='side_top'>
 					<h1>
-						Roman Sacred Buildings
+						Sacred Buildings of the Classical World
 					</h1>
 					<h2>
 						Pick a variable by which to map the structures in the database:
