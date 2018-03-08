@@ -6626,7 +6626,7 @@ var temples =  {
         "location": "",
         "city": "Sounion",
         "country": "Greece",
-        "orientation": "",
+        "orientation": "102",
         "date": "5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
