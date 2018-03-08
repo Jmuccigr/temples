@@ -6570,6 +6570,96 @@ var temples =  {
           37.650153
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000225",
+        "name": "Temple of Athena",
+        "dedicatee": "Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Sounion",
+        "country": "Greece",
+        "orientation": "98",
+        "date": "470 BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "1st c. CE",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.027015,
+          37.652933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000226",
+        "name": "Heroon of Phrontis",
+        "dedicatee": "Phrontis",
+        "type": "temple",
+        "location": "",
+        "city": "Sounion",
+        "country": "Greece",
+        "orientation": "",
+        "date": "5th c. BC",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "extant": "Yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02716,
+          37.653068
+        ]
+      }
     }
   ]
 }
