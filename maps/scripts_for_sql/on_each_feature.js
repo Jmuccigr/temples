@@ -17,6 +17,9 @@ function onEachFeature(feature, layer) {
                 }
                 // There must be coordinates, or it couldn't be mapped & therefore clicked on
                 text = text + '<li>Lat, Long: ' + feature.geometry.coordinates[1] + ', ' + feature.geometry.coordinates[0] + '</li>';
+                if (feature.properties.culture != '') {
+                    text = text + '<li>' + feature.properties.culture + '</li>';
+                }
                 if (feature.properties.dedicatee != '') {
                     text = text + '<li>Dedicated to ' + feature.properties.dedicatee.replace(/,/g, ' and ')
                     if (feature.properties.dedicationday != '') {
