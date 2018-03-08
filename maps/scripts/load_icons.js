@@ -13,6 +13,16 @@ var blackIcon = new L.Icon(
     shadowSize: [41, 41]
 });
 
+var whiteIcon = new L.Icon(
+{
+    iconUrl: 'icons/marker-icon-2x-white.png',
+    shadowUrl: 'icons/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+});
+
 var greenIcon = new L.Icon(
 {
     iconUrl: 'icons/marker-icon-2x-green.png',

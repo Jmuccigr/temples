@@ -4,6 +4,7 @@
         templesM.addData(data);
         templesF.addData(data);
         templesB.addData(data);
+        templesU.addData(data);
         allPoints = data.features;
     });
 
@@ -23,7 +24,8 @@
     // Define layers for the various kinds of monuments in temples.js
     var m = new L.LayerGroup(),
         f = new L.LayerGroup(),
-        b = new L.LayerGroup();
+        b = new L.LayerGroup(),
+        u = new L.LayerGroup();
 
     // Set the offset value for the tooltip
     oset = -28;
@@ -76,10 +78,27 @@
         }
     }).addTo(b);
 
+   templesU = new L.geoJson(null,
+    {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng)
+        {
+            return L.marker(latlng,
+            {
+                icon: whiteIcon
+            });
+        },
+        filter: function (feature, layer)
+        {
+            return (feature.properties.sex == "");
+        }
+    }).addTo(u);
+
     var overlays = {
         "<span style='color: black'>Male</span>": m,
         "<span style='color: red'>Female</span>": f,
-        "<span style='color: grey'>Both</span>": b
+        "<span style='color: grey'>Both</span>": b,
+        "<span style='color: black'>Unknown</span>": u
     };
 
     // Make sure this is global so the control can be deleted by other scripts.
@@ -97,5 +116,6 @@
     map.addLayer(m);
     map.addLayer(f);
     map.addLayer(b);
+    map.addLayer(u);
 
 }

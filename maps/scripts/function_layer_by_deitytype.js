@@ -18,6 +18,7 @@
         god = new L.LayerGroup(),
         hero = new L.LayerGroup(),
         nature = new L.LayerGroup();
+        unknown = new L.LayerGroup();
 
     L.geoJson(temples, {
         onEachFeature: function (feature, layer) {
@@ -117,6 +118,20 @@
         }
     }).addTo(nature);
 
+    L.geoJson(temples, {
+        onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.name)
+        },
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: whiteIcon
+            });
+        },
+        filter: function (feature, layer) {
+            return (feature.properties.deitytype.includes("unknown"));
+        }
+    }).addTo(unknown);
+
     var overlays = {
         "<span style='color: grey'>Rome</span>": city,
         "<span style='color: black'>concept</span>": concept,
@@ -125,6 +140,7 @@
         "<span style='color: red'>god</span>": god,
         "<span style='color: blue'>hero</span>": hero,
         "<span style='color: green'>nature</span>": nature
+        "<span style='color: green'>unknown</span>": unknown
     };
 
     // Make sure this is global so the control can be deleted.

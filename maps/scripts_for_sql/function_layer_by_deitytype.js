@@ -8,6 +8,7 @@
         temples5.addData(data);
         temples6.addData(data);
         temples7.addData(data);
+        temples8.addData(data);
         allPoints = data.features;
     });
 
@@ -30,6 +31,7 @@
         god = new L.LayerGroup(),
         hero = new L.LayerGroup(),
         nature = new L.LayerGroup();
+        unknown = new L.LayerGroup();
 
     // Set the offset value for the tooltip
     oset = -28;
@@ -118,14 +120,27 @@
         }
     }).addTo(nature);
 
+    temples8 = new L.geoJson(null, {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: whiteIcon
+            });
+        },
+        filter: function (feature, layer) {
+            return (feature.properties.deitytype == "");
+        }
+    }).addTo(unknown);
+
     var overlays = {
-        "<span style='color: grey'>Rome</span>": city,
         "<span style='color: black'>concept</span>": concept,
         "<span style='color: orange'>emperor</span>": emperor,
         "<span style='color: #c8c831'>family</span>": family,
         "<span style='color: red'>god</span>": god,
         "<span style='color: blue'>hero</span>": hero,
-        "<span style='color: green'>nature</span>": nature
+        "<span style='color: green'>nature</span>": nature,
+        "<span style='color: grey'>Rome</span>": city,
+        "<span style='color: black'>unknown</span>": unknown
     };
 
     // Make sure this is global so the control can be deleted.
@@ -146,4 +161,5 @@
     map.addLayer(god);
     map.addLayer(hero);
     map.addLayer(nature);
+    map.addLayer(unknown);
 }
