@@ -28,6 +28,7 @@ fi
 # Add the 'nocite' metadata field & send them to pandoc for conversion to an HTML file
 echo "$(cat $temp/refs.txt)
 ---
+title: Bibliography for temple database
 nocite: |
   '@*'
 ...
