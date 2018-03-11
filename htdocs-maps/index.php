@@ -6,10 +6,7 @@
 		</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
-<!--
-		<script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin=""></script>
- -->
+		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
         <style>
             html, body, #mask {
                 /* Height and width fallback for older browsers. */
@@ -188,7 +185,7 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_layer_by_heat.js">
 		</script>
-		<script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js" integrity="sha512-C7BBF9irt5R7hqbUm2uxtODlUVs+IsNu2UULGuZN7gM+k/mmeG4xvIEac01BtQa4YIkUpp23zZC4wIwuXaPMQA==" crossorigin="">
+		<script type="text/javascript" src="scripts/leaflet/leaflet.js">
 		</script>
 		<script type="text/javascript" src="scripts/leaflet.rotatedMarker.js">
 		</script>
@@ -200,9 +197,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_basemaps.js">
 		</script>
-<!-- Load jQuery library using plain JavaScript
-<script src="jquery.min.js"></script> -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+<!-- Load jQuery library using plain JavaScript -->
+		<script src="scripts/jquery.min.js">
 		</script>
 		<script type="text/javascript" src="scripts/load_navigation.js">
 		</script>
@@ -218,7 +214,6 @@
 		<!-- php script that loads a variable 'biblio' into js -->
 		<?php include 'scripts/get_biblio.php' ?>
 
-<!-- 		<script> -->
 		<script type="text/javascript">
 			// Set a variable to indicate start-up
 			// Cookies last a day, so they won't do.

@@ -1,4 +1,5 @@
-# temples
+# Temples
+
 Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 
 ## List of files
@@ -28,7 +29,7 @@ Stuff on temples of the Classical world (Greek and Roman and Etruscan, etc)
 
 ## Scripts
 
-These are a combo of sheel scripts & AppleScripts with some embedded shell commands.
+These are a combo of shell scripts & AppleScripts with some embedded shell commands.
 
 - ggl2geojson.sh: Download the google spreadsheet and convert it to geojson. This runs every hour via launchctl.
 - ggl2citations.sh: Download the google spreadsheet and convert it to csv. This runs every hour via launchctl.
@@ -43,6 +44,11 @@ These are a combo of sheel scripts & AppleScripts with some embedded shell comma
 - Get_dare_info.applescript
 - Pleiades_titles.applescript
 - Vici_get_external_IDs.applescript
+
+## External scripts
+
+- **Leaflet** is a local copy of the mapping [javascript library](http://leafletjs.com/download.html).
+- **jquery** is also a local copy installed via npm.
 
 ## How it works
 
