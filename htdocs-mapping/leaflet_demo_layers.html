@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Roman Sacred Buildings</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<style>		#map {
+			width: 95%;
+			height: 650px;6
+			margin: auto;
+			border: 2px black solid;
+			}
+		body {
+			font-family: Helvetica,sans-serif; 
+			background:#EEEEEE;
+			}
+		table {
+			 margin: auto; 
+			 }
+		td {
+			vertical-align: top;		
+		}
+		li {
+			font-size: small;
+		}
+		td > form {
+			margin-left: 50pt;
+		}
+	</style>
+</head>
+<body>
+<table>
+	<tr>
+<!-- <td>Load map with markers colored by <button class="function" onclick="layer_by_sex()">sex of deity</button> or by <button class="function" onclick="layer_by_type()">type of structure</button> or by <button class="function" onclick="layer_by_century()">century BC of construction</button> or by <button class="function" onclick="layer_by_orientation()">orientation</button>.</td> -->
+		<td width="25%"> 
+		<h1>
+			Database of Roman temples 
+		</h1>
+		This page demonstrates the mapping of the structures in the database using Leaflet.js, a popular and open-source mapping library. The drop-down menu below allows you to choose which variable in the database is reflected in the map. Additionally a number of "base maps" are available to serve as the background to the plotted points. 
+		<hr width="80%">
+		<h4>
+			Pick a variable by which to map the structures in the database: 
+		</h4>
+		<form id="aform" style="display:inline">
+			<select id="mymenu" size="1">
+				<option value="nothing" selected="selected">none</option>
+				<option value="sex">sex of deity</option>
+				<option value="type">type of structure</option>
+				<option value="century">century BC of construction</option>
+				<option value="orientations">direction of orientation</option>
+				<option value="heatmap">heatmap</option>
+			</select>
+		</form>
+		<hr width="80%">
+		<h4>
+			Navigating the map 
+		</h4>
+		<ul>
+			<li> Re-center the map by simply clicking and dragging it around.</li>
+			<li> Zoom using the +/- icons in the upper left or the mouse scroll wheel.</li>
+			<li> The base map can be changed using the icon/table in the lower left.</li>
+			<li> ...which is also where the different database variables can be shown or hidden.</li>
+		</ul>
+		</td>
+		<td> 
+		<div id='map'>
+		</div>
+	</tr>
+</table>
+<script type="text/javascript">
+	var selectmenu = document.getElementById("mymenu")
+	selectmenu.onchange = function () {
+	    var chosenoption = this.options[this.selectedIndex]
+	    switch (chosenoption.value) {
+	    case "sex":
+	        layer_by_sex();
+	        break;
+	    case "type":
+	        layer_by_type();
+	        break;
+	    case "century":
+	        layer_by_century();
+	        break;
+	    case "orientations":
+	        layer_by_orientation();
+	        break;
+	    case "heatmap":
+	        layer_by_heat();
+	        break;
+	    case "nothing":
+	        clearLayers();
+	        clearControl();
+	        map.addLayer(osm);
+	        map.setZoom(mapZoom);
+	    }
+	}
+</script>
+<script type="text/javascript" src="scripts/function_clear_layers.js"></script>
+<script type="text/javascript" src="scripts/function_clear_controls.js"></script>
+<script type="text/javascript" src="scripts/function_layer_by_sex.js"></script>
+<script type="text/javascript" src="scripts/function_layer_by_type.js"></script>
+<script type="text/javascript" src="scripts/function_layer_by_century.js"></script>
+<script type="text/javascript" src="scripts/function_layer_by_orientation.js"></script>
+<script type="text/javascript" src="scripts/function_layer_by_heat.js"></script>
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+<script type="text/javascript" src="scripts/leaflet.rotatedMarker.js"></script>
+<script type="text/javascript" src="scripts/leaflet-heat.js"></script>
+<script type="text/javascript" src="scripts/load_icons.js"></script>
+<!-- Pretty Stamen maps -->
+<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
+<script type="text/javascript" src="scripts/load_basemaps.js"></script>
+<!--  My datafile -->
+<script src="temples.js" type="text/javascript"></script>
+
+<script>
+	// Create map without layers since the user will do that.
+	
+	// Define the center of the map, now set to show all markers, formerly Rome [41.893, 12.48]
+	var mapCenter = [37.57659, 23.81455],
+	    mapZoom = 5.5;
+	
+	var map = L.map('map', {
+	    center: mapCenter,
+	    zoom: mapZoom,
+	    minZoom: 3,
+	    zoomSnap: .5,
+	    zoomDelta: .5,
+	    layers: [osm]
+	});
+	
+	L.control.scale({
+	    position: 'bottomright'
+	}).addTo(map);
+</script>
+</body>
+</html>
