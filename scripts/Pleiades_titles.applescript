@@ -7,8 +7,7 @@ set jq to "/usr/local/bin/jq"
 
 repeat with i in the paragraphs of c
 	if the number of items of i > 0 then
-		set theList to theList & (do shell script "curl -s -stdout http://pleiades.stoa.org/places/" & i & "/json/ | " & jq & " '[.id, .title]' | " & jq & " '@csv' ") & return
-		--		set theList to theList & theList & return
+		set theList to theList & (do shell script "curl -s -stdout https://pleiades.stoa.org/places/" & i & "/json/ | " & jq & " '[.id, .title]' | " & jq & " '@csv' ") & return
 	end if
 end repeat
 
@@ -16,8 +15,6 @@ set theList to my replace(theList, "\\", "")
 set theList to my replace(theList, "\"", "")
 set theList to my replace(theList, "</span><span>", ", ")
 set theList to my replace(theList, "</span>", "")
-
---set the clipboard to theList
 
 -- Quick search and replace with TID
 on replace(origtext, ftext, rtext)
