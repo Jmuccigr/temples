@@ -2,5 +2,6 @@ forbidden/
 
 scripts/ggl2geojson.sh.orig
 maps/scripts/standalone
+htdocs-mapping/error_log
 
 maps/scripts/token.js
