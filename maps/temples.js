@@ -1856,7 +1856,7 @@ var temples =  {
         "location": "",
         "city": "Terracina",
         "country": "Italy",
-        "orientation": "",
+        "orientation": "175",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6658,6 +6658,96 @@ var temples =  {
         "coordinates": [
           24.02716,
           37.653068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000227",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Terracina",
+        "country": "Italy",
+        "orientation": "224",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M,F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "extant": "Yes",
+        "source": "Wikipedia",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.248628,
+          41.29215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000228",
+        "name": "Church of San Cesareo",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Terracina",
+        "country": "Italy",
+        "orientation": "132",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "extant": "Yes",
+        "source": "PECS",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.248411,
+          41.291923
         ]
       }
     }

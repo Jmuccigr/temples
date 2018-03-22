@@ -50,7 +50,7 @@
 "1000051","Temple of Jupiter","Jupiter","temple","","Damascus","Syria","","14","14","","1","M","","god","Roman","","","","","","","","","","","","","","",36.300833,33.510833
 "1000052","Temple of Jupiter","Jupiter","temple","","Yarbrud","Syria","","","","","","M","","god","Roman","","","","","","","","","","","","","","",36.666667,33.966667
 "1000053","Temple of Jupiter","Jupiter","temple","","Baalbek","Lebanon","","135","135","","2","M","","god","Roman","","","","","","","","","","","","","","",36.204425,34.006839
-"1000054","Temple of Jupiter Anxur","Jupiter","temple","","Terracina","Italy","","","","","","M","","god","Roman","","","","Coord from Google maps","","433143","","","","","","","","",13.260113,41.290817
+"1000054","Temple of Jupiter Anxur","Jupiter","temple","","Terracina","Italy","175","","","","","M","","god","Roman","","","","Coord from Google maps","","433143","","","","","","","","",13.260113,41.290817
 "1000055","Temple of Jupiter Conservator","Jupiter","temple","Capitoline Hill","Rome","Italy","","","","","","M","","god","Roman","","Stamper","","","","","","","","","","","","","",""
 "1000056","Temple of Jupiter Custos","Jupiter","temple","Capitoline Hill","Rome","Italy","","","","","","M","","god","Roman","","","","","","","","","","","","","","",12.481892,41.891825
 "1000057","Temple of Jupiter Dolichenus","Jupiter","temple","Aventine Hill","Rome","Italy","","","","","","M","","god","Roman","","Blake","","Location from Arachne","","","","6074","","","","","","",12.4804,41.88319
@@ -224,3 +224,5 @@
 "1000224","Temple of Poseidon","Neptune","temple","","Sounion","Greece","103","444-440 BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","Temple of Poseidon at Sounion","","",24.024573,37.650153
 "1000225","Temple of Athena","Minerva","temple","","Sounion","Greece","98","470 BC","","","-5","F","","god","Greek","Yes","","","","","","","","","","","","","",24.027015,37.652933
 "1000226","Heroon of Phrontis","Phrontis","temple","","Sounion","Greece","102","5th c. BC","","","-5","M","","hero","Greek","Yes","","","","","","","","","","","","","",24.02716,37.653068
+"1000227","Capitolium","Jupiter, Juno, Minerva","temple","","Terracina","Italy","224","","","","","M,F","","god","Roman","Yes","Wikipedia","","","","","","","","","","","","",13.248628,41.29215
+"1000228","Church of San Cesareo","","temple","","Terracina","Italy","132","","","","","","","","Roman","Yes","PECS","","","","","","","","","","","","",13.248411,41.291923
