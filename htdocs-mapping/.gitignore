@@ -30,6 +30,7 @@ scripts/get_columns.php
 scripts/json to geojson.py
 scripts/json.php
 scripts/leaflet-heat.js
+scripts/leaflet/
 scripts/leaflet.rotatedMarker.js
 scripts/load_basemaps.js
 scripts/load_icons.js
@@ -37,6 +38,7 @@ scripts/load_navigation.js
 scripts/make_menues.php
 scripts/on_each_feature.js
 scripts/popup_link.js
+scripts/pervious version/
 scripts/properties from geojson.js
 scripts/set_cookie.js
 temples.js
