@@ -6,6 +6,8 @@
 
 set c to the clipboard
 set theList to ""
+set myDocs to POSIX path of (path to documents folder)
+set apiKey to (do shell script "cat " & myDocs & "/google_geocode_api_key.txt")
 set cmd to " | /usr/local/bin/jq -c '.results[0].address_components[]'"
 set filterC to " | /usr/local/bin/jq 'select(.types[0] == \"country\")' | /usr/local/bin/jq '.short_name'"
 set filterL to " | /usr/local/bin/jq 'select(.types[0] == \"locality\")' | /usr/local/bin/jq '.short_name'"

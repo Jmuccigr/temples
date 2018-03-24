@@ -4,13 +4,16 @@
 -- Uses Google services.
 
 set theCount to 0
+set delimiter to tab
 set c to the clipboard
 set theList to ""
+set myDocs to POSIX path of (path to documents folder)
+set apiKey to (do shell script "cat " & myDocs & "/google_geocode_api_key.txt")
 set cmd to " | /usr/local/bin/jq -c '.results[0].address_components[]'"
 set filterC to " | /usr/local/bin/jq 'select(.types[0] == \"country\")' | /usr/local/bin/jq '.short_name'"
 set filterL to " | /usr/local/bin/jq 'select(.types[0] == \"locality\")' | /usr/local/bin/jq '.short_name'"
-set gglURI to "'http://maps.googleapis.com/maps/api/geocode/json?latlng="
-set ggl2 to "&sensor=true'"
+set gglURI to "'https://maps.googleapis.com/maps/api/geocode/json?latlng="
+set ggl2 to "&sensor=true&key=" & apiKey & "'"
 -- Slow it down a little to make sure we get all the results
 set theDelay to 0.1
 
@@ -46,7 +49,7 @@ repeat with i in the paragraphs of c
 			on error
 				set theCity to ""
 			end try
-			set theList to theList & theCountry & ", " & theCity & return
+			set theList to theList & theCountry & delimiter & theCity & return
 		else
 			set theList to theList & return
 		end if
