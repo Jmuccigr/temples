@@ -55,14 +55,33 @@ These are a combo of shell scripts & AppleScripts with some embedded shell comma
 ### Maintaining the data
 
 - The data on temples (and other structures) as well as citations for each structure are maintained in a Google sheet. This is mainly for convenience and will likely not be a long-term solution.
-- Periodically scripts run on my laptop to download the data and convert it to more useful forms than the XML it arrives as.
-- These more convenient forms are saved in this github repository and pushed to github, as long as they differ from the already existing version.
+- Periodically scripts run on my laptop to download the data and convert it to more useful forms than the XML it arrives as. Use `launchctl` to schedule these.
+    - `ggl2geojson.sh` does this every hour:
+        1. Download the temples sheet of the spreadsheet as xml
+        1. Convert that to csv
+        1. Save it if it differs from the last saved csv
+        1. Also save a json version of the same data
+    - `json2js.sh` runs whenever the json file changes:
+        1. Convert json file to js for leaflet.js to use
+    - `json2csv.sh` runs whenever the json file changes:
+        1. Convert json file to nice csv for the database to use
+    - `ggl2cites.sh` does this every hour:
+        1. Download the citations sheet of the spreadsheet as xml
+        1. Convert that to csv
+        1. Save it if it differs from the last saved csv
+    - `git_commit.sh` runs whenever temples.js changes
+        1. Commits to git any changed files from the google sheet csv with a generic commit message
+        1. Does **not** commit any of the temple files so that these can get informative commit messages
 
 ### Bibliography
 
 - The bibliography for the project is kept in my [Zotero](http://zotero.org/) library.
-- This collection is automatically exported upon change to this github folder.
-- Scripts run upon a change to the bibliography export to convert it to csv which is then automatically pushed to github when the other data files are.
+- This collection is manually exported to this github folder. (Used to be automatic, but Zotero can't do that anymore.)
+    - `bib2html.sh` runs whenever the Zotero json export of temple bibliography changes
+        1. Convert the json to plain text and html via pandoc-citeproc
+        1. Combine the two versions into csv
+    - `git_commit.sh` runs whenever temple_bib.json changes
+        1. Commits to git any changed files with a generic commit message
 
 ### The Working Database
 
