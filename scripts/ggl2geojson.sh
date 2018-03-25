@@ -52,7 +52,7 @@ ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'B
 if  [ ! -s "$temp/sheet1.csv" ]
 then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
-   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me 
+   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me
    exit
 fi
 
@@ -66,7 +66,7 @@ then
 	if [ ${#csvdiff} -eq 0 ]
 	   then
 	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
-	   exit
+	   exit 0
 	fi
 fi
 
@@ -109,5 +109,5 @@ then
 	jq '.' "$temp/temples.json" > "$dest/maps/temples.json"
 else
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
-  exit
+  exit 1
 fi

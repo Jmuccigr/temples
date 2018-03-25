@@ -41,7 +41,7 @@ ogr2ogr -f csv -select id,templeid,refkey,loci "$temp/citations1.csv" "$temp/cit
 if  [ ! -s "$temp/citations1.csv" ]
 then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) citations1.csv not created." 1>&2
-   echo "Error with citations1.csv creation" | mail -s "Temples problem: citations" $me 
+   echo "Error with citations1.csv creation" | mail -s "Temples problem: citations" $me
    exit
 else
    # Trim off the header line for easy import into sql
@@ -55,7 +55,7 @@ then
 	if [ ${#csvdiff} -eq 0 ]
 	   then
 	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple citations." 1>&2
-	   exit
+	   exit 0
 	fi
 fi
 
