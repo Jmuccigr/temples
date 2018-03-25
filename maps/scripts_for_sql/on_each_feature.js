@@ -72,6 +72,12 @@ function onEachFeature(feature, layer) {
                     };
                     otherDB = otherDB + '<a target="_blank" href="http://www.digitales-forum-romanum.de/gebaeude/' + feature.properties.digitalesforumromanum + '/?lang=en/">Digitales Forum Romanum</a>';
                 }
+                if (feature.properties.livius != '') {
+                    if (otherDB.length > 4) {
+                        otherDB = otherDB + ', '
+                    };
+                    otherDB = otherDB + '<a target="_blank" href="http://www.livius.org/articles/' + feature.properties.livius + '">Livius</a>';
+                }
                 if (feature.properties.pleiades != '') {
                     if (otherDB.length > 4) {
                         otherDB = otherDB + ', '
