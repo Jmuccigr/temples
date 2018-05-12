@@ -40,7 +40,7 @@ text="$text </OGRVRTDataSource>"
 echo $text > "$temp/sheet.vrt"
 
 # Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq -wrap 256 | sed 's/gsx://g' > "$temp/sheet.xml"
+echo $xml | tidy -xml -iq -utf8 -wrap 256 | sed 's/gsx://g' > "$temp/sheet.xml"
 
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
