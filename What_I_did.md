@@ -69,3 +69,5 @@ To help prioritize our own work on these various items, I used Google's API to f
 1. Copied 26 vici.org sites that are in Rome into our Google doc. None had a Pleiades or DARE ID.
 1. Copied 17 Pleiades sites that are in Rome into our Google doc. None had a Pleiades or DARE ID.
 1. Copied 22 DARE sites that are in Rome into our Google doc. 9 had a Pleiades ID.
+1. Added other Italian sites (March 2018).
+1. Added other Portuguese, Spanish, and French sites (11 May 2018).
