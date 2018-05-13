@@ -1,11 +1,10 @@
-﻿function layer_by_century() {
+﻿function layer_by_sex_circleMarkers() {
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
-        temples1.addData(data);
-        temples2.addData(data);
-        temples3.addData(data);
-        temples4.addData(data);
-        temples5.addData(data);
+        templesM.addData(data);
+        templesF.addData(data);
+        templesB.addData(data);
+        templesU.addData(data);
         allPoints = data.features;
     });
 
@@ -21,101 +20,104 @@
 	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
-    var first = new L.LayerGroup(),
-        second = new L.LayerGroup(),
-        third = new L.LayerGroup(),
-        fourth = new L.LayerGroup(),
-        fifth = new L.LayerGroup();
+    var m = new L.LayerGroup(),
+        f = new L.LayerGroup(),
+        b = new L.LayerGroup(),
+        u = new L.LayerGroup();
 
     // Set the offset value for the tooltip
     oset = -28;
 
 	// Variables for circleMarkers
-	var fColor = "white",
+	var fColor = "black",
         rad = 7,
         fOpacity = 1;
 
-   var temples1 = new L.geoJson(null, {
+   templesM = new L.geoJson(null,
+    {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, {
-                color: "black",
-                fillColor: fColor,
+        pointToLayer: function (feature, latlng)
+        {
+            return L.circleMarker(latlng,
+            {
+                color: fColor,
+                fillColor: "black",
                 radius: rad,
                 fillOpacity: fOpacity
-            });
-        },
-        filter: function (feature, layer) {
-            return (feature.properties.century == "-1");
-        }
-    }).addTo(first);
 
-   temples2 = new L.geoJson(null, {
-        onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, {
-                color: "green",
-                fillColor: fColor,
-                radius: rad,
-                fillOpacity: fOpacity
             });
         },
-        filter: function (feature, layer) {
-            return (feature.properties.century == "-2");
+        filter: function (feature, layer)
+        {
+            return (feature.properties.sex == "M");
         }
-    }).addTo(second);
+    }).addTo(m);
 
-   temples3 = new L.geoJson(null, {
+   templesF = new L.geoJson(null,
+    {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, {
-                color: "grey",
-                fillColor: fColor,
+        pointToLayer: function (feature, latlng)
+        {
+            return L.circleMarker(latlng,
+            {
+                color: fColor,
+                fillColor: "red",
                 radius: rad,
                 fillOpacity: fOpacity
-            });
-        },
-        filter: function (feature, layer) {
-            return (feature.properties.century == "-3");
-        }
-    }).addTo(third);
 
-   temples4 = new L.geoJson(null, {
-        onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, {
-                color: "blue",
-                fillColor: fColor,
-                radius: rad,
-                fillOpacity: fOpacity
             });
         },
-        filter: function (feature, layer) {
-            return (feature.properties.century == "-4");
+        filter: function (feature, layer)
+        {
+            return (feature.properties.sex == "F");
         }
-    }).addTo(fourth);
+    }).addTo(f);
 
-   temples5 = new L.geoJson(null, {
+   templesB = new L.geoJson(null,
+    {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, {
-                color: "red",
-                fillColor: fColor,
+        pointToLayer: function (feature, latlng)
+        {
+            return L.circleMarker(latlng,
+            {
+                color: fColor,
+                fillColor: "grey",
                 radius: rad,
                 fillOpacity: fOpacity
+
             });
         },
-        filter: function (feature, layer) {
-            return (feature.properties.century == "-5");
+        filter: function (feature, layer)
+        {
+            return (feature.properties.sex == "M/F");
         }
-    }).addTo(fifth);
+    }).addTo(b);
+
+   templesU = new L.geoJson(null,
+    {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng)
+        {
+            return L.circleMarker(latlng,
+            {
+                color: fColor,
+                fillColor: "white",
+                radius: rad,
+                fillOpacity: fOpacity
+
+            });
+        },
+        filter: function (feature, layer)
+        {
+            return (feature.properties.sex == "");
+        }
+    }).addTo(u);
 
     var overlays = {
-        "<span style='color: black'>first c. BC</span>": first,
-        "<span style='color: green'>second c. BC</span>": second,
-        "<span style='color: grey'>third c. BC</span>": third,
-        "<span style='color: blue'>fourth c. BC</span>": fourth,
-        "<span style='color: red'>fifth c. BC</span>": fifth
+        "<span style='color: black'>Male</span>": m,
+        "<span style='color: red'>Female</span>": f,
+        "<span style='color: grey'>Both</span>": b,
+        "<span style='color: black'>Unknown</span>": u
     };
 
     // Make sure this is global so the control can be deleted.
@@ -129,9 +131,8 @@
     map.addLayer(currentMap);
 
     // Now add the overlays
-    map.addLayer(first);
-    map.addLayer(second);
-    map.addLayer(third);
-    map.addLayer(fourth);
-    map.addLayer(fifth);
+    map.addLayer(m);
+    map.addLayer(f);
+    map.addLayer(b);
+    map.addLayer(u);
 }
