@@ -23,6 +23,7 @@ scripts/function_layer_by_heat.js
 scripts/function_layer_by_orientation.js
 scripts/function_layer_by_orientation.php
 scripts/function_layer_by_sex.js
+scripts/function_layer_by_sex_circleMarkers.js
 scripts/function_layer_by_type.js
 scripts/get_biblio.php
 scripts/get_citations.js
