@@ -8748,7 +8748,7 @@ var temples =  {
       "properties": {
         "id": "1000265",
         "name": "Nymphaeum",
-        "dedicatee": "",
+        "dedicatee": "Nymphs",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -8761,7 +8761,7 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
         "culture": "",
@@ -12225,7 +12225,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000339",
-        "name": "Tempel",
+        "name": "Temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -12272,53 +12272,6 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000340",
-        "name": "Tempel Augustus",
-        "dedicatee": "Augustus",
-        "type": "temple",
-        "location": "",
-        "city": "Barcelona",
-        "country": "Spain",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "extant": "",
-        "source": "Vici.org",
-        "meetings": "",
-        "note": "",
-        "vici.org": "11187",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "Q3819019",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.177197,
-          41.383457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000341",
         "name": "Temple of Diana - Emerita Augusta",
         "dedicatee": "Diana",
         "type": "temple",
@@ -12333,9 +12286,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -12365,7 +12318,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000342",
+        "id": "1000341",
         "name": "Temple",
         "dedicatee": "",
         "type": "temple",
@@ -12412,7 +12365,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000343",
+        "id": "1000342",
         "name": "Fortuna",
         "dedicatee": "Fortuna",
         "type": "temple",
@@ -12427,9 +12380,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -12459,7 +12412,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000344",
+        "id": "1000343",
         "name": "Cerro de los Santos",
         "dedicatee": "",
         "type": "temple",
@@ -12506,8 +12459,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000345",
-        "name": "Cancho Roano, Zalamea de la Serena",
+        "id": "1000344",
+        "name": "Cancho Roano",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -12553,7 +12506,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000346",
+        "id": "1000345",
         "name": "Los Cuadriales",
         "dedicatee": "",
         "type": "temple",
@@ -12600,7 +12553,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000347",
+        "id": "1000346",
         "name": "Santa Eulalia de Bóveda",
         "dedicatee": "",
         "type": "temple",
@@ -12647,7 +12600,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000348",
+        "id": "1000347",
         "name": "Temple of Serapis, Emporiae",
         "dedicatee": "Serapis",
         "type": "temple",
@@ -12664,7 +12617,7 @@ var temples =  {
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -12694,14 +12647,14 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000349",
+        "id": "1000348",
         "name": "Forum Temple, Emporiae",
         "dedicatee": "",
         "type": "temple",
         "location": "",
         "city": "L'Escala",
         "country": "Spain",
-        "orientation": "",
+        "orientation": "156",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12741,7 +12694,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000350",
+        "id": "1000349",
         "name": "Tempelsäulen",
         "dedicatee": "",
         "type": "temple",
@@ -12788,9 +12741,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000352",
+        "id": "1000351",
         "name": "Nymphaeum Aquae Segetae",
-        "dedicatee": "",
+        "dedicatee": "Nymphs",
         "type": "temple",
         "location": "",
         "city": "Sceaux-du-Gâtinais",
@@ -12803,9 +12756,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -12835,14 +12788,14 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000354",
+        "id": "1000353",
         "name": "Maison Carrée",
         "dedicatee": "",
         "type": "temple",
         "location": "",
         "city": "Nîmes",
         "country": "France",
-        "orientation": "",
+        "orientation": "349",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12882,7 +12835,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000355",
+        "id": "1000354",
         "name": "Temple in Glanum",
         "dedicatee": "",
         "type": "temple",
@@ -12929,7 +12882,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000356",
+        "id": "1000355",
         "name": "Tasciaca",
         "dedicatee": "",
         "type": "temple",
@@ -12976,8 +12929,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000357",
-        "name": "Orange, Roman Temple",
+        "id": "1000356",
+        "name": "Roman Temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13023,9 +12976,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000358",
+        "id": "1000357",
         "name": "Lutetia, Temple of Mercury",
-        "dedicatee": "",
+        "dedicatee": "Mercury",
         "type": "temple",
         "location": "",
         "city": "Paris",
@@ -13038,9 +12991,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13070,7 +13023,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000359",
+        "id": "1000358",
         "name": "Temple 'le Palais', Alba",
         "dedicatee": "",
         "type": "temple",
@@ -13117,8 +13070,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000360",
-        "name": "Temple of Augustus and Livia, Vienne",
+        "id": "1000359",
+        "name": "Temple of Augustus and Livia",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13164,8 +13117,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000361",
-        "name": "Temple 'of the Cybele', Vienne",
+        "id": "1000360",
+        "name": "Temple 'of the Cybele'",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13211,9 +13164,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000362",
-        "name": "Dianabild (Roppeviller)",
-        "dedicatee": "",
+        "id": "1000361",
+        "name": "Dianabild",
+        "dedicatee": "Diana",
         "type": "temple",
         "location": "",
         "city": "Roppeviller",
@@ -13226,9 +13179,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13258,9 +13211,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000363",
-        "name": "Tempel der Diana",
-        "dedicatee": "",
+        "id": "1000362",
+        "name": "Temple of Diana",
+        "dedicatee": "Diana",
         "type": "temple",
         "location": "",
         "city": "Nîmes",
@@ -13273,9 +13226,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13305,7 +13258,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000364",
+        "id": "1000363",
         "name": "Gisacum",
         "dedicatee": "",
         "type": "temple",
@@ -13352,9 +13305,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000365",
-        "name": "Merkur Tempel",
-        "dedicatee": "",
+        "id": "1000364",
+        "name": "Temple of Mercury",
+        "dedicatee": "Mercury",
         "type": "temple",
         "location": "",
         "city": "Niederbronn-les-Bains",
@@ -13367,9 +13320,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13399,7 +13352,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000366",
+        "id": "1000365",
         "name": "Sanctuaire Gallo-Romain",
         "dedicatee": "",
         "type": "temple",
@@ -13446,7 +13399,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000367",
+        "id": "1000366",
         "name": "Gallo-römischen Heiligtum - Mont Rive",
         "dedicatee": "",
         "type": "temple",
@@ -13493,7 +13446,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000368",
+        "id": "1000367",
         "name": "Heiligtum (Flaviers - Mouzon)",
         "dedicatee": "",
         "type": "temple",
@@ -13540,8 +13493,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000369",
-        "name": "Tempel Isarnodurum",
+        "id": "1000368",
+        "name": "Temple Isarnodurum",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13587,7 +13540,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000371",
+        "id": "1000370",
         "name": "Römischen Tempels von Château-Bas",
         "dedicatee": "",
         "type": "temple",
@@ -13634,8 +13587,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000372",
-        "name": "Apollo Tempel (Riez)",
+        "id": "1000371",
+        "name": "Temple of Apollo",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13681,7 +13634,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000374",
+        "id": "1000373",
         "name": "Briga",
         "dedicatee": "",
         "type": "temple",
@@ -13728,7 +13681,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000375",
+        "id": "1000374",
         "name": "Temple complex Petromantalum",
         "dedicatee": "",
         "type": "temple",
@@ -13775,9 +13728,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000376",
-        "name": "Mars Tempel Corseul",
-        "dedicatee": "",
+        "id": "1000375",
+        "name": "Temple of Mars",
+        "dedicatee": "Mars",
         "type": "temple",
         "location": "",
         "city": "Corseul",
@@ -13790,9 +13743,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13822,9 +13775,9 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000377",
-        "name": "Janus Tempel",
-        "dedicatee": "",
+        "id": "1000376",
+        "name": "Janus Temple",
+        "dedicatee": "Janus",
         "type": "temple",
         "location": "",
         "city": "Autun",
@@ -13837,9 +13790,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
@@ -13869,7 +13822,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000378",
+        "id": "1000377",
         "name": "Sanctuaire nord de Châteaubleau",
         "dedicatee": "",
         "type": "temple",
@@ -13916,7 +13869,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000380",
+        "id": "1000379",
         "name": "Tempeln Argentomagus",
         "dedicatee": "",
         "type": "temple",
@@ -13963,8 +13916,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000382",
-        "name": "Temple gallo-romain d'Offemont",
+        "id": "1000381",
+        "name": "Temple gallo-romain",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14010,7 +13963,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000383",
+        "id": "1000382",
         "name": "Temple forêt Halatte",
         "dedicatee": "",
         "type": "temple",
@@ -14057,8 +14010,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000384",
-        "name": "Temple gallo-romain de Dax",
+        "id": "1000383",
+        "name": "Temple gallo-romain",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14104,7 +14057,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000385",
+        "id": "1000384",
         "name": "Sanctuaire gallo-romain de Margerides",
         "dedicatee": "",
         "type": "temple",
@@ -14151,7 +14104,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000386",
+        "id": "1000385",
         "name": "Temple de Mercure de la forêt de Tannière",
         "dedicatee": "",
         "type": "temple",
@@ -14198,7 +14151,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000387",
+        "id": "1000386",
         "name": "Tour de Grisset",
         "dedicatee": "",
         "type": "temple",
@@ -14245,7 +14198,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000388",
+        "id": "1000387",
         "name": "Sanctuaire gallo-romain Donon",
         "dedicatee": "",
         "type": "temple",
@@ -14292,7 +14245,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000389",
+        "id": "1000388",
         "name": "Temple - Cathédrale St Jean",
         "dedicatee": "",
         "type": "temple",
@@ -14339,7 +14292,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000391",
+        "id": "1000390",
         "name": "Grannum",
         "dedicatee": "",
         "type": "temple",
@@ -14386,8 +14339,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000392",
-        "name": "Temple complex Castelnau-Montratier",
+        "id": "1000391",
+        "name": "Temple complex",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14433,8 +14386,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000393",
-        "name": "Sanctuaire Drevant",
+        "id": "1000392",
+        "name": "Sanctuaire",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14480,8 +14433,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000394",
-        "name": "Fanum Bennecourt",
+        "id": "1000393",
+        "name": "Fanum",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14527,7 +14480,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000395",
+        "id": "1000394",
         "name": "Mons Seleucus",
         "dedicatee": "",
         "type": "temple",
@@ -14574,7 +14527,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000400",
+        "id": "1000399",
         "name": "Roquepertuse",
         "dedicatee": "",
         "type": "temple",
@@ -14621,7 +14574,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000401",
+        "id": "1000400",
         "name": "Vaugrenier",
         "dedicatee": "",
         "type": "temple",
@@ -14668,7 +14621,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000402",
+        "id": "1000401",
         "name": "Rognes",
         "dedicatee": "",
         "type": "temple",
@@ -14715,55 +14668,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000403",
-        "name": "Temple de Apollo",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Riez",
-        "country": "France",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "extant": "",
-        "source": "Vici.org",
-        "meetings": "",
-        "note": "",
-        "vici.org": "16626",
-        "pleiades": "",
-        "dare": "25098",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.088222,
-          43.817055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000404",
-        "name": "Puech Caut, Sainte-Eulalie-de-Cernon",
+        "id": "1000402",
+        "name": "Puech Caut",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14809,7 +14715,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000406",
+        "id": "1000404",
         "name": "Fanum d'Aron",
         "dedicatee": "",
         "type": "temple",
@@ -14856,8 +14762,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000407",
-        "name": "Le Combalou, Roquefort-sur-Soulzon",
+        "id": "1000405",
+        "name": "Le Combalou",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14903,8 +14809,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000409",
-        "name": "Châtelet, Saint-Désirat",
+        "id": "1000407",
+        "name": "Châtelet",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14950,8 +14856,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000411",
-        "name": "Sanctuaire Rajat, Murol",
+        "id": "1000409",
+        "name": "Sanctuaire Rajat",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -14997,7 +14903,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000412",
+        "id": "1000410",
         "name": "Temple of Diana",
         "dedicatee": "",
         "type": "temple",
@@ -15044,8 +14950,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000413",
-        "name": "Temple de Cybèle, Lyon",
+        "id": "1000411",
+        "name": "Temple de Cybèle",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15091,7 +14997,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000414",
+        "id": "1000412",
         "name": "Temple des Côtes de Clermont",
         "dedicatee": "",
         "type": "temple",
@@ -15138,7 +15044,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000415",
+        "id": "1000413",
         "name": "Temple de Mercure, Puy de Dôme",
         "dedicatee": "",
         "type": "temple",
@@ -15185,7 +15091,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000417",
+        "id": "1000415",
         "name": "Puy Lautard",
         "dedicatee": "",
         "type": "temple",
@@ -15232,8 +15138,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000418",
-        "name": "Puy-de-Joue, Saint-Goussaud",
+        "id": "1000416",
+        "name": "Puy-de-Joue",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15279,7 +15185,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000419",
+        "id": "1000417",
         "name": "Chez Rigros, Saint-Pardoux",
         "dedicatee": "",
         "type": "temple",
@@ -15326,8 +15232,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000422",
-        "name": "Lac-d'Antre, Villards-d'Héria",
+        "id": "1000420",
+        "name": "Lac-d'Antre",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15373,8 +15279,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000424",
-        "name": "Les Fons Clairins, Uzay-le-Venon",
+        "id": "1000422",
+        "name": "Les Fons Clairins",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15420,7 +15326,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000425",
+        "id": "1000423",
         "name": "Thaumiers",
         "dedicatee": "",
         "type": "temple",
@@ -15467,7 +15373,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000426",
+        "id": "1000424",
         "name": "Le Bioulet",
         "dedicatee": "",
         "type": "temple",
@@ -15514,7 +15420,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000427",
+        "id": "1000425",
         "name": "Sanctuaire d'Alléans",
         "dedicatee": "",
         "type": "temple",
@@ -15561,7 +15467,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000428",
+        "id": "1000426",
         "name": "La Touratte",
         "dedicatee": "",
         "type": "temple",
@@ -15608,8 +15514,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000429",
-        "name": "Pied de Bourges, Clion",
+        "id": "1000427",
+        "name": "Pied de Bourges",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15655,8 +15561,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000430",
-        "name": "Sanctuaires Boncourt-le-Bois",
+        "id": "1000428",
+        "name": "Sanctuaires",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15702,8 +15608,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000433",
-        "name": "Villate, Neuvy-sur-Barangeon",
+        "id": "1000431",
+        "name": "Villate",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15749,7 +15655,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000434",
+        "id": "1000432",
         "name": "Petit-Mars",
         "dedicatee": "",
         "type": "temple",
@@ -15796,7 +15702,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000436",
+        "id": "1000434",
         "name": "Sources de la Seine",
         "dedicatee": "",
         "type": "temple",
@@ -15843,8 +15749,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000437",
-        "name": "Temple gallo-romain, Vannes",
+        "id": "1000435",
+        "name": "Temple gallo-romain",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15890,7 +15796,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000438",
+        "id": "1000436",
         "name": "Nal, La Vraie-Croix",
         "dedicatee": "",
         "type": "temple",
@@ -15937,8 +15843,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000439",
-        "name": "Moncelon, Briou",
+        "id": "1000437",
+        "name": "Moncelon",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -15984,8 +15890,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000441",
-        "name": "Le Mur, Comblessac",
+        "id": "1000439",
+        "name": "Le Mur",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16031,8 +15937,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000442",
-        "name": "Craon, Montbouy",
+        "id": "1000440",
+        "name": "Craon",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16078,7 +15984,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000443",
+        "id": "1000441",
         "name": "Ruines d'un vieux temple - Membrey",
         "dedicatee": "",
         "type": "temple",
@@ -16125,8 +16031,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000444",
-        "name": "Les Clairs Chênes, Faverolles",
+        "id": "1000442",
+        "name": "Les Clairs Chênes",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16172,7 +16078,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000445",
+        "id": "1000443",
         "name": "Plombières-les-Bains",
         "dedicatee": "",
         "type": "temple",
@@ -16219,8 +16125,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000446",
-        "name": "Clos du Détour, Pannes",
+        "id": "1000444",
+        "name": "Clos du Détour",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16266,7 +16172,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000448",
+        "id": "1000446",
         "name": "Bains-les-Bains",
         "dedicatee": "",
         "type": "temple",
@@ -16313,8 +16219,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000449",
-        "name": "Bouexière, Bréal-sous-Montfort",
+        "id": "1000447",
+        "name": "Bouexière",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16360,8 +16266,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000450",
-        "name": "Trouguer, Cléden-Cap-Sizun",
+        "id": "1000448",
+        "name": "Trouguer",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16407,8 +16313,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000451",
-        "name": "Trogouzel, Douarnenez",
+        "id": "1000449",
+        "name": "Trogouzel",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16454,7 +16360,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000452",
+        "id": "1000450",
         "name": "Fanum Pithiviers-le-Vieil",
         "dedicatee": "",
         "type": "temple",
@@ -16501,8 +16407,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000455",
-        "name": "La Ferme d'Isle, Grisy-sur-Seine",
+        "id": "1000453",
+        "name": "La Ferme d'Isle",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16548,7 +16454,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000456",
+        "id": "1000454",
         "name": "Deneuvre",
         "dedicatee": "",
         "type": "temple",
@@ -16595,8 +16501,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000457",
-        "name": "Asile des Pêcheurs, Taden",
+        "id": "1000455",
+        "name": "Asile des Pêcheurs",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16642,8 +16548,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000458",
-        "name": "Les Grèves, La Villeneuve-au-Châtelot",
+        "id": "1000456",
+        "name": "Les Grèves",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16689,7 +16595,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000459",
+        "id": "1000457",
         "name": "Nasium, temple",
         "dedicatee": "",
         "type": "temple",
@@ -16736,8 +16642,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000460",
-        "name": "Wasserwald, Haegen",
+        "id": "1000458",
+        "name": "Wasserwald",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16783,8 +16689,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000461",
-        "name": "La Butte Ronde, Saint-Forget",
+        "id": "1000459",
+        "name": "La Butte Ronde",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16830,7 +16736,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000462",
+        "id": "1000460",
         "name": "Arnières-sur-Iton",
         "dedicatee": "",
         "type": "temple",
@@ -16877,8 +16783,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000463",
-        "name": "Les Terres Noires, Épiais-Rhus",
+        "id": "1000461",
+        "name": "Les Terres Noires",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -16924,7 +16830,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000464",
+        "id": "1000462",
         "name": "Saint-Aubin-sur-Gaillon",
         "dedicatee": "",
         "type": "temple",
@@ -16971,8 +16877,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000466",
-        "name": "Les Régales, Louviers",
+        "id": "1000464",
+        "name": "Les Régales",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17018,8 +16924,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000467",
-        "name": "Mare-du-Puits, Oissel",
+        "id": "1000465",
+        "name": "Mare-du-Puits",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17065,8 +16971,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000468",
-        "name": "Les Essarts, Grand-Couronne",
+        "id": "1000466",
+        "name": "Les Essarts",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17112,7 +17018,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000469",
+        "id": "1000467",
         "name": "Estrées-Saint-Denis",
         "dedicatee": "",
         "type": "temple",
@@ -17159,8 +17065,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000470",
-        "name": "Les Muguets, Songeons",
+        "id": "1000468",
+        "name": "Les Muguets",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17206,8 +17112,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000471",
-        "name": "Ecâtelet, Saint-Maur",
+        "id": "1000469",
+        "name": "Ecâtelet",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17253,8 +17159,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000472",
-        "name": "Le Catillon, Rouvroy-les-Merles",
+        "id": "1000470",
+        "name": "Le Catillon",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17300,7 +17206,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000473",
+        "id": "1000471",
         "name": "Septeuil",
         "dedicatee": "",
         "type": "temple",
@@ -17347,8 +17253,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000474",
-        "name": "Bois Titran, Caix",
+        "id": "1000472",
+        "name": "Bois Titran",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17394,8 +17300,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000475",
-        "name": "Le Moulin, Fluy",
+        "id": "1000473",
+        "name": "Le Moulin",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17441,7 +17347,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000476",
+        "id": "1000474",
         "name": "Cartigny",
         "dedicatee": "",
         "type": "temple",
@@ -17488,7 +17394,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000477",
+        "id": "1000475",
         "name": "Bracquemont",
         "dedicatee": "",
         "type": "temple",
@@ -17535,7 +17441,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000478",
+        "id": "1000476",
         "name": "Ribemont-sur-Ancre",
         "dedicatee": "",
         "type": "temple",
@@ -17582,7 +17488,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000479",
+        "id": "1000477",
         "name": "Bailleul",
         "dedicatee": "",
         "type": "temple",
@@ -17629,8 +17535,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000480",
-        "name": "Les Huit Journaux, Beauval",
+        "id": "1000478",
+        "name": "Les Huit Journaux",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17676,8 +17582,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000481",
-        "name": "Petit fanum - Cocquerel",
+        "id": "1000479",
+        "name": "Petit fanum",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17723,8 +17629,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000482",
-        "name": "Le Fief du Bac, Proyart",
+        "id": "1000480",
+        "name": "Le Fief du Bac",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17770,8 +17676,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000483",
-        "name": "Sanctuaire à Pont-Sainte-Maxence",
+        "id": "1000481",
+        "name": "Sanctuaire",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17817,8 +17723,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000484",
-        "name": "Remiencourt (Somme) Gallo-Roman temple.",
+        "id": "1000482",
+        "name": "Gallo-Roman temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17864,8 +17770,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000485",
-        "name": "Fanum de Sorcy Saint Martin",
+        "id": "1000483",
+        "name": "Fanum",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17911,8 +17817,8 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000486",
-        "name": "Complexe cultuel d'Amel",
+        "id": "1000484",
+        "name": "Complexe cultuel",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -17958,7 +17864,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000487",
+        "id": "1000485",
         "name": "Fanum au Pont-Verdunois",
         "dedicatee": "",
         "type": "temple",
@@ -18005,7 +17911,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000488",
+        "id": "1000486",
         "name": "Temple du Herapel",
         "dedicatee": "",
         "type": "temple",
@@ -18052,7 +17958,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000489",
+        "id": "1000487",
         "name": "Temple (Les cinq fontaines)",
         "dedicatee": "",
         "type": "temple",
@@ -18099,7 +18005,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000490",
+        "id": "1000488",
         "name": "Lascaux",
         "dedicatee": "",
         "type": "temple",
@@ -18146,7 +18052,7 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000491",
+        "id": "1000489",
         "name": "Camp celtique",
         "dedicatee": "",
         "type": "temple",
@@ -18193,10 +18099,10 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
-        "id": "1000492",
+        "id": "1000490",
         "name": "Mithraeum de Sarrebourg",
-        "dedicatee": "",
-        "type": "temple",
+        "dedicatee": "Mithras",
+        "type": "mithraeum",
         "location": "",
         "city": "Sarrebourg",
         "country": "France",
@@ -18208,9 +18114,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "hero",
         "culture": "",
         "extant": "",
         "source": "Vici.org",
