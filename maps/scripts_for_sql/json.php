@@ -18,14 +18,21 @@ $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username,
 $queryStart = 'select temples.*, IFNULL(cite,"") as cite from temples left join (select templeID, GROUP_CONCAT(CONCAT(UCASE(LEFT(loci, 1)), SUBSTRING(loci, 2), IF(loci = "", "", ", "), biblio.citation_html) SEPARATOR "</li>\n<li>") AS cite from citations left join biblio on citations.refKey = biblio.refKey group by templeID) cites on id = templeID WHERE ';
 #CONCAT(UCASE(LEFT(CompanyIndustry, 1)), SUBSTRING(CompanyIndustry, 2))
                              // $queryStart = 'select * from temples WHERE ';
-$queryEnd = ' longitude != "" AND type = "temple" ORDER BY name';
-# Check for cookie
+
+# Check for cookies
+# First determine whether request is for one item (info) or for a set (mapping)
+# Then insert sql query into it
+if ($_COOKIE["querytype"] == 'item') {
+    $queryEnd = '';
+} else {
+    $queryEnd = ' AND longitude != "" AND type = "temple" ORDER BY name';
+}
 if ($_COOKIE["sqlquery"] != '') {
-    $sql = $queryStart . $_COOKIE["sqlquery"] . ' AND ' . $queryEnd;
-    }
-else {
-     $sql = $queryStart . $queryEnd;
-    }
+    $sql = $queryStart . $_COOKIE["sqlquery"] . $queryEnd;
+} else {
+     $sql = $queryStart . 'id != ""' . $queryEnd;
+     setcookie(query, $sql);
+}
 # Try query or error
 $rs = $conn->query($sql);
 if (!$rs) {
