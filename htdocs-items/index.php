@@ -81,6 +81,31 @@
 		</style>
 	</head>
 	<body>
+
+<!--
+<?php
+
+// Clean the URI
+function test_input($data) {
+  $data = trim($data);
+  $data = stripslashes($data);
+  $data = htmlspecialchars($data);
+  return $data;
+}
+
+$queryString = test_input(basename($_SERVER['REQUEST_URI']));
+
+// If the URI contains some _GET string, assume it's valid and see what happens.
+// Turn it into a sql request
+// if ($queryString != []) {
+// 	$sql = ' ID = ' . $queryString . ' ';
+// 		}
+// setCookie('sqlquery', $sql, '1');
+
+?>
+ -->
+
+
 <div  id='mask'>
         <table>
 			<tr>
@@ -88,25 +113,21 @@
 					<h1>
 						Sacred Buildings of the Classical World
 					</h1>
+<!--
 					<h2>
 						Pick a variable by which to map the structures in the database:
 					</h2>
-					<form id="mapType" style="display:inline; vertical-align=left">
+ -->
+					<form id="mapType" style="display:inline; vertical-align=left; visibility: hidden;">
 						<select id="mymenu" size="1">
-							<option value="nothing" selected="selected">
-								none
-							</option>
-							<option value="sex">
-								sex of deity
-							</option>
-							<option value="deitytype">
-								type of deity
+							// Select a mapping style that will work for any object
+							<option value="deitytype" selected="selected">
+								Selected item
 							</option>
 <!--
 							<option value="type">
 								type of structure
 							</option>
- -->
 							<option value="century">
 								century BC of construction
 							</option>
@@ -116,6 +137,7 @@
 							<option value="heatmap">
 								heatmap
 							</option>
+ -->
 						</select>
 					</form>
 					<br>
@@ -140,6 +162,7 @@
 			</tr>
 			<tr id='bottom'>
 				<td colspan=2>
+<!--
                     <?php
                             include 'scripts/make_menues.php';
                             makeMenu('first', '1');
@@ -161,15 +184,14 @@
 					<button id="clear" onclick="clearFilter();">
 						Clear
 					</button>
+ -->
 				</td>
 			</tr>
 		</table>
 </div>
-
 		<script type="text/javascript">var allPoints = {};
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
-		</script>
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=map; path=/";
 		</script>
@@ -181,6 +203,7 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_controls.js">
 		</script>
+<!--
 		<script type="text/javascript" src="scripts/function_layer_by_sex.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_layer_by_type.js">
@@ -193,12 +216,15 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_layer_by_heat.js">
 		</script>
+ -->
 		<script type="text/javascript" src="scripts/leaflet/leaflet.js">
 		</script>
+<!--
 		<script type="text/javascript" src="scripts/leaflet.rotatedMarker.js">
 		</script>
 		<script type="text/javascript" src="scripts/leaflet-heat.js">
 		</script>
+ -->
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
 		<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0">
@@ -218,6 +244,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_filter.js">
 		</script>
+		<script type="text/javascript" src="scripts/function_layer_for_one_item.js">
+		</script>
 		<script type="text/javascript" src="scripts/function_get_item_data.js">
 		</script>
 
@@ -227,37 +255,13 @@
 		<script type="text/javascript">
 			// Set a variable to indicate start-up
 			// Cookies last a day, so they won't do.
-			var allPoints = [];
+// 			allPoints = [];
 
 			// Create menu to select the way to format the data
 			var selectmenu = document.getElementById("mymenu")
 				selectmenu.onchange = function () {
-				    var chosenoption = this.options[this.selectedIndex]
-				    switch (chosenoption.value) {
-				    case "sex":
-				        layer_by_sex();
-				        break;
-// 				    case "type":
-// 				        layer_by_type();
-// 				        break;
-				    case "century":
-				        layer_by_century();
-				        break;
-				    case "orientations":
-				        layer_by_orientation();
-				        break;
-					case "deitytype":
-						layer_by_deitytype();
-						break;
-				    case "heatmap":
-				        layer_by_heat();
-				        break;
-				    case "nothing":
-				        clearLayers();
-				        clearControls();
- 				        map.addLayer(osm);
+				        layer_for_one_item();
 				    }
-				}
 
 			// Create map without layers since the user will do that.
 
@@ -279,7 +283,7 @@
 			    position: 'bottomright'
 			}).addTo(map);
 
-			// Clear the cookie on startup
+// 			Clear the cookie on startup
 // 			var sqlquery = '';
 			setCookie('sqlquery', 'dummy', '-1');
 
@@ -304,101 +308,121 @@
 				});
 			};
 
-			// Read the inputted search
-			function readInput() {
-				conn = '';
-				searchInput = '';
-				firstInputMenu = document.getElementById("first").value;
-				firstOpText = document.getElementById("firstOp").value;
-				firstInputText = test_input(document.getElementById("firstTxt").value);
-				secondInputMenu = document.getElementById("second").value;
-				secondOpText = document.getElementById("secondOp").value;
-				secondInputText = test_input(document.getElementById("secondTxt").value);
-				thirdInputMenu = document.getElementById("third").value;
-				thirdOpText = document.getElementById("thirdOp").value;
-				thirdInputText = test_input(document.getElementById("thirdTxt").value);
-				if ( firstInputMenu != '' ) {
-				searchInput = firstInputMenu + opTrans(firstOpText, firstInputText);
-				conn = ' AND ';
-				}
-				if ( secondInputMenu != '' ) {
-				searchInput = searchInput + conn + secondInputMenu + opTrans(secondOpText, secondInputText);
-				conn = ' AND ';
-				}
-				if ( thirdInputMenu != '' ) {
-				searchInput = searchInput + conn + thirdInputMenu + opTrans(thirdOpText, thirdInputText);
-				}
-				if ( searchInput != '' ) {
+// 			Read the inputted search
+// 			function readInput() {
+// 				conn = '';
+// 				searchInput = '';
+// 				firstInputMenu = document.getElementById("first").value;
+// 				firstOpText = document.getElementById("firstOp").value;
+// 				firstInputText = test_input(document.getElementById("firstTxt").value);
+// 				secondInputMenu = document.getElementById("second").value;
+// 				secondOpText = document.getElementById("secondOp").value;
+// 				secondInputText = test_input(document.getElementById("secondTxt").value);
+// 				thirdInputMenu = document.getElementById("third").value;
+// 				thirdOpText = document.getElementById("thirdOp").value;
+// 				thirdInputText = test_input(document.getElementById("thirdTxt").value);
+// 				if ( firstInputMenu != '' ) {
+// 				searchInput = firstInputMenu + opTrans(firstOpText, firstInputText);
+// 				conn = ' AND ';
+// 				}
+// 				if ( secondInputMenu != '' ) {
+// 				searchInput = searchInput + conn + secondInputMenu + opTrans(secondOpText, secondInputText);
+// 				conn = ' AND ';
+// 				}
+// 				if ( thirdInputMenu != '' ) {
+// 				searchInput = searchInput + conn + thirdInputMenu + opTrans(thirdOpText, thirdInputText);
+// 				}
+// 				if ( searchInput != '' ) {
 // 					document.getElementById("side").innerHTML = 'Inputted query:' + searchInput;
-					setCookie('sqlquery', searchInput, '1');
-				}
-				if ( firstInputMenu + secondInputMenu + thirdInputMenu == '' ) {
-					alert('You need to select a field to search on.')
-				}
-			};
+// 					setCookie('sqlquery', searchInput, '1');
+// 				}
+// 				if ( firstInputMenu + secondInputMenu + thirdInputMenu == '' ) {
+// 					alert('You need to select a field to search on.')
+// 				}
+// 			};
+//
+// 			Translate operator into sql
+// 				function opTrans(option, str) {
+// 				    translation = "";
+// 				    endStr = "'";
+// 				    switch (option) {
+// 				    case "contains":
+// 				   	    translation=" LIKE '%";
+// 				        endStr = "%'";
+// 				    	break;
+// 				    case "doesNotContain":
+// 				   	    translation=" NOT LIKE '%";
+// 				        endStr = "%'";
+// 				        break;
+// 				    case "beginsWith":
+// 				   	    translation=" LIKE '";
+// 				        endStr = "%'";
+// 				        break;
+// 				    case "is":
+// 				   	    translation=" = '";
+// 				        break;
+// 				    case "isNot":
+// 				   	    translation=" != '";
+// 				        break;
+// 				    case "lessThan":
+// 				   	    translation=" < '";
+// 				        break;
+// 				    case "greaterThan":
+// 				   	    translation=" > '";
+// 				        break;
+// 				    }
+// 				    return (translation + str + endStr);
+// 				}
+//
+// 			Clean up the inputted string
+// 			function test_input(data) {
+// 			    data = data.trim();
+// 			    data=data.replace(/[^a-z\d '"%=-]+/ig,'')
+// 			    return data;
+// 			};
+//
+// 			Listen for return in text fields
+// 			document.getElementById("firstTxt")
+// 			    .addEventListener("keyup", function(event) {
+// 			    event.preventDefault();
+// 			    if (event.keyCode == 13) {
+// 			        document.getElementById("process").click();
+// 			    }
+// 			});
+// 			document.getElementById("secondTxt")
+// 			    .addEventListener("keyup", function(event) {
+// 			    event.preventDefault();
+// 			    if (event.keyCode == 13) {
+// 			        document.getElementById("process").click();
+// 			    }
+// 			});
+// 			document.getElementById("thirdTxt")
+// 			    .addEventListener("keyup", function(event) {
+// 			    event.preventDefault();
+// 			    if (event.keyCode == 13) {
+// 			        document.getElementById("process").click();
+// 			    }
+// 			});
 
-			// Translate operator into sql
-				function opTrans(option, str) {
-				    translation = "";
-				    endStr = "'";
-				    switch (option) {
-				    case "contains":
-				   	    translation=" LIKE '%";
-				        endStr = "%'";
-				    	break;
-				    case "doesNotContain":
-				   	    translation=" NOT LIKE '%";
-				        endStr = "%'";
-				        break;
-				    case "beginsWith":
-				   	    translation=" LIKE '";
-				        endStr = "%'";
-				        break;
-				    case "is":
-				   	    translation=" = '";
-				        break;
-				    case "isNot":
-				   	    translation=" != '";
-				        break;
-				    case "lessThan":
-				   	    translation=" < '";
-				        break;
-				    case "greaterThan":
-				   	    translation=" > '";
-				        break;
-				    }
-				    return (translation + str + endStr);
-				}
-
-			// Clean up the inputted string
-			function test_input(data) {
-			    data = data.trim();
-			    data=data.replace(/[^a-z\d '"%=-]+/ig,'')
-			    return data;
-			};
-
-			// Listen for return in text fields
-			document.getElementById("firstTxt")
-			    .addEventListener("keyup", function(event) {
-			    event.preventDefault();
-			    if (event.keyCode == 13) {
-			        document.getElementById("process").click();
-			    }
-			});
-			document.getElementById("secondTxt")
-			    .addEventListener("keyup", function(event) {
-			    event.preventDefault();
-			    if (event.keyCode == 13) {
-			        document.getElementById("process").click();
-			    }
-			});
-			document.getElementById("thirdTxt")
-			    .addEventListener("keyup", function(event) {
-			    event.preventDefault();
-			    if (event.keyCode == 13) {
-			        document.getElementById("process").click();
-			    }
-			});
+		function clickOnMapItem(itemId) {
+			var id = parseInt(itemId);
+			//get target layer by its id
+			var layer = geojson.getLayer(id);
+			//fire event 'click' on target layer
+			layer.fireEvent('click');
+			}
 		</script>
+
+<script>
+    // Get id number from the URL and use setCookie to map it
+    // The .htaccess rewrite rule makes sure that the URL contains only numbers
+	var url = window.location.pathname;
+	var filename = url.substring(url.lastIndexOf('/')+1);
+	setCookie('sqlquery', 'ID=' + filename, '1');
+// 	map.fire('click',{latlng:[12.485741, 41.9]})
+// 	clickOnMapItem(filename);
+</script>
+
+
 	</body>
 </html>
