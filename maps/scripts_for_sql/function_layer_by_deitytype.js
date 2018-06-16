@@ -11,8 +11,7 @@
         temples8.addData(data);
         allPoints = data.features;
     });
-
-    // Save the currently visible basemap
+// Save the currently visible basemap
     for (i in baseLayers) {
         if (map.hasLayer(baseLayers[i]) == true) {
             currentMap = baseLayers[i]

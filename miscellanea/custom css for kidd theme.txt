@@ -1,0 +1,5 @@
+leaflet-tile, .leaflet-marker-icon, .leaflet-marker-shadow {
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+}
