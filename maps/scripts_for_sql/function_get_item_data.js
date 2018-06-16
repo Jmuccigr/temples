@@ -8,7 +8,6 @@ if ( allPoints.length > 1 ) {
 	{
 		if (allPoints[i].properties.id == itemID) {
 			res.push(allPoints[i]);
-			break;
 		}
 	}
 } else {
