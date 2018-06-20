@@ -101,6 +101,9 @@ then
     # Get rid of last bit of extra stuff from the xml
 	jq '{type: .type, features: .features}' "$temp/temples.json" > "$dest/temples.json"
 
+    # Save a copy for Pelagios
+	jq -c '.features[]' "$temp/temples.json" > "$dest/pelagios.json"
+
     # For mapping, save a second copy with only entries including coordinates
 	head -n 3 "$dest/temples.json" > "$temp/temples.json"
 	text=$(jq -c '.features[] | select (.geometry.coordinates[0] | length >= 1)' "$dest/temples.json" | tr '\n' ',')
