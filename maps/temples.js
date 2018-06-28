@@ -20168,7 +20168,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000534",
-        "name": "Matronenheiligtum “Vor Hirschberg“",
+        "name": "Matronenheiligtum \"Vor Hirschberg\"",
         "dedicatee": "",
         "type": "temple",
         "location": "",
