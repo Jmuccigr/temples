@@ -1,0 +1,1 @@
+/Users/john_muccigrosso/Documents/github/local/temples/maps/scripts/function_clear_filter.js

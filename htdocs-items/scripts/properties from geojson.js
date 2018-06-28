@@ -1,0 +1,1 @@
+/Users/john_muccigrosso/Documents/github/local/temples/maps/scripts/properties from geojson.js
