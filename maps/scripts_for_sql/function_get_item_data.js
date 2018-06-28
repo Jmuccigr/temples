@@ -89,7 +89,7 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="http://www.livius.org/articles/g' + res.properties.livius + '">Livius</a>';
+			otherDB = otherDB + '<a target="_blank" href="http://www.livius.org/articles/' + res.properties.livius + '/">Livius</a>';
 		}
 		if (res.properties.pleiades != '') {
 			if (otherDB.length > 4) {
