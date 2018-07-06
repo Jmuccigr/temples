@@ -24,7 +24,10 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
         record = json.loads(line)
         if 'properties' in record.keys():
             outputText += u'<http://romeresearchgroup.org/items/' + record['properties']['id'] + '> a lawd:Place ;\n'
-            outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
+#           Only one name for now, which needs rdfs, not lawd:hasName
+#           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
+#			A few names have escaped quotation marks. This retains them.
+			outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
             if record['properties']['vici.org'] != '':
                 outputText += 'skos:exactMatch <http://vici.org/object.php?id=' + record['properties']['vici.org'] + '> ;\n'
             if record['properties']['pleiades'] != '':
@@ -40,8 +43,10 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
             if record['properties']['trismegistos'] != '':
                 outputText += 'skos:exactMatch <http://www.trismegistos.org/place/' + record['properties']['trismegistos'] + '> ;\n'
             if record['properties']['wikipedia'] != '':
-                outputText += 'skos:exactMatch <href="https://en.wikipedia.org/wiki/' + record['properties']['wikipedia'] + '"> ;\n'
-                outputText = re.sub(r"en(\.wikipedia\.org/wiki/)([a-z][a-z])=", r"\2\1", outputText)
+#             	Some wikilinks from vici.org are to non-English wikipedias. This fixes the URL.
+                wikiText = 'skos:exactMatch <href="https://en.wikipedia.org/wiki/' + record['properties']['wikipedia'] + '"> ;\n'
+                wikiText = re.sub(r"en(\.wikipedia\.org/wiki/)([a-z][a-z])=", r"\2\1", wikiText)
+                outputText += wikiText
             if record['properties']['wikidata'] != '':
                 outputText += 'skos:exactMatch <https://www.wikidata.org/wiki/' + record['properties']['wikidata'] + '> ;\n'
             if record['properties']['ads'] != '':
