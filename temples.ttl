@@ -257,7 +257,7 @@ dcterms:subject "temple"  ;
 rdfs:label "Temple of Hercules Victor/Invictus" ;
 skos:exactMatch <http://vici.org/object.php?id=15006> ;
 skos:exactMatch <http://pleiades.stoa.org/places/825969667> ;
-skos:exactMatch <https://arachne.dainst.org/entity/10771, 5792> ;
+skos:exactMatch <https://arachne.dainst.org/entity/10771> ;
 geo:location [ geo:lat "41.8887057"^^xsd:double ; geo:long "12.4806393"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -1409,63 +1409,63 @@ dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000212> a lawd:Place ;
 rdfs:label "Temple of Hercules" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Hercules (Amman)"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Hercules_(Amman)"> ;
 geo:location [ geo:lat "31.9538"^^xsd:double ; geo:long "35.9349"^^xsd:double ] ;
 gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000213> a lawd:Place ;
 rdfs:label "Temple of Herakles" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Heracles, Agrigento"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Heracles,_Agrigento"> ;
 geo:location [ geo:lat "37.290252"^^xsd:double ; geo:long "13.586221"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000214> a lawd:Place ;
 rdfs:label "Temple of Hera Lakinia" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Juno, Agrigento"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Juno,_Agrigento"> ;
 geo:location [ geo:lat "37.288662"^^xsd:double ; geo:long "13.600197"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000215> a lawd:Place ;
 rdfs:label "Temple of Concord" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Concordia, Agrigento"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento"> ;
 geo:location [ geo:lat "37.289747"^^xsd:double ; geo:long "13.592005"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000216> a lawd:Place ;
 rdfs:label "Temple of Asclepius" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle dei Templi"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle_dei_Templi"> ;
 geo:location [ geo:lat "37.282531"^^xsd:double ; geo:long "13.589582"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000217> a lawd:Place ;
 rdfs:label "Temple of Olympian Zeus" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Olympian Zeus, Agrigento"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Agrigento"> ;
 geo:location [ geo:lat "37.290982"^^xsd:double ; geo:long "13.584423"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000218> a lawd:Place ;
 rdfs:label "Temple of Hephaistos" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle dei Templi"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle_dei_Templi"> ;
 geo:location [ geo:lat "37.292956"^^xsd:double ; geo:long "13.578769"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000219> a lawd:Place ;
 rdfs:label "Sacellum" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle dei Templi"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle_dei_Templi"> ;
 geo:location [ geo:lat "37.292956"^^xsd:double ; geo:long "13.578769"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000220> a lawd:Place ;
 rdfs:label "Temple of the Dioscuri" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle dei Templi"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Valle_dei_Templi"> ;
 geo:location [ geo:lat "37.291344"^^xsd:double ; geo:long "13.581507"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -1490,7 +1490,7 @@ dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000224> a lawd:Place ;
 rdfs:label "Temple of Poseidon" ;
-skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple of Poseidon at Sounion"> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Poseidon_at_Sounion"> ;
 geo:location [ geo:lat "37.650153"^^xsd:double ; geo:long "24.024573"^^xsd:double ] ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;

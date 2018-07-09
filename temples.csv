@@ -33,7 +33,7 @@
 "1000034","Temple of Hercules Musarum","Hercules","temple","Circus Flaminius","Rome","IT","208","-187","-187","","-2","M","June 30","hero","Roman","","Arachne","","","","","","3467458","","","","","","","",12.477733,41.8931188
 "1000035","Temple of Hercules Victor","Hercules","temple","Caelian Hill","Rome","IT","","-145","-145","","-2","M","","hero","Roman","","","","","","","","","","","","","","","","",""
 "1000036","Temple of Hercules Victor","Hercules","temple","","Tivoli","IT","","-89-82","-89","-82","-1","M","","hero","Roman","","Stamper","","","","","","","","","","","","","","",""
-"1000037","Temple of Hercules Victor/Invictus","Hercules","temple","Forum Boarium","Rome","IT","93","","","","","M","August 13","hero","Roman","yes","","","","15006","825969667","","10771, 5792","","","","","","","",12.4806393,41.8887057
+"1000037","Temple of Hercules Victor/Invictus","Hercules","temple","Forum Boarium","Rome","IT","93","","","","","M","August 13","hero","Roman","yes","","","","15006","825969667","","10771","","","","","","","",12.4806393,41.8887057
 "1000038","Temple of Honos and Virtus","Honor, Virtue","temple","ad Portam Capenam","Rome","IT","","-205","-205","","-3","F","July 17","concept","Roman","","","senate","","","","","","","","","","","","","",""
 "1000039","Temple at Il Torraccio","","temple","","Rome","IT","","","","","","","","","Roman","","","","DARE","","","37165","","","","","","","","",12.492366,41.994283
 "1000040","Temple of Isis at via Labicana","Isis","temple","","Rome","IT","","","","","","F","","god","Roman","","","","Pleiades","19353","","","","","","","","","Q16612725","",12.501237,41.890049
@@ -209,19 +209,19 @@
 "1000209","Temple of Saturn","Saturn","temple","","Dougga","TN","109","","","","","M","","god","Roman","","","","","","","","","","","","","","","",9.22063,36.42555
 "1000210","Temple of Saturn","Saturn","temple","","Thuburbo Majus","TN","132","","","","","M","","god","Roman","","","","","31251","","","","","","","","","","",9.907412,36.400753
 "1000211","Temple of Saturn","Saturn","temple","","Tiddis","DZ","75","","","","","M","","god","Roman","","","","","","","","","","","","","","","",6.483889,36.463333
-"1000212","Temple of Hercules","Hercules","temple","","Amman","JO","76","","162","","2","M","","hero","Roman","","Wikipedia","","","","","","","","","","","Temple of Hercules (Amman)","","",35.9349,31.9538
-"1000213","Temple of Herakles","Hercules","temple","","Agrigento","IT","89","","","","-6","M","","hero","Greek","Yes","Wikipedia","","","","","","","","","","","Temple of Heracles, Agrigento","","",13.586221,37.290252
-"1000214","Temple of Hera Lakinia","Juno","temple","","Agrigento","IT","82","ca. 450 BC","","","-5","F","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple of Juno, Agrigento","","",13.600197,37.288662
-"1000215","Temple of Concord","","temple","","Agrigento","IT","89","ca. 440-430 BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Temple of Concordia, Agrigento","","",13.592005,37.289747
-"1000216","Temple of Asclepius","","temple","","Agrigento","IT","89","late 5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle dei Templi","","",13.589582,37.282531
-"1000217","Temple of Olympian Zeus","Jupiter","temple","","Agrigento","IT","77","5th c. BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple of Olympian Zeus, Agrigento","","",13.584423,37.290982
-"1000218","Temple of Hephaistos","Vulcan","temple","","Agrigento","IT","86","ca. 430 BC","","","-6","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Valle dei Templi","","",13.578769,37.292956
-"1000219","Sacellum","","temple","","Agrigento","IT","82","ca. 530-520 BC","","","-7","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle dei Templi","","",13.578769,37.292956
-"1000220","Temple of the Dioscuri","","temple","","Agrigento","IT","83","mid-5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle dei Templi","","",13.581507,37.291344
+"1000212","Temple of Hercules","Hercules","temple","","Amman","JO","76","","162","","2","M","","hero","Roman","","Wikipedia","","","","","","","","","","","Temple_of_Hercules_(Amman)","","",35.9349,31.9538
+"1000213","Temple of Herakles","Hercules","temple","","Agrigento","IT","89","","","","-6","M","","hero","Greek","Yes","Wikipedia","","","","","","","","","","","Temple_of_Heracles,_Agrigento","","",13.586221,37.290252
+"1000214","Temple of Hera Lakinia","Juno","temple","","Agrigento","IT","82","ca. 450 BC","","","-5","F","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple_of_Juno,_Agrigento","","",13.600197,37.288662
+"1000215","Temple of Concord","","temple","","Agrigento","IT","89","ca. 440-430 BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Temple_of_Concordia,_Agrigento","","",13.592005,37.289747
+"1000216","Temple of Asclepius","","temple","","Agrigento","IT","89","late 5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle_dei_Templi","","",13.589582,37.282531
+"1000217","Temple of Olympian Zeus","Jupiter","temple","","Agrigento","IT","77","5th c. BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple_of_Olympian_Zeus,_Agrigento","","",13.584423,37.290982
+"1000218","Temple of Hephaistos","Vulcan","temple","","Agrigento","IT","86","ca. 430 BC","","","-6","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Valle_dei_Templi","","",13.578769,37.292956
+"1000219","Sacellum","","temple","","Agrigento","IT","82","ca. 530-520 BC","","","-7","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle_dei_Templi","","",13.578769,37.292956
+"1000220","Temple of the Dioscuri","","temple","","Agrigento","IT","83","mid-5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","","","","Valle_dei_Templi","","",13.581507,37.291344
 "1000221","Temple L","","temple","","Agrigento","IT","77","late 5th c. BC","","","-5","","","","Greek","Yes","","","","","","","","","","","","","","",13.581401,37.291043
 "1000222","Temple of Demeter","","temple","","Agrigento","IT","123","ca. 480-470 BC","","","-5","","","","Greek","Yes","","","","","","","","","","","","","","",13.603379,37.299241
 "1000223","Temple of Isis","","temple","","Agrigento","IT","167","late 1st c. BC","","","-1","","","","Roman","Yes","","","","","","","","","","","","","","",13.589222,37.298272
-"1000224","Temple of Poseidon","Neptune","temple","","Sounion","GR","103","444-440 BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple of Poseidon at Sounion","","",24.024573,37.650153
+"1000224","Temple of Poseidon","Neptune","temple","","Sounion","GR","103","444-440 BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","","","","Temple_of_Poseidon_at_Sounion","","",24.024573,37.650153
 "1000225","Temple of Athena","Minerva","temple","","Sounion","GR","98","470 BC","","","-5","F","","god","Greek","Yes","","","","","","","","","","","","","","",24.027015,37.652933
 "1000226","Heroon of Phrontis","Phrontis","temple","","Sounion","GR","102","5th c. BC","","","-5","M","","hero","Greek","Yes","","","","","","","","","","","","","","",24.02716,37.653068
 "1000227","Capitolium","Jupiter, Juno, Minerva","temple","","Terracina","IT","224","","","","","M,F","","god","Roman","Yes","Wikipedia","","","","","","","","","","","","","",13.248628,41.29215
