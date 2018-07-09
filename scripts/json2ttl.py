@@ -27,7 +27,7 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
 #           Only one name for now, which needs rdfs, not lawd:hasName
 #           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
 #			A few names have escaped quotation marks. This retains them.
-			outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
+            outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
             if record['properties']['vici.org'] != '':
                 outputText += 'skos:exactMatch <http://vici.org/object.php?id=' + record['properties']['vici.org'] + '> ;\n'
             if record['properties']['pleiades'] != '':
