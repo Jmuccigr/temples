@@ -71,3 +71,7 @@ To help prioritize our own work on these various items, I used Google's API to f
 1. Copied 22 DARE sites that are in Rome into our Google doc. 9 had a Pleiades ID.
 1. Added other Italian sites (March 2018).
 1. Added other Portuguese, Spanish, and French sites (11 May 2018).
+
+## LOD
+
+1. Followed the [Pelagios cookbook](https://github.com/pelagios/pelagios-cookbook/wiki/Pleiades-) to get the database into shape as LOD for Pelagios (July 2018).
