@@ -170,8 +170,8 @@
         "note": "",
         "vici.org": "",
         "pleiades": "",
-        "dare": "3467477",
-        "arachne": "",
+        "dare": "",
+        "arachne": "3467477",
         "livius": "",
         "wikipedia": "",
         "wikidata": "",
@@ -1297,7 +1297,7 @@
         "meetings": "",
         "note": "DARE",
         "vici.org": "",
-        "pleiades": "",
+        "pleiades": "3467477",
         "dare": "37165",
         "arachne": "",
         "livius": "",
@@ -11755,7 +11755,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000329",
-        "name": "Tempel Mirobriga Celticorum",
+        "name": "Temple at Mirobriga Celticorum",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -11802,7 +11802,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000330",
-        "name": "Tempel - Évora",
+        "name": "Temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -12178,7 +12178,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000338",
-        "name": "Römer Tempel Vic",
+        "name": "Roman Temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -12695,7 +12695,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000349",
-        "name": "Tempelsäulen",
+        "name": "Temple columns",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -12822,7 +12822,7 @@
         "digitalesforumromanum": "",
         "trismegistos": "",
         "ads": "",
-        "checked": "No"
+        "checked": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -12977,7 +12977,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000357",
-        "name": "Lutetia, Temple of Mercury",
+        "name": "Temple of Mercury, Lutetia",
         "dedicatee": "Mercury",
         "type": "temple",
         "location": "",
@@ -13024,7 +13024,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000358",
-        "name": "Temple 'le Palais', Alba",
+        "name": "Temple 'le Palais'",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13077,7 +13077,7 @@
         "location": "",
         "city": "Vienne",
         "country": "FR",
-        "orientation": "",
+        "orientation": "90",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13104,7 +13104,7 @@
         "digitalesforumromanum": "",
         "trismegistos": "",
         "ads": "",
-        "checked": "No"
+        "checked": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -13118,7 +13118,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000360",
-        "name": "Temple 'of the Cybele'",
+        "name": "Temple of the Cybele",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -13165,7 +13165,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000361",
-        "name": "Dianabild",
+        "name": "Temple of Diana",
         "dedicatee": "Diana",
         "type": "temple",
         "location": "",
@@ -13541,15 +13541,15 @@
       "type": "Feature",
       "properties": {
         "id": "1000370",
-        "name": "Römischen Tempels von Château-Bas",
+        "name": "Roman temple",
         "dedicatee": "",
         "type": "temple",
-        "location": "",
+        "location": "Vineyard Château-Bas",
         "city": "Vernègues",
         "country": "FR",
-        "orientation": "",
-        "date": "",
-        "startdateearly": "",
+        "orientation": "327",
+        "date": "1st BCE",
+        "startdateearly": "-1",
         "startdatelate": "",
         "century": "",
         "enddate": "",
@@ -13574,7 +13574,7 @@
         "digitalesforumromanum": "",
         "trismegistos": "",
         "ads": "",
-        "checked": "No"
+        "checked": "Yes"
       },
       "geometry": {
         "type": "Point",
