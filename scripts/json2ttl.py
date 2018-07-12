@@ -4,6 +4,9 @@ import json
 import rdflib
 import io
 import re
+import os
+
+me = os.getenv("USER")
 
 outputText = u''
 outputText += u'@prefix dcterms: <http://purl.org/dc/terms/> .\n'
@@ -29,11 +32,11 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
 #			A few names have escaped quotation marks. This retains them.
             outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
             if record['properties']['vici.org'] != '':
-                outputText += 'skos:exactMatch <http://vici.org/object.php?id=' + record['properties']['vici.org'] + '> ;\n'
+                outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties']['vici.org'] + '> ;\n'
             if record['properties']['pleiades'] != '':
                 outputText += 'skos:exactMatch <http://pleiades.stoa.org/places/' + record['properties']['pleiades'] + '> ;\n'
             if record['properties']['dare'] != '':
-                outputText += 'skos:exactMatch <http://dare.ht.lu.se/api/geojson.php?id=' + record['properties']['dare'] + '> ;\n'
+                outputText += 'skos:exactMatch <http://dare.ht.lu.se/places/' + record['properties']['dare'] + '> ;\n'
             if record['properties']['arachne'] != '':
                 outputText += 'skos:exactMatch <https://arachne.dainst.org/entity/' + record['properties']['arachne'] + '> ;\n'
             if record['properties']['livius'] != '':
@@ -61,4 +64,5 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
             outputText += u'.\n'
 
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")
+output.write(me)
 output.write(outputText)
