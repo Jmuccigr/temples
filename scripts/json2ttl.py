@@ -21,7 +21,7 @@ outputText += u'@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n'
 outputText += u'@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n'
 
 
-basedir = '/Users/' + me + '/Documents/github/local/temples/'
+basedir='/Users/john_muccigrosso/Documents/github/local/temples/'
 with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
     for line in f.readlines():
         record = json.loads(line)
@@ -64,4 +64,5 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
             outputText += u'.\n'
 
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")
+output.write(me)
 output.write(outputText)
