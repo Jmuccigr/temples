@@ -325,7 +325,7 @@
 "1000325","Temple of the Round Altar","","temple","","Ostia","IT","","","","","","","","","","","Vici.org","","","27449","","","","","","","","","","",12.286317,41.753693
 "1000326","Temple with portico","","temple","","Cumae","IT","16","Early 1st c. CE","","","1","","","","Roman","","","","","","","","","","","","","","","",14.057575,40.847906
 "1000327","Masseria del Gigante","","temple","","Cumae","IT","280","Late 1st c. CE","","","1","","","","Roman","","","","","","","","","","","","","","","",14.058799,40.847826
-"1000328","Heiligtum Alto da Vigia","","temple","","Colares","PT","","","","","","","","","","","Vici.org","","","10721","256172","36997","","","","","","","","",-9.47159,38.824299
+"1000328","Sanctuary Alto da Vigia","","temple","","Colares","PT","","","","","","","","","","","Vici.org","","","10721","256172","36997","","","","","","","","",-9.47159,38.824299
 "1000329","Temple at Mirobriga Celticorum","","temple","","Santiago do Cacém","PT","","","","","","","","","","","Vici.org","","","10725","","","","","","","","","","",-8.683709,38.010284
 "1000330","Temple","","temple","","Évora","PT","","","","","","","","","","","Vici.org","","","10744","","","","","","","","","Q737441","",-7.907287,38.572571
 "1000331","S. Miguel de Mota","","temple","","","PT","","","","","","","","","","","Vici.org","","","15153","256429","37000","","","","","","","","",-7.44304,38.64328
@@ -362,9 +362,9 @@
 "1000362","Temple of Diana","Diana","temple","","Nîmes","FR","","","","","","F","","god","","","Vici.org","","","10622","","393010","","","","","","","","",4.348574,43.839947
 "1000363","Gisacum","","temple","","Le Vieil-Évreux","FR","","","","","","","","","","","Vici.org","","","10640","109007","","","","","","","","Q2243148","",1.235978,49.003063
 "1000364","Temple of Mercury","Mercury","temple","","Niederbronn-les-Bains","FR","","","","","","M","","god","","","Vici.org","","","10648","","39152","","","","","","","","",7.616738,48.960583
-"1000365","Sanctuaire Gallo-Romain","","temple","","Villards-d'Héria","FR","","","","","","","","","","","Vici.org","","","10659","","","","","","","","","","",5.742032,46.423141
-"1000366","Gallo-römischen Heiligtum - Mont Rive","","temple","","Équevillon","FR","","","","","","","","","","","Vici.org","","","10661","","","","","","","","","","",5.922335,46.76136
-"1000367","Heiligtum (Flaviers - Mouzon)","","temple","","Mouzon","FR","","","","","","","","","","","Vici.org","","","10663","","20618","","","","","","","","",5.105447,49.580894
+"1000365","Sanctuary","","temple","","Villards-d'Héria","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","10659","","","","","","","","","","",5.742032,46.423141
+"1000366","Sanctuary","","temple","Mont Rivel","Équevillon","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","10661","","","","","","","","","","",5.922335,46.76136
+"1000367","Sanctuary (Flaviers - Mouzon)","","temple","","Mouzon","FR","","","","","","","","","","","Vici.org","","","10663","","20618","","","","","","","","",5.105447,49.580894
 "1000368","Temple Isarnodurum","","temple","","Izernore","FR","","","","","","","","","","","Vici.org","","","10667","177545","20105","","","","","","","","",5.558579,46.2234
 "1000369","Temple Novioregum","","temple","","Barzan","FR","","","","","","","","","","","Vici.org","","","10672","","","","","","","","","","",-0.879376,45.535629
 "1000370","Roman temple","","temple","Vineyard Château-Bas","Vernègues","FR","327","1st BCE","-1","","","","","","","","Vici.org","","","10684","148046","18074","","","","","","","Q516783","",5.197178,43.681892
@@ -373,23 +373,23 @@
 "1000373","Briga","","temple","","Eu","FR","","","","","","","","","","","Vici.org","","","10923","108771","13746","","","","","","","","",1.462042,50.021584
 "1000374","Temple complex Petromantalum","","temple","","Genainville","FR","","","","","","","","","","","Vici.org","","","11313","109004","18747","","","","","","","","",1.771297,49.120399
 "1000375","Temple of Mars","Mars","temple","","Corseul","FR","","","","","","M","","god","","","Vici.org","","","11360","","20763","","","","","","","","",-2.146052,48.472012
-"1000376","Janus Temple","Janus","temple","","Autun","FR","","","","","","M","","god","","","Vici.org","","","11367","","207950","","","","","","","Q1526555","",4.288465,46.96125
-"1000377","Sanctuaire nord de Châteaubleau","","temple","","Châteaubleau","FR","","","","","","","","","","","Vici.org","","","11418","108879","2130","","","","","","","","",3.109161,48.593163
+"1000376","Temple of Janus","Janus","temple","","Autun","FR","","","","","","M","","god","","","Vici.org","","","11367","","207950","","","","","","Temple_of_Janus_(Autun)","Q1526555","",4.288465,46.96125
+"1000377","Sanctuary","","temple","","Châteaubleau","FR","","","","","","","","","","","Vici.org","","","11418","108879","2130","","","","","","","","",3.109161,48.593163
 "1000378","Tempel Cherre'","","temple","","Aubigné-Racan","FR","","","","","","","","","","","Vici.org","","","11881","","393800","","","","","","","","",0.235538,47.660496
 "1000379","Tempeln Argentomagus","","temple","","Saint-Marcel","FR","","","","","","","","","","","Vici.org","","","11950","","","","","","","","","","",1.51518,46.599777
 "1000380","Tour de Vesone","","temple","","Périgueux","FR","","","","","","","","","","","Vici.org","","","11979","","206160","","","","","","","Q3533474","",0.714345,45.179405
-"1000381","Temple gallo-romain","","temple","","Offemont","FR","","","","","","","","","","","Vici.org","","","14562","","170040","","","","","","","","",6.866085,47.658772
+"1000381","Temple","","temple","","Offemont","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","14562","","170040","","","","","","","","",6.866085,47.658772
 "1000382","Temple forêt Halatte","","temple","","Ognon","FR","","","","","","","","","","","Vici.org","","","14563","335533616","18751","","","","","","","","",2.625384,49.242058
-"1000383","Temple gallo-romain","","temple","","Dax","FR","","","","","","","","","","","Vici.org","","","14566","","206190","","","","","","","Q3517676","",-1.052306,43.709648
-"1000384","Sanctuaire gallo-romain de Margerides","","temple","","Margerides","FR","","","","","","","","","","","Vici.org","","","14568","138447","16974","","","","","","","","",2.426149,45.450756
+"1000383","Temple","","temple","","Dax","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","14566","","206190","","","","","","","Q3517676","",-1.052306,43.709648
+"1000384","Sanctuary","","temple","","Margerides","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","14568","138447","16974","","","","","","","","",2.426149,45.450756
 "1000385","Temple de Mercure de la forêt de Tannière","","temple","","Archettes","FR","","","","","","","","","","","Vici.org","","","14571","","20758","","","","","","","","",6.57349,48.131313
 "1000386","Tour de Grisset","","temple","","Fréteval","FR","","","","","","","","","","","Vici.org","","","14574","138623","18152","","","","","","","","",1.183712,47.896442
-"1000387","Sanctuaire gallo-romain Donon","","temple","","Grandfontaine","FR","","","","","","","","","","","Vici.org","","","14577","","15774","","","","","","","","",7.164421,48.512527
+"1000387","Sanctuary Donon","","temple","","Grandfontaine","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","14577","","15774","","","","","","","","",7.164421,48.512527
 "1000388","Temple - Cathédrale St Jean","","temple","","Alès","FR","","","","","","","","","","","Vici.org","","","14586","","","","","","","","","","",4.0761,44.123901
 "1000389","Fanum - Civaux","","temple","","Civaux","FR","","","","","","","","","","","Vici.org","","","14591","","","","","","","","","","",0.664659,46.444412
 "1000390","Grannum","","temple","","Grand","FR","","","","","","","","","","","Vici.org","","","14743","109016","7783","","","","","","","","",5.48573,48.383953
 "1000391","Temple complex","","temple","","Castelnau-Montratier","FR","","","","","","","","","","","Vici.org","","","15033","138277","17730","","","","","","","","",1.294166,44.272472
-"1000392","Sanctuaire","","temple","","Drevant","FR","","","","","","","","","","","Vici.org","","","16293","","","","","","","","","","",2.520366,46.694786
+"1000392","Sanctuary","","temple","","Drevant","FR","","","","","","","","","","","Vici.org","","","16293","","","","","","","","","","",2.520366,46.694786
 "1000393","Fanum","","temple","","Bennecourt","FR","","","","","","","","","","","Vici.org","","","16326","","","","","","","","","","",1.570312,49.04372
 "1000394","Mons Seleucus","","temple","","La Bâtie-Montsaléon","FR","","","","","","","","","","","Vici.org","","","16332","167836","","","","","","","","","",5.748653,44.456219
 "1000395","Nymphaeum","Nymphs","temple","","Gennes","FR","","","","","","F","","god","","","Vici.org","","","16398","","393910","","","","","","","","",-0.232876,47.337536
@@ -406,7 +406,7 @@
 "1000406","Tour de Eysses","","temple","","Villeneuve-sur-Lot","FR","","","","","","","","","","","Vici.org","","","16703","","","","","","","","","","",0.721229,44.419743
 "1000407","Châtelet","","temple","","Saint-Désirat","FR","","","","","","","","","","","Vici.org","","","16715","","39298","","","","","","","","",4.79432,45.249901
 "1000408","Temple, Brion","","temple","","Saint-Seurin-de-Cadourne","FR","","","","","","","","","","","Vici.org","","","16717","","20175","","","","","","","","",-0.838219,45.282433
-"1000409","Sanctuaire Rajat","","temple","","Murol","FR","","","","","","","","","","","Vici.org","","","16745","","20137","","","","","","","","",2.948923,45.591797
+"1000409","Sanctuary Rajat","","temple","","Murol","FR","","","","","","","","","","","Vici.org","","","16745","","20137","","","","","","","","",2.948923,45.591797
 "1000410","Temple of Diana","","temple","","Aix-les-Bains","FR","","","","","","","","","","","Vici.org","","","16758","","","","","","","","","","",5.914636,45.688812
 "1000411","Temple de Cybèle","","temple","","Lyon","FR","","","","","","","","","","","Vici.org","","","16770","","39462","","","","","","","","",4.818432,45.759602
 "1000412","Temple des Côtes de Clermont","","temple","","Blanzat","FR","","","","","","","","","","","Vici.org","","","16776","","","","","","","","","","",3.078307,45.806736
@@ -415,24 +415,24 @@
 "1000415","Puy Lautard","","temple","","Saint-Pardoux-Morterolles","FR","","","","","","","","","","","Vici.org","","","16805","138527","18100","","","","","","","","",1.869932,45.929768
 "1000416","Puy-de-Joue","","temple","","Saint-Goussaud","FR","","","","","","","","","","","Vici.org","","","16808","138556","37144","","","","","","","","",1.569519,46.033264
 "1000417","Chez Rigros, Saint-Pardoux","","temple","","Saint-Pardoux","FR","","","","","","","","","","","Vici.org","","","16814","","39297","","","","","","","","",1.3012,46.07193
-"1000418","Sanctuaire gallo-romain de Mars Mullo","","temple","","Allonnes","FR","","","","","","","","","","","Vici.org","","","16820","","20731","","","","","","","","",0.166472,47.968758
+"1000418","Sanctuary of Mars Mullo","","temple","","Allonnes","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","16820","","20731","","","","","","","","",0.166472,47.968758
 "1000419","Masamas","","temple","","Saint-Léomer","FR","","","","","","","","","","","Vici.org","","","16834","138451","17638","","","","","","","","",0.972868,46.399273
 "1000420","Lac-d'Antre","","temple","","Villards-d'Héria","FR","","","","","","","","","","","Vici.org","","","16835","","39331","","","","","","","","",5.752648,46.415447
-"1000421","Sanctuaire Tours Mirandes","","temple","","Vendeuvre-du-Poitou","FR","","","","","","","","","","","Vici.org","","","16850","","","","","","","","","","",0.293851,46.740105
+"1000421","Sanctuary Tours Mirandes","","temple","","Vendeuvre-du-Poitou","FR","","","","","","","","","","","Vici.org","","","16850","","","","","","","","","","",0.293851,46.740105
 "1000422","Les Fons Clairins","","temple","","Uzay-le-Venon","FR","","","","","","","","","","","Vici.org","","","16855","","20624","","","","","","","","",2.411545,46.813335
 "1000423","Thaumiers","","temple","","Thaumiers","FR","","","","","","","","","","","Vici.org","","","16856","138615","17703","","","","","","","","",2.639874,46.81356
 "1000424","Le Bioulet","","temple","","Pupillin","FR","","","","","","","","","","","Vici.org","","","16861","","39459","","","","","","","","",5.7476,46.869949
-"1000425","Sanctuaire d'Alléans","","temple","","Baugy","FR","","","","","","","","","","","Vici.org","","","16865","","","","","","","","","","",2.749274,47.0793
+"1000425","Sanctuary of Alléans","","temple","","Baugy","FR","","","","","","","","","","","Vici.org","","","16865","","","","","","","","","","",2.749274,47.0793
 "1000426","La Touratte","","temple","","Dun-sur-Auron","FR","","","","","","","","","","","Vici.org","","","16868","","20622","","","","","","","","",2.548355,46.903824
 "1000427","Pied de Bourges","","temple","","Clion","FR","","","","","","","","","","","Vici.org","","","16874","","20503","","","","","","","","",1.225093,46.946854
-"1000428","Sanctuaires","","temple","","Boncourt-le-Bois","FR","","","","","","","","","","","Vici.org","","","16892","","","","","","","","","","",5.001985,47.139778
+"1000428","Sanctuaries","","temple","","Boncourt-le-Bois","FR","","","","","","","","","","","Vici.org","","","16892","","","","","","","","","","",5.001985,47.139778
 "1000429","Fourneaux","","temple","","Montreuil-Bellay","FR","","","","","","","","","","","Vici.org","","","16901","138471","17457","","","","","","","","",-0.08869,47.102268
 "1000430","Temple","","temple","","Chênehutte-Trèves-Cunault","FR","","","","","","","","","","","Vici.org","","","16920","","20780","","","","","","","","",-0.161236,47.305702
 "1000431","Villate","","temple","","Neuvy-sur-Barangeon","FR","","","","","","","","","","","Vici.org","","","16921","138484","20623","","","","","","","","",2.297843,47.307056
 "1000432","Petit-Mars","","temple","","Petit-Mars","FR","","","","","","","","","","","Vici.org","","","16928","138512","18115","","","","","","","","",-1.468336,47.390633
 "1000433","Temple antique","","temple","","Tours","FR","","","","","","","","","","","Vici.org","","","16930","","7874","","","","","","","","",0.68807,47.3936
 "1000434","Sources de la Seine","","temple","","Poncey-sur-l'Ignon","FR","","","","","","","","","","","Vici.org","","","16939","","20161","","","","","","","","",4.719573,47.484905
-"1000435","Temple gallo-romain","","temple","","Vannes","FR","","","","","","","","","","","Vici.org","","","16954","","39461","","","","","","","","",-2.750201,47.671444
+"1000435","Temple","","temple","","Vannes","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","16954","","39461","","","","","","","","",-2.750201,47.671444
 "1000436","Nal, La Vraie-Croix","","temple","","La Vraie-Croix","FR","","","","","","","","","","","Vici.org","","","16959","","39101","","","","","","","","",-2.505833,47.700558
 "1000437","Moncelon","","temple","","Briou","FR","","","","","","","","","","","Vici.org","","","16970","138290","18151","","","","","","","","",1.476534,47.821045
 "1000438","La Tour","","temple","","Sablé-sur-Sarthe","FR","","","","","","","","","","","Vici.org","","","16971","","20733","","","","","","","","",-0.353501,47.83168
@@ -478,8 +478,8 @@
 "1000478","Les Huit Journaux","","temple","","Beauval","FR","","","","","","","","","","","Vici.org","","","17188","","26626","","","","","","","","",2.34789,50.132519
 "1000479","Petit fanum","","temple","","Cocquerel","FR","","","","","","","","","","","Vici.org","","","17190","","","","","","","","","","",1.938265,50.05582
 "1000480","Le Fief du Bac","","temple","","Proyart","FR","","","","","","","","","","","Vici.org","","","17191","","42228","","","","","","","","",2.702727,49.887169
-"1000481","Sanctuaire","","temple","","Pont-Sainte-Maxence","FR","","","","","","","","","","","Vici.org","","","18732","","","","","","","","","","",2.604453,49.316475
-"1000482","Gallo-Roman temple","","temple","","Remiencourt","FR","","","","","","","","","","","Vici.org","","","18807","","","","","","","","","","",2.392164,49.779976
+"1000481","Sanctuary","","temple","","Pont-Sainte-Maxence","FR","","","","","","","","","","","Vici.org","","","18732","","","","","","","","","","",2.604453,49.316475
+"1000482","Temple","","temple","","Remiencourt","FR","","","","","","","","","Gallo-Roman","","Vici.org","","","18807","","","","","","","","","","",2.392164,49.779976
 "1000483","Fanum","","temple","","Sorcy-Saint-Martin","FR","","","","","","","","","","","Vici.org","","","19368","","","","","","","","","","",5.63705,48.697834
 "1000484","Complexe cultuel","","temple","","Amel-sur-l'Étang","FR","","","","","","","","","","","Vici.org","","","19374","","","","","","","","","","",5.642999,49.26498
 "1000485","Fanum au Pont-Verdunois","","temple","","Lachalade","FR","","","","","","","","","","","Vici.org","","","19381","","","","","","","","","","",4.960401,49.158867
@@ -491,12 +491,12 @@
 "1000491","Hafentempel Colonia Ulpia Traiana","","temple","","Xanten","DE","","","","","","","","","","","","","Hafentempel","102","","","","","","","","","","",6.446255,51.66938
 "1000492","Capitolium CCAA","","temple","","Köln","DE","","","","","","","","","","","","","Tempel voor Jupiter, Juno en Minerva.","357","","","","","","","","","","",6.958396,50.934589
 "1000493","Marstempel CCAA","","temple","","Köln","DE","","","","","","","","","","","","","Tempel voor Mars, naast de marspoort.","358","","","","","","","","","","",6.958447,50.937386
-"1000494","Gallo-romeinse tempels CCAA","","temple","","Köln","DE","","","","","","","","","","","","","Gallo-romeinse tempels, gelegen aan de stadmuur.","359","","","","","","","","","","",6.94602,50.934933
+"1000494","Temples CCAA","","temple","","Köln","DE","","","","","","","","","Gallo-Roman","","","","Gallo-romeinse tempels, gelegen aan de stadmuur.","359","","","","","","","","","","",6.94602,50.934933
 "1000495","Matronentempel","","temple","","Nettersheim","DE","","","","","","","","","","","","","Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905","","","","","","","","","","",6.618147,50.482342
-"1000496","Gallorömischer Tempel Görresburg","","temple","","Nettersheim","DE","","","","","","","","","","","","","Gallorömischer Umgangstempel Görresburg","4906","","","","","","","","","","",6.618158,50.482292
+"1000496","Temple Görresburg","","temple","","Nettersheim","DE","","","","","","","","","Gallo-Roman","","","","Gallorömischer Umgangstempel Görresburg","4906","","","","","","","","","","",6.618158,50.482292
 "1000497","Weihetempel","","temple","","Ernzen","DE","","","","","","","","","","","","","","4907","","","","","","","","","","",6.42365,49.84346
 "1000498","Judenkirchhof - Römischer Tempelbezirk - Pelm","","temple","","Gerolstein","DE","","","","","","","","","","","","","Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de","5696","","","","","","","","","","",6.674787,50.230743
-"1000499","Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hoch","","temple","","Hochschegoogleid","DE","","","","","","","","","","","","","Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de","5697","","","","","","","","","","",7.232887,49.86454
+"1000499","Pilgerheiligtum - Sirona-Tempel - Forsthaus Hoch","","temple","","Hochschegoogleid","DE","","","","","","","","","","","","","Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de","5697","","","","","","","","","","",7.232887,49.86454
 "1000500","Römische Tempelanlage Auf Borstadt - Schleidweiler","","temple","","Zemmer","DE","","","","","","","","","","","","","Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de","5699","","","","","","","","","","",6.658008,49.885769
 "1000501","Römische Tempelanlage - Gusenburg","","temple","","Hermeskeil","DE","","","","","","","","","","","","","Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de","5700","","","","","","","","","","",6.925347,49.642498
 "1000502","Römische Tempelanlage","","temple","","Schalkenmehren","DE","","","","","","","","","","","","","Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de","5701","","","","","","","","","","",6.843915,50.151859
@@ -504,109 +504,109 @@
 "1000504","Römischer Tempelbezirk auf dem Metzenberg - Tawern","","temple","","Nittel","DE","","","","","","","","","","","","","Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de","5703","","","","","","","","de=Römischer_Tempelbezirk_Tawern","Q1460725","",6.509661,49.664539
 "1000505","Römischer Tempelbezirk","","temple","","Nattenheim","DE","","","","","","","","","","","","","Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de","5704","","","","","","","","","","",6.518407,50.020042
 "1000506","Römischer Tempelbezirk - Otrang","","temple","","Fließem","DE","","","","","","","","","","","","","Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de","5705","","","","","","","","","","",6.546174,50.013863
-"1000507","Tempel am Herrenbrünnchen - Neu-Heiligkreuz","","temple","","TR","DE","","","","","","","","","","","","","Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de","5707","","","","","","","","","","",6.646463,49.745407
-"1000508","Tempel auf dem Gelände des Mutterhauses - Altstadt","","temple","","TR","DE","","","","","","","","","","","","","Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de","5708","","","","","","","","","Q723125","",6.630699,49.754078
-"1000509","Tempel mit Säulenvorbau - Alt-Heiligkreuz","","temple","","TR","DE","","","","","","","","","","","","","Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de","5709","","","","","","","","","","",6.642509,49.746544
-"1000510","Tempel mit Vorhalle - Alt-Heiligkreuz","","temple","","TR","DE","","","","","","","","","","","","","Tempel mit Vorhalle - Alt-Heiligkreuz -point imported from roscheiderhof.de","5710","","","","","","","","","","",6.642539,49.746704
+"1000507","Tempel am Herrenbrünnchen - Neu-Heiligkreuz","","temple","","Trier","DE","","","","","","","","","","","","","Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de","5707","","","","","","","","","","",6.646463,49.745407
+"1000508","Tempel auf dem Gelände des Mutterhauses - Altstadt","","temple","","Trier","DE","","","","","","","","","","","","","Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de","5708","","","","","","","","","Q723125","",6.630699,49.754078
+"1000509","Tempel mit Säulenvorbau - Alt-Heiligkreuz","","temple","","Trier","DE","","","","","","","","","","","","","Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de","5709","","","","","","","","","","",6.642509,49.746544
+"1000510","Tempel mit Vorhalle - Alt-Heiligkreuz","","temple","","Trier","DE","","","","","","","","","","","","","Tempel mit Vorhalle - Alt-Heiligkreuz -point imported from roscheiderhof.de","5710","","","","","","","","","","",6.642539,49.746704
 "1000511","Tempelanlage Beim Lindenkreuz - Münzschatz","","temple","","Gusterath","DE","","","","","","","","","","","","","Tempelanlage Beim Lindenkreuz - Münzschatz - Gusterath -point imported from roscheiderhof.de","5711","","","","","","","","","","",6.705217,49.703876
-"1000512","Tempelanlage Beim Lindenkreuz - Umgangstempel","","temple","","Gusterath","DE","","","","","","","","","","","","","Tempelanlage Beim Lindenkreuz - Umgangstempel - Gusterath -point imported from roscheiderhof.de","5712","","","","","","","","","","",6.705037,49.703884
-"1000513","Tempelanlage","","temple","","Neidenbach","DE","","","","","","","","","","","","","Tempelanlage - Neidenbach -point imported from roscheiderhof.de","5713","","","","","","","","","","",6.563914,50.107349
-"1000514","Tempelbezirk des Lenus Mars - Trier-West","","temple","","TR","DE","","","","","","","","","","","","","Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de","5714","","","","","","","","","","",6.613711,49.749973
-"1000515","Tempelbezirk","","temple","","Heckenmünster","DE","","","","","","","","","","","","","Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de","5715","","","","","","","","","","",6.787938,49.89975
-"1000516","Tempelbezirk - Hinzerath","","temple","","Morbach","DE","","","","","","","","","","","","","Tempelbezirk - Hinzerath -point imported from roscheiderhof.de","5716","","","","","","","","","","",7.165844,49.855228
-"1000517","Tempelheiligtum - Butzweiler","","temple","","Newel","DE","","","","","","","","","","","","","Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de","5717","","","","","","","","","","",6.606158,49.809135
-"1000518","Vermutete Tempelanlage","","temple","","Aach","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de","5719","","","","","","","","","","",6.582847,49.779331
-"1000519","Vermutete Tempelanlage","","temple","","Meckel","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de","5720","","","","","","","","","","",6.518048,49.888115
-"1000520","Vermutete Tempelanlage","","temple","","Röhl","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Röhl -point imported from roscheiderhof.de","5721","","","","","","","","","","",6.576705,49.948616
+"1000512","Temple area","","temple","Lindenkreuz","Gusterath","DE","","","","","","","","","","","","","Tempelanlage Beim Lindenkreuz - Umgangstempel - Gusterath -point imported from roscheiderhof.de","5712","","","","","","","","","","",6.705037,49.703884
+"1000513","Temple area","","temple","","Neidenbach","DE","","","","","","","","","","","","","Tempelanlage - Neidenbach -point imported from roscheiderhof.de","5713","","","","","","","","","","",6.563914,50.107349
+"1000514","Temple area","Mars-Lenus","temple","Trier-West","Trier","DE","","","","","","","","","","","","","Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de","5714","","","","","","","","","","",6.613711,49.749973
+"1000515","Temple area","","temple","","Heckenmünster","DE","","","","","","","","","","","","","Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de","5715","","","","","","","","","","",6.787938,49.89975
+"1000516","Temple area","","temple","Hinzerath","Morbach","DE","","","","","","","","","","","","","Tempelbezirk - Hinzerath -point imported from roscheiderhof.de","5716","","","","","","","","","","",7.165844,49.855228
+"1000517","Temple Sanctuary","","temple","Butzweiler","Newel","DE","","","","","","","","","","","","","Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de","5717","","","","","","","","","","",6.606158,49.809135
+"1000518","Presumed temple area","","temple","","Aach","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de","5719","","","","","","","","","","",6.582847,49.779331
+"1000519","Presumed temple area","","temple","","Meckel","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de","5720","","","","","","","","","","",6.518048,49.888115
+"1000520","Presumed temple area","","temple","","Röhl","DE","","","","","","","","","","","","","Vermutete Tempelanlage - Röhl -point imported from roscheiderhof.de","5721","","","","","","","","","","",6.576705,49.948616
 "1000521","Vermutete Tempelbauten","","temple","","Oberkail","DE","","","","","","","","","","","","","Vermutete Tempelbauten - Oberkail -point imported from roscheiderhof.de","5722","","","","","","","","","","",6.695539,50.032089
 "1000522","Vermuteter Tempel","","temple","","Bengel","DE","","","","","","","","","","","","","Vermuteter Tempel - Bengel -point imported from roscheiderhof.de","5723","","","","","","","","","","",7.073928,50.040829
 "1000523","Vermutetes römisches Heiligtum - Tempelhof","","temple","","Mülbach","DE","","","","","","","","","","","","","Vermutetes römisches Heiligtum - Tempelhof -point imported from roscheiderhof.de","5724","","","","","","","","","","",6.390636,49.965935
 "1000524","Überreste eines Tempels - Grindelborn","","temple","","Mürlenbach","DE","","","","","","","","","","","","","Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de","5725","","","","","","","","","","",6.631656,50.141296
-"1000525","Umgangstempel und Gräberbezirk","","temple","","Newel","DE","","","","","","","","","","","","","Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de","6087","","","","","","","","","","",6.60087,49.810493
-"1000526","Gallo-römischer Tempelbezirk Bierbach","","temple","","Homburg","DE","","","","","","","","","","","","","","6324","","","","","","","","","Q1492512","",7.2925,49.297417
-"1000527","Merkurtempel Koblenzer Stadtwald","","temple","","KO","DE","","","","","","","","","","","","","Merkurtempel Koblenz","8140","","","","","","","","","","",7.570019,50.293213
-"1000528","Tempelbezirk Mars-Lenus","","temple","","Pommern","DE","","","","","","","","","","","","","Tempelbezirk Mars/Lenus","8141","","","","","","","","","Q1234219","",7.286287,50.17915
-"1000529","Heiligtum - Tempel","","temple","","Taunusstein","DE","","","","","","","","","","","","","","8144","","","","","","","","","","",8.204134,50.191593
+"1000525","Temple and burial precinct","","temple","","Newel","DE","","","","","","","","","","","","","Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de","6087","","","","","","","","","","",6.60087,49.810493
+"1000526","Temple area","","temple","","Homburg","DE","","","","","","","","","Gallo-Roman","","","","","6324","","","","","","","","","Q1492512","",7.2925,49.297417
+"1000527","Temple of Mercury","","temple","Koblenzer Stadtwald","Koblenz","DE","","","","","","","","","","","","","Merkurtempel Koblenz","8140","","","","","","","","","","",7.570019,50.293213
+"1000528","Temple area","Mars-Lenus","temple","","Pommern","DE","","","","","","","","","","","","","Tempelbezirk Mars/Lenus","8141","","","","","","","","","Q1234219","",7.286287,50.17915
+"1000529","Sanctuary - Temple","","temple","","Taunusstein","DE","","","","","","","","","","","","","","8144","","","","","","","","","","",8.204134,50.191593
 "1000530","Apollo-Grannus-Tempel (Faimingen)","","temple","","Lauingen","DE","","","","","","","","","","","","","Apollo-Grannus-Tempel","8179","","","","","","","","","Q618934","",10.409117,48.561783
 "1000531","Bergheiligtum auf dem Calmont","","temple","","Bremm","DE","","","","","","","","","","","","","","8182","","40734","","","","","","","","",7.12365,50.109138
-"1000532","Quellheiligtum (Sudelfels)","","temple","","Wallerfangen","DE","","","","","","","","","","","","","","8203","","","","","","","","","Q1533630","",6.606687,49.336136
-"1000533","Tempelbezirk (Pesch)","","temple","","Bad Münstereifel","DE","","","","","","","","","","","","","Heidentempel","8205","","","","","","","","","Q1408110","",6.703,50.533657
+"1000532","Spring Sanctuary (Sudelfels)","","temple","","Wallerfangen","DE","","","","","","","","","","","","","","8203","","","","","","","","","Q1533630","",6.606687,49.336136
+"1000533","Temple area","","temple","Pesch","Bad Münstereifel","DE","","","","","","","","","","","","","Heidentempel","8205","","","","","","","","","Q1408110","",6.703,50.533657
 "1000534","Matronenheiligtum ""Vor Hirschberg""","","temple","","Nettersheim","DE","","","","","","","","","","","","","Matronenheiligtum","8206","","","","","","","","","","",6.651904,50.502647
-"1000535","Mithras Heiligtum (Halberg)","Mithras","mithraeum","","Saarbrücken","DE","","","","","","","","","","","","","","8220","","","","","","","","","","",7.02788,49.222488
-"1000536","Tempel","","temple","","Rheinfelden (Baden)","DE","","","","","","","","","","","","","Tempel (Rheinfelden (Baden))","8249","","","","","","","","","","",7.761292,47.57542
-"1000537","Kultbezirk (Sontheim)","","temple","","Sontheim an der Brenz","DE","","","","","","","","","","","","","","8264","","","","","","","","","","",10.290641,48.548004
+"1000535","Mithraeum","Mithras","mithraeum","Halberg","Saarbrücken","DE","","","","","","","","","","","","","","8220","","","","","","","","","","",7.02788,49.222488
+"1000536","Temple","","temple","","Rheinfelden (Baden)","DE","","","","","","","","","","","","","Tempel (Rheinfelden (Baden))","8249","","","","","","","","","","",7.761292,47.57542
+"1000537","Cult area","","temple","","Sontheim an der Brenz","DE","","","","","","","","","","","","","","8264","","","","","","","","","","",10.290641,48.548004
 "1000538","Mithraeum","Mithras","mithraeum","","Königsbrunn","DE","","","","","","","","","","","","","Mithras Heiligtum","8282","","","","","","","","","","",10.87458,48.274055
 "1000539","Römisches Haus","","temple","","Stuttgart","DE","","","","","","","","","","","","","Römisches Haus (Stuttgart)","8419","","","","","","","","","Q1722809","",9.101792,48.762733
-"1000540","Dianatempel","","temple","","Meßkirch","DE","","","","","","","","","","","","","Dianatempel (Meßkirch)","8420","","","","","","","","","","",9.053611,47.986389
-"1000541","Lapidarium (Steinheim - Murr)","","temple","","Steinheim an der Murr","DE","","","","","","","","","","","","","Lapidarium (Steinheim / Murr)","8426","","","","","","","","","","",9.286698,48.970776
-"1000542","Römisches Quellheiligtum","","temple","","Holsthum","DE","","","","","","","","","","","","","Römisches Quellheiligtum (Holsthum)","8448","","","","","","","","","","",6.442838,49.890659
+"1000540","Temple of Diana","","temple","","Meßkirch","DE","","","","","","","","","","","","","Dianatempel (Meßkirch)","8420","","","","","","","","","","",9.053611,47.986389
+"1000541","Lapidarium","","temple","","Steinheim an der Murr","DE","","","","","","","","","","","","","Lapidarium (Steinheim / Murr)","8426","","","","","","","","","","",9.286698,48.970776
+"1000542","Spring Sanctuary","","temple","","Holsthum","DE","","","","","","","","","Roman","","","","Römisches Quellheiligtum (Holsthum)","8448","","","","","","","","","","",6.442838,49.890659
 "1000543","Bergheiligtum auf dem Beinter Kopf","","temple","","Zell (Mosel)","DE","","","","","","","","","","","","","","9636","","","","","","","","","","",7.178739,50.012611
 "1000544","Wachtturm 10-37b ""Schneidershecke""","","temple","","Mudau","DE","","","","","","","","","","","","","Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881","","","","","","","","","","",9.128879,49.550064
-"1000545","Mithräum","Mithras","mithraeum","","Güglingen","DE","","","","","","","","","","","","","Mithräum (Güglingen)","9968","","","","","","","","","","",9.005662,49.061623
-"1000546","Tempelbezirk Cambodunum","","temple","","Kempten (Allgäu)","DE","","","","","","","","","","","","","","9969","","","","","","","","","","",10.322745,47.727634
-"1000547","Römischer Podiumstempel","","temple","","Badenweiler","DE","","","","","","","","","","","","","Römischer Podiumstempel (Badenweiler)","9970","","","","","","","","","","",7.671381,47.801346
-"1000548","Varnenum","","temple","","AC","DE","","","","","","","","","","","","","Tempelbezirk Varnenum","10018","109411","","","","","","","de=Varnenum","","",6.193684,50.729584
-"1000549","Mithras-Heiligtum (Gimmeldingen)","Mithras","mithraeum","","Neustadt an der Weinstraße","DE","","","","","","","","","","","","","","10019","","","","","","","","","Q1313072","",8.157275,49.373943
-"1000550","Mithras Heiligtum (Wachstein)","Mithras","mithraeum","","Theilenhofen","DE","","","","","","","","","","","","","","10071","","","","","","","","","","",10.832198,49.073357
-"1000551","Dolichenum Vetoniana (Pfünz)","","temple","","Walting","DE","","","","","","","","","","","","","","10087","","","","","","","","","","",11.263725,48.882706
+"1000545","Mithraeum","Mithras","mithraeum","","Güglingen","DE","","","","","","","","","","","","","Mithräum (Güglingen)","9968","","","","","","","","","","",9.005662,49.061623
+"1000546","Temple area","","temple","Cambodunum","Kempten (Allgäu)","DE","","","","","","","","","","","","","","9969","","","","","","","","","","",10.322745,47.727634
+"1000547","Temple","","temple","","Badenweiler","DE","","","","","","","","","Roman","","","","Römischer Podiumstempel (Badenweiler)","9970","","","","","","","","","","",7.671381,47.801346
+"1000548","Varnenum","","temple","","Aachen","DE","","","","","","","","","","","","","Tempelbezirk Varnenum","10018","109411","","","","","","","de=Varnenum","","",6.193684,50.729584
+"1000549","Mithraeum","Mithras","mithraeum","Gimmeldingen","Neustadt an der Weinstraße","DE","","","","","","","","","","","","","","10019","","","","","","","","","Q1313072","",8.157275,49.373943
+"1000550","Mithraeum","Mithras","mithraeum","Wachstein","Theilenhofen","DE","","","","","","","","","","","","","","10071","","","","","","","","","","",10.832198,49.073357
+"1000551","Dolichenum Vetoniana","","temple","Pfünz","Walting","DE","","","","","","","","","","","","","","10087","","","","","","","","","","",11.263725,48.882706
 "1000552","Bergheiligtum","","temple","","Jettenbach","DE","","","","","","","","","","","","","Bergheiligtum (Jettenbach)","10328","","","","","","","","","","",7.561576,49.543842
 "1000553","Mithraeum Pons Aeni","Mithras","mithraeum","","Prutting","DE","","","","","","","","","","","","","","10422","","","","","","","","","","",12.146881,47.895569
-"1000554","Mithräum","Mithras","mithraeum","","Riegel am Kaiserstuhl","DE","","","","","","","","","","","","","Mithräum (Riegel am Kaiserstuhl)","10471","","","","","","","","","","",7.746531,48.150002
-"1000555","Tempel von ""Mercurius Cimbrianus""","","temple","","Heidelberg","DE","","","","","","","","","","","","","","10493","","","","","","","","","","",8.706383,49.425861
+"1000554","Mithraeum","Mithras","mithraeum","","Riegel am Kaiserstuhl","DE","","","","","","","","","","","","","Mithräum (Riegel am Kaiserstuhl)","10471","","","","","","","","","","",7.746531,48.150002
+"1000555","Temple of Cimbrian Mercury","Mercury","temple","","Heidelberg","DE","","","","","","","","","","","","","","10493","","","","","","","","","","",8.706383,49.425861
 "1000556","Fossa Sanguinis","","temple","","Neuss","DE","","","","","","","","","","","","","Fossa Sanguinis (Kybele-Kultstätte)","12931","","","","","","","http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette","de=Fossa_Sanguinis","Q1794981","",6.717542,51.183834
 "1000557","Maienbühl, Riehen","","temple","","Inzlingen","DE","","","","","","","","","","","","","","13164","","38834","","","","","","","","",7.68094,47.594391
-"1000558","Mithraeum (Mundelsheim)","Mithras","mithraeum","","Besigheim","DE","","","","","","","","","","","","","","13937","","","","","","","","","","",9.210657,49.008961
-"1000559","Umgangstempel","","temple","","Langenau","DE","","","","","","","","","","","","","Umgangstempel (Langenau)","14194","","","","","","","","","","",10.119792,48.496727
+"1000558","Mithraeum","Mithras","mithraeum","Mundelsheim","Besigheim","DE","","","","","","","","","","","","","","13937","","","","","","","","","","",9.210657,49.008961
+"1000559","Temple","","temple","","Langenau","DE","","","","","","","","","","","","","Umgangstempel (Langenau)","14194","","","","","","","","","","",10.119792,48.496727
 "1000560","Mithraeum Arnsburg","Mithras","mithraeum","","Lich","DE","","","","","","","","","","","","","","14208","","","","","","","","","","",8.78527,50.484314
-"1000561","Umgangstempel (Michaelsberg)","","temple","","Cleebronn","DE","","","","","","","","","","","","","","14218","","","","","","","","","","",9.04568,49.03854
-"1000562","Bergheiligtum","","temple","","Gengenbach","DE","","","","","","","","","","","","","Bergheiligtum (Gengenbach)","14246","","","","","","","","","","",8.020556,48.407143
-"1000563","Mithräum I","Mithras","mithraeum","","Güglingen","DE","","","","","","","","","","","","","Mithräum I (Güglingen)","14249","","","","","","","","","","",9.00468,49.06266
-"1000564","Mitraeum I","Mithras","mithraeum","","Heidelberg","DE","","","","","","","","","","","","","Mitraeum I (Heidelberg)","14253","","","","","","","","","","",8.679235,49.415855
-"1000565","Mitraeum II","Mithras","mithraeum","","Heidelberg","DE","","","","","","","","","","","","","Mitraeum II (Heidelberg)","14254","","","","","","","","","","",8.693815,49.413967
-"1000566","Tempelanlage (Greinberg)","","temple","","Miltenberg","DE","","","","","","","","","","","","","","14395","","","","","","","","","","",9.241514,49.692158
-"1000567","Gallo-römischer Umgangstempel (Orsingen)","","temple","","Orsingen-Nenzingen","DE","","","","","","","","","","","","","","14441","","","","","","","","","","",8.939867,47.84251
+"1000561","Temple","","temple","Michaelsberg","Cleebronn","DE","","","","","","","","","","","","","","14218","","","","","","","","","","",9.04568,49.03854
+"1000562","Mountain Sanctuary","","temple","","Gengenbach","DE","","","","","","","","","","","","","Bergheiligtum (Gengenbach)","14246","","","","","","","","","","",8.020556,48.407143
+"1000563","Mithraeum I","Mithras","mithraeum","","Güglingen","DE","","","","","","","","","","","","","Mithräum I (Güglingen)","14249","","","","","","","","","","",9.00468,49.06266
+"1000564","Mithraeum I","Mithras","mithraeum","","Heidelberg","DE","","","","","","","","","","","","","Mitraeum I (Heidelberg)","14253","","","","","","","","","","",8.679235,49.415855
+"1000565","Mithraeum II","Mithras","mithraeum","","Heidelberg","DE","","","","","","","","","","","","","Mitraeum II (Heidelberg)","14254","","","","","","","","","","",8.693815,49.413967
+"1000566","Temple area","","temple","Greinberg","Miltenberg","DE","","","","","","","","","","","","","","14395","","","","","","","","","","",9.241514,49.692158
+"1000567","Temple","","temple","Orsingen","Orsingen-Nenzingen","DE","","","","","","","","","Gallo-Roman","","","","","14441","","","","","","","","","","",8.939867,47.84251
 "1000568","Weihebezirk","","temple","","Osterburken","DE","","","","","","","","","","","","","Weihebezirk (Osterburken)","14445","","","","","","","","","","",9.425451,49.430134
-"1000569","Tempelbezirk Sumelocenna","","temple","","Rottenburg am Neckar","DE","","","","","","","","","","","","","","14452","","","","","","","","","","",8.932575,48.478004
-"1000570","Tempelbezirk I","","temple","","Rottweil","DE","","","","","","","","","","","","","Tempelbezirk I (Rottweil)","14458","","","","","","","","","","",8.64558,48.154785
-"1000571","Tempelbezirk II","","temple","","Rottweil","DE","","","","","","","","","","","","","Tempelbezirk II (Rottweil)","14459","","","","","","","","","","",8.645009,48.15276
-"1000572","Heiligtum","","temple","","Schorndorf","DE","","","","","","","","","","","","","Heiligtum (Schorndorf)","14465","","","","","","","","","","",9.508077,48.814072
+"1000569","Temple area","","temple","Sumelocenna","Rottenburg am Neckar","DE","","","","","","","","","","","","","","14452","","","","","","","","","","",8.932575,48.478004
+"1000570","Temple area I","","temple","","Rottweil","DE","","","","","","","","","","","","","Tempelbezirk I (Rottweil)","14458","","","","","","","","","","",8.64558,48.154785
+"1000571","Temple area II","","temple","","Rottweil","DE","","","","","","","","","","","","","Tempelbezirk II (Rottweil)","14459","","","","","","","","","","",8.645009,48.15276
+"1000572","Sanctuary","","temple","","Schorndorf","DE","","","","","","","","","","","","","Heiligtum (Schorndorf)","14465","","","","","","","","","","",9.508077,48.814072
 "1000573","Merkurheiligtum (Sauhag)","","temple","","Neuhausen auf den Fildern","DE","","","","","","","","","","","","","","14482","","","","","","","","","","",9.293082,48.673996
 "1000574","Tempel (Unterböbingen)","","temple","","Böbingen an der Rems","DE","","","","","","","","","","","","","","14492","","","","","","","","","","",9.92597,48.817959
-"1000575","Heiligtum (St. Johann)","","temple","","Rheinstetten","DE","","","","","","","","","","","","","","14534","","","","","","","","","","",8.365316,48.952354
-"1000576","Tempel","","temple","","Gemmrigheim","DE","","","","","","","","","","","","","Tempel (Gemmrigheim)","14596","","","","","","","","","","",9.176175,49.013542
+"1000575","Sanctuary (St. Johann)","","temple","","Rheinstetten","DE","","","","","","","","","","","","","","14534","","","","","","","","","","",8.365316,48.952354
+"1000576","Temple","","temple","","Gemmrigheim","DE","","","","","","","","","","","","","Tempel (Gemmrigheim)","14596","","","","","","","","","","",9.176175,49.013542
 "1000577","Temple on the Kalkarberg","","temple","","Kalkar","DE","","","","","","","","","","","","","Sanctuary of the local goddess Vagdavercustis","14930","","","","","","","","","","",6.285232,51.728806
-"1000578","Tempel","","temple","","Miltenberg","DE","","","","","","","","","","","","","Tempel (Miltenberg)","14991","","","","","","","","","","",9.236975,49.702648
-"1000579","Mitraeum (Ober-Florstadt)","Mithras","mithraeum","","Florstadt","DE","","","","","","","","","","","","","","15079","","","","","","","","","","",8.875741,50.325161
-"1000580","Heiligtum (Heidenpütz)","","temple","","Morbach","DE","","","","","","","","","","","","","","15092","","","","","","","","","","",7.072406,49.84407
-"1000581","Tempel","","temple","","Barweiler","DE","","","","","","","","","","","","","Tempel (Barweiler)","15544","","","","","","","","","","",6.866581,50.356865
-"1000582","Merkur-Heiligtum (Gangloff)","","temple","","Waldgrehweiler","DE","","","","","","","","","","","","","","15553","","","","","","","","","","",7.706888,49.653168
-"1000583","Mercuriustempel (Bingen)","","temple","","Bingen am Rhein","DE","","","","","","","","","","","","","","15671","","","","","","","","","","",7.8924,49.966831
-"1000584","Heiligtum","","temple","","Bitburg","DE","","","","","","","","","","","","","Heiligtum (Bitburg)","15674","","","","","","","","","","",6.526544,49.977505
+"1000578","Temple","","temple","","Miltenberg","DE","","","","","","","","","","","","","Tempel (Miltenberg)","14991","","","","","","","","","","",9.236975,49.702648
+"1000579","Mithraeum (Ober-Florstadt)","Mithras","mithraeum","","Florstadt","DE","","","","","","","","","","","","","","15079","","","","","","","","","","",8.875741,50.325161
+"1000580","Sanctuary (Heidenpütz)","","temple","","Morbach","DE","","","","","","","","","","","","","","15092","","","","","","","","","","",7.072406,49.84407
+"1000581","Temple","","temple","","Barweiler","DE","","","","","","","","","","","","","Tempel (Barweiler)","15544","","","","","","","","","","",6.866581,50.356865
+"1000582","Sanctuary of Mercury (Gangloff)","","temple","","Waldgrehweiler","DE","","","","","","","","","","","","","","15553","","","","","","","","","","",7.706888,49.653168
+"1000583","Temple of Mercury (Bingen)","Mercury","temple","","Bingen am Rhein","DE","","","","","","","","","","","","","","15671","","","","","","","","","","",7.8924,49.966831
+"1000584","Sanctuary","","temple","","Bitburg","DE","","","","","","","","","","","","","Heiligtum (Bitburg)","15674","","","","","","","","","","",6.526544,49.977505
 "1000585","Matronentempel","","temple","","Xanten","DE","","","","","","","","","","","","","Tempel voor de moedergodinnen","15679","","","","","","","","","","",6.444876,51.665062
-"1000586","Gallo-römische Tempelanlage (Brachtendorf)","","temple","","Dünfus","DE","","","","","","","","","","","","","","15681","","","","","","","","","","",7.2154,50.218475
-"1000587","Tempel (Heidenkopf)","","temple","","Breitenbach","DE","","","","","","","","","","","","","","15686","","","","","","","","","","",7.288409,49.434444
-"1000588","Tempel (Lohrsdorf)","","temple","","Bad Neuenahr-Ahrweiler","DE","","","","","","","","","","","","","","16281","","","","","","","","","","",7.193636,50.552776
-"1000589","Gallo-römisches Quellheiligtum Kasbruch","","temple","","Neunkirchen","DE","","","","","","","","","","","","","","16336","","","","","","","","","","",7.213664,49.337135
-"1000590","Mithräum","Mithras","mithraeum","","Xanten","DE","","","","","","","","","","","","","","17413","","","","","","","","","","",6.462894,51.659077
-"1000591","Tempel","","temple","","Aachen","DE","","","","","","","","","","","","","","18766","","","","","","","","","","",6.085007,50.775005
-"1000592","Gallo-Römischer Umgangstempel (Straß)","","temple","","Nersingen","DE","","","","","","","","","","","","","","18940","","","","","","","","","","",10.137369,48.411995
+"1000586","Temple area","","temple","Brachtendorf","Dünfus","DE","","","","","","","","","Gallo-Roman","","","","","15681","","","","","","","","","","",7.2154,50.218475
+"1000587","Temple (Heidenkopf)","","temple","","Breitenbach","DE","","","","","","","","","","","","","","15686","","","","","","","","","","",7.288409,49.434444
+"1000588","Temple (Lohrsdorf)","","temple","","Bad Neuenahr-Ahrweiler","DE","","","","","","","","","","","","","","16281","","","","","","","","","","",7.193636,50.552776
+"1000589","Spring Sanctuary Kasbruch","","temple","","Neunkirchen","DE","","","","","","","","","Gallo-Roman","","","","","16336","","","","","","","","","","",7.213664,49.337135
+"1000590","Mithraeum","Mithras","mithraeum","","Xanten","DE","","","","","","","","","","","","","","17413","","","","","","","","","","",6.462894,51.659077
+"1000591","Temple","","temple","","Aachen","DE","","","","","","","","","","","","","","18766","","","","","","","","","","",6.085007,50.775005
+"1000592","Temple","","temple","Straß","Nersingen","DE","","","","","","","","","Gallo-Roman","","","","","18940","","","","","","","","","","",10.137369,48.411995
 "1000593","(K)ein Mithrasheiligtum (Saalburg)","Mithras","mithraeum","","Bad Homburg vor der Höhe","DE","","","","","","","","","","","","","","19406","","","","","","","","","","",8.568121,50.268448
-"1000594","Mithräum","Mithras","mithraeum","","Dieburg","DE","","","","","","","","","","","","","Mithräum (Dieburg)","19431","","","","","","","","","","",8.846936,49.90197
-"1000595","Römisches Heiligtum (Mainz-Finthen)","","temple","","MZ","DE","","","","","","","","","","","","","","20237","","","","","","","","","","",8.180348,49.985161
+"1000594","Mithraeum","Mithras","mithraeum","","Dieburg","DE","","","","","","","","","","","","","Mithräum (Dieburg)","19431","","","","","","","","","","",8.846936,49.90197
+"1000595","Sanctuary","","temple","","Mainz","DE","","","","","","","","","Roman","","","","","20237","","","","","","","","","","",8.180348,49.985161
 "1000596","Brandopferplatz","","temple","","Erkheim","DE","","","","","","","","","","","","","","20289","","","","","","","","","","",10.373531,48.047626
 "1000597","Rosmerta-Tempel","","temple","","Andernach","DE","","","","","","","","","","","","","Rosmerta-Tempel (Andernach)","20349","","","","","","","","","","",7.389761,50.439079
-"1000598","Tempel","","temple","","Neumagen-Dhron","DE","","","","","","","","","","","","","Tempel (Neumagen-Dhron)","20350","","","","","","","","","","",6.899114,49.841267
-"1000599","Tempel","","temple","","Piesport","DE","","","","","","","","","","","","","Tempel (Piesport)","20351","","","","","","","","","","",6.923764,49.863735
+"1000598","Temple","","temple","","Neumagen-Dhron","DE","","","","","","","","","","","","","Tempel (Neumagen-Dhron)","20350","","","","","","","","","","",6.899114,49.841267
+"1000599","Temple","","temple","","Piesport","DE","","","","","","","","","","","","","Tempel (Piesport)","20351","","","","","","","","","","",6.923764,49.863735
 "1000600","Sironatempel","","temple","","Stipshausen","DE","","","","","","","","","","","","","Sironatempel (Stipshausen)","20363","","","","","","","","","","",7.291307,49.850479
 "1000601","Merkurtempel (Lemberg)","","temple","","Feilbingert","DE","","","","","","","","","","","","","","20366","","","","","","","","","","",7.768484,49.785912
-"1000602","Mithrasheiligtum","Mithras","mithraeum","","Rockenhausen","DE","","","","","","","","","","","","","Mithrasheiligtum (Rockenhausen)","20367","","","","","","","","","","",7.806087,49.628971
-"1000603","Gallo-Römischer Tempel (Bonn)","","temple","","BN","DE","","","","","","","","","","","","","","20381","","","","","","","","","","",7.085428,50.726795
-"1000604","Mithrastempel (Wiesbaden)","Mithras","mithraeum","","WI","DE","","","","","","","","","","","","","Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03)","20705","","","","","","","","","","",8.238866,50.084049
-"1000605","Mithrasheiligtum","Mithras","mithraeum","","Großkrotzenburg","DE","","","","","","","","","","","","","Mithrasheiligtum (Großkrotzenburg)","21413","","","","","","","","","","",8.977619,50.081806
-"1000606","Forum Augusta Vindelicum","","temple","","A","DE","","","","","","","","","","","","","Forum","22882","","","","","","","","","","",10.900263,48.37579
-"1000607","Gallo-Römischer Umgangstempel","","temple","","Elsdorf","DE","","","","","","","","","","","","","8x10 meter groot tempelgebouw","23034","","","","","","","","","","",6.581988,50.935829
+"1000602","Mithraeum","Mithras","mithraeum","","Rockenhausen","DE","","","","","","","","","","","","","Mithrasheiligtum (Rockenhausen)","20367","","","","","","","","","","",7.806087,49.628971
+"1000603","Temple","","temple","","Bonn","DE","","","","","","","","","Gallo-Roman","","","","","20381","","","","","","","","","","",7.085428,50.726795
+"1000604","Mithrastempel (Wiesbaden)","Mithras","mithraeum","","Wiesbaden","DE","","","","","","","","","","","","","Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03)","20705","","","","","","","","","","",8.238866,50.084049
+"1000605","Mithraeum","Mithras","mithraeum","","Großkrotzenburg","DE","","","","","","","","","","","","","Mithrasheiligtum (Großkrotzenburg)","21413","","","","","","","","","","",8.977619,50.081806
+"1000606","Forum Augusta Vindelicum","","temple","","Augsburg","DE","","","","","","","","","","","","","Forum","22882","","","","","","","","","","",10.900263,48.37579
+"1000607","Temple","","temple","","Elsdorf","DE","","","","","","","","","Gallo-Roman","","","","8x10 meter groot tempelgebouw","23034","","","","","","","","","","",6.581988,50.935829
 "1000608","Heidentempel Kreuzweingarten","","temple","","Euskirchen","DE","","","","","","","","","","","","","","23244","","","","","","","","","","",6.79086,50.613701
-"1000609","Tempelsäulen","","temple","","MZ","DE","","","","","","","","","","","","","Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz","23672","","","","place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis","","","","","","",8.268003,50.001255
-"1000610","Tempelreste","","temple","","BN","DE","","","","","","","","","","","","","Matronentempel – Bonna – Bonn","23674","","","","","","","","","","",7.100145,50.733246
+"1000609","Tempelsäulen","","temple","","Mainz","DE","","","","","","","","","","","","","Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz","23672","","","","place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis","","","","","","",8.268003,50.001255
+"1000610","Tempelreste","","temple","","Bonn","DE","","","","","","","","","","","","","Matronentempel – Bonna – Bonn","23674","","","","","","","","","","",7.100145,50.733246
 "1000611","Tempel Ulpia Noviomagus","","temple","","Kreis","DE","","","","","","","","","","","","","Tempel – Gelduba – Gellep","24560","","","","","","","","","","",6.611528,51.367474
-"1000612","Tempel Ziegetsberg","","temple","","","DE","","","","","","","","","","","","","Merkurtempel","26487","","","","","","","","","","",12.069141,48.99202
+"1000612","Tempel Ziegetsberg","","temple","","Regensburg","DE","","","","","","","","","","","","","Merkurtempel","26487","","","","","","","","","","",12.069141,48.99202
