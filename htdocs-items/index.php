@@ -193,7 +193,7 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
 		</script>
-		<script type="text/javascript">document.cookie = "querytype=map; path=/";
+		<script type="text/javascript">document.cookie = "querytype=item; path=/";
 		</script>
 		<script type="text/javascript" src="scripts/function_check_run.js">
 		</script>
