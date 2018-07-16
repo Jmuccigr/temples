@@ -2221,7 +2221,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000328> a lawd:Place ;
-rdfs:label "Heiligtum Alto da Vigia" ;
+rdfs:label "Sanctuary Alto da Vigia" ;
 skos:exactMatch <http://vici.org/vici/10721> ;
 skos:exactMatch <http://pleiades.stoa.org/places/256172> ;
 skos:exactMatch <http://dare.ht.lu.se/places/36997> ;
@@ -2527,21 +2527,21 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000365> a lawd:Place ;
-rdfs:label "Sanctuaire Gallo-Romain" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/10659> ;
 geo:location [ geo:lat "46.423141"^^xsd:double ; geo:long "5.742032"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000366> a lawd:Place ;
-rdfs:label "Gallo-römischen Heiligtum - Mont Rive" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/10661> ;
 geo:location [ geo:lat "46.76136"^^xsd:double ; geo:long "5.922335"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000367> a lawd:Place ;
-rdfs:label "Heiligtum (Flaviers - Mouzon)" ;
+rdfs:label "Sanctuary (Flaviers - Mouzon)" ;
 skos:exactMatch <http://vici.org/vici/10663> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20618> ;
 geo:location [ geo:lat "49.580894"^^xsd:double ; geo:long "5.105447"^^xsd:double ] ;
@@ -2616,16 +2616,17 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000376> a lawd:Place ;
-rdfs:label "Janus Temple" ;
+rdfs:label "Temple of Janus" ;
 skos:exactMatch <http://vici.org/vici/11367> ;
 skos:exactMatch <http://dare.ht.lu.se/places/207950> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Janus_(Autun)"> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1526555> ;
 geo:location [ geo:lat "46.96125"^^xsd:double ; geo:long "4.288465"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000377> a lawd:Place ;
-rdfs:label "Sanctuaire nord de Châteaubleau" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/11418> ;
 skos:exactMatch <http://pleiades.stoa.org/places/108879> ;
 skos:exactMatch <http://dare.ht.lu.se/places/2130> ;
@@ -2658,7 +2659,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000381> a lawd:Place ;
-rdfs:label "Temple gallo-romain" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14562> ;
 skos:exactMatch <http://dare.ht.lu.se/places/170040> ;
 geo:location [ geo:lat "47.658772"^^xsd:double ; geo:long "6.866085"^^xsd:double ] ;
@@ -2675,7 +2676,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000383> a lawd:Place ;
-rdfs:label "Temple gallo-romain" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14566> ;
 skos:exactMatch <http://dare.ht.lu.se/places/206190> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q3517676> ;
@@ -2684,7 +2685,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000384> a lawd:Place ;
-rdfs:label "Sanctuaire gallo-romain de Margerides" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/14568> ;
 skos:exactMatch <http://pleiades.stoa.org/places/138447> ;
 skos:exactMatch <http://dare.ht.lu.se/places/16974> ;
@@ -2710,7 +2711,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000387> a lawd:Place ;
-rdfs:label "Sanctuaire gallo-romain Donon" ;
+rdfs:label "Sanctuary Donon" ;
 skos:exactMatch <http://vici.org/vici/14577> ;
 skos:exactMatch <http://dare.ht.lu.se/places/15774> ;
 geo:location [ geo:lat "48.512527"^^xsd:double ; geo:long "7.164421"^^xsd:double ] ;
@@ -2750,7 +2751,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000392> a lawd:Place ;
-rdfs:label "Sanctuaire" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/16293> ;
 geo:location [ geo:lat "46.694786"^^xsd:double ; geo:long "2.520366"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -2889,7 +2890,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000409> a lawd:Place ;
-rdfs:label "Sanctuaire Rajat" ;
+rdfs:label "Sanctuary Rajat" ;
 skos:exactMatch <http://vici.org/vici/16745> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20137> ;
 geo:location [ geo:lat "45.591797"^^xsd:double ; geo:long "2.948923"^^xsd:double ] ;
@@ -2962,7 +2963,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000418> a lawd:Place ;
-rdfs:label "Sanctuaire gallo-romain de Mars Mullo" ;
+rdfs:label "Sanctuary of Mars Mullo" ;
 skos:exactMatch <http://vici.org/vici/16820> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20731> ;
 geo:location [ geo:lat "47.968758"^^xsd:double ; geo:long "0.166472"^^xsd:double ] ;
@@ -2987,7 +2988,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000421> a lawd:Place ;
-rdfs:label "Sanctuaire Tours Mirandes" ;
+rdfs:label "Sanctuary Tours Mirandes" ;
 skos:exactMatch <http://vici.org/vici/16850> ;
 geo:location [ geo:lat "46.740105"^^xsd:double ; geo:long "0.293851"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -3019,7 +3020,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000425> a lawd:Place ;
-rdfs:label "Sanctuaire d'Alléans" ;
+rdfs:label "Sanctuary of Alléans" ;
 skos:exactMatch <http://vici.org/vici/16865> ;
 geo:location [ geo:lat "47.0793"^^xsd:double ; geo:long "2.749274"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -3042,7 +3043,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000428> a lawd:Place ;
-rdfs:label "Sanctuaires" ;
+rdfs:label "Sanctuaries" ;
 skos:exactMatch <http://vici.org/vici/16892> ;
 geo:location [ geo:lat "47.139778"^^xsd:double ; geo:long "5.001985"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -3100,7 +3101,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000435> a lawd:Place ;
-rdfs:label "Temple gallo-romain" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/16954> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39461> ;
 geo:location [ geo:lat "47.671444"^^xsd:double ; geo:long "-2.750201"^^xsd:double ] ;
@@ -3483,14 +3484,14 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000481> a lawd:Place ;
-rdfs:label "Sanctuaire" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/18732> ;
 geo:location [ geo:lat "49.316475"^^xsd:double ; geo:long "2.604453"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000482> a lawd:Place ;
-rdfs:label "Gallo-Roman temple" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/18807> ;
 geo:location [ geo:lat "49.779976"^^xsd:double ; geo:long "2.392164"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -3574,7 +3575,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000494> a lawd:Place ;
-rdfs:label "Gallo-romeinse tempels CCAA" ;
+rdfs:label "Temples CCAA" ;
 skos:exactMatch <http://vici.org/vici/359> ;
 geo:location [ geo:lat "50.934933"^^xsd:double ; geo:long "6.94602"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3588,7 +3589,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000496> a lawd:Place ;
-rdfs:label "Gallorömischer Tempel Görresburg" ;
+rdfs:label "Temple Görresburg" ;
 skos:exactMatch <http://vici.org/vici/4906> ;
 geo:location [ geo:lat "50.482292"^^xsd:double ; geo:long "6.618158"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3609,7 +3610,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000499> a lawd:Place ;
-rdfs:label "Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hoch" ;
+rdfs:label "Pilgerheiligtum - Sirona-Tempel - Forsthaus Hoch" ;
 skos:exactMatch <http://vici.org/vici/5697> ;
 geo:location [ geo:lat "49.86454"^^xsd:double ; geo:long "7.232887"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3703,63 +3704,63 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000512> a lawd:Place ;
-rdfs:label "Tempelanlage Beim Lindenkreuz - Umgangstempel" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/5712> ;
 geo:location [ geo:lat "49.703884"^^xsd:double ; geo:long "6.705037"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000513> a lawd:Place ;
-rdfs:label "Tempelanlage" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/5713> ;
 geo:location [ geo:lat "50.107349"^^xsd:double ; geo:long "6.563914"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000514> a lawd:Place ;
-rdfs:label "Tempelbezirk des Lenus Mars - Trier-West" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/5714> ;
 geo:location [ geo:lat "49.749973"^^xsd:double ; geo:long "6.613711"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000515> a lawd:Place ;
-rdfs:label "Tempelbezirk" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/5715> ;
 geo:location [ geo:lat "49.89975"^^xsd:double ; geo:long "6.787938"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000516> a lawd:Place ;
-rdfs:label "Tempelbezirk - Hinzerath" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/5716> ;
 geo:location [ geo:lat "49.855228"^^xsd:double ; geo:long "7.165844"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000517> a lawd:Place ;
-rdfs:label "Tempelheiligtum - Butzweiler" ;
+rdfs:label "Temple Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/5717> ;
 geo:location [ geo:lat "49.809135"^^xsd:double ; geo:long "6.606158"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000518> a lawd:Place ;
-rdfs:label "Vermutete Tempelanlage" ;
+rdfs:label "Presumed temple area" ;
 skos:exactMatch <http://vici.org/vici/5719> ;
 geo:location [ geo:lat "49.779331"^^xsd:double ; geo:long "6.582847"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000519> a lawd:Place ;
-rdfs:label "Vermutete Tempelanlage" ;
+rdfs:label "Presumed temple area" ;
 skos:exactMatch <http://vici.org/vici/5720> ;
 geo:location [ geo:lat "49.888115"^^xsd:double ; geo:long "6.518048"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000520> a lawd:Place ;
-rdfs:label "Vermutete Tempelanlage" ;
+rdfs:label "Presumed temple area" ;
 skos:exactMatch <http://vici.org/vici/5721> ;
 geo:location [ geo:lat "49.948616"^^xsd:double ; geo:long "6.576705"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3794,14 +3795,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000525> a lawd:Place ;
-rdfs:label "Umgangstempel und Gräberbezirk" ;
+rdfs:label "Temple and burial precinct" ;
 skos:exactMatch <http://vici.org/vici/6087> ;
 geo:location [ geo:lat "49.810493"^^xsd:double ; geo:long "6.60087"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000526> a lawd:Place ;
-rdfs:label "Gallo-römischer Tempelbezirk Bierbach" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/6324> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1492512> ;
 geo:location [ geo:lat "49.297417"^^xsd:double ; geo:long "7.2925"^^xsd:double ] ;
@@ -3809,14 +3810,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000527> a lawd:Place ;
-rdfs:label "Merkurtempel Koblenzer Stadtwald" ;
+rdfs:label "Temple of Mercury" ;
 skos:exactMatch <http://vici.org/vici/8140> ;
 geo:location [ geo:lat "50.293213"^^xsd:double ; geo:long "7.570019"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000528> a lawd:Place ;
-rdfs:label "Tempelbezirk Mars-Lenus" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/8141> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1234219> ;
 geo:location [ geo:lat "50.17915"^^xsd:double ; geo:long "7.286287"^^xsd:double ] ;
@@ -3824,7 +3825,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000529> a lawd:Place ;
-rdfs:label "Heiligtum - Tempel" ;
+rdfs:label "Sanctuary - Temple" ;
 skos:exactMatch <http://vici.org/vici/8144> ;
 geo:location [ geo:lat "50.191593"^^xsd:double ; geo:long "8.204134"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3847,7 +3848,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000532> a lawd:Place ;
-rdfs:label "Quellheiligtum (Sudelfels)" ;
+rdfs:label "Spring Sanctuary (Sudelfels)" ;
 skos:exactMatch <http://vici.org/vici/8203> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1533630> ;
 geo:location [ geo:lat "49.336136"^^xsd:double ; geo:long "6.606687"^^xsd:double ] ;
@@ -3855,7 +3856,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000533> a lawd:Place ;
-rdfs:label "Tempelbezirk (Pesch)" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/8205> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1408110> ;
 geo:location [ geo:lat "50.533657"^^xsd:double ; geo:long "6.703"^^xsd:double ] ;
@@ -3870,21 +3871,21 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000535> a lawd:Place ;
-rdfs:label "Mithras Heiligtum (Halberg)" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/8220> ;
 geo:location [ geo:lat "49.222488"^^xsd:double ; geo:long "7.02788"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000536> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/8249> ;
 geo:location [ geo:lat "47.57542"^^xsd:double ; geo:long "7.761292"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000537> a lawd:Place ;
-rdfs:label "Kultbezirk (Sontheim)" ;
+rdfs:label "Cult area" ;
 skos:exactMatch <http://vici.org/vici/8264> ;
 geo:location [ geo:lat "48.548004"^^xsd:double ; geo:long "10.290641"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3906,21 +3907,21 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000540> a lawd:Place ;
-rdfs:label "Dianatempel" ;
+rdfs:label "Temple of Diana" ;
 skos:exactMatch <http://vici.org/vici/8420> ;
 geo:location [ geo:lat "47.986389"^^xsd:double ; geo:long "9.053611"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000541> a lawd:Place ;
-rdfs:label "Lapidarium (Steinheim - Murr)" ;
+rdfs:label "Lapidarium" ;
 skos:exactMatch <http://vici.org/vici/8426> ;
 geo:location [ geo:lat "48.970776"^^xsd:double ; geo:long "9.286698"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000542> a lawd:Place ;
-rdfs:label "Römisches Quellheiligtum" ;
+rdfs:label "Spring Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/8448> ;
 geo:location [ geo:lat "49.890659"^^xsd:double ; geo:long "6.442838"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3941,21 +3942,21 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000545> a lawd:Place ;
-rdfs:label "Mithräum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/9968> ;
 geo:location [ geo:lat "49.061623"^^xsd:double ; geo:long "9.005662"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000546> a lawd:Place ;
-rdfs:label "Tempelbezirk Cambodunum" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/9969> ;
 geo:location [ geo:lat "47.727634"^^xsd:double ; geo:long "10.322745"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000547> a lawd:Place ;
-rdfs:label "Römischer Podiumstempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/9970> ;
 geo:location [ geo:lat "47.801346"^^xsd:double ; geo:long "7.671381"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -3971,7 +3972,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000549> a lawd:Place ;
-rdfs:label "Mithras-Heiligtum (Gimmeldingen)" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/10019> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q1313072> ;
 geo:location [ geo:lat "49.373943"^^xsd:double ; geo:long "8.157275"^^xsd:double ] ;
@@ -3979,14 +3980,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000550> a lawd:Place ;
-rdfs:label "Mithras Heiligtum (Wachstein)" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/10071> ;
 geo:location [ geo:lat "49.073357"^^xsd:double ; geo:long "10.832198"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000551> a lawd:Place ;
-rdfs:label "Dolichenum Vetoniana (Pfünz)" ;
+rdfs:label "Dolichenum Vetoniana" ;
 skos:exactMatch <http://vici.org/vici/10087> ;
 geo:location [ geo:lat "48.882706"^^xsd:double ; geo:long "11.263725"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4007,14 +4008,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000554> a lawd:Place ;
-rdfs:label "Mithräum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/10471> ;
 geo:location [ geo:lat "48.150002"^^xsd:double ; geo:long "7.746531"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000555> a lawd:Place ;
-rdfs:label "Tempel von \"Mercurius Cimbrianus\"" ;
+rdfs:label "Temple of Cimbrian Mercury" ;
 skos:exactMatch <http://vici.org/vici/10493> ;
 geo:location [ geo:lat "49.425861"^^xsd:double ; geo:long "8.706383"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4039,14 +4040,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000558> a lawd:Place ;
-rdfs:label "Mithraeum (Mundelsheim)" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/13937> ;
 geo:location [ geo:lat "49.008961"^^xsd:double ; geo:long "9.210657"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000559> a lawd:Place ;
-rdfs:label "Umgangstempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14194> ;
 geo:location [ geo:lat "48.496727"^^xsd:double ; geo:long "10.119792"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4060,49 +4061,49 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000561> a lawd:Place ;
-rdfs:label "Umgangstempel (Michaelsberg)" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14218> ;
 geo:location [ geo:lat "49.03854"^^xsd:double ; geo:long "9.04568"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000562> a lawd:Place ;
-rdfs:label "Bergheiligtum" ;
+rdfs:label "Mountain Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/14246> ;
 geo:location [ geo:lat "48.407143"^^xsd:double ; geo:long "8.020556"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000563> a lawd:Place ;
-rdfs:label "Mithräum I" ;
+rdfs:label "Mithraeum I" ;
 skos:exactMatch <http://vici.org/vici/14249> ;
 geo:location [ geo:lat "49.06266"^^xsd:double ; geo:long "9.00468"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000564> a lawd:Place ;
-rdfs:label "Mitraeum I" ;
+rdfs:label "Mithraeum I" ;
 skos:exactMatch <http://vici.org/vici/14253> ;
 geo:location [ geo:lat "49.415855"^^xsd:double ; geo:long "8.679235"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000565> a lawd:Place ;
-rdfs:label "Mitraeum II" ;
+rdfs:label "Mithraeum II" ;
 skos:exactMatch <http://vici.org/vici/14254> ;
 geo:location [ geo:lat "49.413967"^^xsd:double ; geo:long "8.693815"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000566> a lawd:Place ;
-rdfs:label "Tempelanlage (Greinberg)" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/14395> ;
 geo:location [ geo:lat "49.692158"^^xsd:double ; geo:long "9.241514"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000567> a lawd:Place ;
-rdfs:label "Gallo-römischer Umgangstempel (Orsingen)" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14441> ;
 geo:location [ geo:lat "47.84251"^^xsd:double ; geo:long "8.939867"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4116,28 +4117,28 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000569> a lawd:Place ;
-rdfs:label "Tempelbezirk Sumelocenna" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/14452> ;
 geo:location [ geo:lat "48.478004"^^xsd:double ; geo:long "8.932575"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000570> a lawd:Place ;
-rdfs:label "Tempelbezirk I" ;
+rdfs:label "Temple area I" ;
 skos:exactMatch <http://vici.org/vici/14458> ;
 geo:location [ geo:lat "48.154785"^^xsd:double ; geo:long "8.64558"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000571> a lawd:Place ;
-rdfs:label "Tempelbezirk II" ;
+rdfs:label "Temple area II" ;
 skos:exactMatch <http://vici.org/vici/14459> ;
 geo:location [ geo:lat "48.15276"^^xsd:double ; geo:long "8.645009"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000572> a lawd:Place ;
-rdfs:label "Heiligtum" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/14465> ;
 geo:location [ geo:lat "48.814072"^^xsd:double ; geo:long "9.508077"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4158,14 +4159,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000575> a lawd:Place ;
-rdfs:label "Heiligtum (St. Johann)" ;
+rdfs:label "Sanctuary (St. Johann)" ;
 skos:exactMatch <http://vici.org/vici/14534> ;
 geo:location [ geo:lat "48.952354"^^xsd:double ; geo:long "8.365316"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000576> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14596> ;
 geo:location [ geo:lat "49.013542"^^xsd:double ; geo:long "9.176175"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4179,49 +4180,49 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000578> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/14991> ;
 geo:location [ geo:lat "49.702648"^^xsd:double ; geo:long "9.236975"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000579> a lawd:Place ;
-rdfs:label "Mitraeum (Ober-Florstadt)" ;
+rdfs:label "Mithraeum (Ober-Florstadt)" ;
 skos:exactMatch <http://vici.org/vici/15079> ;
 geo:location [ geo:lat "50.325161"^^xsd:double ; geo:long "8.875741"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000580> a lawd:Place ;
-rdfs:label "Heiligtum (Heidenpütz)" ;
+rdfs:label "Sanctuary (Heidenpütz)" ;
 skos:exactMatch <http://vici.org/vici/15092> ;
 geo:location [ geo:lat "49.84407"^^xsd:double ; geo:long "7.072406"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000581> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/15544> ;
 geo:location [ geo:lat "50.356865"^^xsd:double ; geo:long "6.866581"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000582> a lawd:Place ;
-rdfs:label "Merkur-Heiligtum (Gangloff)" ;
+rdfs:label "Sanctuary of Mercury (Gangloff)" ;
 skos:exactMatch <http://vici.org/vici/15553> ;
 geo:location [ geo:lat "49.653168"^^xsd:double ; geo:long "7.706888"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000583> a lawd:Place ;
-rdfs:label "Mercuriustempel (Bingen)" ;
+rdfs:label "Temple of Mercury (Bingen)" ;
 skos:exactMatch <http://vici.org/vici/15671> ;
 geo:location [ geo:lat "49.966831"^^xsd:double ; geo:long "7.8924"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000584> a lawd:Place ;
-rdfs:label "Heiligtum" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/15674> ;
 geo:location [ geo:lat "49.977505"^^xsd:double ; geo:long "6.526544"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4235,49 +4236,49 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000586> a lawd:Place ;
-rdfs:label "Gallo-römische Tempelanlage (Brachtendorf)" ;
+rdfs:label "Temple area" ;
 skos:exactMatch <http://vici.org/vici/15681> ;
 geo:location [ geo:lat "50.218475"^^xsd:double ; geo:long "7.2154"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000587> a lawd:Place ;
-rdfs:label "Tempel (Heidenkopf)" ;
+rdfs:label "Temple (Heidenkopf)" ;
 skos:exactMatch <http://vici.org/vici/15686> ;
 geo:location [ geo:lat "49.434444"^^xsd:double ; geo:long "7.288409"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000588> a lawd:Place ;
-rdfs:label "Tempel (Lohrsdorf)" ;
+rdfs:label "Temple (Lohrsdorf)" ;
 skos:exactMatch <http://vici.org/vici/16281> ;
 geo:location [ geo:lat "50.552776"^^xsd:double ; geo:long "7.193636"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000589> a lawd:Place ;
-rdfs:label "Gallo-römisches Quellheiligtum Kasbruch" ;
+rdfs:label "Spring Sanctuary Kasbruch" ;
 skos:exactMatch <http://vici.org/vici/16336> ;
 geo:location [ geo:lat "49.337135"^^xsd:double ; geo:long "7.213664"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000590> a lawd:Place ;
-rdfs:label "Mithräum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/17413> ;
 geo:location [ geo:lat "51.659077"^^xsd:double ; geo:long "6.462894"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000591> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/18766> ;
 geo:location [ geo:lat "50.775005"^^xsd:double ; geo:long "6.085007"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000592> a lawd:Place ;
-rdfs:label "Gallo-Römischer Umgangstempel (Straß)" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/18940> ;
 geo:location [ geo:lat "48.411995"^^xsd:double ; geo:long "10.137369"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4291,14 +4292,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000594> a lawd:Place ;
-rdfs:label "Mithräum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/19431> ;
 geo:location [ geo:lat "49.90197"^^xsd:double ; geo:long "8.846936"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000595> a lawd:Place ;
-rdfs:label "Römisches Heiligtum (Mainz-Finthen)" ;
+rdfs:label "Sanctuary" ;
 skos:exactMatch <http://vici.org/vici/20237> ;
 geo:location [ geo:lat "49.985161"^^xsd:double ; geo:long "8.180348"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4319,14 +4320,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000598> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/20350> ;
 geo:location [ geo:lat "49.841267"^^xsd:double ; geo:long "6.899114"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000599> a lawd:Place ;
-rdfs:label "Tempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/20351> ;
 geo:location [ geo:lat "49.863735"^^xsd:double ; geo:long "6.923764"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4347,14 +4348,14 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000602> a lawd:Place ;
-rdfs:label "Mithrasheiligtum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/20367> ;
 geo:location [ geo:lat "49.628971"^^xsd:double ; geo:long "7.806087"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000603> a lawd:Place ;
-rdfs:label "Gallo-Römischer Tempel (Bonn)" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/20381> ;
 geo:location [ geo:lat "50.726795"^^xsd:double ; geo:long "7.085428"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4368,7 +4369,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000605> a lawd:Place ;
-rdfs:label "Mithrasheiligtum" ;
+rdfs:label "Mithraeum" ;
 skos:exactMatch <http://vici.org/vici/21413> ;
 geo:location [ geo:lat "50.081806"^^xsd:double ; geo:long "8.977619"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -4382,7 +4383,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000607> a lawd:Place ;
-rdfs:label "Gallo-Römischer Umgangstempel" ;
+rdfs:label "Temple" ;
 skos:exactMatch <http://vici.org/vici/23034> ;
 geo:location [ geo:lat "50.935829"^^xsd:double ; geo:long "6.581988"^^xsd:double ] ;
 gn:countryCode "DE" ;
