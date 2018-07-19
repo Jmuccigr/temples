@@ -3799,21 +3799,21 @@
         "id": "1000081",
         "name": "Mausoleum of Romulus",
         "dedicatee": "",
-        "type": "temple",
+        "type": "tomb",
         "location": "",
         "city": "Rome",
         "country": "IT",
         "orientation": "",
-        "date": "",
+        "date": "early 4th century CE",
         "startdateearly": "",
         "startdatelate": "",
-        "century": "",
+        "century": "4",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "M",
+        "sex": "",
         "dedicationday": "",
-        "deitytype": "emperor",
+        "deitytype": "",
         "culture": "Roman",
         "style": "",
         "extant": "",
@@ -10950,7 +10950,7 @@
       "properties": {
         "id": "1000229",
         "name": "Temple of Apollo",
-        "dedicatee": "",
+        "dedicatee": "Apollo",
         "type": "temple",
         "location": "",
         "city": "Pompeii",
@@ -10998,7 +10998,7 @@
       "properties": {
         "id": "1000230",
         "name": "Temple of Bellona",
-        "dedicatee": "",
+        "dedicatee": "Bellona",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -11094,7 +11094,7 @@
       "properties": {
         "id": "1000232",
         "name": "Temple of Juno",
-        "dedicatee": "",
+        "dedicatee": "Juno",
         "type": "temple",
         "location": "",
         "city": "Gabii",
@@ -11237,8 +11237,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000235",
-        "name": "Tempio capitolino",
-        "dedicatee": "",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
         "type": "temple",
         "location": "",
         "city": "Brescia",
@@ -11253,7 +11253,7 @@
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "style": "",
         "extant": "",
@@ -11276,8 +11276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.225574,
-          45.539787
+          10.225802,
+          45.539905
         ]
       }
     },
@@ -11286,7 +11286,7 @@
       "properties": {
         "id": "1000236",
         "name": "Temple of Jupiter",
-        "dedicatee": "",
+        "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
         "city": "Bidoni",
@@ -11382,7 +11382,7 @@
       "properties": {
         "id": "1000238",
         "name": "Temple of Hera Lacinia",
-        "dedicatee": "",
+        "dedicatee": "Hera",
         "type": "temple",
         "location": "",
         "city": "",
@@ -11478,7 +11478,7 @@
       "properties": {
         "id": "1000240",
         "name": "Temple of Venus Erycina",
-        "dedicatee": "",
+        "dedicatee": "Venus",
         "type": "temple",
         "location": "",
         "city": "Segesta",
@@ -11670,7 +11670,7 @@
       "properties": {
         "id": "1000244",
         "name": "Temple of Fortuna",
-        "dedicatee": "",
+        "dedicatee": "Fortuna",
         "type": "temple",
         "location": "",
         "city": "Palestrina",
@@ -11718,7 +11718,7 @@
       "properties": {
         "id": "1000245",
         "name": "Temple of Minerva",
-        "dedicatee": "",
+        "dedicatee": "Minerva",
         "type": "temple",
         "location": "",
         "city": "Assisi",
@@ -11766,7 +11766,7 @@
       "properties": {
         "id": "1000246",
         "name": "Temple of Athena",
-        "dedicatee": "",
+        "dedicatee": "Athena",
         "type": "temple",
         "location": "",
         "city": "Syracuse",
@@ -11814,7 +11814,7 @@
       "properties": {
         "id": "1000247",
         "name": "Temple of Apollo",
-        "dedicatee": "",
+        "dedicatee": "Apollo",
         "type": "temple",
         "location": "",
         "city": "Syracuse",
@@ -11861,11 +11861,11 @@
       "type": "Feature",
       "properties": {
         "id": "1000248",
-        "name": "Temple of Diana - Alberese",
-        "dedicatee": "",
+        "name": "Temple of Diana",
+        "dedicatee": "Diana",
         "type": "temple",
         "location": "",
-        "city": "",
+        "city": "Alberese",
         "country": "IT",
         "orientation": "",
         "date": "",
@@ -11910,7 +11910,7 @@
       "properties": {
         "id": "1000249",
         "name": "Temple of Venus, Baiae",
-        "dedicatee": "",
+        "dedicatee": "Venus",
         "type": "temple",
         "location": "",
         "city": "Bacoli",
@@ -11925,7 +11925,7 @@
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "style": "",
         "extant": "",
@@ -11958,7 +11958,7 @@
       "properties": {
         "id": "1000250",
         "name": "Temple of Diana, Baiae",
-        "dedicatee": "",
+        "dedicatee": "Diana",
         "type": "temple",
         "location": "",
         "city": "Bacoli",
@@ -12006,7 +12006,7 @@
       "properties": {
         "id": "1000251",
         "name": "Temple of Jupiter",
-        "dedicatee": "",
+        "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
         "city": "Cumae",
@@ -12054,7 +12054,7 @@
       "properties": {
         "id": "1000252",
         "name": "Temple of Apollo",
-        "dedicatee": "",
+        "dedicatee": "Apollo",
         "type": "temple",
         "location": "",
         "city": "Cumae",
@@ -12102,7 +12102,7 @@
       "properties": {
         "id": "1000253",
         "name": "Temple of Apollo",
-        "dedicatee": "",
+        "dedicatee": "Apollo",
         "type": "temple",
         "location": "",
         "city": "Avernus",
@@ -12150,7 +12150,7 @@
       "properties": {
         "id": "1000254",
         "name": "Temple of Hera",
-        "dedicatee": "",
+        "dedicatee": "Hera",
         "type": "temple",
         "location": "",
         "city": "Paestum",
@@ -12198,7 +12198,7 @@
       "properties": {
         "id": "1000255",
         "name": "Temple of Hera",
-        "dedicatee": "",
+        "dedicatee": "Hera",
         "type": "temple",
         "location": "",
         "city": "Paestum",
@@ -12246,7 +12246,7 @@
       "properties": {
         "id": "1000256",
         "name": "Sanctuary of Minerva",
-        "dedicatee": "",
+        "dedicatee": "Minerva",
         "type": "temple",
         "location": "",
         "city": "Breno",
@@ -12534,7 +12534,7 @@
       "properties": {
         "id": "1000262",
         "name": "Temple of Demeter",
-        "dedicatee": "",
+        "dedicatee": "Demeter",
         "type": "temple",
         "location": "",
         "city": "Terraseo",
@@ -12582,7 +12582,7 @@
       "properties": {
         "id": "1000263",
         "name": "Temple of Victory",
-        "dedicatee": "",
+        "dedicatee": "Victory",
         "type": "temple",
         "location": "",
         "city": "Himera",
@@ -12629,8 +12629,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000264",
-        "name": "Capitol",
-        "dedicatee": "",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -12726,7 +12726,7 @@
       "properties": {
         "id": "1000266",
         "name": "Temple of Rome and Augustus",
-        "dedicatee": "",
+        "dedicatee": "Rome, Augustus",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -13110,7 +13110,7 @@
       "properties": {
         "id": "1000274",
         "name": "Sanctuary of Demeter Malophorus",
-        "dedicatee": "",
+        "dedicatee": "Demeter",
         "type": "temple",
         "location": "",
         "city": "Selinunte",
@@ -13206,7 +13206,7 @@
       "properties": {
         "id": "1000276",
         "name": "Temple of Venus",
-        "dedicatee": "",
+        "dedicatee": "Venus",
         "type": "temple",
         "location": "",
         "city": "Tivoli",
@@ -13254,7 +13254,7 @@
       "properties": {
         "id": "1000277",
         "name": "Temple of Demeter",
-        "dedicatee": "",
+        "dedicatee": "Demeter",
         "type": "temple",
         "location": "",
         "city": "Palazzolo Acreide",
@@ -13302,7 +13302,7 @@
       "properties": {
         "id": "1000278",
         "name": "Sanctuary",
-        "dedicatee": "",
+        "dedicatee": "Hera",
         "type": "temple",
         "location": "",
         "city": "Locri Epizephiri",
@@ -14549,7 +14549,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000304",
-        "name": "Paestum",
+        "name": "Temple",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -28037,13 +28037,13 @@
       "type": "Feature",
       "properties": {
         "id": "1000585",
-        "name": "Matronentempel",
-        "dedicatee": "",
+        "name": "Temple of the Matronae",
+        "dedicatee": "Matronae",
         "type": "temple",
         "location": "",
         "city": "Xanten",
         "country": "DE",
-        "orientation": "",
+        "orientation": "39",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -28051,9 +28051,9 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "style": "",
         "extant": "",
@@ -28071,13 +28071,13 @@
         "digitalesforumromanum": "",
         "trismegistos": "",
         "ads": "",
-        "checked": "No"
+        "checked": "Yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.444876,
-          51.665062
+          6.444823,
+          51.664839
         ]
       }
     },
@@ -28805,10 +28805,10 @@
       "type": "Feature",
       "properties": {
         "id": "1000601",
-        "name": "Merkurtempel (Lemberg)",
+        "name": "Temple of Mercury",
         "dedicatee": "",
         "type": "temple",
-        "location": "",
+        "location": "Lemberg",
         "city": "Feilbingert",
         "country": "DE",
         "orientation": "",
@@ -28949,7 +28949,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000604",
-        "name": "Mithrastempel (Wiesbaden)",
+        "name": "Mithraeum",
         "dedicatee": "Mithras",
         "type": "mithraeum",
         "location": "",
@@ -29285,7 +29285,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000611",
-        "name": "Tempel Ulpia Noviomagus",
+        "name": "Temple Ulpia Noviomagus",
         "dedicatee": "",
         "type": "temple",
         "location": "",
@@ -29333,7 +29333,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000612",
-        "name": "Tempel Ziegetsberg",
+        "name": "Temple Ziegetsberg",
         "dedicatee": "",
         "type": "temple",
         "location": "",
