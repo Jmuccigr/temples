@@ -114,3 +114,8 @@ else
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
   exit 1
 fi
+
+# Create a csv file with correctly escaped quotation marks
+# ogr2ogr handles the csv fine, but mysql does not
+cat "$dest/temples.csv" | perl -pe 's/([\sa-z])""/\1\\"/g' > "$temp/temples.csv"
+cp "$temp/temples.csv" "$dest/temples.csv"
