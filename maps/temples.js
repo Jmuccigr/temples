@@ -2123,7 +2123,7 @@ var temples =  {
         "location": "Capitoline Hill",
         "city": "Rome",
         "country": "IT",
-        "orientation": "",
+        "orientation": "28",
         "date": "-509",
         "startdateearly": "-509",
         "startdatelate": "",
