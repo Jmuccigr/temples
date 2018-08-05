@@ -280,6 +280,7 @@
 			}).addTo(map);
 
 			// Clear the cookie on startup
+			// Will generate a php error in json.php
 // 			var sqlquery = '';
 			setCookie('sqlquery', 'dummy', '-1');
 
