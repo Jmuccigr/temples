@@ -31,7 +31,6 @@ if ($_COOKIE["sqlquery"] != '') {
     $sql = $queryStart . $_COOKIE["sqlquery"] . $queryEnd;
 } else {
      $sql = $queryStart . 'id != ""' . $queryEnd;
-     setcookie(query, $sql);
 }
 # Try query or error
 $rs = $conn->query($sql);
