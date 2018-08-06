@@ -9,6 +9,10 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+@prefix spatial: <http://geovocab.org/spatial#> .
+
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
 rdfs:label "Temple of Aesculapius" ;
 skos:exactMatch <http://vici.org/vici/23444> ;
@@ -151,7 +155,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000021> a lawd:Place ;
-rdfs:label "Temple of the Divine Trajanus" ;
+rdfs:label "Temple of the Divine Trajan" ;
 geo:location [ geo:lat "41.895471"^^xsd:double ; geo:long "12.484645"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
