@@ -503,6 +503,7 @@ dcterms:subject "temple"  ;
 .
 <http://romeresearchgroup.org/items/1000076> a lawd:Place ;
 rdfs:label "Temple of Mars" ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Mars"> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .
@@ -645,6 +646,7 @@ dcterms:subject "temple"  ;
 <http://romeresearchgroup.org/items/1000097> a lawd:Place ;
 rdfs:label "Temple of Neptune" ;
 skos:exactMatch <https://arachne.dainst.org/entity/3467478> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Neptune_(Rome)"> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 .

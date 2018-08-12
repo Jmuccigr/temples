@@ -72,7 +72,7 @@
 "1000073","Temple of the Lares","Lares","temple","in summa Sacra Via","Rome","IT","","-292-219","-292","-219","-3","M","June 27","god","Roman","","","","","","","","","","","","","","","","",""
 "1000074","Temple of the Lares Permarini","Lares Permarini","temple","Campus Martius","Rome","IT","90","-179","-179","","-2","M","","god","Roman","","","","Pleiades: Temple D","17946","967215409","","6516","","","","","","","",12.476957,41.894983
 "1000075","Temple of Luna","Luna","temple","Aventine Hill","Rome","IT","","-292-219","-292","-219","-3","F","March 31","nature","Roman","","","","","","","","","","","","","","","","",""
-"1000076","Temple of Mars","Mars","temple","Circus Flaminius","Rome","IT","","-138","-138","","-2","M","","god","Roman","","","","","","","","","","","","","","","","",""
+"1000076","Temple of Mars","Mars","temple","Circus Flaminius","Rome","IT","","-138","-138","","-2","M","","god","Roman","","","","","","","","","","","","","Temple_of_Mars","","","",""
 "1000077","Temple of Mars","Mars","temple","North Via Appia","Rome","IT","","-388","-388","","-4","M","June 1","god","Roman","","","","","","","","","","","","","","","","",""
 "1000078","Temple of Mars Ultor","Mars","temple","Forum of Augustus","Rome","IT","233","-2","-2","","-1","M","","god","Roman","","Stamper","","","","","","5747","","43987","","","","","",12.486944,41.894444
 "1000079","Temple of Mater Matuta","Mater Matuta","temple","Forum Boarium","Rome","IT","180","-368","-368","","-4","F","","god","Roman","","Stamper","","","","","","","","","","","","","",12.480833,41.890556
@@ -93,7 +93,7 @@
 "1000094","Mithraeum of the Crypta Balbi","Mithras","mithraeum","","Rome","IT","","","","","","","","","Roman","","","","DARE; coords updated","","","45674","","","","","","","","",12.479176,41.894242
 "1000095","Mithraeum of the Esquiline","Mithras","mithraeum","","Rome","IT","","","","","","","","","Roman","","","","DARE","","","45671","","","","","","","","",12.501063,41.894894
 "1000096","Temple at Monte del Grano","","temple","","Rome","IT","","","","","","","","","Roman","","","","","","422973","","","","","","","","","",12.549292,41.865272
-"1000097","Temple of Neptune","Neptune","temple","Circus Flaminius","Rome","IT","","-257-228","-257","-228","-3","M","","god","Roman","","","","","","","","3467478","","","","","","","","",""
+"1000097","Temple of Neptune","Neptune","temple","Circus Flaminius","Rome","IT","","-257-228","-257","-228","-3","M","December 1","god","Roman","","","","","","","","3467478","","","","","Temple_of_Neptune_(Rome)","","","",""
 "1000098","Nymphaeum of the Villa dei Quintili","Nymphs","temple","","Rome","IT","","","","","","F","","god","Roman","","","","DARE","","","23839","","","","","","","","",12.5480362,41.8279699
 "1000099","Nymphaeum Septizodium","Nymphs","temple","Campus Martius","Rome","IT","","","","","","F","","god","Roman","","","","Vici.org","17962","","","","","","","","","Q1234446","",12.488719,41.885632
 "1000100","Temple of the Nymphs","Nymphs","temple","","Rome","IT","","","","","","F","","god","Roman","","","","","","","","6079","","","","","","","",12.478714,41.895163
@@ -114,7 +114,7 @@
 "1000115","Temple of Sybil","Sybil","temple","","Tivoli","IT","","-150-125","-150","-125","-2","F","","god","Roman","","Stamper","","Vici.org","","","","","","","","","","","",12.800843,41.966809
 "1000116","Temple of Tellus","Tellus","temple","Esquiline Hill","Rome","IT","","-268","-268","","-3","F","","nature","Roman","","","senate","","","","","","","","","","","","","",""
 "1000117","Temple of the Tempestates","Tempestates","temple","Porta Capena","Rome","IT","","","","","","F","December 23","nature","Roman","","","","","","","","","","","","","","","","",""
-"1000118","Temple at S. Salvatore in Campo","","temple","","Rome","IT","","","","","","M","","nature","Roman","","","","","","","","3467479","","","","","","","",12.474003,41.893685
+"1000118","Temple at S. Salvatore in Campo","","temple","Campus Martius","Rome","IT","121","","","","","M","","nature","Roman","","","","","","","","3467479","","","","","","","",12.474003,41.893685
 "1000119","Temple of Tiberinus","Tiberinus","temple","Tiber Island","Rome","IT","","-292-219","-292","-219","-3","M","","nature","Roman","","","","","","","","","","","","","","","","",""
 "1000120","Tomb of Cecilia Metella","","tomb","Via Appia","Rome","IT","","","","","","F","","","Roman","","","","Pleiades; vici.org","","423064","","","","","","","","","",12.520981,41.852196
 "1000121","Temple of Veiovis","Veiovis","temple","Inter duos lucos","Rome","IT","220","","","","","M","March 7","god","Roman","","","","Pleiades","17964","","","1319962","","","","","","Q764141","",12.483611,41.892776
