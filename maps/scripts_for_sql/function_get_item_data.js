@@ -127,6 +127,12 @@ res = res[0];
 			};
 			otherDB = otherDB + '<a target="_blank" href="http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + res.properties.ads + '">Archaeological Data Service</a>';
 		}
+		if (res.properties.cona != '') {
+			if (otherDB.length > 4) {
+				otherDB = otherDB + ', '
+			};
+			otherDB = otherDB + '<a target="_blank" href="http://vocab.getty.edu/page/cona/' + res.properties.cona + '">Getty Cultural Objects Name Authority (CONA)</a>';
+		}
 		if (otherDB.length == 4) {
 			otherDB = ''
 		} else {
