@@ -1,7 +1,7 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import json
-import rdflib
+#import rdflib
 import io
 import re
 import os
@@ -18,7 +18,11 @@ outputText += u'@prefix lawd: <http://lawd.info/ontology/> .\n'
 outputText += u'@prefix osgeo: <http://data.ordnancesurvey.co.uk/ontology/geometry/> .\n'
 outputText += u'@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n'
 outputText += u'@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n'
-outputText += u'@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n'
+outputText += u'@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n'
+outputText += u'@prefix owl: <http://www.w3.org/2002/07/owl#> .\n'
+outputText += u'@prefix spatial: <http://geovocab.org/spatial#> .\n'
+outputText += u'@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .\n'
+outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n\n'
 
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
@@ -54,6 +58,8 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <https://www.wikidata.org/wiki/' + record['properties']['wikidata'] + '> ;\n'
             if record['properties']['ads'] != '':
                 outputText += 'skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + record['properties']['ads'] + '> ;\n'
+            if record['properties']['cona'] != '':
+                outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
             if record['geometry']['coordinates'][0] != '':
                 prefLoc = record['geometry']
                 coords = prefLoc['coordinates']
@@ -61,6 +67,10 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
             if record['properties']['country'] != '':
                 outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
             outputText += u'dcterms:subject "temple"  ;\n'
+            outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
+#             if record['properties']['ancientPlace'] != '':
+#            		outputText += u'owl:locatedIn <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
+#            		outputText += u'spatial:P <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
             outputText += u'.\n'
 
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")
