@@ -42,3 +42,7 @@ Get the whole thing via an [advanced search query](http://archaeologydataservice
 Get an item by:
 
 - ID: `curl -s -stdout http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=<###>`
+
+# ToposText
+
+Download the [entire database as ttl](https://topostext.org/downloads/pelagios.ttl) via their [download page](https://topostext.org/TT-downloads).

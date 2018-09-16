@@ -58,6 +58,12 @@ res = res[0];
 				}
 				loc = loc + res.properties.country;
 			}
+			if (res.properties.compass != '' ) {
+				if (loc.length > 14) {
+					loc = loc + ', '
+				}
+				loc = loc + ' facing ' + res.properties.compass;
+			}
 			text = text + loc + '</li>';
 		}
 		// Get the other database info and put it on one line
@@ -132,6 +138,12 @@ res = res[0];
 				otherDB = otherDB + ', '
 			};
 			otherDB = otherDB + '<a target="_blank" href="http://vocab.getty.edu/page/cona/' + res.properties.cona + '">Getty Cultural Objects Name Authority (CONA)</a>';
+		}
+		if (res.properties.topostext != '') {
+			if (otherDB.length > 4) {
+				otherDB = otherDB + ', '
+			};
+			otherDB = otherDB + '<a target="_blank" href="https://topostext.org/place/' + res.properties.topostext + '">ToposText</a>';
 		}
 		if (otherDB.length == 4) {
 			otherDB = ''

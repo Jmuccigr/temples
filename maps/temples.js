@@ -12,6 +12,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-291",
         "startdateearly": "-291",
         "startdatelate": "",
@@ -40,6 +41,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -61,6 +63,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "227",
+        "compass": "SW",
         "date": "-28",
         "startdateearly": "-28",
         "startdatelate": "",
@@ -89,6 +92,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -110,6 +114,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "180",
+        "compass": "S",
         "date": "-431",
         "startdateearly": "-431",
         "startdatelate": "",
@@ -138,6 +143,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SApo",
         "checked": ""
       },
       "geometry": {
@@ -159,6 +165,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "180",
+        "compass": "S",
         "date": "-296",
         "startdateearly": "-296",
         "startdatelate": "",
@@ -187,6 +194,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -208,6 +216,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "-123",
         "startdatelate": "",
@@ -236,6 +245,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -257,6 +267,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "24",
+        "compass": "NE",
         "date": "-484",
         "startdateearly": "-484",
         "startdatelate": "",
@@ -285,6 +296,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SCas",
         "checked": ""
       },
       "geometry": {
@@ -306,6 +318,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -334,6 +347,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -355,6 +369,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -383,6 +398,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -404,6 +420,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "40-60",
         "startdateearly": "40",
         "startdatelate": "60",
@@ -432,6 +449,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -453,6 +471,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "123",
+        "compass": "SE",
         "date": "-121",
         "startdateearly": "-121",
         "startdatelate": "",
@@ -481,6 +500,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SCon",
         "checked": ""
       },
       "geometry": {
@@ -502,6 +522,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "203",
+        "compass": "SW",
         "date": "-191",
         "startdateearly": "-191",
         "startdatelate": "",
@@ -530,6 +551,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -551,6 +573,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -579,6 +602,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -600,6 +624,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-499-400",
         "startdateearly": "-499",
         "startdatelate": "-400",
@@ -628,6 +653,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -649,6 +675,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "217",
+        "compass": "SW",
         "date": "161",
         "startdateearly": "161",
         "startdatelate": "",
@@ -677,6 +704,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SFas",
         "checked": ""
       },
       "geometry": {
@@ -698,6 +726,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -726,6 +755,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -743,10 +773,11 @@ var temples =  {
         "name": "Temple of the Divine Julius",
         "dedicatee": "Julius",
         "type": "temple",
-        "location": "Circus Flaminius",
+        "location": "Forum",
         "city": "Rome",
         "country": "IT",
         "orientation": "300",
+        "compass": "NW",
         "date": "-29",
         "startdateearly": "-29",
         "startdatelate": "",
@@ -775,6 +806,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SJul",
         "checked": ""
       },
       "geometry": {
@@ -796,6 +828,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "205",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -824,6 +857,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -845,6 +879,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "128",
         "startdateearly": "128",
         "startdatelate": "",
@@ -873,6 +908,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -894,6 +930,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -922,6 +959,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -943,6 +981,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "-290",
         "startdateearly": "-290",
         "startdatelate": "",
@@ -971,6 +1010,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -992,6 +1032,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-254",
         "startdateearly": "-254",
         "startdatelate": "",
@@ -1020,6 +1061,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1041,6 +1083,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "1-99",
         "startdateearly": "1",
         "startdatelate": "99",
@@ -1069,6 +1112,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1090,6 +1134,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "180",
+        "compass": "S",
         "date": "-396",
         "startdateearly": "-396",
         "startdatelate": "",
@@ -1118,6 +1163,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1139,6 +1185,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1167,6 +1214,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1188,6 +1236,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "145",
         "startdateearly": "145",
         "startdatelate": "",
@@ -1216,6 +1265,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1237,6 +1287,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "208",
+        "compass": "SW",
         "date": "-187",
         "startdateearly": "-187",
         "startdatelate": "",
@@ -1265,6 +1316,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1286,6 +1338,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "93",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1314,6 +1367,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1335,6 +1389,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1363,6 +1418,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1384,6 +1440,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1412,6 +1469,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1433,6 +1491,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1461,6 +1520,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1482,6 +1542,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "71",
+        "compass": "E",
         "date": "-260",
         "startdateearly": "-260",
         "startdatelate": "",
@@ -1510,6 +1571,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1531,6 +1593,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-292-219",
         "startdateearly": "-292",
         "startdatelate": "-219",
@@ -1559,6 +1622,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1580,6 +1644,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-344",
         "startdateearly": "-344",
         "startdatelate": "",
@@ -1608,6 +1673,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SJuM",
         "checked": ""
       },
       "geometry": {
@@ -1629,6 +1695,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-392",
         "startdateearly": "-392",
         "startdatelate": "",
@@ -1657,6 +1724,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1678,6 +1746,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "208",
+        "compass": "SW",
         "date": "-179",
         "startdateearly": "-179",
         "startdatelate": "",
@@ -1706,6 +1775,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1727,6 +1797,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "71",
+        "compass": "E",
         "date": "-197-194",
         "startdateearly": "-197",
         "startdatelate": "-194",
@@ -1755,6 +1826,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1776,6 +1848,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1804,6 +1877,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1825,6 +1899,7 @@ var temples =  {
         "city": "Jerusalem",
         "country": "IL",
         "orientation": "349",
+        "compass": "N",
         "date": "130",
         "startdateearly": "130",
         "startdatelate": "",
@@ -1853,6 +1928,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1874,6 +1950,7 @@ var temples =  {
         "city": "Damascus",
         "country": "SY",
         "orientation": "",
+        "compass": "",
         "date": "14",
         "startdateearly": "14",
         "startdatelate": "",
@@ -1902,6 +1979,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1923,6 +2001,7 @@ var temples =  {
         "city": "Yarbrud",
         "country": "SY",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -1951,6 +2030,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -1972,6 +2052,7 @@ var temples =  {
         "city": "Baalbek",
         "country": "LB",
         "orientation": "",
+        "compass": "",
         "date": "135",
         "startdateearly": "135",
         "startdatelate": "",
@@ -2000,6 +2081,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2021,6 +2103,7 @@ var temples =  {
         "city": "Terracina",
         "country": "IT",
         "orientation": "175",
+        "compass": "S",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2049,6 +2132,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "413133SJAn",
         "checked": ""
       },
       "geometry": {
@@ -2070,6 +2154,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2098,6 +2183,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2119,6 +2205,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2147,6 +2234,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2168,6 +2256,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "152",
+        "compass": "SE",
         "date": "-509",
         "startdateearly": "-509",
         "startdatelate": "",
@@ -2196,6 +2285,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SJCa",
         "checked": ""
       },
       "geometry": {
@@ -2217,6 +2307,7 @@ var temples =  {
         "city": "Pompeii",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "mid-2nd century BC",
         "startdateearly": "-175",
         "startdatelate": "-125",
@@ -2245,6 +2336,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2266,6 +2358,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-294",
         "startdateearly": "-294",
         "startdatelate": "",
@@ -2294,6 +2387,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2315,6 +2409,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "208",
+        "compass": "SW",
         "date": "-146",
         "startdateearly": "-146",
         "startdatelate": "",
@@ -2343,6 +2438,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2364,6 +2460,7 @@ var temples =  {
         "city": "Kedesh",
         "country": "IL",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2392,6 +2489,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2413,6 +2511,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "-299-200",
         "startdateearly": "-299",
         "startdatelate": "-200",
@@ -2441,6 +2540,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2462,6 +2562,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "-179",
         "startdateearly": "-179",
         "startdatelate": "",
@@ -2490,6 +2591,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2511,6 +2613,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "233",
+        "compass": "SW",
         "date": "-2",
         "startdateearly": "-2",
         "startdatelate": "",
@@ -2539,6 +2642,7 @@ var temples =  {
         "trismegistos": "43987",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2560,6 +2664,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "180",
+        "compass": "S",
         "date": "-368",
         "startdateearly": "-368",
         "startdatelate": "",
@@ -2588,6 +2693,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2609,6 +2715,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "119",
         "startdateearly": "119",
         "startdatelate": "",
@@ -2637,6 +2744,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2658,6 +2766,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "early 4th century CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -2686,6 +2795,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2707,6 +2817,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-399-300",
         "startdateearly": "-399",
         "startdatelate": "-300",
@@ -2735,6 +2846,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2756,6 +2868,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "228",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2784,6 +2897,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2805,6 +2919,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2833,6 +2948,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2854,6 +2970,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2882,6 +2999,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2903,6 +3021,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2931,6 +3050,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -2952,6 +3072,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -2980,6 +3101,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3001,6 +3123,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3029,6 +3152,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3050,6 +3174,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3078,6 +3203,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3099,6 +3225,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3127,6 +3254,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3148,6 +3276,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3176,6 +3305,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3197,6 +3327,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3225,6 +3356,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3246,6 +3378,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3274,6 +3407,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3295,6 +3429,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3323,6 +3458,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3344,6 +3480,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3372,6 +3509,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3393,6 +3531,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3421,6 +3560,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3442,6 +3582,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3470,6 +3611,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3491,6 +3633,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3519,6 +3662,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3540,6 +3684,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "354",
+        "compass": "N",
         "date": "126",
         "startdateearly": "126",
         "startdatelate": "",
@@ -3568,6 +3713,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "700000158",
+        "topostext": "419125SPan",
         "checked": ""
       },
       "geometry": {
@@ -3589,6 +3735,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "75",
         "startdateearly": "75",
         "startdatelate": "",
@@ -3617,6 +3764,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3638,6 +3786,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "347",
+        "compass": "N",
         "date": "-120",
         "startdateearly": "-120",
         "startdatelate": "",
@@ -3666,6 +3815,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3687,6 +3837,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3715,6 +3866,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3736,6 +3888,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "32",
+        "compass": "NE",
         "date": "-498",
         "startdateearly": "-498",
         "startdatelate": "",
@@ -3764,13 +3917,14 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "419125SSat",
         "checked": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.484187,
-          41.892666
+          12.484181,
+          41.892468
         ]
       }
     },
@@ -3785,6 +3939,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "71",
+        "compass": "E",
         "date": "-258-249",
         "startdateearly": "-258",
         "startdatelate": "-249",
@@ -3813,6 +3968,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3834,6 +3990,7 @@ var temples =  {
         "city": "Tivoli",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "-150-125",
         "startdateearly": "-150",
         "startdatelate": "-125",
@@ -3862,6 +4019,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3883,6 +4041,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "121",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3911,6 +4070,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3932,6 +4092,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -3960,6 +4121,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -3981,6 +4143,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "220",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4009,6 +4172,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4030,6 +4194,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "113",
+        "compass": "SE",
         "date": "140-145",
         "startdateearly": "140",
         "startdatelate": "145",
@@ -4058,6 +4223,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4079,6 +4245,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "130",
+        "compass": "SE",
         "date": "-46",
         "startdateearly": "-46",
         "startdatelate": "",
@@ -4107,6 +4274,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4128,6 +4296,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "90",
+        "compass": "E",
         "date": "-55",
         "startdateearly": "-55",
         "startdatelate": "",
@@ -4156,6 +4325,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4177,6 +4347,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "119",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4205,6 +4376,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4226,6 +4398,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "35",
+        "compass": "NE",
         "date": "-575",
         "startdateearly": "-575",
         "startdatelate": "",
@@ -4254,6 +4427,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4275,6 +4449,7 @@ var temples =  {
         "city": "Tivoli",
         "country": "IT",
         "orientation": "190",
+        "compass": "S",
         "date": "early 1st-Century BCE",
         "startdateearly": "-99",
         "startdatelate": "-75",
@@ -4303,6 +4478,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4324,6 +4500,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "219",
+        "compass": "SW",
         "date": "-294",
         "startdateearly": "-294",
         "startdatelate": "",
@@ -4352,6 +4529,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4373,6 +4551,7 @@ var temples =  {
         "city": "Cosa",
         "country": "IT",
         "orientation": "68",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4401,6 +4580,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4422,6 +4602,7 @@ var temples =  {
         "city": "Cumae",
         "country": "IT",
         "orientation": "105",
+        "compass": "E",
         "date": "26",
         "startdateearly": "",
         "startdatelate": "",
@@ -4450,6 +4631,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4471,6 +4653,7 @@ var temples =  {
         "city": "Verona",
         "country": "IT",
         "orientation": "144",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4499,6 +4682,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4520,6 +4704,7 @@ var temples =  {
         "city": "Scarbantia",
         "country": "HU",
         "orientation": "208",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4548,6 +4733,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4569,6 +4755,7 @@ var temples =  {
         "city": "Constantinople",
         "country": "TR",
         "orientation": "",
+        "compass": "",
         "date": "330",
         "startdateearly": "330",
         "startdatelate": "",
@@ -4597,6 +4784,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4618,6 +4806,7 @@ var temples =  {
         "city": "Pula",
         "country": "HR",
         "orientation": "156",
+        "compass": "SE",
         "date": "",
         "startdateearly": "-2",
         "startdatelate": "14",
@@ -4646,6 +4835,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4667,6 +4857,7 @@ var temples =  {
         "city": "Barcelona",
         "country": "ES",
         "orientation": "314",
+        "compass": "NW",
         "date": "1st c. BCE",
         "startdateearly": "",
         "startdatelate": "",
@@ -4695,6 +4886,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4716,6 +4908,7 @@ var temples =  {
         "city": "Pozzuoli",
         "country": "IT",
         "orientation": "178",
+        "compass": "S",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4744,6 +4937,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4765,6 +4959,7 @@ var temples =  {
         "city": "Althiburos",
         "country": "TN",
         "orientation": "43",
+        "compass": "NE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4793,6 +4988,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4814,6 +5010,7 @@ var temples =  {
         "city": "Althiburos",
         "country": "TN",
         "orientation": "224",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4842,6 +5039,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4863,6 +5061,7 @@ var temples =  {
         "city": "Tebessa",
         "country": "DZ",
         "orientation": "121",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -4891,6 +5090,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4912,6 +5112,7 @@ var temples =  {
         "city": "Laodicea on the Lycus",
         "country": "TR",
         "orientation": "27",
+        "compass": "NE",
         "date": "2nd c. CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -4940,6 +5141,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -4961,6 +5163,7 @@ var temples =  {
         "city": "Pergamon",
         "country": "TR",
         "orientation": "201",
+        "compass": "S",
         "date": "2nd c. CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -4989,6 +5192,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5010,6 +5214,7 @@ var temples =  {
         "city": "Pergamon",
         "country": "TR",
         "orientation": "166",
+        "compass": "S",
         "date": "Early 3rd c. CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -5038,6 +5243,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5059,6 +5265,7 @@ var temples =  {
         "city": "Rome",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "3rd c. BCE",
         "startdateearly": "-292",
         "startdatelate": "-219",
@@ -5087,6 +5294,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5108,6 +5316,7 @@ var temples =  {
         "city": "Veii",
         "country": "IT",
         "orientation": "97",
+        "compass": "E",
         "date": "-510",
         "startdateearly": "",
         "startdatelate": "",
@@ -5136,6 +5345,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5157,6 +5367,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5185,6 +5396,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "4023",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5206,6 +5418,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5234,6 +5447,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "4031",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5255,6 +5469,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5283,6 +5498,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "4083",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5304,6 +5520,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5332,6 +5549,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "9015",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5353,6 +5571,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5381,6 +5600,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "9106",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5402,6 +5622,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5430,6 +5651,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "14072",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5451,6 +5673,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5479,6 +5702,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "14074",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5500,6 +5724,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5528,6 +5753,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "14103",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5549,6 +5775,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5577,6 +5804,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "16063",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5598,6 +5826,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5626,6 +5855,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "16093",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5647,6 +5877,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5675,6 +5906,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "16099",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5696,6 +5928,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5724,6 +5957,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "17001",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5745,6 +5979,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5773,6 +6008,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "20014",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5794,6 +6030,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5822,6 +6059,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "20035",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5843,6 +6081,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5871,6 +6110,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "20060",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5892,6 +6132,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5920,6 +6161,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "20079",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5941,6 +6183,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -5969,6 +6212,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "21004",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -5990,6 +6234,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6018,6 +6263,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "21047",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6039,6 +6285,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6067,6 +6314,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "21106",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6088,6 +6336,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6116,6 +6365,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "21127",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6137,6 +6387,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6165,6 +6416,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "25035",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6186,6 +6438,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6214,6 +6467,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "32006",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6235,6 +6489,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6263,6 +6518,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "41043",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6284,6 +6540,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6312,6 +6569,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "43021",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6333,6 +6591,7 @@ var temples =  {
         "city": "",
         "country": "UK",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6361,6 +6620,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "45019",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6382,6 +6642,7 @@ var temples =  {
         "city": "Dougga",
         "country": "TN",
         "orientation": "109",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6410,6 +6671,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6431,6 +6693,7 @@ var temples =  {
         "city": "Thuburbo Majus",
         "country": "TN",
         "orientation": "132",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6459,6 +6722,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6480,6 +6744,7 @@ var temples =  {
         "city": "Tiddis",
         "country": "DZ",
         "orientation": "75",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6508,6 +6773,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6529,6 +6795,7 @@ var temples =  {
         "city": "Amman",
         "country": "JO",
         "orientation": "76",
+        "compass": "E",
         "date": "",
         "startdateearly": "162",
         "startdatelate": "",
@@ -6557,6 +6824,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6578,6 +6846,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "89",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -6606,6 +6875,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6627,6 +6897,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "82",
+        "compass": "E",
         "date": "ca. 450 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6655,6 +6926,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6676,6 +6948,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "89",
+        "compass": "E",
         "date": "ca. 440-430 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6704,6 +6977,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6725,6 +6999,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "89",
+        "compass": "E",
         "date": "late 5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6753,6 +7028,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6774,6 +7050,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "77",
+        "compass": "E",
         "date": "5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6802,6 +7079,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6823,6 +7101,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "86",
+        "compass": "E",
         "date": "ca. 430 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6851,6 +7130,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6872,6 +7152,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "82",
+        "compass": "E",
         "date": "ca. 530-520 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6900,6 +7181,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6921,6 +7203,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "83",
+        "compass": "E",
         "date": "mid-5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6949,6 +7232,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -6970,6 +7254,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "77",
+        "compass": "E",
         "date": "late 5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -6998,6 +7283,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7019,6 +7305,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "123",
+        "compass": "SE",
         "date": "ca. 480-470 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -7047,6 +7334,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7068,6 +7356,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "167",
+        "compass": "S",
         "date": "late 1st c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -7096,6 +7385,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7117,6 +7407,7 @@ var temples =  {
         "city": "Sounion",
         "country": "GR",
         "orientation": "103",
+        "compass": "E",
         "date": "444-440 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -7145,6 +7436,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7166,6 +7458,7 @@ var temples =  {
         "city": "Sounion",
         "country": "GR",
         "orientation": "98",
+        "compass": "E",
         "date": "470 BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -7194,6 +7487,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7215,6 +7509,7 @@ var temples =  {
         "city": "Sounion",
         "country": "GR",
         "orientation": "102",
+        "compass": "E",
         "date": "5th c. BC",
         "startdateearly": "",
         "startdatelate": "",
@@ -7243,6 +7538,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7264,6 +7560,7 @@ var temples =  {
         "city": "Terracina",
         "country": "IT",
         "orientation": "224",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7292,6 +7589,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7313,6 +7611,7 @@ var temples =  {
         "city": "Terracina",
         "country": "IT",
         "orientation": "132",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7341,6 +7640,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7362,6 +7662,7 @@ var temples =  {
         "city": "Pompeii",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7390,6 +7691,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -7411,6 +7713,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7439,6 +7742,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7460,6 +7764,7 @@ var temples =  {
         "city": "San Giovanni di Sinis",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7488,6 +7793,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7509,6 +7815,7 @@ var temples =  {
         "city": "Gabii",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7537,6 +7844,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7558,6 +7866,7 @@ var temples =  {
         "city": "Fluminimaggiore",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7586,6 +7895,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7607,6 +7917,7 @@ var temples =  {
         "city": "Cagliari",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7635,6 +7946,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7656,6 +7968,7 @@ var temples =  {
         "city": "Brescia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7684,6 +7997,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7705,6 +8019,7 @@ var temples =  {
         "city": "Bidoni",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7733,6 +8048,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7754,6 +8070,7 @@ var temples =  {
         "city": "Pietrabbondante",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7782,6 +8099,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7803,6 +8121,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7831,6 +8150,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7852,6 +8172,7 @@ var temples =  {
         "city": "Metapontum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7880,6 +8201,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7901,6 +8223,7 @@ var temples =  {
         "city": "Segesta",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7929,6 +8252,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7950,6 +8274,7 @@ var temples =  {
         "city": "Aricia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -7978,6 +8303,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -7999,6 +8325,7 @@ var temples =  {
         "city": "Carsulae",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8027,6 +8354,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8048,6 +8376,7 @@ var temples =  {
         "city": "Populonia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8076,6 +8405,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8097,6 +8427,7 @@ var temples =  {
         "city": "Palestrina",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8125,6 +8456,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8146,6 +8478,7 @@ var temples =  {
         "city": "Assisi",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8174,6 +8507,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8195,6 +8529,7 @@ var temples =  {
         "city": "Syracuse",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8223,6 +8558,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8244,6 +8580,7 @@ var temples =  {
         "city": "Syracuse",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8272,6 +8609,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8293,6 +8631,7 @@ var temples =  {
         "city": "Alberese",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8321,6 +8660,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8342,6 +8682,7 @@ var temples =  {
         "city": "Bacoli",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8370,6 +8711,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8391,6 +8733,7 @@ var temples =  {
         "city": "Bacoli",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8419,6 +8762,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8440,6 +8784,7 @@ var temples =  {
         "city": "Cumae",
         "country": "IT",
         "orientation": "91",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8468,6 +8813,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -8489,6 +8835,7 @@ var temples =  {
         "city": "Cumae",
         "country": "IT",
         "orientation": "42",
+        "compass": "NE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8517,6 +8864,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -8538,6 +8886,7 @@ var temples =  {
         "city": "Avernus",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8566,6 +8915,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8587,6 +8937,7 @@ var temples =  {
         "city": "Paestum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8615,6 +8966,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8636,6 +8988,7 @@ var temples =  {
         "city": "Paestum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8664,6 +9017,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8685,6 +9039,7 @@ var temples =  {
         "city": "Breno",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8713,6 +9068,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8734,6 +9090,7 @@ var temples =  {
         "city": "Grumentum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8762,6 +9119,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8783,6 +9141,7 @@ var temples =  {
         "city": "Grumentum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8811,6 +9170,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8832,6 +9192,7 @@ var temples =  {
         "city": "Grumentum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8860,6 +9221,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8881,6 +9243,7 @@ var temples =  {
         "city": "Grumentum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8909,6 +9272,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8930,6 +9294,7 @@ var temples =  {
         "city": "Agrigento",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -8958,6 +9323,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -8979,6 +9345,7 @@ var temples =  {
         "city": "Terraseo",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9007,6 +9374,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9028,6 +9396,7 @@ var temples =  {
         "city": "Himera",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9056,6 +9425,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9077,6 +9447,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9105,6 +9476,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9126,6 +9498,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9154,6 +9527,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9175,6 +9549,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9203,6 +9578,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9224,6 +9600,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9252,6 +9629,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9273,6 +9651,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9301,6 +9680,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9322,6 +9702,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9350,6 +9731,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9371,6 +9753,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9399,6 +9782,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9420,6 +9804,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9448,6 +9833,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9469,6 +9855,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9497,6 +9884,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9518,6 +9906,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9546,6 +9935,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9567,6 +9957,7 @@ var temples =  {
         "city": "Selinunte",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9595,6 +9986,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9616,6 +10008,7 @@ var temples =  {
         "city": "Taranto",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9644,6 +10037,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9665,6 +10059,7 @@ var temples =  {
         "city": "Tivoli",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9693,6 +10088,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9714,6 +10110,7 @@ var temples =  {
         "city": "Palazzolo Acreide",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9742,6 +10139,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9763,6 +10161,7 @@ var temples =  {
         "city": "Locri Epizephiri",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9791,6 +10190,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9812,6 +10212,7 @@ var temples =  {
         "city": "Tavole Palatine",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9840,6 +10241,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "404168SHer",
         "checked": "No"
       },
       "geometry": {
@@ -9861,6 +10263,7 @@ var temples =  {
         "city": "Pyrgi",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9889,6 +10292,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9910,6 +10314,7 @@ var temples =  {
         "city": "Pyrgi",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9938,6 +10343,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -9959,6 +10365,7 @@ var temples =  {
         "city": "Pyrgi",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -9987,6 +10394,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10008,6 +10416,7 @@ var temples =  {
         "city": "Erice",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10036,6 +10445,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10057,6 +10467,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10085,6 +10496,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10106,6 +10518,7 @@ var temples =  {
         "city": "Monte S. Martino",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10134,6 +10547,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10155,6 +10569,7 @@ var temples =  {
         "city": "Pissignano",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10183,6 +10598,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10204,6 +10620,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10232,6 +10649,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10253,6 +10671,7 @@ var temples =  {
         "city": "Napoli",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10281,6 +10700,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10302,6 +10722,7 @@ var temples =  {
         "city": "Sant'Angelo In Formis",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10320,7 +10741,7 @@ var temples =  {
         "note": "",
         "vici.org": "19794",
         "pleiades": "432813",
-        "dare": "21762",
+        "dare": "22559",
         "arachne": "",
         "livius": "",
         "wikipedia": "",
@@ -10330,6 +10751,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10351,6 +10773,7 @@ var temples =  {
         "city": "Bevagna",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10379,6 +10802,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10400,6 +10824,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10428,6 +10853,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10449,6 +10875,7 @@ var temples =  {
         "city": "Castel Focognano",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10477,6 +10904,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10498,6 +10926,7 @@ var temples =  {
         "city": "Luna",
         "country": "IT",
         "orientation": "205",
+        "compass": "SW",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10526,6 +10955,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -10547,6 +10977,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10575,6 +11006,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10596,6 +11028,7 @@ var temples =  {
         "city": "La Pieve-molino",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10624,6 +11057,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10645,6 +11079,7 @@ var temples =  {
         "city": "Paestum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10673,6 +11108,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10694,6 +11130,7 @@ var temples =  {
         "city": "Cefalú",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10722,6 +11159,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10743,6 +11181,7 @@ var temples =  {
         "city": "Vulci",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10771,6 +11210,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10792,6 +11232,7 @@ var temples =  {
         "city": "Vulci",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10820,6 +11261,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10841,6 +11283,7 @@ var temples =  {
         "city": "Fiesole",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10869,6 +11312,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10890,6 +11334,7 @@ var temples =  {
         "city": "Heloros",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10918,6 +11363,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10939,6 +11385,7 @@ var temples =  {
         "city": "Tusculum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -10967,6 +11414,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -10988,6 +11436,7 @@ var temples =  {
         "city": "Megara Hyblaea",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11016,6 +11465,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11037,6 +11487,7 @@ var temples =  {
         "city": "Paestum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11065,6 +11516,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11086,6 +11538,7 @@ var temples =  {
         "city": "Paestum",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11114,6 +11567,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11135,6 +11589,7 @@ var temples =  {
         "city": "Morgantina",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11163,6 +11618,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11184,6 +11640,7 @@ var temples =  {
         "city": "Morgantina",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11212,6 +11669,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11233,6 +11691,7 @@ var temples =  {
         "city": "Morgantina",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11261,6 +11720,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11282,6 +11742,7 @@ var temples =  {
         "city": "Enna",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11310,6 +11771,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11331,6 +11793,7 @@ var temples =  {
         "city": "Acrae",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11359,6 +11822,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11380,6 +11844,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11408,6 +11873,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11429,6 +11895,7 @@ var temples =  {
         "city": "",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11457,6 +11924,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11478,6 +11946,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11506,6 +11975,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11527,6 +11997,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11555,6 +12026,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11576,6 +12048,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11604,6 +12077,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11625,6 +12099,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11653,6 +12128,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11674,6 +12150,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11702,6 +12179,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11723,6 +12201,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11751,6 +12230,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11772,6 +12252,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11800,6 +12281,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11821,6 +12303,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11849,6 +12332,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11870,6 +12354,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11898,6 +12383,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11919,6 +12405,7 @@ var temples =  {
         "city": "Portus",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11947,6 +12434,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -11968,6 +12456,7 @@ var temples =  {
         "city": "Portus",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -11996,6 +12485,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12017,6 +12507,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12045,6 +12536,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12066,6 +12558,7 @@ var temples =  {
         "city": "Ostia",
         "country": "IT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12094,6 +12587,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12115,6 +12609,7 @@ var temples =  {
         "city": "Cumae",
         "country": "IT",
         "orientation": "16",
+        "compass": "N",
         "date": "Early 1st c. CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -12143,6 +12638,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -12164,6 +12660,7 @@ var temples =  {
         "city": "Cumae",
         "country": "IT",
         "orientation": "280",
+        "compass": "W",
         "date": "Late 1st c. CE",
         "startdateearly": "",
         "startdatelate": "",
@@ -12192,6 +12689,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": ""
       },
       "geometry": {
@@ -12213,6 +12711,7 @@ var temples =  {
         "city": "Colares",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12241,6 +12740,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12262,6 +12762,7 @@ var temples =  {
         "city": "Santiago do Cacém",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12290,6 +12791,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12311,6 +12813,7 @@ var temples =  {
         "city": "Évora",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12339,6 +12842,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12360,6 +12864,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12388,6 +12893,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12409,6 +12915,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12437,6 +12944,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12458,6 +12966,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12486,6 +12995,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12507,6 +13017,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12535,6 +13046,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12556,6 +13068,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12584,6 +13097,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12605,6 +13119,7 @@ var temples =  {
         "city": "Idanha a Nova",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12633,6 +13148,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12654,6 +13170,7 @@ var temples =  {
         "city": "",
         "country": "PT",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12682,6 +13199,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12703,6 +13221,7 @@ var temples =  {
         "city": "Vic",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12731,6 +13250,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12752,6 +13272,7 @@ var temples =  {
         "city": "Córdoba",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12780,6 +13301,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12801,6 +13323,7 @@ var temples =  {
         "city": "Mérida",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12829,6 +13352,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12850,6 +13374,7 @@ var temples =  {
         "city": "Alcántara",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12878,6 +13403,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12899,6 +13425,7 @@ var temples =  {
         "city": "Los Baños de Fortuna",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12927,6 +13454,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12948,6 +13476,7 @@ var temples =  {
         "city": "Montealegre del Castillo",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -12976,6 +13505,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -12997,6 +13527,7 @@ var temples =  {
         "city": "Zalamea de la Serena",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13025,6 +13556,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13046,6 +13578,7 @@ var temples =  {
         "city": "Burguillos del Cerro",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13074,6 +13607,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13095,6 +13629,7 @@ var temples =  {
         "city": "Lugo",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13123,6 +13658,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13144,6 +13680,7 @@ var temples =  {
         "city": "L'Escala",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13172,6 +13709,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13193,6 +13731,7 @@ var temples =  {
         "city": "L'Escala",
         "country": "ES",
         "orientation": "156",
+        "compass": "SE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13221,6 +13760,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13242,6 +13782,7 @@ var temples =  {
         "city": "Sevilla",
         "country": "ES",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13270,6 +13811,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13291,6 +13833,7 @@ var temples =  {
         "city": "Sceaux-du-Gâtinais",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13319,6 +13862,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13340,6 +13884,7 @@ var temples =  {
         "city": "Nîmes",
         "country": "FR",
         "orientation": "349",
+        "compass": "N",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13368,6 +13913,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -13389,6 +13935,7 @@ var temples =  {
         "city": "Saint-Rémy-de-Provence",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13417,6 +13964,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13438,6 +13986,7 @@ var temples =  {
         "city": "Pouillé",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13466,6 +14015,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13487,6 +14037,7 @@ var temples =  {
         "city": "Orange",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13515,6 +14066,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13536,6 +14088,7 @@ var temples =  {
         "city": "Paris",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13564,6 +14117,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13585,6 +14139,7 @@ var temples =  {
         "city": "Alba-la-Romaine",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13613,6 +14168,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13634,6 +14190,7 @@ var temples =  {
         "city": "Vienne",
         "country": "FR",
         "orientation": "90",
+        "compass": "E",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13662,6 +14219,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -13683,6 +14241,7 @@ var temples =  {
         "city": "Vienne",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13711,6 +14270,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13732,6 +14292,7 @@ var temples =  {
         "city": "Roppeviller",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13760,6 +14321,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13781,6 +14343,7 @@ var temples =  {
         "city": "Nîmes",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13809,6 +14372,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13830,6 +14394,7 @@ var temples =  {
         "city": "Le Vieil-Évreux",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13858,6 +14423,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13879,6 +14445,7 @@ var temples =  {
         "city": "Niederbronn-les-Bains",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13907,6 +14474,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13928,6 +14496,7 @@ var temples =  {
         "city": "Villards-d'Héria",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -13956,6 +14525,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -13977,6 +14547,7 @@ var temples =  {
         "city": "Équevillon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14005,6 +14576,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14026,6 +14598,7 @@ var temples =  {
         "city": "Mouzon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14054,6 +14627,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14075,6 +14649,7 @@ var temples =  {
         "city": "Izernore",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14103,6 +14678,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14124,6 +14700,7 @@ var temples =  {
         "city": "Vernègues",
         "country": "FR",
         "orientation": "327",
+        "compass": "NW",
         "date": "1st BCE",
         "startdateearly": "-1",
         "startdatelate": "",
@@ -14152,6 +14729,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -14173,6 +14751,7 @@ var temples =  {
         "city": "Riez",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14201,6 +14780,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14222,6 +14802,7 @@ var temples =  {
         "city": "Eu",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14250,6 +14831,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14271,6 +14853,7 @@ var temples =  {
         "city": "Genainville",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14299,6 +14882,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14320,6 +14904,7 @@ var temples =  {
         "city": "Corseul",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14348,6 +14933,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14369,6 +14955,7 @@ var temples =  {
         "city": "Autun",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14397,6 +14984,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14418,6 +15006,7 @@ var temples =  {
         "city": "Châteaubleau",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14446,6 +15035,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14467,6 +15057,7 @@ var temples =  {
         "city": "Saint-Marcel",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14495,6 +15086,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14516,6 +15108,7 @@ var temples =  {
         "city": "Offemont",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14544,6 +15137,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14565,6 +15159,7 @@ var temples =  {
         "city": "Ognon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14593,6 +15188,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14614,6 +15210,7 @@ var temples =  {
         "city": "Dax",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14642,6 +15239,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14663,6 +15261,7 @@ var temples =  {
         "city": "Margerides",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14691,6 +15290,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14712,6 +15312,7 @@ var temples =  {
         "city": "Archettes",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14740,6 +15341,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14761,6 +15363,7 @@ var temples =  {
         "city": "Fréteval",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14789,6 +15392,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14810,6 +15414,7 @@ var temples =  {
         "city": "Grandfontaine",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14838,6 +15443,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14859,6 +15465,7 @@ var temples =  {
         "city": "Alès",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14887,6 +15494,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14908,6 +15516,7 @@ var temples =  {
         "city": "Grand",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14936,6 +15545,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -14957,6 +15567,7 @@ var temples =  {
         "city": "Castelnau-Montratier",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -14985,6 +15596,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15006,6 +15618,7 @@ var temples =  {
         "city": "Drevant",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15034,6 +15647,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15055,6 +15669,7 @@ var temples =  {
         "city": "Bennecourt",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15083,6 +15698,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15104,6 +15720,7 @@ var temples =  {
         "city": "La Bâtie-Montsaléon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15132,6 +15749,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15153,6 +15771,7 @@ var temples =  {
         "city": "Velaux",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15181,6 +15800,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15202,6 +15822,7 @@ var temples =  {
         "city": "Villeneuve-Loubet",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15230,6 +15851,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15251,6 +15873,7 @@ var temples =  {
         "city": "Rognes",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15279,6 +15902,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15300,6 +15924,7 @@ var temples =  {
         "city": "Sainte-Eulalie-de-Cernon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15328,6 +15953,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15349,6 +15975,7 @@ var temples =  {
         "city": "Aurillac",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15377,6 +16004,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15398,6 +16026,7 @@ var temples =  {
         "city": "Roquefort-sur-Soulzon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15426,6 +16055,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15447,6 +16077,7 @@ var temples =  {
         "city": "Saint-Désirat",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15475,6 +16106,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15496,6 +16128,7 @@ var temples =  {
         "city": "Murol",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15524,6 +16157,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15545,6 +16179,7 @@ var temples =  {
         "city": "Aix-les-Bains",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15573,6 +16208,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15594,6 +16230,7 @@ var temples =  {
         "city": "Lyon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15622,6 +16259,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15643,6 +16281,7 @@ var temples =  {
         "city": "Blanzat",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15671,6 +16310,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15692,6 +16332,7 @@ var temples =  {
         "city": "Orcines",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15720,6 +16361,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15741,6 +16383,7 @@ var temples =  {
         "city": "Saint-Pardoux-Morterolles",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15769,6 +16412,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15790,6 +16434,7 @@ var temples =  {
         "city": "Saint-Goussaud",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15818,6 +16463,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15839,6 +16485,7 @@ var temples =  {
         "city": "Saint-Pardoux",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15867,6 +16514,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15888,6 +16536,7 @@ var temples =  {
         "city": "Villards-d'Héria",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15916,6 +16565,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15937,6 +16587,7 @@ var temples =  {
         "city": "Uzay-le-Venon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -15965,6 +16616,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -15986,6 +16638,7 @@ var temples =  {
         "city": "Thaumiers",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16014,6 +16667,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16035,6 +16689,7 @@ var temples =  {
         "city": "Pupillin",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16063,6 +16718,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16084,6 +16740,7 @@ var temples =  {
         "city": "Baugy",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16112,6 +16769,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16133,6 +16791,7 @@ var temples =  {
         "city": "Dun-sur-Auron",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16161,6 +16820,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16182,6 +16842,7 @@ var temples =  {
         "city": "Clion",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16210,6 +16871,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16231,6 +16893,7 @@ var temples =  {
         "city": "Boncourt-le-Bois",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16259,6 +16922,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16280,6 +16944,7 @@ var temples =  {
         "city": "Neuvy-sur-Barangeon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16308,6 +16973,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16329,6 +16995,7 @@ var temples =  {
         "city": "Petit-Mars",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16357,6 +17024,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16378,6 +17046,7 @@ var temples =  {
         "city": "Poncey-sur-l'Ignon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16406,6 +17075,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16427,6 +17097,7 @@ var temples =  {
         "city": "Vannes",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16455,6 +17126,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16476,6 +17148,7 @@ var temples =  {
         "city": "La Vraie-Croix",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16504,6 +17177,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16525,6 +17199,7 @@ var temples =  {
         "city": "Briou",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16553,6 +17228,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16574,6 +17250,7 @@ var temples =  {
         "city": "Comblessac",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16602,6 +17279,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16623,6 +17301,7 @@ var temples =  {
         "city": "Montbouy",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16651,6 +17330,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16672,6 +17352,7 @@ var temples =  {
         "city": "Savoyeux",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16700,6 +17381,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16721,6 +17403,7 @@ var temples =  {
         "city": "Faverolles",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16749,6 +17432,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16770,6 +17454,7 @@ var temples =  {
         "city": "Plombières-les-Bains",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16798,6 +17483,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16819,6 +17505,7 @@ var temples =  {
         "city": "Pannes",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16847,6 +17534,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16868,6 +17556,7 @@ var temples =  {
         "city": "Bains-les-Bains",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16896,6 +17585,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16917,6 +17607,7 @@ var temples =  {
         "city": "Bréal-sous-Montfort",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16945,6 +17636,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -16966,6 +17658,7 @@ var temples =  {
         "city": "Cléden-Cap-Sizun",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -16994,6 +17687,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17015,6 +17709,7 @@ var temples =  {
         "city": "Douarnenez",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17043,6 +17738,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17064,6 +17760,7 @@ var temples =  {
         "city": "Pithiviers-le-Vieil",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17092,6 +17789,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17113,6 +17811,7 @@ var temples =  {
         "city": "Grisy-sur-Seine",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17141,6 +17840,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17162,6 +17862,7 @@ var temples =  {
         "city": "Deneuvre",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17190,6 +17891,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17211,6 +17913,7 @@ var temples =  {
         "city": "Taden",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17239,6 +17942,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17260,6 +17964,7 @@ var temples =  {
         "city": "La Villeneuve-au-Châtelot",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17288,6 +17993,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17309,6 +18015,7 @@ var temples =  {
         "city": "Saint-Amand-sur-Ornain",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17337,6 +18044,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17358,6 +18066,7 @@ var temples =  {
         "city": "Haegen",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17386,6 +18095,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17407,6 +18117,7 @@ var temples =  {
         "city": "Saint-Forget",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17435,6 +18146,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17456,6 +18168,7 @@ var temples =  {
         "city": "Arnières-sur-Iton",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17484,6 +18197,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17505,6 +18219,7 @@ var temples =  {
         "city": "Épiais-Rhus",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17533,6 +18248,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17554,6 +18270,7 @@ var temples =  {
         "city": "Saint-Aubin-sur-Gaillon",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17582,6 +18299,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17603,6 +18321,7 @@ var temples =  {
         "city": "Louviers",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17631,6 +18350,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17652,6 +18372,7 @@ var temples =  {
         "city": "Oissel",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17680,6 +18401,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17701,6 +18423,7 @@ var temples =  {
         "city": "Grand-Couronne",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17729,6 +18452,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17750,6 +18474,7 @@ var temples =  {
         "city": "Estrées-Saint-Denis",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17778,6 +18503,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17799,6 +18525,7 @@ var temples =  {
         "city": "Songeons",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17827,6 +18554,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17848,6 +18576,7 @@ var temples =  {
         "city": "Saint-Maur",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17876,6 +18605,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17897,6 +18627,7 @@ var temples =  {
         "city": "Rouvroy-les-Merles",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17925,6 +18656,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17946,6 +18678,7 @@ var temples =  {
         "city": "Septeuil",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -17974,6 +18707,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -17995,6 +18729,7 @@ var temples =  {
         "city": "Caix",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18023,6 +18758,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18044,6 +18780,7 @@ var temples =  {
         "city": "Fluy",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18072,6 +18809,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18093,6 +18831,7 @@ var temples =  {
         "city": "Cartigny",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18121,6 +18860,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18142,6 +18882,7 @@ var temples =  {
         "city": "Bracquemont",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18170,6 +18911,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18191,6 +18933,7 @@ var temples =  {
         "city": "Ribemont-sur-Ancre",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18219,6 +18962,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18240,6 +18984,7 @@ var temples =  {
         "city": "Bailleul",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18268,6 +19013,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18289,6 +19035,7 @@ var temples =  {
         "city": "Beauval",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18317,6 +19064,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18338,6 +19086,7 @@ var temples =  {
         "city": "Cocquerel",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18366,6 +19115,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18387,6 +19137,7 @@ var temples =  {
         "city": "Proyart",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18415,6 +19166,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18436,6 +19188,7 @@ var temples =  {
         "city": "Pont-Sainte-Maxence",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18464,6 +19217,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18485,6 +19239,7 @@ var temples =  {
         "city": "Remiencourt",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18513,6 +19268,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18534,6 +19290,7 @@ var temples =  {
         "city": "Sorcy-Saint-Martin",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18562,6 +19319,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18583,6 +19341,7 @@ var temples =  {
         "city": "Amel-sur-l'Étang",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18611,6 +19370,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18632,6 +19392,7 @@ var temples =  {
         "city": "Lachalade",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18660,6 +19421,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18681,6 +19443,7 @@ var temples =  {
         "city": "Cocheren",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18709,6 +19472,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18730,6 +19494,7 @@ var temples =  {
         "city": "Laneuveville-devant-Nancy",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18758,6 +19523,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18779,6 +19545,7 @@ var temples =  {
         "city": "Montignac",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18807,6 +19574,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18828,6 +19596,7 @@ var temples =  {
         "city": "Niederbronn-les-Bains",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18856,6 +19625,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18877,6 +19647,7 @@ var temples =  {
         "city": "Sarrebourg",
         "country": "FR",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18905,6 +19676,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18926,6 +19698,7 @@ var temples =  {
         "city": "Xanten",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -18954,6 +19727,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -18975,6 +19749,7 @@ var temples =  {
         "city": "Köln",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19003,6 +19778,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19024,6 +19800,7 @@ var temples =  {
         "city": "Köln",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19052,6 +19829,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19073,6 +19851,7 @@ var temples =  {
         "city": "Köln",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19101,6 +19880,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19122,6 +19902,7 @@ var temples =  {
         "city": "Nettersheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19150,6 +19931,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19171,6 +19953,7 @@ var temples =  {
         "city": "Nettersheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19199,6 +19982,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19220,6 +20004,7 @@ var temples =  {
         "city": "Ernzen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19248,6 +20033,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19269,6 +20055,7 @@ var temples =  {
         "city": "Gerolstein",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19297,6 +20084,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19318,6 +20106,7 @@ var temples =  {
         "city": "Hochschegoogleid",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19346,6 +20135,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19367,6 +20157,7 @@ var temples =  {
         "city": "Zemmer",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19395,6 +20186,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19416,6 +20208,7 @@ var temples =  {
         "city": "Hermeskeil",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19444,6 +20237,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19465,6 +20259,7 @@ var temples =  {
         "city": "Schalkenmehren",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19493,6 +20288,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19514,6 +20310,7 @@ var temples =  {
         "city": "",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19542,6 +20339,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19563,6 +20361,7 @@ var temples =  {
         "city": "Nittel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19591,6 +20390,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19612,6 +20412,7 @@ var temples =  {
         "city": "Nattenheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19640,6 +20441,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19661,6 +20463,7 @@ var temples =  {
         "city": "Fließem",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19689,6 +20492,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19710,6 +20514,7 @@ var temples =  {
         "city": "Trier",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19738,6 +20543,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19759,6 +20565,7 @@ var temples =  {
         "city": "Trier",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19787,6 +20594,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19808,6 +20616,7 @@ var temples =  {
         "city": "Trier",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19836,6 +20645,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19857,6 +20667,7 @@ var temples =  {
         "city": "Trier",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19885,6 +20696,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19906,6 +20718,7 @@ var temples =  {
         "city": "Gusterath",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19934,6 +20747,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -19955,6 +20769,7 @@ var temples =  {
         "city": "Gusterath",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -19983,6 +20798,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20004,6 +20820,7 @@ var temples =  {
         "city": "Neidenbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20032,6 +20849,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20053,6 +20871,7 @@ var temples =  {
         "city": "Trier",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20081,6 +20900,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20102,6 +20922,7 @@ var temples =  {
         "city": "Heckenmünster",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20130,6 +20951,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20151,6 +20973,7 @@ var temples =  {
         "city": "Morbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20179,6 +21002,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20200,6 +21024,7 @@ var temples =  {
         "city": "Newel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20228,6 +21053,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20249,6 +21075,7 @@ var temples =  {
         "city": "Aach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20277,6 +21104,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20298,6 +21126,7 @@ var temples =  {
         "city": "Meckel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20326,6 +21155,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20347,6 +21177,7 @@ var temples =  {
         "city": "Röhl",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20375,6 +21206,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20396,6 +21228,7 @@ var temples =  {
         "city": "Oberkail",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20424,6 +21257,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20445,6 +21279,7 @@ var temples =  {
         "city": "Bengel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20473,6 +21308,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20494,6 +21330,7 @@ var temples =  {
         "city": "Mülbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20522,6 +21359,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20543,6 +21381,7 @@ var temples =  {
         "city": "Mürlenbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20571,6 +21410,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20592,6 +21432,7 @@ var temples =  {
         "city": "Newel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20620,6 +21461,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20641,6 +21483,7 @@ var temples =  {
         "city": "Homburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20669,6 +21512,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20690,6 +21534,7 @@ var temples =  {
         "city": "Koblenz",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20718,6 +21563,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20739,6 +21585,7 @@ var temples =  {
         "city": "Pommern",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20767,6 +21614,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20788,6 +21636,7 @@ var temples =  {
         "city": "Taunusstein",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20816,6 +21665,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20837,6 +21687,7 @@ var temples =  {
         "city": "Lauingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20865,6 +21716,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20886,6 +21738,7 @@ var temples =  {
         "city": "Bremm",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20914,6 +21767,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20935,6 +21789,7 @@ var temples =  {
         "city": "Wallerfangen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -20963,6 +21818,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -20984,6 +21840,7 @@ var temples =  {
         "city": "Bad Münstereifel",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21012,6 +21869,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21033,6 +21891,7 @@ var temples =  {
         "city": "Nettersheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21061,6 +21920,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21082,6 +21942,7 @@ var temples =  {
         "city": "Saarbrücken",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21110,6 +21971,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21131,6 +21993,7 @@ var temples =  {
         "city": "Rheinfelden (Baden)",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21159,6 +22022,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21180,6 +22044,7 @@ var temples =  {
         "city": "Sontheim an der Brenz",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21208,6 +22073,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21229,6 +22095,7 @@ var temples =  {
         "city": "Königsbrunn",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21257,6 +22124,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21278,6 +22146,7 @@ var temples =  {
         "city": "Stuttgart",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21306,6 +22175,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21327,6 +22197,7 @@ var temples =  {
         "city": "Meßkirch",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21355,6 +22226,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21376,6 +22248,7 @@ var temples =  {
         "city": "Steinheim an der Murr",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21404,6 +22277,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21425,6 +22299,7 @@ var temples =  {
         "city": "Holsthum",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21453,6 +22328,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21474,6 +22350,7 @@ var temples =  {
         "city": "Zell (Mosel)",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21502,6 +22379,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21523,6 +22401,7 @@ var temples =  {
         "city": "Mudau",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21551,6 +22430,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21572,6 +22452,7 @@ var temples =  {
         "city": "Güglingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21600,6 +22481,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21621,6 +22503,7 @@ var temples =  {
         "city": "Kempten (Allgäu)",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21649,6 +22532,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21670,6 +22554,7 @@ var temples =  {
         "city": "Badenweiler",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21698,6 +22583,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21719,6 +22605,7 @@ var temples =  {
         "city": "Aachen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21747,6 +22634,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21768,6 +22656,7 @@ var temples =  {
         "city": "Neustadt an der Weinstraße",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21796,6 +22685,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21817,6 +22707,7 @@ var temples =  {
         "city": "Theilenhofen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21845,6 +22736,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21866,6 +22758,7 @@ var temples =  {
         "city": "Walting",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21894,6 +22787,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21915,6 +22809,7 @@ var temples =  {
         "city": "Jettenbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21943,6 +22838,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -21964,6 +22860,7 @@ var temples =  {
         "city": "Prutting",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -21992,6 +22889,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22013,6 +22911,7 @@ var temples =  {
         "city": "Riegel am Kaiserstuhl",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22041,6 +22940,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22062,6 +22962,7 @@ var temples =  {
         "city": "Heidelberg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22090,6 +22991,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22111,6 +23013,7 @@ var temples =  {
         "city": "Neuss",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22139,6 +23042,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22160,6 +23064,7 @@ var temples =  {
         "city": "Inzlingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22188,6 +23093,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22209,6 +23115,7 @@ var temples =  {
         "city": "Besigheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22237,6 +23144,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22258,6 +23166,7 @@ var temples =  {
         "city": "Langenau",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22286,6 +23195,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22307,6 +23217,7 @@ var temples =  {
         "city": "Lich",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22335,6 +23246,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22356,6 +23268,7 @@ var temples =  {
         "city": "Cleebronn",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22384,6 +23297,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22405,6 +23319,7 @@ var temples =  {
         "city": "Gengenbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22433,6 +23348,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22454,6 +23370,7 @@ var temples =  {
         "city": "Güglingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22482,6 +23399,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22503,6 +23421,7 @@ var temples =  {
         "city": "Heidelberg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22531,6 +23450,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22552,6 +23472,7 @@ var temples =  {
         "city": "Heidelberg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22580,6 +23501,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22601,6 +23523,7 @@ var temples =  {
         "city": "Miltenberg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22629,6 +23552,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22650,6 +23574,7 @@ var temples =  {
         "city": "Orsingen-Nenzingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22678,6 +23603,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22699,6 +23625,7 @@ var temples =  {
         "city": "Osterburken",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22727,6 +23654,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22748,6 +23676,7 @@ var temples =  {
         "city": "Rottenburg am Neckar",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22776,6 +23705,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22797,6 +23727,7 @@ var temples =  {
         "city": "Rottweil",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22825,6 +23756,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22846,6 +23778,7 @@ var temples =  {
         "city": "Rottweil",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22874,6 +23807,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22895,6 +23829,7 @@ var temples =  {
         "city": "Schorndorf",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22923,6 +23858,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22944,6 +23880,7 @@ var temples =  {
         "city": "Neuhausen auf den Fildern",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -22972,6 +23909,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -22993,6 +23931,7 @@ var temples =  {
         "city": "Böbingen an der Rems",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23021,6 +23960,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23042,6 +23982,7 @@ var temples =  {
         "city": "Rheinstetten",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23070,6 +24011,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23091,6 +24033,7 @@ var temples =  {
         "city": "Gemmrigheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23119,6 +24062,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23140,6 +24084,7 @@ var temples =  {
         "city": "Kalkar",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23168,6 +24113,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23189,6 +24135,7 @@ var temples =  {
         "city": "Miltenberg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23217,6 +24164,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23238,6 +24186,7 @@ var temples =  {
         "city": "Florstadt",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23266,6 +24215,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23287,6 +24237,7 @@ var temples =  {
         "city": "Morbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23315,6 +24266,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23336,6 +24288,7 @@ var temples =  {
         "city": "Barweiler",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23364,6 +24317,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23385,6 +24339,7 @@ var temples =  {
         "city": "Waldgrehweiler",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23413,6 +24368,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23434,6 +24390,7 @@ var temples =  {
         "city": "Bingen am Rhein",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23462,6 +24419,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23483,6 +24441,7 @@ var temples =  {
         "city": "Bitburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23511,6 +24470,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23532,6 +24492,7 @@ var temples =  {
         "city": "Xanten",
         "country": "DE",
         "orientation": "39",
+        "compass": "NE",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23560,6 +24521,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -23581,6 +24543,7 @@ var temples =  {
         "city": "Dünfus",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23609,6 +24572,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23630,6 +24594,7 @@ var temples =  {
         "city": "Breitenbach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23658,6 +24623,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23679,6 +24645,7 @@ var temples =  {
         "city": "Bad Neuenahr-Ahrweiler",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23707,6 +24674,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23728,6 +24696,7 @@ var temples =  {
         "city": "Neunkirchen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23756,6 +24725,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23777,6 +24747,7 @@ var temples =  {
         "city": "Xanten",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23805,6 +24776,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23826,6 +24798,7 @@ var temples =  {
         "city": "Aachen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23854,6 +24827,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23875,6 +24849,7 @@ var temples =  {
         "city": "Nersingen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23903,6 +24878,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23924,6 +24900,7 @@ var temples =  {
         "city": "Bad Homburg vor der Höhe",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -23952,6 +24929,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -23973,6 +24951,7 @@ var temples =  {
         "city": "Dieburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24001,6 +24980,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24022,6 +25002,7 @@ var temples =  {
         "city": "Mainz",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24050,6 +25031,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24071,6 +25053,7 @@ var temples =  {
         "city": "Erkheim",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24099,6 +25082,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24120,6 +25104,7 @@ var temples =  {
         "city": "Andernach",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24148,6 +25133,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24169,6 +25155,7 @@ var temples =  {
         "city": "Neumagen-Dhron",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24197,6 +25184,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24218,6 +25206,7 @@ var temples =  {
         "city": "Piesport",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24246,6 +25235,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24267,6 +25257,7 @@ var temples =  {
         "city": "Stipshausen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24295,6 +25286,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24316,6 +25308,7 @@ var temples =  {
         "city": "Feilbingert",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24344,6 +25337,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24365,6 +25359,7 @@ var temples =  {
         "city": "Rockenhausen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24393,6 +25388,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24414,6 +25410,7 @@ var temples =  {
         "city": "Bonn",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24442,6 +25439,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24463,6 +25461,7 @@ var temples =  {
         "city": "Wiesbaden",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24491,6 +25490,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24512,6 +25512,7 @@ var temples =  {
         "city": "Großkrotzenburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24540,6 +25541,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24561,6 +25563,7 @@ var temples =  {
         "city": "Augsburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24589,6 +25592,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24610,6 +25614,7 @@ var temples =  {
         "city": "Elsdorf",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24638,6 +25643,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24659,6 +25665,7 @@ var temples =  {
         "city": "Euskirchen",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24687,6 +25694,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24708,6 +25716,7 @@ var temples =  {
         "city": "Mainz",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24736,6 +25745,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24757,6 +25767,7 @@ var temples =  {
         "city": "Bonn",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24785,6 +25796,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24806,6 +25818,7 @@ var temples =  {
         "city": "Kreis",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24834,6 +25847,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {
@@ -24855,6 +25869,7 @@ var temples =  {
         "city": "Regensburg",
         "country": "DE",
         "orientation": "",
+        "compass": "",
         "date": "",
         "startdateearly": "",
         "startdatelate": "",
@@ -24883,6 +25898,7 @@ var temples =  {
         "trismegistos": "",
         "ads": "",
         "cona": "",
+        "topostext": "",
         "checked": "No"
       },
       "geometry": {

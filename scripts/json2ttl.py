@@ -20,10 +20,19 @@ outputText += u'@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n'
 outputText += u'@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n'
 outputText += u'@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n'
 outputText += u'@prefix owl: <http://www.w3.org/2002/07/owl#> .\n'
+outputText += u'@prefix viaf: <http://viaf.org/viaf/> .\n'
 outputText += u'@prefix spatial: <http://geovocab.org/spatial#> .\n'
 outputText += u'@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .\n'
 outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n\n'
 
+outputText += u'<http://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
+outputText += u'dcterms:title "Database of Temples of the Classical World" ;  \n'
+outputText += u'dcterms:creator viaf:309849093 ;  \n'
+outputText += u'foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
+outputText += u'dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  \n'
+outputText += u'dcterms:temporal "2016-2018" ;   \n'
+outputText += u'dcterms:modified "2018-09-15"  ; \n'
+outputText += u'.  \n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
 with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
@@ -35,6 +44,8 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
 #           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
 #			A few names have escaped quotation marks. This retains them.
             outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
+#			These are overbroad dates, but better than nothing.
+            outputText += u'dcterms:temporal "-750/640" ;\n'
             if record['properties']['vici.org'] != '':
                 outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties']['vici.org'] + '> ;\n'
             if record['properties']['pleiades'] != '':
@@ -60,10 +71,14 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + record['properties']['ads'] + '> ;\n'
             if record['properties']['cona'] != '':
                 outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
+            if record['properties']['topostext'] != '':
+                outputText += 'skos:exactMatch <https://topostext.org/place/' + record['properties']['topostext'] + '> ;\n'
             if record['geometry']['coordinates'][0] != '':
                 prefLoc = record['geometry']
                 coords = prefLoc['coordinates']
                 outputText += u'geo:location [ geo:lat "' + str(coords[1]) + '"^^xsd:double ; geo:long "' + str(coords[0]) + '"^^xsd:double ] ;\n'
+#             if record['properties']['compass'] != '':
+#                 outputText += 'aat:300078457' + record['properties']['compass'] + '" ;\n'
             if record['properties']['country'] != '':
                 outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
             outputText += u'dcterms:subject "temple"  ;\n'
