@@ -7297,57 +7297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000613",
-        "name": "Capitolium",
-        "dedicatee": "Jupiter, Juno, Minerva",
-        "type": "temple",
-        "location": "",
-        "city": "Abthugni",
-        "country": "TN",
-        "orientation": "90",
-        "compass": "E",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M/F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici.org": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "",
-          ""
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "1000145",
         "name": "Capitolium",
         "dedicatee": "Jupiter, Juno, Minerva",
@@ -31210,6 +31159,57 @@
         "coordinates": [
           12.069141,
           48.99202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000613",
+        "name": "Capitolium",
+        "dedicatee": "Jupiter, Juno, Minerva",
+        "type": "temple",
+        "location": "",
+        "city": "Abthugni",
+        "country": "TN",
+        "orientation": "90",
+        "compass": "E",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "checked": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
         ]
       }
     }
