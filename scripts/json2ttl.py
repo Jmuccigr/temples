@@ -23,7 +23,8 @@ outputText += u'@prefix owl: <http://www.w3.org/2002/07/owl#> .\n'
 outputText += u'@prefix viaf: <http://viaf.org/viaf/> .\n'
 outputText += u'@prefix spatial: <http://geovocab.org/spatial#> .\n'
 outputText += u'@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .\n'
-outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n\n'
+outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n'
+outputText += u'@prefix ov: <http://open.vocab.org/terms/> .\n\n'
 
 outputText += u'<http://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
 outputText += u'dcterms:title "Database of Temples of the Classical World" ;  \n'
@@ -46,6 +47,33 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
             outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
 #			These are overbroad dates, but better than nothing.
             outputText += u'dcterms:temporal "-750/640" ;\n'
+            if record['geometry']['coordinates'][0] != '':
+                prefLoc = record['geometry']
+                coords = prefLoc['coordinates']
+                outputText += u'geo:location [ geo:lat "' + str(coords[1]) + '"^^xsd:double ; geo:long "' + str(coords[0]) + '"^^xsd:double ] ;\n'
+            if record['properties']['compass'] != '':
+                dir = record['properties']['compass']
+                if dir == 'N':
+                    compassText = '300078759'
+                elif dir == 'NE':
+                    compassText = '300078809'
+                elif dir == 'E':
+                    compassText = '300078759'
+                elif dir == 'SE':
+                    compassText = '300078827'
+                elif dir == 'S':
+                    compassText = '300078825'
+                elif dir == 'SW':
+                    compassText = '300078829'
+                elif dir == 'W':
+                    compassText = '300078836'
+                else:
+                    compassText = '300078812'
+                outputText += 'ov:compassDirection <http://vocab.getty.edu/page/aat/' + compassText + '> ;\n'
+            if record['properties']['country'] != '':
+                outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
+            outputText += u'dcterms:subject "temple"  ;\n'
+            outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
             if record['properties']['vici.org'] != '':
                 outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties']['vici.org'] + '> ;\n'
             if record['properties']['pleiades'] != '':
@@ -73,16 +101,6 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
             if record['properties']['topostext'] != '':
                 outputText += 'skos:exactMatch <https://topostext.org/place/' + record['properties']['topostext'] + '> ;\n'
-            if record['geometry']['coordinates'][0] != '':
-                prefLoc = record['geometry']
-                coords = prefLoc['coordinates']
-                outputText += u'geo:location [ geo:lat "' + str(coords[1]) + '"^^xsd:double ; geo:long "' + str(coords[0]) + '"^^xsd:double ] ;\n'
-#             if record['properties']['compass'] != '':
-#                 outputText += 'aat:300078457' + record['properties']['compass'] + '" ;\n'
-            if record['properties']['country'] != '':
-                outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
-            outputText += u'dcterms:subject "temple"  ;\n'
-            outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
 #             if record['properties']['ancientPlace'] != '':
 #            		outputText += u'owl:locatedIn <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
 #            		outputText += u'spatial:P <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
