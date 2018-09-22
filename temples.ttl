@@ -1,3 +1,4 @@
+@prefix void: <http://rdfs.org/ns/void#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
@@ -16,13 +17,13 @@
 @prefix ov: <http://open.vocab.org/terms/> .
 
 <http://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; 
-dcterms:title "Database of Temples of the Classical World" ;  
-dcterms:creator viaf:309849093 ;  
-foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
-dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
-dcterms:temporal "2016-2018" ;   
-dcterms:modified "2018-09-15"  ; 
-.  
+    dcterms:title "Database of Temples of the Classical World" ;  
+    dcterms:creator viaf:309849093 ;  
+    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
+    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
+    dcterms:temporal "2016-2018" ;   
+    dcterms:modified "2018-09-22"  ; 
+    .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
 rdfs:label "Temple of Aesculapius" ;

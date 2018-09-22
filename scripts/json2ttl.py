@@ -5,10 +5,12 @@ import json
 import io
 import re
 import os
+import datetime
 
 me = os.getenv("USER")
 
 outputText = u''
+outputText += u'@prefix void: <http://rdfs.org/ns/void#> .\n'
 outputText += u'@prefix dcterms: <http://purl.org/dc/terms/> .\n'
 outputText += u'@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n'
 outputText += u'@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .\n'
@@ -27,13 +29,13 @@ outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n'
 outputText += u'@prefix ov: <http://open.vocab.org/terms/> .\n\n'
 
 outputText += u'<http://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
-outputText += u'dcterms:title "Database of Temples of the Classical World" ;  \n'
-outputText += u'dcterms:creator viaf:309849093 ;  \n'
-outputText += u'foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
-outputText += u'dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  \n'
-outputText += u'dcterms:temporal "2016-2018" ;   \n'
-outputText += u'dcterms:modified "2018-09-15"  ; \n'
-outputText += u'.  \n\n'
+outputText += u'    dcterms:title "Database of Temples of the Classical World" ;  \n'
+outputText += u'    dcterms:creator viaf:309849093 ;  \n'
+outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
+outputText += u'    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  \n'
+outputText += u'    dcterms:temporal "2016-2018" ;   \n'
+outputText += u'    dcterms:modified "' + str(datetime.date.today()) + '"  ; \n'
+outputText += u'    .  \n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
 with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
