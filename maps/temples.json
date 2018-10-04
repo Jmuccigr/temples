@@ -25908,6 +25908,108 @@
           48.99202
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000614",
+        "name": "Temple of Artemis Amarysia",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "location": "",
+        "city": "Amarynthos",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "checked": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9089,
+          38.3871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000615",
+        "name": "Temple of Zeus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "location": "",
+        "city": "Azanoi",
+        "country": "TR",
+        "orientation": "",
+        "compass": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici.org": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "checked": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.609631,
+          39.201218
+        ]
+      }
     }
   ]
 }

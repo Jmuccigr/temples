@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2018-09-22"  ; 
+    dcterms:modified "2018-10-03"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -5762,6 +5762,22 @@ rdfs:label "Capitolium" ;
 dcterms:temporal "-750/640" ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "TN" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000614> a lawd:Place ;
+rdfs:label "Temple of Artemis Amarysia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.3871"^^xsd:double ; geo:long "23.9089"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000615> a lawd:Place ;
+rdfs:label "Temple of Zeus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.201218"^^xsd:double ; geo:long "29.609631"^^xsd:double ] ;
+gn:countryCode "TR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
