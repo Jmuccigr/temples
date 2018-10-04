@@ -81,30 +81,44 @@
 		</style>
 	</head>
 	<body>
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org/",
+  "@type":"Dataset",
+  "name":"Temples of the Classical World",
+  "description":"A database of structures, extant and attested, identified as temples in the Classical World, broadly defined.",
+  "url":"https://romeresearchgroup.org/database-of-temples/",
 
-<!--
-<?php
-
-// Clean the URI
-function test_input($data) {
-  $data = trim($data);
-  $data = stripslashes($data);
-  $data = htmlspecialchars($data);
-  return $data;
+  "keywords":[
+     "TEMPLES"
+  ],
+  "creator":{
+     "@type":"Person",
+     "url": "https://jmuccigr.github.io",
+     "name":"John D. Muccigrosso",
+     "contactPoint":{
+     	"@type":"contactPoint",
+     	"contactType":"technical support",
+        "email":"jmuccigr@drew.edu",
+        "url":"http://jmuccigr.github.io/"
+     }
+  },
+  "distribution":
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"CSV",
+        "contentUrl":"http://RomeResearchGroup.org/search"
+     },
+  "temporalCoverage":"-750/640",
+  "spatialCoverage":{
+     "@type":"Place",
+     "geo":{
+        "@type":"GeoShape",
+        "box":"56.821589 -22.720528 12.581669 54.346392"
+     }
+  }
 }
-
-$queryString = test_input(basename($_SERVER['REQUEST_URI']));
-
-// If the URI contains some _GET string, assume it's valid and see what happens.
-// Turn it into a sql request
-// if ($queryString != []) {
-// 	$sql = ' ID = ' . $queryString . ' ';
-// 		}
-// setCookie('sqlquery', $sql, '1');
-
-?>
- -->
-
+</script>
 
 <div  id='mask'>
         <table>
@@ -113,31 +127,12 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 					<h1>
 						Sacred Buildings of the Classical World
 					</h1>
-<!--
-					<h2>
-						Pick a variable by which to map the structures in the database:
-					</h2>
- -->
 					<form id="mapType" style="display:inline; vertical-align=left; visibility: hidden;">
 						<select id="mymenu" size="1">
 							// Select a mapping style that will work for any object
 							<option value="deitytype" selected="selected">
 								Selected item
 							</option>
-<!--
-							<option value="type">
-								type of structure
-							</option>
-							<option value="century">
-								century BC of construction
-							</option>
-							<option value="orientations">
-								orientation
-							</option>
-							<option value="heatmap">
-								heatmap
-							</option>
- -->
 						</select>
 					</form>
 					<br>
@@ -162,29 +157,6 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 			</tr>
 			<tr id='bottom'>
 				<td colspan=2>
-<!--
-                    <?php
-                            include 'scripts/make_menues.php';
-                            makeMenu('first', '1');
-                            makeOperatorMenu('firstOp');
-                            echo '<input name=" firsttxt" type="text" maxlength="512" id="firstTxt" class="searchField" /> +
-                            '; makeMenu('second', '2');
-                            makeOperatorMenu('secondOp');
-                     echo '
-                            <input name="secondTxt" type="text" maxlength="512" id="secondTxt" class="searchField" /> +
-                            '; makeMenu('third', '3');
-                            makeOperatorMenu('thirdOp');
-                    echo '
-                            <input name="thirdTxt" type="text" maxlength="512" id="thirdTxt" class="searchField" />
-                            ';
-                    ?>
-					<button id="process" onclick="readInput();">
-						Process
-					</button>
-					<button id="clear" onclick="clearFilter();">
-						Clear
-					</button>
- -->
 				</td>
 			</tr>
 		</table>
@@ -203,28 +175,8 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_controls.js">
 		</script>
-<!--
-		<script type="text/javascript" src="scripts/function_layer_by_sex.js">
-		</script>
-		<script type="text/javascript" src="scripts/function_layer_by_type.js">
-		</script>
-		<script type="text/javascript" src="scripts/function_layer_by_deitytype.js">
-		</script>
-		<script type="text/javascript" src="scripts/function_layer_by_century.js">
-		</script>
-		<script type="text/javascript" src="scripts/function_layer_by_orientation.js">
-		</script>
-		<script type="text/javascript" src="scripts/function_layer_by_heat.js">
-		</script>
- -->
 		<script type="text/javascript" src="scripts/leaflet/leaflet.js">
 		</script>
-<!--
-		<script type="text/javascript" src="scripts/leaflet.rotatedMarker.js">
-		</script>
-		<script type="text/javascript" src="scripts/leaflet-heat.js">
-		</script>
- -->
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
 		<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0">
@@ -236,10 +188,6 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 		</script>
 		<script type="text/javascript" src="scripts/load_navigation.js">
 		</script>
-<!--
-		<script type="text/javascript" src="scripts/get_citations.js">
-		</script>
- -->
 		<script type="text/javascript" src="scripts/on_each_feature.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_filter.js">
@@ -308,101 +256,6 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 				});
 			};
 
-// 			Read the inputted search
-// 			function readInput() {
-// 				conn = '';
-// 				searchInput = '';
-// 				firstInputMenu = document.getElementById("first").value;
-// 				firstOpText = document.getElementById("firstOp").value;
-// 				firstInputText = test_input(document.getElementById("firstTxt").value);
-// 				secondInputMenu = document.getElementById("second").value;
-// 				secondOpText = document.getElementById("secondOp").value;
-// 				secondInputText = test_input(document.getElementById("secondTxt").value);
-// 				thirdInputMenu = document.getElementById("third").value;
-// 				thirdOpText = document.getElementById("thirdOp").value;
-// 				thirdInputText = test_input(document.getElementById("thirdTxt").value);
-// 				if ( firstInputMenu != '' ) {
-// 				searchInput = firstInputMenu + opTrans(firstOpText, firstInputText);
-// 				conn = ' AND ';
-// 				}
-// 				if ( secondInputMenu != '' ) {
-// 				searchInput = searchInput + conn + secondInputMenu + opTrans(secondOpText, secondInputText);
-// 				conn = ' AND ';
-// 				}
-// 				if ( thirdInputMenu != '' ) {
-// 				searchInput = searchInput + conn + thirdInputMenu + opTrans(thirdOpText, thirdInputText);
-// 				}
-// 				if ( searchInput != '' ) {
-// 					document.getElementById("side").innerHTML = 'Inputted query:' + searchInput;
-// 					setCookie('sqlquery', searchInput, '1');
-// 				}
-// 				if ( firstInputMenu + secondInputMenu + thirdInputMenu == '' ) {
-// 					alert('You need to select a field to search on.')
-// 				}
-// 			};
-//
-// 			Translate operator into sql
-// 				function opTrans(option, str) {
-// 				    translation = "";
-// 				    endStr = "'";
-// 				    switch (option) {
-// 				    case "contains":
-// 				   	    translation=" LIKE '%";
-// 				        endStr = "%'";
-// 				    	break;
-// 				    case "doesNotContain":
-// 				   	    translation=" NOT LIKE '%";
-// 				        endStr = "%'";
-// 				        break;
-// 				    case "beginsWith":
-// 				   	    translation=" LIKE '";
-// 				        endStr = "%'";
-// 				        break;
-// 				    case "is":
-// 				   	    translation=" = '";
-// 				        break;
-// 				    case "isNot":
-// 				   	    translation=" != '";
-// 				        break;
-// 				    case "lessThan":
-// 				   	    translation=" < '";
-// 				        break;
-// 				    case "greaterThan":
-// 				   	    translation=" > '";
-// 				        break;
-// 				    }
-// 				    return (translation + str + endStr);
-// 				}
-//
-// 			Clean up the inputted string
-// 			function test_input(data) {
-// 			    data = data.trim();
-// 			    data=data.replace(/[^a-z\d '"%=-]+/ig,'')
-// 			    return data;
-// 			};
-//
-// 			Listen for return in text fields
-// 			document.getElementById("firstTxt")
-// 			    .addEventListener("keyup", function(event) {
-// 			    event.preventDefault();
-// 			    if (event.keyCode == 13) {
-// 			        document.getElementById("process").click();
-// 			    }
-// 			});
-// 			document.getElementById("secondTxt")
-// 			    .addEventListener("keyup", function(event) {
-// 			    event.preventDefault();
-// 			    if (event.keyCode == 13) {
-// 			        document.getElementById("process").click();
-// 			    }
-// 			});
-// 			document.getElementById("thirdTxt")
-// 			    .addEventListener("keyup", function(event) {
-// 			    event.preventDefault();
-// 			    if (event.keyCode == 13) {
-// 			        document.getElementById("process").click();
-// 			    }
-// 			});
 
 		function clickOnMapItem(itemId) {
 			var id = parseInt(itemId);
@@ -419,8 +272,6 @@ $queryString = test_input(basename($_SERVER['REQUEST_URI']));
 	var url = window.location.pathname;
 	var filename = url.substring(url.lastIndexOf('/')+1);
 	setCookie('sqlquery', 'ID=' + filename, '1');
-// 	map.fire('click',{latlng:[12.485741, 41.9]})
-// 	clickOnMapItem(filename);
 </script>
 
 
