@@ -25968,7 +25968,7 @@ var temples =  {
         "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
-        "city": "Azanoi",
+        "city": "Aizanoi",
         "country": "TR",
         "orientation": "",
         "compass": "",
