@@ -16,7 +16,6 @@ if ( allPoints.length > 1 ) {
 }
 // Change it to an array
 res = res[0];
-
 		otherDB = '<li>';
 		loc = '';
 		cites = '';
@@ -25,6 +24,7 @@ res = res[0];
 		if (res.properties.id != '') {
 			text = text + '<li>ID: ' + res.properties.id + '</li>';
 		}
+		text = text + '<li>' + 'URI: <a href="http://RomeResearchGroup.org/items/' + res.properties.id + '" target="_blank">http://RomeResearchGroup.org/items/' + res.properties.id + '</li>';
 		if (res.geometry.coordinates[0] != '') {
 		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] + '</li>';
 		} else {
