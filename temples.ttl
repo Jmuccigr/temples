@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2018-10-04"  ; 
+    dcterms:modified "2018-10-06"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -5780,4 +5780,5 @@ geo:location [ geo:lat "39.201218"^^xsd:double ; geo:long "29.609631"^^xsd:doubl
 gn:countryCode "TR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Aizanoi#Temple_of_Zeus"> ;
 .

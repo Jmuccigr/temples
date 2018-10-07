@@ -25993,7 +25993,7 @@ var temples =  {
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "",
+        "wikipedia": "Aizanoi#Temple_of_Zeus",
         "wikidata": "",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
