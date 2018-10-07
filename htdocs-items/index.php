@@ -7,78 +7,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
-        <style>
-            html, body, #mask {
-                /* Height and width fallback for older browsers. */
-                height: 100%;
-                width: 100%;
-
-                /* Set the height & width to match that of the viewport. */
-                height: 95vh;
-                width:  98vw;
-
-                /* Remove any browser-default margins. */
-                margin: 0;
-            }
-            .leaflet-control-layers-expanded {
-                font-size: small;
-                }
-			#map {
-				height: 85vh;
-				border: 2px black solid;
-				}
-			body {
-				font-family: Helvetica,sans-serif;
-				background: #eeeeee;
-				font-weight: 100;
-				}
-			table {
-/*
-				 margin: auto;
- */
-			}
-			td {
-				vertical-align: top;
-			}
-			li {
-				font-size: small;
-			}
-			td > form {
-				margin-left: 10pt;
-			}
-			a {
-			    word-wrap: break-word;
-			    word-break: break-all;
-			}
-			#side_top {
-				height: 20vh;
-				padding-left: 3pt;
-				width: 25%;
-			}
-			#side_bottom {
-			    overflow: scroll;
-				padding-left: 3pt;
-				max-height: 65vh;
-			}
-			h1 {
-			    font-size: 13pt;
-			}
-			h2 {
-			    font-weight: 100;
-			    font-size: 11pt;
-			    margin-bottom: 1pt;
-			    margin-left: 1pt;
-			}
-			.leaflet-container {
-			    font: inherit;
-			}
-			#bottom {
-                height: 10vh;
-                border-top: solid grey 1px;
-                td padding-top: 20px;
-                font-size: small;
-            }
-		</style>
+		<link rel="stylesheet" href="/css/map.css" />
 	</head>
 	<body>
 <script type="application/ld+json">
@@ -127,7 +56,7 @@
 					<h1>
 						Sacred Buildings of the Classical World
 					</h1>
-					<form id="mapType" style="display:inline; vertical-align=left; visibility: hidden;">
+					<form id="mapType" style="vertical-align=left; visibility: hidden; height: 0px">
 						<select id="mymenu" size="1">
 							// Select a mapping style that will work for any object
 							<option value="deitytype" selected="selected">
@@ -135,7 +64,9 @@
 							</option>
 						</select>
 					</form>
+<!--
 					<br>
+ -->
 					<p align="center" style="font-size:small">
 						<a id="rome" href="javascript:rome();">
 							Zoom to Rome
