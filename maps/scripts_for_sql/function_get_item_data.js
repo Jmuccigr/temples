@@ -21,7 +21,11 @@ res = res[0];
 		cites = '';
 		l = false;
 		if (document.title == '') {
-			document.title = res.properties.name;
+			document.title = res.properties.name + ' (' + res.properties.city + ' ' + res.properties.country + ')';
+			var file = document.createElement('link');
+			file.setAttribute("rel", "canonical");
+			file.setAttribute("href", 'http://www.romeresearchgroup.org/items/' + res.properties.id);
+			document.head.appendChild(file);
 		}
 		text = '<h2>' + res.properties.name + '</h2><span style="font-size:small"><ul>';
 		if (res.properties.id != '') {
