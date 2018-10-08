@@ -20,6 +20,9 @@ res = res[0];
 		loc = '';
 		cites = '';
 		l = false;
+		if (document.title == '') {
+			document.title = res.properties.name;
+		}
 		text = '<h2>' + res.properties.name + '</h2><span style="font-size:small"><ul>';
 		if (res.properties.id != '') {
 			text = text + '<li>ID: ' + res.properties.id + '</li>';
