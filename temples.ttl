@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2018-10-06"  ; 
+    dcterms:modified "2018-10-09"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -183,6 +183,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/15009> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5645> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Antoninus_and_Faustina"> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q752555> ;
 skos:exactMatch <https://topostext.org/place/419125SFas> ;
 .
@@ -218,6 +219,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/15044> ;
 skos:exactMatch <https://arachne.dainst.org/entity/10545> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Romulus"> ;
 .
 <http://romeresearchgroup.org/items/1000021> a lawd:Place ;
 rdfs:label "Temple of the Divine Trajan" ;
@@ -327,6 +329,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/15032> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5651> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Hadrian"> ;
 .
 <http://romeresearchgroup.org/items/1000033> a lawd:Place ;
 rdfs:label "Temple of Hercules Magnus Custos" ;
@@ -370,6 +373,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/15006> ;
 skos:exactMatch <http://pleiades.stoa.org/places/825969667> ;
 skos:exactMatch <https://arachne.dainst.org/entity/10771> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"> ;
 .
 <http://romeresearchgroup.org/items/1000038> a lawd:Place ;
 rdfs:label "Temple of Honos and Virtus" ;
@@ -944,6 +948,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/7853> ;
 skos:exactMatch <http://pleiades.stoa.org/places/128044615> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5664> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Pantheon,_Rome"> ;
 skos:exactMatch <https://www.wikidata.org/wiki/Q99309> ;
 skos:exactMatch <http://vocab.getty.edu/page/cona/700000158> ;
 skos:exactMatch <https://topostext.org/place/419125SPan> ;
@@ -976,6 +981,7 @@ skos:exactMatch <http://vici.org/vici/11602> ;
 skos:exactMatch <http://pleiades.stoa.org/places/494660670> ;
 skos:exactMatch <http://dare.ht.lu.se/places/22924> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5932> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Portunus"> ;
 .
 <http://romeresearchgroup.org/items/1000107> a lawd:Place ;
 rdfs:label "Temple of Quirinus" ;
@@ -1166,6 +1172,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/15010> ;
 skos:exactMatch <https://arachne.dainst.org/entity/8407> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Vesta"> ;
 .
 <http://romeresearchgroup.org/items/1000128> a lawd:Place ;
 rdfs:label "Temple of Vesta" ;
@@ -2090,6 +2097,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/4380> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Bellona,_Ostia"> ;
 .
 <http://romeresearchgroup.org/items/1000231> a lawd:Place ;
 rdfs:label "Tharros" ;
