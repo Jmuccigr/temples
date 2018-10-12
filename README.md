@@ -37,6 +37,8 @@ These are a combo of shell scripts & AppleScripts with some embedded shell comma
 - `google2geojson.sh`: old version of the previous
 - `json2js.sh`: Take the file created by ggl2geojson.sh and copy it into a javascript file that leaflet can use.
 - `json2csv.sh`: Take the file created by ggl2geojson.sh and convert it to csv.
+- `json2ttl.py`: Take the file created by ggl2geojson.sh and convert it to turtle for Peripleo. Based on [the example](https://github.com/rsimon/data2pelagios/blob/master/gazetteer/dai/dai2pelagios.py) from Pleiades.
+- `ftp_ttl.sh`: Upload the turtle file to the server when it's modified.
 - `git_commit.sh`: commit various new temple files to github.
 - `bib2html.sh`: Convert Zotero temples bib to html
 - `Get_country_city_info_for_location.applescript`: query Google geo api for city & country info for lat-long pairs
@@ -61,18 +63,22 @@ These are a combo of shell scripts & AppleScripts with some embedded shell comma
         1. Download the temples sheet of the spreadsheet as xml
         1. Convert that to csv
         1. Save it if it differs from the last saved csv
-        1. Also save a json version of the same data
+        1. Also save a few json versions of the same data
     - `json2js.sh` runs whenever the json file changes:
         1. Convert json file to js for leaflet.js to use
     - `json2csv.sh` runs whenever the json file changes:
         1. Convert json file to nice csv for the database to use
+    - `json2ttl.py` runs whenever the json file changes:
+        1. Convert json file to turtle for Pelagios to use as LOD
+    - `ftp_ttl.sh` runs whenever the turtle file changes:
+        1. Upload turtle file to server for Pelagios to grab
     - `ggl2cites.sh` does this every hour:
         1. Download the citations sheet of the spreadsheet as xml
         1. Convert that to csv
         1. Save it if it differs from the last saved csv
     - `git_commit.sh` runs whenever temples.js changes
         1. Commits to git any changed files from the google sheet csv with a generic commit message
-        1. Does **not** commit any of the temple files so that these can get informative commit messages
+        1. Does **not** commit any of the temple files so that these can get informative commit messages (it used to)
 
 ### Bibliography
 
