@@ -96,7 +96,7 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 wikiText = re.sub(r"en(\.wikipedia\.org/wiki/)([a-z][a-z])=", r"\2\1", wikiText)
                 outputText += wikiText
             if record['properties']['wikidata'] != '':
-                outputText += 'skos:exactMatch <https://www.wikidata.org/wiki/' + record['properties']['wikidata'] + '> ;\n'
+                outputText += 'skos:exactMatch <https://www.wikidata.org/entity/' + record['properties']['wikidata'] + '> ;\n'
             if record['properties']['ads'] != '':
                 outputText += 'skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + record['properties']['ads'] + '> ;\n'
             if record['properties']['cona'] != '':
