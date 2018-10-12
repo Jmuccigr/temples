@@ -116,11 +116,11 @@ res = res[0];
 			};
 			otherDB = otherDB + '<a target="_blank" href="http://www.trismegistos.org/place/' + res.properties.trismegistos + '">Trismegistos</a>';
 		}
-		if (res.properties["vici.org"] != '') {
+		if (res.properties.vici != '') {
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="https://vici.org/vici/' + res.properties["vici.org"] + '">Vici.org</a>';
+			otherDB = otherDB + '<a target="_blank" href="https://vici.org/vici/' + res.properties.vici + '">Vici.org</a>';
 		}
 		if (res.properties.wikidata != '') {
 			if (otherDB.length > 4) {
