@@ -5,6 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
+		<?php echo '<link rel="canonical" href="http://'.$_SERVER[HTTP_HOST].$_SERVER[REQUEST_URI].'" />
+'; ?>
 	</head>
 	<body>
 <script type="application/ld+json">
