@@ -5,7 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
-		<?php echo '<link rel="canonical" href="http://'.$_SERVER[HTTP_HOST].$_SERVER[REQUEST_URI].'" />'.PHP_EOL; ?>
+		<?php echo '<link rel="canonical" href="http://'.$_SERVER[HTTP_HOST].$_SERVER[REQUEST_URI].'" />'.PHP_EOL;
+		      include 'scripts/title.php'
+		?>
 	</head>
 	<body>
 <script type="application/ld+json">
@@ -195,14 +197,13 @@
 			}
 		</script>
 
-<script>
-    // Get id number from the URL and use setCookie to map it
-    // The .htaccess rewrite rule makes sure that the URL contains only numbers
-	var url = window.location.pathname;
-	var filename = url.substring(url.lastIndexOf('/')+1);
-	setCookie('sqlquery', 'ID=' + filename, '1');
-</script>
-
+		<script>
+			// Get id number from the URL and use setCookie to map it
+			// The .htaccess rewrite rule makes sure that the URL contains only numbers
+			var url = window.location.pathname;
+			var filename = url.substring(url.lastIndexOf('/')+1);
+			setCookie('sqlquery', 'ID=' + filename, '1');
+		</script>
 
 	</body>
 </html>
