@@ -40,24 +40,36 @@ text="$text </OGRVRTDataSource>"
 echo $text > "$temp/sheet.vrt"
 
 # Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq -utf8 -wrap 256 | sed 's/gsx://g' > "$temp/sheet.xml"
+echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' > "$temp/sheet1.xml"
 
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
 rm "$temp/sheet.csv" 2>/dev/null
 rm "$temp/sheet1.csv" 2>/dev/null
-ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+# Trying to replace ogr2ogr for converting xml to csv
+#
+#ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+
+# First clean up feed tag and remove the rest before the first entry
+# Then remove the first id tag that google puts in there (etc)
+cat "$temp/sheet1.xml" | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
+
+# Get clean column titles
+xml el "$temp/sheet.xml" | awk '!a[$0]++' | sed 's|feed/entry/||g' | grep -v feed | perl -pe 's/\n/,/g' | sed 's/,$//' > "$temp/sheet.csv"
+# Get all the fields and reformat to csv
+xml sel -T -t -m /feed/entry -v "*" -o '%%%%%' "$temp/sheet.xml" | sed 's/"/""/g' | perl -pe 's/\n/\",\"/g' | perl -pe 's/%%%%%/\n/g' | sed 's/$/"/' | sed 's/^/"/g' | sed 's/^"",""$//' >> "$temp/sheet.csv"
 
 # Make sure the csv has been created or else exit
-if  [ ! -s "$temp/sheet1.csv" ]
+if  [ ! -s "$temp/sheet.csv" ]
 then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
    echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me
    exit
 fi
 
+
 # Rename google's sheet id column and keep mine.
-cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
+# cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
 if [ -s "$dest/sheet.csv" ]
@@ -91,6 +103,7 @@ then
 	   -e \"updated\": \
 	   -e \"category_scheme\": \
 	   -e \"category_term\": \
+	   -e \"category\": \
 	   -e \"content\": \
 	   -e \"content_type\": \
 	   -e \"link_rel\": \

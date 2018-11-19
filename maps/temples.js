@@ -42,6 +42,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -93,6 +94,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -144,6 +146,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SApo",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -195,6 +198,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -246,6 +250,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -297,6 +302,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SCas",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -348,6 +354,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -399,6 +406,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -450,6 +458,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -501,6 +510,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SCon",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -552,6 +562,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -603,6 +614,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -654,6 +666,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -705,6 +718,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SFas",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -756,6 +770,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -807,6 +822,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SJul",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -858,6 +874,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -909,6 +926,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -960,6 +978,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1011,6 +1030,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1062,6 +1082,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1113,6 +1134,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1164,6 +1186,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1215,6 +1238,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1266,6 +1290,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1317,6 +1342,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1368,6 +1394,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1419,6 +1446,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1470,6 +1498,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1521,6 +1550,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1572,6 +1602,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1623,6 +1654,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1674,6 +1706,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SJuM",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1725,6 +1758,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1776,6 +1810,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1827,6 +1862,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SJuS",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1878,6 +1914,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1929,6 +1966,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -1980,6 +2018,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2031,6 +2070,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2082,6 +2122,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2133,6 +2174,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "413133SJAn",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2184,6 +2226,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2235,6 +2278,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2286,6 +2330,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SJCa",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2337,6 +2382,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2388,6 +2434,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2439,6 +2486,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2490,6 +2538,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2541,6 +2590,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2592,6 +2642,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2643,6 +2694,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2694,6 +2746,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2745,6 +2798,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2796,6 +2850,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2847,6 +2902,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2898,6 +2954,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -2949,6 +3006,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3000,6 +3058,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3051,6 +3110,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3102,6 +3162,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3153,6 +3214,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3204,6 +3266,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3255,6 +3318,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3306,6 +3370,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3357,6 +3422,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3408,6 +3474,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3459,6 +3526,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3510,6 +3578,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3561,6 +3630,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3612,6 +3682,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3663,6 +3734,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3714,6 +3786,7 @@ var temples =  {
         "ads": "",
         "cona": "700000158",
         "topostext": "419125SPan",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3765,6 +3838,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3816,6 +3890,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3867,6 +3942,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3918,6 +3994,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "419125SSat",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -3969,6 +4046,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4020,6 +4098,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4071,6 +4150,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4122,6 +4202,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4173,6 +4254,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4224,6 +4306,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4275,6 +4358,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4326,6 +4410,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4377,6 +4462,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4428,6 +4514,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4479,6 +4566,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4530,6 +4618,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4581,6 +4670,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4632,6 +4722,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4683,6 +4774,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4734,6 +4826,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4785,6 +4878,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4836,6 +4930,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4887,6 +4982,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4938,6 +5034,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -4989,6 +5086,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5040,6 +5138,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5091,6 +5190,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5142,6 +5242,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5193,6 +5294,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5244,6 +5346,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5295,6 +5398,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5346,6 +5450,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5397,6 +5502,7 @@ var temples =  {
         "ads": "4023",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5448,6 +5554,7 @@ var temples =  {
         "ads": "4031",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5499,6 +5606,7 @@ var temples =  {
         "ads": "4083",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5550,6 +5658,7 @@ var temples =  {
         "ads": "9015",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5601,6 +5710,7 @@ var temples =  {
         "ads": "9106",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5652,6 +5762,7 @@ var temples =  {
         "ads": "14072",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5703,6 +5814,7 @@ var temples =  {
         "ads": "14074",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5754,6 +5866,7 @@ var temples =  {
         "ads": "14103",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5805,6 +5918,7 @@ var temples =  {
         "ads": "16063",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5856,6 +5970,7 @@ var temples =  {
         "ads": "16093",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5907,6 +6022,7 @@ var temples =  {
         "ads": "16099",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -5958,6 +6074,7 @@ var temples =  {
         "ads": "17001",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6009,6 +6126,7 @@ var temples =  {
         "ads": "20014",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6060,6 +6178,7 @@ var temples =  {
         "ads": "20035",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6111,6 +6230,7 @@ var temples =  {
         "ads": "20060",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6162,6 +6282,7 @@ var temples =  {
         "ads": "20079",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6213,6 +6334,7 @@ var temples =  {
         "ads": "21004",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6264,6 +6386,7 @@ var temples =  {
         "ads": "21047",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6315,6 +6438,7 @@ var temples =  {
         "ads": "21106",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6366,6 +6490,7 @@ var temples =  {
         "ads": "21127",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6417,6 +6542,7 @@ var temples =  {
         "ads": "25035",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6468,6 +6594,7 @@ var temples =  {
         "ads": "32006",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6519,6 +6646,7 @@ var temples =  {
         "ads": "41043",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6570,6 +6698,7 @@ var temples =  {
         "ads": "43021",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6621,6 +6750,7 @@ var temples =  {
         "ads": "45019",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6672,6 +6802,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6723,6 +6854,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6774,6 +6906,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6825,6 +6958,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6876,6 +7010,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6927,6 +7062,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -6978,6 +7114,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7029,6 +7166,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7080,6 +7218,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7131,6 +7270,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7182,6 +7322,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7233,6 +7374,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7284,6 +7426,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7335,6 +7478,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7386,6 +7530,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7437,6 +7582,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7488,6 +7634,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7539,6 +7686,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7590,6 +7738,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7641,6 +7790,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7692,6 +7842,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -7743,6 +7894,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -7794,6 +7946,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -7845,6 +7998,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -7896,6 +8050,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -7947,6 +8102,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -7998,6 +8154,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8049,6 +8206,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8100,6 +8258,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8151,6 +8310,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8202,6 +8362,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8253,6 +8414,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8304,6 +8466,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8355,6 +8518,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8406,6 +8570,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8457,6 +8622,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8508,6 +8674,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8559,6 +8726,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8610,6 +8778,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8661,6 +8830,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8712,6 +8882,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8763,6 +8934,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8814,6 +8986,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -8865,6 +9038,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -8916,6 +9090,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -8967,6 +9142,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9018,6 +9194,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9069,6 +9246,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9120,6 +9298,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9171,6 +9350,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9222,6 +9402,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9273,6 +9454,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9324,6 +9506,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9375,6 +9558,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9426,6 +9610,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9477,6 +9662,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9528,6 +9714,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9579,6 +9766,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9630,6 +9818,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9681,6 +9870,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9732,6 +9922,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9783,6 +9974,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9834,6 +10026,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9885,6 +10078,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9936,6 +10130,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -9987,6 +10182,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10038,6 +10234,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10089,6 +10286,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10140,6 +10338,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10191,6 +10390,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10242,6 +10442,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "404168SHer",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10293,6 +10494,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10344,6 +10546,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10395,6 +10598,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10446,6 +10650,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10497,6 +10702,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10548,6 +10754,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10599,6 +10806,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10650,6 +10858,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10701,6 +10910,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10752,6 +10962,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10803,6 +11014,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10854,6 +11066,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10905,6 +11118,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -10956,6 +11170,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -11007,6 +11222,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11058,6 +11274,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11109,6 +11326,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11160,6 +11378,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11211,6 +11430,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11262,6 +11482,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11313,6 +11534,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11364,6 +11586,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11415,6 +11638,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11466,6 +11690,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11517,6 +11742,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11568,6 +11794,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11619,6 +11846,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11670,6 +11898,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11721,6 +11950,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11772,6 +12002,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11823,6 +12054,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11874,6 +12106,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11925,6 +12158,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -11976,6 +12210,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12027,6 +12262,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12078,6 +12314,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12129,6 +12366,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio2/8/8-2.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12180,6 +12418,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio2/7/7-3.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12231,6 +12470,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio2/8/8-4.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12282,6 +12522,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12333,6 +12574,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio4/8/8-3.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12384,6 +12626,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio3/2/2-1.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12435,6 +12678,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/portus/s009.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12486,6 +12730,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/portus/t021.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12537,6 +12782,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio1/11/11-1.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12588,6 +12834,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.ostia-antica.org/regio1/15/15-6.htm",
         "checked": "No"
       },
       "geometry": {
@@ -12639,6 +12886,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -12690,6 +12938,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": ""
       },
       "geometry": {
@@ -12741,6 +12990,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12792,6 +13042,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12843,6 +13094,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12894,6 +13146,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12945,6 +13198,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -12996,6 +13250,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13047,6 +13302,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13098,6 +13354,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13149,6 +13406,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13200,6 +13458,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13251,6 +13510,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13302,6 +13562,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13353,6 +13614,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13404,6 +13666,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13455,6 +13718,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13506,6 +13770,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13557,6 +13822,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13608,6 +13874,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13659,6 +13926,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13710,6 +13978,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13761,6 +14030,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13812,6 +14082,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13863,6 +14134,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -13914,6 +14186,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -13965,6 +14238,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14016,6 +14290,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14067,6 +14342,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14118,6 +14394,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14169,6 +14446,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14220,6 +14498,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -14271,6 +14550,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14322,6 +14602,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14373,6 +14654,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14424,6 +14706,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14475,6 +14758,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14526,6 +14810,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14577,6 +14862,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14628,6 +14914,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14679,6 +14966,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14730,6 +15018,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "http://www.chateaubas.com/en/pages/history/temple.html",
         "checked": "Yes"
       },
       "geometry": {
@@ -14781,6 +15070,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14832,6 +15122,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14883,6 +15174,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14934,6 +15226,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -14985,6 +15278,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15036,6 +15330,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15087,6 +15382,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15138,6 +15434,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15189,6 +15486,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15240,6 +15538,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15291,6 +15590,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15342,6 +15642,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15393,6 +15694,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15444,6 +15746,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15495,6 +15798,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15546,6 +15850,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15597,6 +15902,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15648,6 +15954,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15699,6 +16006,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15750,6 +16058,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15801,6 +16110,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15852,6 +16162,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15903,6 +16214,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -15954,6 +16266,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16005,6 +16318,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16056,6 +16370,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16107,6 +16422,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16158,6 +16474,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16209,6 +16526,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16260,6 +16578,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16311,6 +16630,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16362,6 +16682,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16413,6 +16734,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16464,6 +16786,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16515,6 +16838,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16566,6 +16890,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16617,6 +16942,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16668,6 +16994,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16719,6 +17046,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16770,6 +17098,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16821,6 +17150,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16872,6 +17202,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16923,6 +17254,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -16974,6 +17306,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17025,6 +17358,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17076,6 +17410,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17127,6 +17462,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17178,6 +17514,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17229,6 +17566,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17280,6 +17618,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17331,6 +17670,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17382,6 +17722,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17433,6 +17774,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17484,6 +17826,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17535,6 +17878,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17586,6 +17930,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17637,6 +17982,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17688,6 +18034,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17739,6 +18086,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17790,6 +18138,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17841,6 +18190,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17892,6 +18242,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17943,6 +18294,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -17994,6 +18346,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18045,6 +18398,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18096,6 +18450,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18147,6 +18502,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18198,6 +18554,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18249,6 +18606,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18300,6 +18658,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18351,6 +18710,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18402,6 +18762,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18453,6 +18814,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18504,6 +18866,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18555,6 +18918,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18606,6 +18970,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18657,6 +19022,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18708,6 +19074,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18759,6 +19126,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18810,6 +19178,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18861,6 +19230,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18912,6 +19282,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -18963,6 +19334,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19014,6 +19386,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19065,6 +19438,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19116,6 +19490,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19167,6 +19542,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19218,6 +19594,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19269,6 +19646,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19320,6 +19698,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19371,6 +19750,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19422,6 +19802,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19473,6 +19854,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19524,6 +19906,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19575,6 +19958,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19626,6 +20010,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19677,6 +20062,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19728,6 +20114,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19779,6 +20166,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19830,6 +20218,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19881,6 +20270,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19932,6 +20322,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -19983,6 +20374,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20034,6 +20426,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20085,6 +20478,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20103,7 +20497,7 @@ var temples =  {
         "dedicatee": "",
         "type": "temple",
         "location": "",
-        "city": "Hochschegoogleid",
+        "city": "Hochscheid",
         "country": "DE",
         "orientation": "",
         "compass": "",
@@ -20136,6 +20530,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20187,6 +20582,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20238,6 +20634,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20289,6 +20686,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20340,6 +20738,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20391,6 +20790,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20442,6 +20842,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20493,6 +20894,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20544,6 +20946,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20595,6 +20998,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20646,6 +21050,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20697,6 +21102,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20748,6 +21154,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20799,6 +21206,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20850,6 +21258,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20901,6 +21310,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -20952,6 +21362,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21003,6 +21414,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21054,6 +21466,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21105,6 +21518,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21156,6 +21570,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21207,6 +21622,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21258,6 +21674,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21309,6 +21726,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21360,6 +21778,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21411,6 +21830,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21462,6 +21882,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21513,6 +21934,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21564,6 +21986,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21615,6 +22038,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21666,6 +22090,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21717,6 +22142,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21768,6 +22194,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21819,6 +22246,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21870,6 +22298,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21921,6 +22350,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -21972,6 +22402,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22023,6 +22454,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22074,6 +22506,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22125,6 +22558,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22176,6 +22610,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22227,6 +22662,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22278,6 +22714,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22329,6 +22766,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22380,6 +22818,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22431,6 +22870,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22482,6 +22922,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22533,6 +22974,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22584,6 +23026,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22635,6 +23078,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22686,6 +23130,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22737,6 +23182,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22788,6 +23234,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22839,6 +23286,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22890,6 +23338,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22941,6 +23390,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -22992,6 +23442,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23043,6 +23494,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23094,6 +23546,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23145,6 +23598,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23196,6 +23650,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23247,6 +23702,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23298,6 +23754,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23349,6 +23806,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23400,6 +23858,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23451,6 +23910,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23502,6 +23962,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23553,6 +24014,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23604,6 +24066,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23655,6 +24118,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23706,6 +24170,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23757,6 +24222,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23808,6 +24274,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23859,6 +24326,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23910,6 +24378,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -23961,6 +24430,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24012,6 +24482,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24063,6 +24534,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24114,6 +24586,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24165,6 +24638,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24216,6 +24690,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24267,6 +24742,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24318,6 +24794,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24369,6 +24846,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24420,6 +24898,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24471,6 +24950,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24522,6 +25002,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "Yes"
       },
       "geometry": {
@@ -24573,6 +25054,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24624,6 +25106,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "link": "",
         "checked": "No"
       },
       "geometry": {
@@ -24659,1715 +25142,5 @@ var temples =  {
         "culture": "",
         "style": "",
         "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "16281",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.193636,
-          50.552776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000589",
-        "name": "Spring Sanctuary Kasbruch",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Neunkirchen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Gallo-Roman",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "16336",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.213664,
-          49.337135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000590",
-        "name": "Mithraeum",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Xanten",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "17413",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.462894,
-          51.659077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000591",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Aachen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "18766",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.085007,
-          50.775005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000592",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "Straß",
-        "city": "Nersingen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Gallo-Roman",
-        "style": "Umgangstempel",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "18940",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.137369,
-          48.411995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000593",
-        "name": "(K)ein Mithrasheiligtum (Saalburg)",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Bad Homburg vor der Höhe",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "19406",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.568121,
-          50.268448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000594",
-        "name": "Mithraeum",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Dieburg",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Mithräum (Dieburg)",
-        "vici": "19431",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.846936,
-          49.90197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000595",
-        "name": "Sanctuary",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Mainz",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Roman",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "20237",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.180348,
-          49.985161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000596",
-        "name": "Brandopferplatz",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Erkheim",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "20289",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.373531,
-          48.047626
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000597",
-        "name": "Rosmerta-Tempel",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Andernach",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Rosmerta-Tempel (Andernach)",
-        "vici": "20349",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.389761,
-          50.439079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000598",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Neumagen-Dhron",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Tempel (Neumagen-Dhron)",
-        "vici": "20350",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.899114,
-          49.841267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000599",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Piesport",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Tempel (Piesport)",
-        "vici": "20351",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.923764,
-          49.863735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000600",
-        "name": "Sironatempel",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Stipshausen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Sironatempel (Stipshausen)",
-        "vici": "20363",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.291307,
-          49.850479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000601",
-        "name": "Temple of Mercury",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "Lemberg",
-        "city": "Feilbingert",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "20366",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.768484,
-          49.785912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000602",
-        "name": "Mithraeum",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Rockenhausen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Mithrasheiligtum (Rockenhausen)",
-        "vici": "20367",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.806087,
-          49.628971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000603",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Bonn",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Gallo-Roman",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "20381",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.085428,
-          50.726795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000604",
-        "name": "Mithraeum",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Wiesbaden",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03)",
-        "vici": "20705",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.238866,
-          50.084049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000605",
-        "name": "Mithraeum",
-        "dedicatee": "Mithras",
-        "type": "mithraeum",
-        "location": "",
-        "city": "Großkrotzenburg",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Mithrasheiligtum (Großkrotzenburg)",
-        "vici": "21413",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.977619,
-          50.081806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000606",
-        "name": "Forum Augusta Vindelicum",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Augsburg",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Forum",
-        "vici": "22882",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.900263,
-          48.37579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000607",
-        "name": "Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Elsdorf",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "Gallo-Roman",
-        "style": "Umgangstempel",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "8x10 meter groot tempelgebouw",
-        "vici": "23034",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.581988,
-          50.935829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000608",
-        "name": "Heidentempel Kreuzweingarten",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Euskirchen",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "23244",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.79086,
-          50.613701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000609",
-        "name": "Tempelsäulen",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Mainz",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz",
-        "vici": "23672",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.268003,
-          50.001255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000610",
-        "name": "Tempelreste",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Bonn",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Matronentempel – Bonna – Bonn",
-        "vici": "23674",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.100145,
-          50.733246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000611",
-        "name": "Temple Ulpia Noviomagus",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Kreis",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Tempel – Gelduba – Gellep",
-        "vici": "24560",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.611528,
-          51.367474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000612",
-        "name": "Temple Ziegetsberg",
-        "dedicatee": "",
-        "type": "temple",
-        "location": "",
-        "city": "Regensburg",
-        "country": "DE",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "Merkurtempel",
-        "vici": "26487",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "No"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.069141,
-          48.99202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000614",
-        "name": "Temple of Artemis Amarysia",
-        "dedicatee": "Artemis",
-        "type": "temple",
-        "location": "",
-        "city": "Amarynthos",
-        "country": "GR",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Greek",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.9089,
-          38.3871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000615",
-        "name": "Temple of Zeus",
-        "dedicatee": "Jupiter",
-        "type": "temple",
-        "location": "",
-        "city": "Aizanoi",
-        "country": "TR",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Greek",
-        "style": "",
-        "extant": "yes",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Aizanoi#Temple_of_Zeus",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.609631,
-          39.201218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000616",
-        "name": "Temple of Jupiter",
-        "dedicatee": "Jupiter",
-        "type": "temple",
-        "location": "",
-        "city": "Split",
-        "country": "HR",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "18128",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Temple_of_Jupiter,_Split",
-        "wikidata": "Q4501094",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": "Yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.439568,
-          43.508341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000617",
-        "name": "Temple of Bacchus",
-        "dedicatee": "Bacchus",
-        "type": "temple",
-        "location": "",
-        "city": "Baalbek",
-        "country": "LB",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "7852",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/",
-        "wikipedia": "Temple_of_Bacchus",
-        "wikidata": "Q1991217",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.203873,
-          34.006143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000618",
-        "name": "Temple of Venus",
-        "dedicatee": "Venus",
-        "type": "temple",
-        "location": "",
-        "city": "Baalbek",
-        "country": "LB",
-        "orientation": "",
-        "compass": "",
-        "date": "3rd c. AD",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "3",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "",
-        "source": "",
-        "meetings": "",
-        "note": "",
-        "vici": "16416",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.20623,
-          34.006021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000619",
-        "name": "Temple of Artemis",
-        "dedicatee": "Artemis",
-        "type": "temple",
-        "location": "",
-        "city": "Jerash",
-        "country": "JO",
-        "orientation": "",
-        "compass": "",
-        "date": "2nd c. AD",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "2",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "11889",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Temple_of_Artemis,_Jerash",
-        "wikidata": "Q2527347",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.890922,
-          32.281952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000620",
-        "name": "Temple of Jupiter",
-        "dedicatee": "Jupiter",
-        "type": "temple",
-        "location": "",
-        "city": "Jerash",
-        "country": "JO",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "11888",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.889929,
-          32.276571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000621",
-        "name": "Capitolium",
-        "dedicatee": "Jupiter, Juno, Minerva",
-        "type": "temple",
-        "location": "",
-        "city": "Dougga",
-        "country": "TU",
-        "orientation": "",
-        "compass": "",
-        "date": "2nd c. AD",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "2",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "M/F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "7877",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "",
-        "wikidata": "Q11680511",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.218169,
-          36.422891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "1000622",
-        "name": "Temple of Juno Caelestis",
-        "dedicatee": "Juno",
-        "type": "temple",
-        "location": "",
-        "city": "Dougga",
-        "country": "TU",
-        "orientation": "",
-        "compass": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "F",
-        "dedicationday": "",
-        "deitytype": "god",
-        "culture": "Roman",
-        "style": "",
-        "extant": "yes",
-        "source": "vici",
-        "meetings": "",
-        "note": "",
-        "vici": "11586",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "es=Templo_de_Juno_Caelestis",
-        "wikidata": "Q5397577",
-        "digitalromanforum": "",
-        "digitalesforumromanum": "",
-        "trismegistos": "",
-        "ads": "",
-        "cona": "",
-        "topostext": "",
-        "checked": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.215682,
-          36.422903
-        ]
-      }
-    }
-  ]
-}
+        "source"
 ;
