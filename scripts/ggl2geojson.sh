@@ -57,7 +57,7 @@ then
 fi
 
 # Rename google's sheet id column and keep mine.
-cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
+cat "$temp/sheet1.csv" | sed 's/^id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
 if [ -s "$dest/sheet.csv" ]
