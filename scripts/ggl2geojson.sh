@@ -39,39 +39,25 @@ text="$text </OGRVRTDataSource>"
 
 echo $text > "$temp/sheet.vrt"
 
-# Clean up the entry names in the xml & save to file for conversion to csv
-# First clean up feed tag and remove the rest before the first entry
-# Then remove the first id tag that google puts in there (etc)
-echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
+# Clean up the entry names in the xml & save to file for ogr2ogr
+echo $xml | tidy -xml -iq -utf8 -wrap 256 | sed 's/gsx://g' > "$temp/sheet.xml"
 
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
 rm "$temp/sheet.csv" 2>/dev/null
 rm "$temp/sheet1.csv" 2>/dev/null
-# Trying to replace ogr2ogr for converting xml to csv
-#
-#ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
-
-# First clean up feed tag and remove the rest before the first entry
-# Then remove the first id tag that google puts in there (etc)
-# cat "$temp/sheet1.xml" | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
-
-# Get clean column titles
-xml el "$temp/sheet.xml" | awk '!a[$0]++' | sed 's|feed/entry/||g' | grep -v feed | perl -pe 's/\n/,/g' | sed 's/,$//' > "$temp/sheet.csv"
-# Get all the fields and reformat to csv
-xml sel -T -t -m /feed/entry -v "*" -o '%%%%%' "$temp/sheet.xml" | sed 's/"/""/g' | perl -pe 's/\n/\",\"/g' | perl -pe 's/%%%%%/\n/g' | sed 's/$/"/' | sed 's/^/"/g' | sed 's/^"",""$//' >> "$temp/sheet.csv"
+ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Make sure the csv has been created or else exit
-if  [ ! -s "$temp/sheet.csv" ]
+if  [ ! -s "$temp/sheet1.csv" ]
 then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv not created." 1>&2
-   echo "Error with sheet.csv creation" | mail -s "Temples problem: data" $me
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
+   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me
    exit
 fi
 
-
 # Rename google's sheet id column and keep mine.
-# cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
+cat "$temp/sheet1.csv" | sed 's/id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
 if [ -s "$dest/sheet.csv" ]
@@ -97,13 +83,19 @@ ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/[\"\",\"\"]/g"  | jq '.' | \
-	   grep -v \
+	   grep -v -e \"googleid\": \
 	   -e \"latitude\": \
 	   -e \"longitude\": \
 	   -e \"title\": \
-	   -e \"category\": \
-	   -e \"content\": \
+	   -e \"title_type\": \
 	   -e \"updated\": \
+	   -e \"category_scheme\": \
+	   -e \"category_term\": \
+	   -e \"content\": \
+	   -e \"content_type\": \
+	   -e \"link_rel\": \
+	   -e \"link_type\": \
+	   -e \"link_href\": \
 	   > "$temp/temples.json"
 
     # Get rid of last bit of extra stuff from the xml
@@ -127,4 +119,3 @@ fi
 # ogr2ogr handles the csv fine, but mysql does not
 cat "$dest/temples.csv" | perl -pe 's/([\sa-z])""/\1\\"/g' > "$temp/temples.csv"
 cp "$temp/temples.csv" "$dest/temples.csv"
-
