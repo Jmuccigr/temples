@@ -39,8 +39,10 @@ text="$text </OGRVRTDataSource>"
 
 echo $text > "$temp/sheet.vrt"
 
-# Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' > "$temp/sheet1.xml"
+# Clean up the entry names in the xml & save to file for conversion to csv
+# First clean up feed tag and remove the rest before the first entry
+# Then remove the first id tag that google puts in there (etc)
+echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
 
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
@@ -52,7 +54,7 @@ rm "$temp/sheet1.csv" 2>/dev/null
 
 # First clean up feed tag and remove the rest before the first entry
 # Then remove the first id tag that google puts in there (etc)
-cat "$temp/sheet1.xml" | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
+# cat "$temp/sheet1.xml" | perl -p00e 's/(\<feed).*?(  \<entry\>)/\1\>\n\2/s' | grep -v 'spreadsheets.google.com' > "$temp/sheet.xml"
 
 # Get clean column titles
 xml el "$temp/sheet.xml" | awk '!a[$0]++' | sed 's|feed/entry/||g' | grep -v feed | perl -pe 's/\n/,/g' | sed 's/,$//' > "$temp/sheet.csv"
@@ -62,8 +64,8 @@ xml sel -T -t -m /feed/entry -v "*" -o '%%%%%' "$temp/sheet.xml" | sed 's/"/""/g
 # Make sure the csv has been created or else exit
 if  [ ! -s "$temp/sheet.csv" ]
 then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
-   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv not created." 1>&2
+   echo "Error with sheet.csv creation" | mail -s "Temples problem: data" $me
    exit
 fi
 
@@ -95,20 +97,13 @@ ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/[\"\",\"\"]/g"  | jq '.' | \
-	   grep -v -e \"googleid\": \
+	   grep -v \
 	   -e \"latitude\": \
 	   -e \"longitude\": \
 	   -e \"title\": \
-	   -e \"title_type\": \
-	   -e \"updated\": \
-	   -e \"category_scheme\": \
-	   -e \"category_term\": \
 	   -e \"category\": \
 	   -e \"content\": \
-	   -e \"content_type\": \
-	   -e \"link_rel\": \
-	   -e \"link_type\": \
-	   -e \"link_href\": \
+	   -e \"updated\": \
 	   > "$temp/temples.json"
 
     # Get rid of last bit of extra stuff from the xml
@@ -132,3 +127,4 @@ fi
 # ogr2ogr handles the csv fine, but mysql does not
 cat "$dest/temples.csv" | perl -pe 's/([\sa-z])""/\1\\"/g' > "$temp/temples.csv"
 cp "$temp/temples.csv" "$dest/temples.csv"
+
