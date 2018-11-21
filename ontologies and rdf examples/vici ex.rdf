@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+ xmlns:gis="http://www.opengis.net/ont/geosparql#"
+ xmlns:lawd="http://lawd.info/ontology/"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+ xmlns:vici="http://vici.org/ns/2015/07#"
+ xmlns:sf="http://www.opengis.net/ont/sf#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:owl="http://www.w3.org/2002/07/owl#">
+<lawd:Place rdf:about="http://vici.org/vici/3300">
+  <rdf:type rdf:resource="http://vici.org/ns/2015/07#Mansio"/>
+  <rdfs:label>Populi</rdfs:label>
+  <dc:description>OmnesViae import TPPlace1592</dc:description>
+  <vici:isVisible>0</vici:isVisible>
+  <skos:exactMatch rdf:resource="http://pleiades.stoa.org/places/197454"/>
+    <geo:location>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.298050</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.436392</geo:long>
+        <vici:hasAccuracy>3</vici:hasAccuracy>
+      </rdf:Description>
+    </geo:location>
+  <gis:hasGeometry>
+      <sf:Point>
+        <gis:asWKT rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POINT (16.436392 46.298050)</gis:asWKT>
+      </sf:Point>
+  </gis:hasGeometry>
+  <rdfs:isDefinedBy rdf:resource="http://vici.org/vici/3300/rdf"/>
+  <foaf:isPrimaryTopicOf rdf:resource="http://vici.org/vici/3300/"/>
+</lawd:Place>
+<foaf:Document rdf:about="http://vici.org/vici/3300/rdf">
+  <foaf:primaryTopic rdf:resource="http://vici.org/vici/3300"/>
+  <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+</foaf:Document>
+</rdf:RDF>
