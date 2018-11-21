@@ -336,7 +336,7 @@
 "1000337","Santuário de S. Pedro de Almuro","","temple","","","PT","","","","","","","","","","","","Vici.org","","","15254","","40138","","","","","","","","","","","",-7.48622,38.997742
 "1000338","Roman Temple","","temple","","Vic","ES","","","","","","","","","","","","Vici.org","","","10779","","","","","Roman_temple_of_Vic","Q2294240","","","","","","","",2.256823,41.929218
 "1000339","Temple","","temple","","Córdoba","ES","","","1st c. CE","","","1","","","","","","Vici.org","","","10794","","","","","Roman_temple_of_Córdoba","Q1106385","","","","","","","",-4.77628,37.884762
-"1000340","Temple of Diana - Emerita Augusta","Diana","temple","","Mérida","ES","","","","","","","F","","god","","","Vici.org","","","11493","","","","place=augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum","","","","","","","","","",-6.34435,38.91658
+"1000340","Temple of Diana - Emerita Augusta","Diana","temple","","Mérida","ES","","","","","","","F","","god","","","Vici.org","","","11493","","","","place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum","","","","","","","","","",-6.34435,38.91658
 "1000341","Temple","Trajan and the Roman Gods","temple","","Alcántara","ES","","","2nd c. CE","","","2","M/F","","god,emperor","","","Vici.org","","","14476","255966","25494","","","Roman_temple_of_Alcántara","Q7362337","","","","","","","",-6.891493,39.721661
 "1000342","Fortuna","Fortuna","temple","","Los Baños de Fortuna","ES","","","","","","","F","","god","","","Vici.org","","","15389","265899","36550","","","","","","","","","","","",-1.11363,38.209648
 "1000343","Cerro de los Santos","","temple","","Montealegre del Castillo","ES","","","","","","","","","","","","Vici.org","","","15394","265862","37001","","","es=Cerro_de_los_Santos","Q5486840","","","","","","","",-1.27022,38.732769
@@ -352,10 +352,10 @@
 "1000353","Maison Carrée","","temple","","Nîmes","FR","349","N","","","","","","","","","","Vici.org","","","7858","","39300","","","Maison_Carrée","Q677659","","","","","","","",4.356111,43.838333
 "1000354","Temple in Glanum","","temple","","Saint-Rémy-de-Provence","FR","","","","","","","","","","","","Vici.org","","","7903","","","","","","","","","","","","","",4.832713,43.773125
 "1000355","Tasciaca","","temple","","Pouillé","FR","","","","","","","","","","","","Vici.org","","","8017","138608","20524","","","","","","","","","","","",1.299076,47.324047
-"1000356","Roman Temple","","temple","","Orange","FR","","","","","","","","","","","","Vici.org","","","8511","","","","place=nemausus-nimes/nemausus-nimes-maison-carree","","","","","","","","","",4.807766,44.135654
-"1000357","Temple of Mercury, Lutetia","Mercury","temple","","Paris","FR","","","","","","","M","","god","","","Vici.org","","","9849","","","","place=glanum","","","","","","","","","",2.327117,48.843395
+"1000356","Roman Temple","","temple","","Orange","FR","","","","","","","","","","","","Vici.org","","","8511","","","","place/nemausus-nimes/nemausus-nimes-maison-carree","","","","","","","","","",4.807766,44.135654
+"1000357","Temple of Mercury, Lutetia","Mercury","temple","","Paris","FR","","","","","","","M","","god","","","Vici.org","","","9849","","","","place/glanum","","","","","","","","","",2.327117,48.843395
 "1000358","Temple 'le Palais'","","temple","","Alba-la-Romaine","FR","","","","","","","","","","","","Vici.org","","","10164","","","","","","","","","","","","","",4.600079,44.561203
-"1000359","Temple of Augustus and Livia","","temple","","Vienne","FR","90","E","","","","","","","","","","Vici.org","","","10170","","202070","","place=arausio-orange","it=Tempio_di_Augusto_e_Livia","Q3517516","","","","","","","",4.874246,45.525478
+"1000359","Temple of Augustus and Livia","","temple","","Vienne","FR","90","E","","","","","","","","","","Vici.org","","","10170","","202070","","place/arausio-orange","it=Tempio_di_Augusto_e_Livia","Q3517516","","","","","","","",4.874246,45.525478
 "1000360","Temple of the Cybele","","temple","","Vienne","FR","","","","","","","","","","","","Vici.org","","","10172","","","","","","","","","","","","","",4.875925,45.524319
 "1000361","Temple of Diana","Diana","temple","","Roppeviller","FR","","","","","","","F","","god","","","Vici.org","","","10354","","","","","","","","","","","","","",7.52761,49.103539
 "1000362","Temple of Diana","Diana","temple","","Nîmes","FR","","","","","","","F","","god","","","Vici.org","","","10622","","393010","","","","","","","","","","","",4.348574,43.839947
@@ -605,7 +605,7 @@
 "1000606","Forum Augusta Vindelicum","","temple","","Augsburg","DE","","","","","","","","","","","","","","Forum","22882","","","","","","","","","","","","","",10.900263,48.37579
 "1000607","Temple","","temple","","Elsdorf","DE","","","","","","","","","","Gallo-Roman","","","","8x10 meter groot tempelgebouw","23034","","","","","","","","","","","","","",6.581988,50.935829
 "1000608","Heidentempel Kreuzweingarten","","temple","","Euskirchen","DE","","","","","","","","","","","","","","","23244","","","","","","","","","","","","","",6.79086,50.613701
-"1000609","Tempelsäulen","","temple","","Mainz","DE","","","","","","","","","","","","","","Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz","23672","","","","place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis","","","","","","","","","",8.268003,50.001255
+"1000609","Tempelsäulen","","temple","","Mainz","DE","","","","","","","","","","","","","","Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz","23672","","","","pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/","","","","","","","","","",8.268003,50.001255
 "1000610","Tempelreste","","temple","","Bonn","DE","","","","","","","","","","","","","","Matronentempel – Bonna – Bonn","23674","","","","","","","","","","","","","",7.100145,50.733246
 "1000611","Temple Ulpia Noviomagus","","temple","","Kreis","DE","","","","","","","","","","","","","","Tempel – Gelduba – Gellep","24560","","","","","","","","","","","","","",6.611528,51.367474
 "1000612","Temple Ziegetsberg","","temple","","Regensburg","DE","","","","","","","","","","","","","","Merkurtempel","26487","","","","","","","","","","","","","",12.069141,48.99202

@@ -3132,7 +3132,7 @@ gn:countryCode "ES" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/11493> ;
-skos:exactMatch <http://www.livius.org/articles/place/place=augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum/> ;
+skos:exactMatch <http://www.livius.org/articles/place/place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum/> ;
 .
 <http://romeresearchgroup.org/items/1000341> a lawd:Place ;
 rdfs:label "Temple" ;
@@ -3305,7 +3305,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/8511> ;
-skos:exactMatch <http://www.livius.org/articles/place/place=nemausus-nimes/nemausus-nimes-maison-carree/> ;
+skos:exactMatch <http://www.livius.org/articles/place/place/nemausus-nimes/nemausus-nimes-maison-carree/> ;
 .
 <http://romeresearchgroup.org/items/1000357> a lawd:Place ;
 rdfs:label "Temple of Mercury, Lutetia" ;
@@ -3315,7 +3315,7 @@ gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/9849> ;
-skos:exactMatch <http://www.livius.org/articles/place/place=glanum/> ;
+skos:exactMatch <http://www.livius.org/articles/place/place/glanum/> ;
 .
 <http://romeresearchgroup.org/items/1000358> a lawd:Place ;
 rdfs:label "Temple 'le Palais'" ;
@@ -3336,7 +3336,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/10170> ;
 skos:exactMatch <http://dare.ht.lu.se/places/202070> ;
-skos:exactMatch <http://www.livius.org/articles/place/place=arausio-orange/> ;
+skos:exactMatch <http://www.livius.org/articles/place/place/arausio-orange/> ;
 skos:exactMatch <href="https://it.wikipedia.org/wiki/Tempio_di_Augusto_e_Livia"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3517516> ;
 .
@@ -5756,7 +5756,7 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/23672> ;
-skos:exactMatch <http://www.livius.org/articles/place/place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis/> ;
+skos:exactMatch <http://www.livius.org/articles/place/pictures/germany/mainz-mogontiacum/mainz-temple-of-isis//> ;
 .
 <http://romeresearchgroup.org/items/1000610> a lawd:Place ;
 rdfs:label "Tempelreste" ;
