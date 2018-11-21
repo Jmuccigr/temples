@@ -553,7 +553,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,Prutting,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,No
 "1000554",Mithraeum,Mithras,mithraeum,,Riegel am Kaiserstuhl,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,No
 "1000555",Temple of Cimbrian Mercury,Mercury,temple,,Heidelberg,DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,No
-"1000556",Fossa Sanguinis,,temple,,Neuss,DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,,,,,,No
+"1000556",Fossa Sanguinis,,temple,,Neuss,DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,No
 "1000557","Maienbühl, Riehen",,temple,,Inzlingen,DE,47.594391,7.68094,,,,,,,,,,,,,,,,,,,"13164",,"38834",,,,,,,,,,,,No
 "1000558",Mithraeum,Mithras,mithraeum,Mundelsheim,Besigheim,DE,49.008961,9.210657,,,,,,,,,,,,,,,,,,,"13937",,,,,,,,,,,,,,No
 "1000559",Temple,,temple,,Langenau,DE,48.496727,10.119792,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel (Langenau),"14194",,,,,,,,,,,,,,No
