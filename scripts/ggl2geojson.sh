@@ -16,15 +16,17 @@ check=$(which ogr2ogr)
 if [ ${#check} = 0 ]
     then
       echo "$(date +%Y-%m-%d\ %H:%M:%S) ogr2ogr not found." 1>&2
-      exit
+      exit 0
 fi
 
 # Get google doc as xml via the public feed & exit on failure to return any/enough data
 xml=$(curl -s -stdout "https://spreadsheets.google.com/feeds/list/$key/1/public/values")
+#xml=$(echo $xml | tidy -xml -iq -utf8 -wrap 512)
+
 if [ ${#xml} -lt 100 ]
    then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no temple data from Google spreadsheet server" 1>&2
-   exit
+   exit 0
 fi
 
 # Create the vrt file for the conversion from csv to geojson
@@ -40,24 +42,27 @@ text="$text </OGRVRTDataSource>"
 echo $text > "$temp/sheet.vrt"
 
 # Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' > "$temp/sheet.xml"
+echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' | grep -v \
+  -e "<category scheme=" \
+  -e "<content type=" \
+  -e "<link rel=" \
+  -e "<title type=" \
+  -e "spreadsheets.google.com" \
+  -e "<updated>" \
+  > "$temp/sheet.xml"
 
 # Convert to csv
 # perl bit adds a date stamp to the warning output for log file
-rm "$temp/sheet.csv" 2>/dev/null
-rm "$temp/sheet1.csv" 2>/dev/null
-ogr2ogr -f csv "$temp/sheet1.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
+rm "$temp/sheet"*.csv 2>/dev/null
+ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
 # Make sure the csv has been created or else exit
-if  [ ! -s "$temp/sheet1.csv" ]
+if  [ ! -s "$temp/sheet.csv" ]
 then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet1.csv not created." 1>&2
-   echo "Error with sheet1.csv creation" | mail -s "Temples problem: data" $me
-   exit
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv not created." 1>&2
+   echo "Error with sheet.csv creation" | mail -s "Temples problem: data" $me
+   exit 0
 fi
-
-# Rename google's sheet id column and keep mine.
-cat "$temp/sheet1.csv" | sed 's/^id,/googleid,/' | sed 's/,id2,/,id,/' > "$temp/sheet.csv"
 
 # Make sure something has changed or else exit
 if [ -s "$dest/sheet.csv" ]
@@ -83,19 +88,9 @@ ogr2ogr -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
 if [ -s "$temp/sheet.json" ]
 then
 	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/[\"\",\"\"]/g"  | jq '.' | \
-	   grep -v -e \"googleid\": \
+	   grep -v \
 	   -e \"latitude\": \
 	   -e \"longitude\": \
-	   -e \"title\": \
-	   -e \"title_type\": \
-	   -e \"updated\": \
-	   -e \"category_scheme\": \
-	   -e \"category_term\": \
-	   -e \"content\": \
-	   -e \"content_type\": \
-	   -e \"link_rel\": \
-	   -e \"link_type\": \
-	   -e \"link_href\": \
 	   > "$temp/temples.json"
 
     # Get rid of last bit of extra stuff from the xml
@@ -114,8 +109,3 @@ else
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
   exit 1
 fi
-
-# Create a csv file with correctly escaped quotation marks
-# ogr2ogr handles the csv fine, but mysql does not
-cat "$dest/temples.csv" | perl -pe 's/([\sa-z])""/\1\\"/g' > "$temp/temples.csv"
-cp "$temp/temples.csv" "$dest/temples.csv"

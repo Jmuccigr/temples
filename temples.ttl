@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2018-10-17"  ; 
+    dcterms:modified "2018-11-20"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -5275,7 +5275,6 @@ gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/12931> ;
-skos:exactMatch <http://www.digitales-forum-romanum.de/gebaeude/http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette/> ;
 skos:exactMatch <href="https://de.wikipedia.org/wiki/Fossa_Sanguinis"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1794981> ;
 .
