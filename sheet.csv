@@ -337,7 +337,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000337",Santuário de S. Pedro de Almuro,,temple,,,PT,38.997742,-7.48622,,,,,,,,,,,,,,,,Vici.org,,,"15254",,"40138",,,,,,,,,,,,No
 "1000338",Roman Temple,,temple,,Vic,ES,41.929218,2.256823,,,,,,,,,,,,,,,,Vici.org,,,"10779",,,,,Roman_temple_of_Vic,Q2294240,,,,,,,,No
 "1000339",Temple,,temple,,Córdoba,ES,37.884762,-4.77628,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10794",,,,,Roman_temple_of_Córdoba,Q1106385,,,,,,,,No
-"1000340",Temple of Diana - Emerita Augusta,Diana,temple,,Mérida,ES,38.91658,-6.34435,,,,,,,,,,F,,god,,,,Vici.org,,,"11493",,,,place=augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum,,,,,,,,,,No
+"1000340",Temple of Diana - Emerita Augusta,Diana,temple,,Mérida,ES,38.91658,-6.34435,,,,,,,,,,F,,god,,,,Vici.org,,,"11493",,,,place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum,,,,,,,,,,No
 "1000341",Temple,Trajan and the Roman Gods,temple,,Alcántara,ES,39.721661,-6.891493,,,2nd c. CE,,,"2",,,,M/F,,"god,emperor",,,,Vici.org,,,"14476","255966","25494",,,Roman_temple_of_Alcántara,Q7362337,,,,,,,,No
 "1000342",Fortuna,Fortuna,temple,,Los Baños de Fortuna,ES,38.209648,-1.11363,,,,,,,,,,F,,god,,,,Vici.org,,,"15389","265899","36550",,,,,,,,,,,,No
 "1000343",Cerro de los Santos,,temple,,Montealegre del Castillo,ES,38.732769,-1.27022,,,,,,,,,,,,,,,,Vici.org,,,"15394","265862","37001",,,es=Cerro_de_los_Santos,Q5486840,,,,,,,,No
@@ -353,10 +353,10 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000353",Maison Carrée,,temple,,Nîmes,FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,Yes
 "1000354",Temple in Glanum,,temple,,Saint-Rémy-de-Provence,FR,43.773125,4.832713,,,,,,,,,,,,,,,,Vici.org,,,"7903",,,,,,,,,,,,,,No
 "1000355",Tasciaca,,temple,,Pouillé,FR,47.324047,1.299076,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,No
-"1000356",Roman Temple,,temple,,Orange,FR,44.135654,4.807766,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place=nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,No
-"1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,FR,48.843395,2.327117,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place=glanum,,,,,,,,,,No
+"1000356",Roman Temple,,temple,,Orange,FR,44.135654,4.807766,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,No
+"1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,FR,48.843395,2.327117,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place/glanum,,,,,,,,,,No
 "1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,FR,44.561203,4.600079,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,No
-"1000359",Temple of Augustus and Livia,,temple,,Vienne,FR,45.525478,4.874246,"90",E,,,,,,,,,,,,,,Vici.org,,,"10170",,"202070",,place=arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,Yes
+"1000359",Temple of Augustus and Livia,,temple,,Vienne,FR,45.525478,4.874246,"90",E,,,,,,,,,,,,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,Yes
 "1000360",Temple of the Cybele,,temple,,Vienne,FR,45.524319,4.875925,,,,,,,,,,,,,,,,Vici.org,,,"10172",,,,,,,,,,,,,,No
 "1000361",Temple of Diana,Diana,temple,,Roppeviller,FR,49.103539,7.52761,,,,,,,,,,F,,god,,,,Vici.org,,,"10354",,,,,,,,,,,,,,No
 "1000362",Temple of Diana,Diana,temple,,Nîmes,FR,43.839947,4.348574,,,,,,,,,,F,,god,,,,Vici.org,,,"10622",,"393010",,,,,,,,,,,,No
@@ -606,7 +606,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000606",Forum Augusta Vindelicum,,temple,,Augsburg,DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,No
 "1000607",Temple,,temple,,Elsdorf,DE,50.935829,6.581988,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,8x10 meter groot tempelgebouw,"23034",,,,,,,,,,,,,,No
 "1000608",Heidentempel Kreuzweingarten,,temple,,Euskirchen,DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,No
-"1000609",Tempelsäulen,,temple,,Mainz,DE,50.001255,8.268003,,,,,,,,,,,,,,,,,,Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz,"23672",,,,place=mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis,,,,,,,,,,No
+"1000609",Tempelsäulen,,temple,,Mainz,DE,50.001255,8.268003,,,,,,,,,,,,,,,,,,Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,No
 "1000610",Tempelreste,,temple,,Bonn,DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,No
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,No
 "1000612",Temple Ziegetsberg,,temple,,Regensburg,DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,No
