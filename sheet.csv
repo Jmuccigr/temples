@@ -124,7 +124,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000124",Temple of Venus Obsequens,Venus,temple,Circus Maximus,Rome,IT,,,,,"-290","-290",,"-3",,,,F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000125",Temple of Venus Victrix,Venus,temple,Campus Martius,Rome,IT,41.895335,12.473014,"90",E,"-55","-55",,"-1",,,,F,,god,Roman,,yes,Stamper,senate,"Pleiades; coords modified",,,,,,,,,,,,,,,
 "1000126",Temple of the Divine Vespasian and the Divine Titus,"Vespasian, Titus",temple,Forum,Rome,IT,41.892876,12.484081,"119",SE,,,,,,,,M,,emperor,Roman,,,,,Pleiades,"15042",,,"5643",,,Q731284,,,,,,,,
-"1000127",Temple of Vesta,Vesta,temple,Forum,Rome,IT,41.891792,12.486141,"35",NE,"-575","-575",,"-6",,,,F,,god,Roman,,,Stamper,,Pleiades,"15010",,,"8407",,Temple_of_Vesta,,,,,,,,,
+"1000127",Temple of Vesta,Vesta,temple,Forum,Rome,IT,41.891792,12.486141,"35",NE,"-575","-575",,"-6",,,,F,,god,Roman,,,Stamper,,Pleiades,"15010",,,"8407",,Temple_of_Vesta,,,,,,,419125SVes,,
 "1000128",Temple of Vesta,Vesta,temple,,Tivoli,IT,41.9667,12.8009,"190",S,early 1st-Century BCE,"-99","-75","-1",,,,F,,god,Roman,,,,,Pleiades,"4381",,,"11457",,"Temple_of_Vesta,_Tivoli",Q1219688,,,,,,,,
 "1000129",Temple of Vica Pota,Vica Pota,temple,Velian Hill,Rome,IT,,,,,-292-219,"-292","-219","-3",,,,F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000130",Temple of Victory,Victoria,temple,Palatine Hill,Rome,IT,41.889418,12.48521,"219",SW,"-294","-294",,"-3",,,,F,,concept,Roman,,,Stamper,,Pleiades,,,,,,,,,,,,,,,
