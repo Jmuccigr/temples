@@ -42,7 +42,7 @@ text="$text </OGRVRTDataSource>"
 echo $text > "$temp/sheet.vrt"
 
 # Clean up the entry names in the xml & save to file for ogr2ogr
-echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' | grep -v \
+echo $xml | tidy -xml -iq -utf8 -wrap 1024 | sed 's/gsx://g' | grep -v \
   -e "<category scheme=" \
   -e "<content type=" \
   -e "<link rel=" \
@@ -56,12 +56,19 @@ echo $xml | tidy -xml -iq -utf8 -wrap 512 | sed 's/gsx://g' | grep -v \
 rm "$temp/sheet"*.csv 2>/dev/null
 ogr2ogr -f csv "$temp/sheet.csv" "$temp/sheet.xml" 2>&1 | perl -p -MPOSIX -e 'BEGIN {$|=1} $_ = strftime("%Y-%m-%d %T ", localtime) . $_' 1>&2
 
-# Make sure the csv has been created or else exit
+# Make sure the csv has been created and is big enough or else exit
 if  [ ! -s "$temp/sheet.csv" ]
 then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv not created." 1>&2
    echo "Error with sheet.csv creation" | mail -s "Temples problem: data" $me
    exit 0
+else
+    if  [ `stat -f%z "$temp/sheet.csv"` -lt 1000 ]
+    then
+		echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv is too small." 1>&2
+		echo "Too small sheet.csv" | mail -s "Temples problem: data" $me
+		exit 0
+	fi
 fi
 
 # Make sure something has changed or else exit
@@ -73,6 +80,8 @@ then
 	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
 	   exit 0
 	fi
+else
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) Error making csv file." 1>&2
 fi
 
 # Save a copy of the csv file
