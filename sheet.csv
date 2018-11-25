@@ -1,7 +1,7 @@
 id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,compass,date,startdateearly,startdatelate,century,enddate,preceded,succeeded,sex,dedicationday,deitytype,culture,style,extant,source,meetings,note,vici,pleiades,dare,arachne,livius,wikipedia,wikidata,digitalromanforum,digitalesforumromanum,trismegistos,ads,cona,topostext,url,checked
 "1000001",Temple of Aesculapius,Aesculapius,temple,Tiber Island,Rome,IT,41.890278,12.478333,,,"-291","-291",,"-3",,,,M,January 1,hero,Roman,,,Ziolkowski,,,"23444",,,,,"Temple_of_Asclepius,_Rome",Q3983243,,,,,,419125SAsc,,
 "1000002",Temple of Apollo Palatinus,Apollo,temple,Palatine Hill,Rome,IT,41.888854,12.485741,"227",SW,"-28","-28",,"-1",,,,M,,god,Roman,,,"Blake, Stamper",,,,,,"8606",,Temple_of_Apollo_Palatinus,Q1236860,,,,,,419125SApP,,
-"1000003",Temple of Apollo Sosianus/Medicus,Apollo,temple,Circus Flaminius,Rome,IT,41.8923136,12.4795912,"180",S,"-431","-431",,"-5",,,,M,September 23,god,Roman,,,Stamper,senate,"vici.org; coords modified","15038","740034026",,"5665",,,,,,,,,419125SApo,,
+"1000003",Temple of Apollo Sosianus/Medicus,Apollo,temple,Circus Flaminius,Rome,IT,41.8923136,12.4795912,"180",S,"-431","-431",,"-5",,,,M,September 23,god,Roman,,,Stamper,senate,"vici.org; coords modified","15038","740034026",,"5665",,Temple_of_Apollo_Sosianus,Q582353,,,,,,419125SApo,,
 "1000004",Temple of Bellona,Bellona,temple,Circus Flaminius,Rome,IT,41.89238,12.47989,"180",S,"-296","-296",,"-3",,,,F,June 3,god,Roman,,,Ziolkowski,senate,,,,,"3467477",,"Temple_of_Bellona,_Rome",Q2595680,,,,,,419125SBel,,
 "1000005",Temple of Bona Dea,Bona Dea,temple,Lesser Aventine,Rome,IT,41.880581,12.48979,,,,"-123",,"-2",,,,F,May 1,god,Roman,,,Blake/Ziolkowski,,,,,,,,,,,,,,,,,
 "1000007",Temple of Castor(es),Castor(es),temple,Forum,Rome,IT,41.891773,12.485755,"24",NE,"-484","-484",,"-5",,,,M,27 January/15 July,hero,Roman,,,blake,senate,Vici.org,"15011",,,"5807",,,Q380530,,,,,,419125SCas,,
@@ -276,7 +276,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000276",Temple of Venus,Venus,temple,,Tivoli,IT,41.944672,12.774768,,,,,,,,,,,,god,,,,Vici.org,,,"17984",,,,,,,,,,,,,,No
 "1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,IT,37.057495,14.89367,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,No
 "1000278",Sanctuary,Hera,temple,,Locri Epizephiri,IT,38.211281,16.238371,,,,,,,,,,,,,,,,Vici.org,,,"17993",,,,,,,,,,,,,,No
-"1000279",Temple of Hera,,temple,,Tavole Palatine,IT,40.416199,16.816666,,,,,,,,,,,,god,,,,Vici.org,,,"17996","442611",,,,,,,,,,,404168SHer,,No
+"1000279",Tavole Palatine,Hera,temple,,Tavole Palatine,IT,40.416199,16.816666,,,,,,,,,,F,,god,Greek,,,Vici.org,,,"17996","442611","21308",,,Tavole_Palatine,Q3981620,,,,,,404168SHer,,No
 "1000280",Temple 'A',,temple,,Pyrgi,IT,42.015289,11.963535,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,No
 "1000281",Temple 'B',,temple,,Pyrgi,IT,42.015129,11.963889,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,No
 "1000282",Sanctuary of Apollo,,temple,,Pyrgi,IT,42.014652,11.964618,,,,,,,,,,,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,No
