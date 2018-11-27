@@ -245,7 +245,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,,,,,,,,,,,,god,,,,Vici.org,,,"11658",,,,,,,,,,,,,,No
 "1000246",Temple of Athena,Athena,temple,,Syracuse,IT,37.05965,15.29354,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,No
 "1000247",Temple of Apollo,Apollo,temple,,Syracuse,IT,37.063938,15.29297,,,,,,,,,,,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,No
-"1000248",Temple of Diana,Diana,temple,,Alberese,IT,42.672871,11.05109,,,,,,,,,,,,god,,,,Vici.org,,,"11973",,,,,,,,,,,,,,No
+"1000248",Temple of Diana Nemorensis,Diana,temple,,Alberese,IT,42.672871,11.05109,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"11973","422917","22227",,,Temple_of_Diana_(Nemi),Q18590113,,,,,,417127SDiN,,No
 "1000249","Temple of Venus, Baiae",Venus,temple,,Bacoli,IT,40.816093,14.071485,,,,,,,,,,,,god,,,,Vici.org,,,"13916",,,,,,,,,,,,,,No
 "1000250","Temple of Diana, Baiae",Diana,temple,,Bacoli,IT,40.819092,14.070563,,,,,,,,,,,,god,,,,Vici.org,,,"13917",,,,,,,,,,,,,,No
 "1000251",Temple of Jupiter,Jupiter,temple,,Cumae,IT,40.849385,14.051347,"91",E,,,,,,,,,,god,,,,Vici.org,,,"14781",,,,,,,,,,,,,,
@@ -620,3 +620,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000620",Temple of Jupiter,Jupiter,temple,,Jerash,JO,32.276571,35.889929,,,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,TU,36.422891,9.218169,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
 "1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,TU,36.422903,9.215682,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
+"1000623",Temple of Ares,Ares,temple,Agora,Athens,GR,37.975546,23.722745,,,,,,,,,,,,,,,,topostext,,,,,"46858",,,Temple_of_Ares,Q2405583,,,,,,380237SAre,,
