@@ -308,7 +308,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000308",Citadel,,temple,,Morgantina,IT,37.437569,14.48876,,,,,,,,,,,,,,,,Vici.org,,Ruins of a temple,"25626",,,,,,,,,,,,,,No
 "1000309",Rock of Ceres,,temple,,Enna,IT,37.569225,14.289181,,,,,,,,,,,,,,,,Vici.org,,Rock shrine of Demeter - Ceres.Rocca di Cerere,"25627",,,,,,,,,,,,,,No
 "1000310",Templi Ferali,,temple,,Acrae,IT,37.05713,14.895352,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,No
-"1000311",Kasmenai - Casmenae,,temple,,,IT,37.076412,14.82563,,,,,,,,,,,,,,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,No
+"1000311",Temple,,temple,,Kasmenai - Casmenae,IT,37.076412,14.82563,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,No
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,No
 "1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,,No
 "1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,,No
@@ -621,3 +621,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,TU,36.422891,9.218169,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
 "1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,TU,36.422903,9.215682,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
 "1000623",Temple of Ares,Ares,temple,Agora,Athens,GR,37.975546,23.722745,,,,,,,,,,,,,,,,topostext,,,,,"46858",,,Temple_of_Ares,Q2405583,,,,,,380237SAre,,
+"1000624",Temple of Jupiter,,temple,,Ocriticum,IT,42.002993,13.990224,,,,,,,,,,,,,,,,topostext,,,,"432886","22897",,,,,,,,,,420140SIov,,
