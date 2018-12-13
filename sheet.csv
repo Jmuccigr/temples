@@ -310,19 +310,19 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000310",Templi Ferali,,temple,,Acrae,IT,37.05713,14.895352,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,No
 "1000311",Temple,,temple,,Kasmenai - Casmenae,IT,37.076412,14.82563,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,No
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,No
-"1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,,No
-"1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,,No
+"1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
+"1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,No
 "1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,,,,,,,,,,,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,,No
 "1000316",Four Small Temples,,temple,,Ostia,IT,41.755665,12.290623,,,,,,,,,,,,,,,,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,No
 "1000317",Shrine of the Altar of the Twins,,temple,,Ostia,IT,41.756107,12.29099,,,,,,,,,,,,,,,,Vici.org,,"Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-3.htm,No
-"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,,,,,,,,,,,,god,,,,Vici.org,,The Shrine of Jupiter - Sacello di Giove,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,No
-"1000319",Templum Mensores,,temple,,Ostia,IT,41.753784,12.285011,,,,,,,,,,,,,,,,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,,No
+"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,,,,,,,,,,,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,Yes
+"1000319",Temple of the Mensores,,temple,,Ostia,IT,41.753784,12.285011,,,,,,,,,,,,,,,,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,No
 "1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,,,god,,,,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,No
-"1000321",Templum Fabrum Navalium,,temple,,Ostia,IT,41.752777,12.286075,,,,,,,,,,,,,,,,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,No
+"1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752777,12.286075,,,,,,,,,,,,,,,,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,No
 "1000322",Temple of Isis,,temple,Isola Sacra,Portus,IT,41.772774,12.255305,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,No
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,No
-"1000324",Templum Rotundum,,temple,,Ostia,IT,41.753544,12.28787,,,,,,,,,,,,,,,,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,No
-"1000325",Temple of the Round Altar,,temple,,Ostia,IT,41.753693,12.286317,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,No
+"1000324",Round Temple,,temple,,Ostia,IT,41.753544,12.28787,,,,,,,,,,,,,,,,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,No
+"1000325",Temple of the Round Altar,,temple,,Ostia,IT,41.753693,12.286317,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,Yes
 "1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,Early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
 "1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,Late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
 "1000328",Sanctuary Alto da Vigia,,temple,,Colares,PT,38.824299,-9.47159,,,,,,,,,,,,,,,,Vici.org,,,"10721","256172","36997",,,,,,,,,,,,No
