@@ -226,8 +226,8 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,5th c. BC,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,,,,,,,,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,Roman,,Yes,PECS,,,,,,,,,,,,,,,,,
-"1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
-"1000230",Temple of Bellona,Bellona,temple,,Ostia,IT,41.752632,12.291518,,,,,,,,,,,,god,,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,,No
+"1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,M,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
+"1000230",Temple of Bellona,Bellona,temple,,Ostia,IT,41.752632,12.291518,,,,,,,,,,F,,god,,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,,No
 "1000231",Tharros,,temple,,San Giovanni di Sinis,IT,39.873825,8.440263,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,No
 "1000232",Temple of Juno,Juno,temple,,Gabii,IT,41.887016,12.71593,,,,,,,,,,,,god,,,,Vici.org,,,"7912",,,,,,,,,,,,,,No
 "1000233",Temple of Antas,,temple,,Fluminimaggiore,IT,39.394028,8.500288,,,,,,,,,,,,,Punic,,,Vici.org,,,"8129",,,,,,,,,,,,394085SAdd,,No
@@ -237,23 +237,23 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000237",Temple at Bovianum Vetus,,temple,,Pietrabbondante,IT,41.73999,14.386793,,,,,,,,,,,,,,,,Vici.org,,,"10919",,,,,,,,,,,,,,No
 "1000238",Temple of Hera Lacinia,Hera,temple,,,IT,39.02651,17.204949,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,No
 "1000239",Temple complex,,temple,,Metapontum,IT,40.383694,16.823549,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,No
-"1000240",Temple of Venus Erycina,Venus,temple,,Segesta,IT,37.941475,12.832296,,,,,,,,,,,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,No
+"1000240",Temple of Venus Erycina,Venus,temple,,Segesta,IT,37.941475,12.832296,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,No
 "1000241",Temple of Diana,,temple,,Aricia,IT,41.723934,12.710217,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,No
 "1000242",Twin Temples,,temple,,Carsulae,IT,42.639618,12.557378,,,,,,,,,,,,,,,,Vici.org,,,"11625",,,,,,,,,,,,,,No
 "1000243",Acropolis,,temple,,Populonia,IT,42.988754,10.5092,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,No
 "1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,IT,41.838009,12.89152,,,,,,,,,,,,concept,,,,Vici.org,,,"11650",,,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,,,,,,,,,No
-"1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,,,,,,,,,,,,god,,,,Vici.org,,,"11658",,,,,,,,,,,,,,No
+"1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,,,,,,,,,,F,,god,,,,Vici.org,,,"11658",,,,,,,,,,,,,,No
 "1000246",Temple of Athena,Athena,temple,,Syracuse,IT,37.05965,15.29354,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,No
-"1000247",Temple of Apollo,Apollo,temple,,Syracuse,IT,37.063938,15.29297,,,,,,,,,,,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,No
+"1000247",Temple of Apollo,Apollo,temple,,Syracuse,IT,37.063938,15.29297,,,,,,,,,,M,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,No
 "1000248",Temple of Diana Nemorensis,Diana,temple,,Alberese,IT,42.672871,11.05109,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"11973","422917","22227",,,Temple_of_Diana_(Nemi),Q18590113,,,,,,417127SDiN,,No
-"1000249","Temple of Venus, Baiae",Venus,temple,,Bacoli,IT,40.816093,14.071485,,,,,,,,,,,,god,,,,Vici.org,,,"13916",,,,,,,,,,,,,,No
+"1000249","Temple of Venus, Baiae",Venus,temple,,Bacoli,IT,40.816093,14.071485,,,,,,,,,,F,,god,,,,Vici.org,,,"13916",,,,,,,,,,,,,,No
 "1000250","Temple of Diana, Baiae",Diana,temple,,Bacoli,IT,40.819092,14.070563,,,,,,,,,,,,god,,,,Vici.org,,,"13917",,,,,,,,,,,,,,No
 "1000251",Temple of Jupiter,Jupiter,temple,,Cumae,IT,40.849385,14.051347,"91",E,,,,,,,,,,god,,,,Vici.org,,,"14781",,,,,,,,,,,,,,
-"1000252",Temple of Apollo,Apollo,temple,,Cumae,IT,40.848538,14.053502,"42",NE,,,,,,,,,,god,,,,Vici.org,,,"14782",,,,,,,,,,,,,,
-"1000253",Temple of Apollo,Apollo,temple,,Avernus,IT,40.839336,14.082209,,,,,,,,,,,,god,,,,Vici.org,,Lake Avernus was seen as an entrance to Hades,"16310",,,,,,,,,,,,,,No
+"1000252",Temple of Apollo,Apollo,temple,,Cumae,IT,40.848538,14.053502,"42",NE,,,,,,,,M,,god,,,,Vici.org,,,"14782",,,,,,,,,,,,,,
+"1000253",Temple of Apollo,Apollo,temple,,Avernus,IT,40.839336,14.082209,,,,,,,,,,M,,god,,,,Vici.org,,Lake Avernus was seen as an entrance to Hades,"16310",,,,,,,,,,,,,,No
 "1000254",Temple of Hera,Hera,temple,,Paestum,IT,40.419327,15.005457,,,,,,,,,,,,god,,,,Vici.org,,,"16774",,,,,,,,,,,,,,No
 "1000255",Temple of Hera,Hera,temple,,Paestum,IT,40.419971,15.005339,,,,,,,,,,,,god,,,,Vici.org,,,"16775",,,,,,,,,,,,,,No
-"1000256",Sanctuary of Minerva,Minerva,temple,,Breno,IT,45.954277,10.284884,,,,,,,,,,,,god,,,,Vici.org,,,"17499",,,,,,,,,,,,,,No
+"1000256",Sanctuary of Minerva,Minerva,temple,,Breno,IT,45.954277,10.284884,,,,,,,,,,F,,god,,,,Vici.org,,,"17499",,,,,,,,,,,,,,No
 "1000257",Temple A,,temple,,Grumentum,IT,40.283569,15.905277,,,,,,,,,,,,,,,,Vici.org,,,"17600",,,,,,,,,,,,,,No
 "1000258",Temple B,,temple,,Grumentum,IT,40.283955,15.906185,,,,,,,,,,,,,,,,Vici.org,,,"17601",,,,,,,,,,,,,,No
 "1000259",Temple C,,temple,,Grumentum,IT,40.285255,15.906856,,,,,,,,,,,,,,,,Vici.org,,,"17602",,,,,,,,,,,,,,No
@@ -261,7 +261,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000261",Oratorio di Falaride,,temple,,Agrigento,IT,37.296696,13.58861,,,,,,,,,,,,,,,,Vici.org,,,"17664",,,,,,,,,,,,,,No
 "1000262",Temple of Demeter,Demeter,temple,,Terraseo,IT,39.20137,8.635581,,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,No
 "1000263",Temple of Victory,Victory,temple,,Himera,IT,37.973946,13.82408,,,,,,,,,,,,concept,,,,Vici.org,,,"17910",,,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,No
-"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,IT,41.754478,12.28806,,,,,,,,,,,,god,,,,Vici.org,,,"17919",,,,,,,,,,,,,,No
+"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,IT,41.754478,12.28806,,,,,,,,,,M/F,,god,,,,Vici.org,,,"17919",,,,,,,,,,,,,,No
 "1000265",Nymphaeum,Nymphs,temple,,Ostia,IT,41.757095,12.295577,,,,,,,,,,F,,god,,,,Vici.org,,,"17927",,,,,,,,,,,,,,No
 "1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,Ostia,IT,41.753574,12.288665,,,,,,,,,,,,"city,emperor",,,,Vici.org,,,"17928",,,,,,,,,,,,,,No
 "1000267",Temple 'C',,temple,,Selinunte,IT,37.583237,12.825288,,,,,,,,,,,,,,,,Vici.org,,,"17972",,,,,,,,,,,,,,No
@@ -273,14 +273,14 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000273",Temple 'G',,temple,,Selinunte,IT,37.588314,12.834987,,,,,,,,,,,,,,,,Vici.org,,,"17979",,,,,,,,,,,,,,No
 "1000274",Sanctuary of Demeter Malophorus,Demeter,temple,,Selinunte,IT,37.586945,12.817137,,,,,,,,,,,,god,,,,Vici.org,,,"17980",,,,,,,,,,,,,,No
 "1000275",Greek temple,,temple,,Taranto,IT,40.473709,17.233036,,,,,,,,,,,,,,,,Vici.org,,,"17981",,,,,,,,,,,,,,No
-"1000276",Temple of Venus,Venus,temple,,Tivoli,IT,41.944672,12.774768,,,,,,,,,,,,god,,,,Vici.org,,,"17984",,,,,,,,,,,,,,No
+"1000276",Temple of Venus,Venus,temple,,Tivoli,IT,41.944672,12.774768,,,,,,,,,,F,,god,,,,Vici.org,,,"17984",,,,,,,,,,,,,,No
 "1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,IT,37.057495,14.89367,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,No
 "1000278",Sanctuary,Hera,temple,,Locri Epizephiri,IT,38.211281,16.238371,,,,,,,,,,,,,,,,Vici.org,,,"17993",,,,,,,,,,,,,,No
 "1000279",Tavole Palatine,Hera,temple,,Tavole Palatine,IT,40.416199,16.816666,,,,,,,,,,F,,god,Greek,,,Vici.org,,,"17996","442611","21308",,,Tavole_Palatine,Q3981620,,,,,,404168SHer,,No
 "1000280",Temple 'A',,temple,,Pyrgi,IT,42.015289,11.963535,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,No
 "1000281",Temple 'B',,temple,,Pyrgi,IT,42.015129,11.963889,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,No
-"1000282",Sanctuary of Apollo,,temple,,Pyrgi,IT,42.014652,11.964618,,,,,,,,,,,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,No
-"1000283",Temple of Venus Erycina,,temple,,Erice,IT,38.036556,12.583742,,,,,,,,,,,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,No
+"1000282",Sanctuary of Apollo,,temple,,Pyrgi,IT,42.014652,11.964618,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,No
+"1000283",Temple of Venus Erycina,,temple,,Erice,IT,38.036556,12.583742,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,No
 "1000284",Talamonaccio,,temple,,,IT,42.551804,11.169796,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371",,,,,,,,,,,,426112STal,,No
 "1000285",Cult Site,,temple,,Monte S. Martino,IT,45.917473,10.817933,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,No
 "1000286",Temple of Clitumnus,,temple,,Pissignano,IT,42.842201,12.7569,,,,,,,,,,,,,,,,Vici.org,,,"19791",,,,,,,,,,,,,,No
@@ -298,7 +298,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000298",Large Temple,,temple,,Vulci,IT,42.419655,11.62843,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894",,,,,,,,,,,,,,No
 "1000299",Temple of Hercules,,temple,,Vulci,IT,42.418175,11.631992,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,No
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,IT,43.808475,11.292941,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,No
-"1000301",Asclepieion,,temple,,Heloros,IT,36.841862,15.105948,,,,,,,,,,,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,No
+"1000301",Asclepieion,,temple,,Heloros,IT,36.841862,15.105948,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,No
 "1000302",Temple of Jupiter,,temple,,Tusculum,IT,41.798317,12.704335,,,,,,,,,,,,god,,,,Vici.org,,,"24929",,,,,,,,,,,,,,No
 "1000303",Megara Hyblaea,,temple,,Megara Hyblaea,IT,37.204262,15.175998,,,,,,,,,,,,,,,,Vici.org,,Extra mural temple,"25276",,,,,,,,,,,,,,No
 "1000304",Temple,,temple,,Paestum,IT,40.423512,15.006211,,,,,,,,,,,,,,,,Vici.org,,Roman Temple - santuario romano,"25323",,,,,,,,,,,,,,No
@@ -310,14 +310,14 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000310",Templi Ferali,,temple,,Acrae,IT,37.05713,14.895352,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,No
 "1000311",Temple,,temple,,Kasmenai - Casmenae,IT,37.076412,14.82563,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,No
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,No
-"1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
-"1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,No
-"1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,,,,,,,,,,,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,No
+"1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,M,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
+"1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,M,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,No
+"1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,No
 "1000316",Four Small Temples,,temple,,Ostia,IT,41.755665,12.290623,,,,,,,,,,,,,,,,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,No
 "1000317",Shrine of the Altar of the Twins,,temple,,Ostia,IT,41.756107,12.29099,,,,,,,,,,,,,,,,Vici.org,,"Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-3.htm,No
-"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,,,,,,,,,,,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,Yes
+"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,,,,,,,,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,Yes
 "1000319",Temple of the Mensores,,temple,,Ostia,IT,41.753784,12.285011,,,,,,,,,,,,,,,,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,No
-"1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,,,god,,,,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,No
+"1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,F,,god,,,,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,No
 "1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752777,12.286075,,,,,,,,,,,,,,,,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,No
 "1000322",Temple of Isis,,temple,Isola Sacra,Portus,IT,41.772774,12.255305,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,No
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,No
@@ -368,7 +368,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000368",Temple Isarnodurum,,temple,,Izernore,FR,46.2234,5.558579,,,,,,,,,,,,,,,,Vici.org,,,"10667","177545","20105",,,,,,,,,,,,No
 "1000369",Temple Novioregum,,temple,,Barzan,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,No
 "1000370",Roman temple,,temple,Vineyard Château-Bas,Vernègues,FR,43.681892,5.197178,"327",NW,1st BCE,"-1",,,,,,,,,,,,Vici.org,,,"10684","148046","18074",,,,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,Yes
-"1000371",Temple of Apollo,,temple,,Riez,FR,43.817055,6.088223,,,,,,,,,,,,god,,,,Vici.org,,,"10697",,,,,,Q1272940,,,,,,,,No
+"1000371",Temple of Apollo,,temple,,Riez,FR,43.817055,6.088223,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,,Q1272940,,,,,,,,No
 "1000372",Forum Temple Lugdunum Convenarum,,temple,,Saint-Bertrand-de-Comminges,FR,43.029804,0.573152,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,No
 "1000373",Briga,,temple,,Eu,FR,50.021584,1.462042,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,No
 "1000374",Temple complex Petromantalum,,temple,,Genainville,FR,49.120399,1.771297,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,No
@@ -495,15 +495,15 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000495",Matronentempel,,temple,,Nettersheim,DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,No
 "1000496",Temple Görresburg,,temple,,Nettersheim,DE,50.482292,6.618158,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,No
 "1000497",Weihetempel,,temple,,Ernzen,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,No
-"1000498",Judenkirchhof - Römischer Tempelbezirk - Pelm,,temple,,Gerolstein,DE,50.230743,6.674787,,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,No
+"1000498",Judenkirchhof - Roman temple district - Pelm,,temple,,Gerolstein,DE,50.230743,6.674787,,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,No
 "1000499",Pilgerheiligtum - Sirona-Tempel - Forsthaus Hoch,,temple,,Hochscheid,DE,49.86454,7.232887,,,,,,,,,,,,,,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697",,,,,,,,,,,,,,No
-"1000500",Römische Tempelanlage Auf Borstadt - Schleidweiler,,temple,,Zemmer,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,No
-"1000501",Römische Tempelanlage - Gusenburg,,temple,,Hermeskeil,DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,No
-"1000502",Römische Tempelanlage,,temple,,Schalkenmehren,DE,50.151859,6.843915,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de,"5701",,,,,,,,,,,,,,No
-"1000503",Römischer Tempel - Niersbach,,temple,,,DE,49.942722,6.755594,,,,,,,,,,,,,,,,,,Römischer Tempel - Niersbach -point imported from roscheiderhof.de,"5702",,,,,,,,,,,,,,No
-"1000504",Römischer Tempelbezirk auf dem Metzenberg - Tawern,,temple,,Nittel,DE,49.664539,6.509661,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de,"5703",,,,,de=Römischer_Tempelbezirk_Tawern,Q1460725,,,,,,,,No
-"1000505",Römischer Tempelbezirk,,temple,,Nattenheim,DE,50.020042,6.518407,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de,"5704",,,,,,,,,,,,,,No
-"1000506",Römischer Tempelbezirk - Otrang,,temple,,Fließem,DE,50.013863,6.546174,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de,"5705",,,,,,,,,,,,,,No
+"1000500",Roman temple building Auf Borstadt - Schleidweiler,,temple,,Zemmer,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,No
+"1000501",Roman temple building - Gusenburg,,temple,,Hermeskeil,DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,No
+"1000502",Roman temple building,,temple,,Schalkenmehren,DE,50.151859,6.843915,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de,"5701",,,,,,,,,,,,,,No
+"1000503",Roman Temple - Niersbach,,temple,,,DE,49.942722,6.755594,,,,,,,,,,,,,,,,,,Römischer Tempel - Niersbach -point imported from roscheiderhof.de,"5702",,,,,,,,,,,,,,No
+"1000504",Roman temple building auf dem Metzenberg - Tawern,,temple,,Nittel,DE,49.664539,6.509661,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de,"5703",,,,,de=Römischer_Tempelbezirk_Tawern,Q1460725,,,,,,,,No
+"1000505",Roman temple district,,temple,,Nattenheim,DE,50.020042,6.518407,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de,"5704",,,,,,,,,,,,,,No
+"1000506",Roman temple district - Otrang,,temple,,Fließem,DE,50.013863,6.546174,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de,"5705",,,,,,,,,,,,,,No
 "1000507",Tempel am Herrenbrünnchen - Neu-Heiligkreuz,,temple,,Trier,DE,49.745407,6.646463,,,,,,,,,,,,,,,,,,Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de,"5707",,,,,,,,,,,,,,No
 "1000508",Tempel auf dem Gelände des Mutterhauses - Altstadt,,temple,,Trier,DE,49.754078,6.630699,,,,,,,,,,,,,,,,,,Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de,"5708",,,,,,Q723125,,,,,,,,No
 "1000509",Tempel mit Säulenvorbau - Alt-Heiligkreuz,,temple,,Trier,DE,49.746544,6.642509,,,,,,,,,,,,,,,,,,Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5709",,,,,,,,,,,,,,No
@@ -527,7 +527,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,DE,50.293213,7.570019,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,No
 "1000528",Temple area,Mars-Lenus,temple,,Pommern,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141",,,,,,Q1234219,,,,,,,,No
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,No
-"1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,Lauingen,DE,48.561783,10.409117,,,,,,,,,,,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,No
+"1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,Lauingen,DE,48.561783,10.409117,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,No
 "1000531",Bergheiligtum auf dem Calmont,,temple,,Bremm,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,No
 "1000532",Spring Sanctuary (Sudelfels),,temple,,Wallerfangen,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,No
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,Heidentempel,"8205",,,,,,Q1408110,,,,,,,,No
@@ -536,7 +536,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000536",Temple,,temple,,Rheinfelden (Baden),DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,No
 "1000537",Cult area,,temple,,Sontheim an der Brenz,DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,No
 "1000538",Mithraeum,Mithras,mithraeum,,Königsbrunn,DE,48.274055,10.87458,,,,,,,,,,,,,,,,,,Mithras Heiligtum,"8282",,,,,,,,,,,,,,No
-"1000539",Römisches Haus,,temple,,Stuttgart,DE,48.762733,9.101792,,,,,,,,,,,,,,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,No
+"1000539",Römisches Haus,,temple,,Stuttgart,DE,48.762733,9.101792,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,No
 "1000540",Temple of Diana,,temple,,Meßkirch,DE,47.986389,9.053611,,,,,,,,,,,,god,,,,,,Dianatempel (Meßkirch),"8420",,,,,,,,,,,,,,No
 "1000541",Lapidarium,,temple,,Steinheim an der Murr,DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,No
 "1000542",Spring Sanctuary,,temple,,Holsthum,DE,49.890659,6.442838,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,No
