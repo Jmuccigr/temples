@@ -1,6 +1,6 @@
 "1000001","Temple of Aesculapius","Aesculapius","temple","Tiber Island","Rome","IT","","","-291","-291","","-3","M","January 1","hero","Roman","","Ziolkowski","","","23444","","","","","Temple_of_Asclepius,_Rome","Q3983243","","","","","","419125SAsc","",12.478333,41.890278
 "1000002","Temple of Apollo Palatinus","Apollo","temple","Palatine Hill","Rome","IT","227","SW","-28","-28","","-1","M","","god","Roman","","Blake, Stamper","","","","","","8606","","Temple_of_Apollo_Palatinus","Q1236860","","","","","","419125SApP","",12.485741,41.888854
-"1000003","Temple of Apollo Sosianus/Medicus","Apollo","temple","Circus Flaminius","Rome","IT","180","S","-431","-431","","-5","M","September 23","god","Roman","","Stamper","senate","vici.org; coords modified","15038","740034026","","5665","","","","","","","","","419125SApo","",12.4795912,41.8923136
+"1000003","Temple of Apollo Sosianus/Medicus","Apollo","temple","Circus Flaminius","Rome","IT","180","S","-431","-431","","-5","M","September 23","god","Roman","","Stamper","senate","vici.org; coords modified","15038","740034026","","5665","","Temple_of_Apollo_Sosianus","Q582353","","","","","","419125SApo","",12.4795912,41.8923136
 "1000004","Temple of Bellona","Bellona","temple","Circus Flaminius","Rome","IT","180","S","-296","-296","","-3","F","June 3","god","Roman","","Ziolkowski","senate","","","","","3467477","","Temple_of_Bellona,_Rome","Q2595680","","","","","","419125SBel","",12.47989,41.89238
 "1000005","Temple of Bona Dea","Bona Dea","temple","Lesser Aventine","Rome","IT","","","","-123","","-2","F","May 1","god","Roman","","Blake/Ziolkowski","","","","","","","","","","","","","","","","",12.48979,41.880581
 "1000007","Temple of Castor(es)","Castor(es)","temple","Forum","Rome","IT","24","NE","-484","-484","","-5","M","27 January/15 July","hero","Roman","","blake","senate","Vici.org","15011","","","5807","","","Q380530","","","","","","419125SCas","",12.485755,41.891773
@@ -50,7 +50,7 @@
 "1000051","Temple of Jupiter","Jupiter","temple","","Damascus","SY","","","14","14","","1","M","","god","Roman","","","","","","","","","","","","","","","","","","",36.300833,33.510833
 "1000052","Temple of Jupiter","Jupiter","temple","","Yarbrud","SY","","","","","","","M","","god","Roman","","","","","","","","","","","","","","","","","","",36.666667,33.966667
 "1000053","Temple of Jupiter","Jupiter","temple","","Baalbek","LB","","","135","135","","2","M","","god","Roman","","","","","16415","","","","","","Q21079381","","","","","","","",36.203397,34.006839
-"1000054","Temple of Jupiter Anxur","Jupiter","temple","","Terracina","IT","175","S","","","","","M","","god","Roman","","","","Coord from Google maps","","433143","","","","","","","","","","","413133SJAn","",13.260113,41.290817
+"1000054","Temple of Jupiter Anxur","Jupiter","temple","","Terracina","IT","175","S","","","","","M","","god","Roman","","","","Coord from Google maps","","433143","","","","","Q3983252","","","","","","413133SJAn","",13.260113,41.290817
 "1000055","Temple of Jupiter Conservator","Jupiter","temple","Capitoline Hill","Rome","IT","","","","","","","M","","god","Roman","","Stamper","","","","","","","","","","","","","","","","","",""
 "1000056","Temple of Jupiter Custos","Jupiter","temple","Capitoline Hill","Rome","IT","","","","","","","M","","god","Roman","","","","","","","","","","","","","","","","","","",12.481892,41.891825
 "1000057","Temple of Jupiter Dolichenus","Jupiter","temple","Aventine Hill","Rome","IT","","","","","","","M","","god","Roman","","Blake","","Location from Arachne","","","","6074","","","","","","","","","","",12.4804,41.88319
@@ -58,7 +58,7 @@
 "1000059","Temple of Jupiter Heliopolitanus","Jupiter","temple","Janiculum","Rome","IT","","","Late 1st Century CE","75","100","1","M","November 29","god","Roman","","Blake","","","","","","","","","","","","","","","","","",""
 "1000060","Temple of Jupiter Invictus","Jupiter","temple","Palatine Hill","Rome","IT","","","-180-167","-180","-167","-2","M","","god","Roman","","Ziolkowski","","","","","","","","","","","","","","","","","",""
 "1000061","Temple of Jupiter Libertas","Jupiter","temple","Aventine Hill","Rome","IT","","","-246","-246","","-3","M","April 13","god","Roman","","Ziolkowski","","","","","","","","","","","","","","","","","",""
-"1000062","Temple of Jupiter Capitolinus/Optimus Maximus","Jupiter","temple","Capitoline Hill","Rome","IT","152","SE","-509","-509","","-6","M","September 13","god","Roman","","Blake","senate","","17971","871801169","","3910430","","","Q586468","","","","","","419125SJCa","",12.481667,41.892222
+"1000062","Temple of Jupiter Capitolinus/Optimus Maximus","Jupiter","temple","Capitoline Hill","Rome","IT","152","SE","-509","-509","","-6","M","September 13","god","Roman","","Blake","senate","","17971","871801169","","3910430","","Temple_of_Jupiter_Optimus_Maximus","Q586468","","","","","","419125SJCa","",12.481667,41.892222
 "1000063","Temple of Jupiter Patulaeius","Jupiter","temple","","Ostia","IT","","","-299-200","-299","-200","-3","M","","god","Roman","","","","","","","","","","","","","","","","","","","",""
 "1000064","Temple of Jupiter","Jupiter","temple","","Pompeii","IT","","","mid-2nd century BC","-175","-125","-2","M","","god","Roman","","","","","","","","","","","","","","","","","","",14.4845,40.7499
 "1000065","Temple of Jupiter Sospita","Jupiter","temple","","","","","","","","","","M","","god","Roman","","Stamper","","","","","","","","","","","","","","","","","",""
@@ -77,7 +77,7 @@
 "1000078","Temple of Mars Ultor","Mars","temple","Forum of Augustus","Rome","IT","233","SW","-2","-2","","-1","M","","god","Roman","","Stamper","","","","","","5747","","it=Tempio_di_Marte_Ultore","Q679665","","","43987","","","419125SMUl","",12.486944,41.894444
 "1000079","Temple of Mater Matuta","Mater Matuta","temple","Forum Boarium","Rome","IT","180","S","-368","-368","","-4","F","","god","Roman","","Stamper","","","","","","","","","","","","","","","419125SMMa","",12.480833,41.890556
 "1000080","Temple of Matidia","Matidia","temple","Campus Martius","Rome","IT","","","119","119","","2","F","","family","Roman","","Stamper","","","","","","","","","","","","","","","","",12.478081,41.899964
-"1000081","Mausoleum of Romulus","","tomb","","Rome","IT","","","early 4th century CE","","","4","","","","Roman","","","","DARE","","","23842","","","","","","","","","","","",12.5181785,41.8550631
+"1000081","Mausoleum of Romulus","","tomb","","Rome","IT","","","early 4th century CE","","","4","","","hero","Roman","","","","DARE","","","23842","","","","","","","","","","","",12.5181785,41.8550631
 "1000082","Temple of Mercury","Mercury","temple","Aventine Hill","Rome","IT","","","-495","-495","","-5","M","","god","Roman","","","","","","","","","","","","","","","","","","","",""
 "1000083","Temple of Minerva","Minerva","temple","Aventine Hill","Rome","IT","","","-269-260","-269","-260","-3","F","","god","Roman","","","","Vici.org","","","","","","","","","","","","","","","",""
 "1000084","Temple of Minerva Medica","Minerva","temple","Esquiline Hill","Rome","IT","","","-399-300","-399","-300","-4","F","","god","Roman","","","","Pleiades","7929","540898685","","","","","Q1411575","","","","","","419125SMiM","",12.511867,41.893845
@@ -151,7 +151,7 @@
 "1000152","Temple of Hercules at the Colline Gate","Hercules","temple","ad portam collinam","Rome","IT","","","","","-211","","M","","hero","Roman","no","Ziolkowski","","","","","","","","","","","","","","","","","",""
 "1000153","Temple of Honos","Honor","temple","extra portam collinam","Rome","IT","","","3rd c. BCE","-292","-219","-3","M","","concept","Roman","no","Ziolkowski","","","","","","","","","","","","","","","","",12.498676,41.906487
 "1000154","Temple of Honos","Honor","temple","ad Portam Capenam","Rome","IT","","","-233","-233","","-3","F","July 17","concept","Roman","no","Ziolkowski","","","","","","","","","","","","","","","","","",""
-"1000155","Portonaccio Temple","Apollo","temple","","Veii","IT","97","E","-510","","","-6","M","","god","Etruscan","yes","","","","23458","","","","","","","","","","","","","",12.390661,42.021223
+"1000155","Portonaccio Temple","Apollo","temple","","Veii","IT","97","E","-510","","","-6","M","","god","Etruscan","yes","","","","23458","","","","","","","","","","","","420124SPoA","",12.390661,42.021223
 "1000156","Great Chesterford Temple","","temple","","","UK","","","","","","","","","","Romano-Celtic","","The Rural Settlement of Roman Britain","","","","","","","","","","","","","1002","","","",0.208052084,52.07048
 "1000157","Harlow","","temple","","","UK","","","","","","","","","","Romano-Celtic","","The Rural Settlement of Roman Britain","","","","","","","","","","","","","1045","","","",0.127076484,51.79013
 "1000158","Gosbecks, Colchester","","temple","","","UK","","","","","","","","","","Romano-Celtic","","The Rural Settlement of Roman Britain","","","","","","","","","","","","","1106","","","",0.856901856,51.86582
@@ -211,56 +211,56 @@
 "1000212","Temple of Hercules","Hercules","temple","","Amman","JO","76","E","","162","","2","M","","hero","Roman","","Wikipedia","","","","","","","","Temple_of_Hercules_(Amman)","","","","","","","","",35.9349,31.9538
 "1000213","Temple of Herakles","Hercules","temple","","Agrigento","IT","89","E","","","","-6","M","","hero","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Heracles,_Agrigento","","","","","","","","",13.586221,37.290252
 "1000214","Temple of Hera Lakinia","Juno","temple","","Agrigento","IT","82","E","ca. 450 BC","","","-5","F","","god","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Juno,_Agrigento","","","","","","","","",13.600197,37.288662
-"1000215","Temple of Concord","","temple","","Agrigento","IT","89","E","ca. 440-430 BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Concordia,_Agrigento","","","","","","","","",13.592005,37.289747
-"1000216","Temple of Asclepius","","temple","","Agrigento","IT","89","E","late 5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.589582,37.282531
+"1000215","Temple of Concord","","temple","","Agrigento","IT","89","E","ca. 440-430 BC","","","-5","","","concept","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Concordia,_Agrigento","","","","","","","","",13.592005,37.289747
+"1000216","Temple of Asclepius","","temple","","Agrigento","IT","89","E","late 5th c. BC","","","-5","","","hero","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.589582,37.282531
 "1000217","Temple of Olympian Zeus","Jupiter","temple","","Agrigento","IT","77","E","5th c. BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Olympian_Zeus,_Agrigento","","","","","","","","",13.584423,37.290982
 "1000218","Temple of Hephaistos","Vulcan","temple","","Agrigento","IT","86","E","ca. 430 BC","","","-6","M","","god","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.578769,37.292956
 "1000219","Sacellum","","temple","","Agrigento","IT","82","E","ca. 530-520 BC","","","-7","","","","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.578769,37.292956
-"1000220","Temple of the Dioscuri","","temple","","Agrigento","IT","83","E","mid-5th c. BC","","","-5","","","","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.581507,37.291344
+"1000220","Temple of the Dioscuri","","temple","","Agrigento","IT","83","E","mid-5th c. BC","","","-5","","","hero","Greek","Yes","Wikipedia","","","","","","","","Valle_dei_Templi","","","","","","","","",13.581507,37.291344
 "1000221","Temple L","","temple","","Agrigento","IT","77","E","late 5th c. BC","","","-5","","","","Greek","Yes","","","","","","","","","","","","","","","","","",13.581401,37.291043
-"1000222","Temple of Demeter","","temple","","Agrigento","IT","123","SE","ca. 480-470 BC","","","-5","","","","Greek","Yes","","","","","","","","","","","","","","","","","",13.603379,37.299241
-"1000223","Temple of Isis","","temple","","Agrigento","IT","167","S","late 1st c. BC","","","-1","","","","Roman","Yes","","","","","","","","","","","","","","","","","",13.589222,37.298272
-"1000224","Temple of Poseidon","Neptune","temple","","Sounion","GR","103","E","444-440 BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Poseidon_at_Sounion","","","","","","","","",24.024573,37.650153
-"1000225","Temple of Athena","Minerva","temple","","Sounion","GR","98","E","470 BC","","","-5","F","","god","Greek","Yes","","","","","","","","","","","","","","","","","",24.027015,37.652933
+"1000222","Temple of Demeter","","temple","","Agrigento","IT","123","SE","ca. 480-470 BC","","","-5","","","god","Greek","Yes","","","","","","","","","","","","","","","","","",13.603379,37.299241
+"1000223","Temple of Isis","","temple","","Agrigento","IT","167","S","late 1st c. BC","","","-1","","","god","Roman","Yes","","","","","","","","","","","","","","","","","",13.589222,37.298272
+"1000224","Temple of Poseidon","Neptune","temple","","Sounion","GR","103","E","444-440 BC","","","-5","M","","god","Greek","Yes","Wikipedia","","","","","","","","Temple_of_Poseidon_at_Sounion","Q49819204","","","","","","377240SSou","",24.024573,37.650153
+"1000225","Temple of Athena","Minerva","temple","","Sounion","GR","98","E","470 BC","","","-5","F","","god","Greek","Yes","","","","","","","","","","Q24204542","","","","","","377240SAth","",24.027015,37.652933
 "1000226","Heroon of Phrontis","Phrontis","temple","","Sounion","GR","102","E","5th c. BC","","","-5","M","","hero","Greek","Yes","","","","","","","","","","","","","","","","","",24.02716,37.653068
 "1000227","Capitolium","Jupiter, Juno, Minerva","temple","","Terracina","IT","224","SW","","","","","M/F","","god","Roman","Yes","Wikipedia","","","","","","","","","","","","","","","","",13.248628,41.29215
 "1000228","Church of San Cesareo","","temple","","Terracina","IT","132","SE","","","","","","","","Roman","Yes","PECS","","","","","","","","","","","","","","","","",13.248411,41.291923
-"1000229","Temple of Apollo","Apollo","temple","","Pompeii","IT","","","","","","","","","god","","","Vici.org","","","4349","","","","","Temple_of_Apollo_(Pompeii)","Q2699249","","","","","","","",14.4844,40.74921
-"1000230","Temple of Bellona","Bellona","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","4380","","","","","Temple_of_Bellona,_Ostia","Q3983235","","","","","","","",12.291518,41.752632
+"1000229","Temple of Apollo","Apollo","temple","","Pompeii","IT","","","","","","","M","","god","","","Vici.org","","","4349","","","","","Temple_of_Apollo_(Pompeii)","Q2699249","","","","","","","",14.4844,40.74921
+"1000230","Temple of Bellona","Bellona","temple","","Ostia","IT","","","","","","","F","","god","","","Vici.org","","","4380","","","","","Temple_of_Bellona,_Ostia","Q3983235","","","","","","","",12.291518,41.752632
 "1000231","Tharros","","temple","","San Giovanni di Sinis","IT","","","","","","","","","","","","Vici.org","","","7846","","","","","","","","","","","","","",8.440263,39.873825
 "1000232","Temple of Juno","Juno","temple","","Gabii","IT","","","","","","","","","god","","","Vici.org","","","7912","","","","","","","","","","","","","",12.71593,41.887016
-"1000233","Temple of Antas","","temple","","Fluminimaggiore","IT","","","","","","","","","","Punic","","Vici.org","","","8129","","","","","","","","","","","","","",8.500288,39.394028
+"1000233","Temple of Antas","","temple","","Fluminimaggiore","IT","","","","","","","","","","Punic","","Vici.org","","","8129","","","","","","","","","","","","394085SAdd","",8.500288,39.394028
 "1000234","Punico-Roman Temple","","temple","","Cagliari","IT","","","","","","","","","","","","Vici.org","","","8476","","","","","","","","","","","","","",9.106047,39.222012
 "1000235","Capitolium","Jupiter, Juno, Minerva","temple","","Brescia","IT","","","","","","","","","god","","","Vici.org","","Built by Vespasian in AD 73","8480","","","","","Capitolium_of_Brixia","Q3657072","","","","","","","",10.225802,45.539905
 "1000236","Temple of Jupiter","Jupiter","temple","","Bidoni","IT","","","","","","","","","god","","","Vici.org","","","8492","","","","","","","","","","","","","",8.94209,40.121441
 "1000237","Temple at Bovianum Vetus","","temple","","Pietrabbondante","IT","","","","","","","","","","","","Vici.org","","","10919","","","","","","","","","","","","","",14.386793,41.73999
 "1000238","Temple of Hera Lacinia","Hera","temple","","","IT","","","","","","","","","god","","","Vici.org","","","10966","","","","","","","","","","","","","",17.204949,39.02651
 "1000239","Temple complex","","temple","","Metapontum","IT","","","","","","","","","","","","Vici.org","","","11201","","","","","","","","","","","","","",16.823549,40.383694
-"1000240","Temple of Venus Erycina","Venus","temple","","Segesta","IT","","","","","","","","","god","","","Vici.org","","","11596","","","","place/segesta/segesta-temple","","","","","","","","","",12.832296,37.941475
-"1000241","Temple of Diana","","temple","","Aricia","IT","","","","","","","","","god","","","Vici.org","","","11609","","","","place/aricia","","","","","","","","","",12.710217,41.723934
+"1000240","Temple of Venus Erycina","Venus","temple","","Segesta","IT","","","","","","","F","","god","","","Vici.org","","","11596","","","","place/segesta/segesta-temple","","","","","","","","","",12.832296,37.941475
+"1000241","Temple of Diana","","temple","","Aricia","IT","","","","","","","","","god","","","Vici.org","","","11609","","","","place/aricia","","","","","","","","417127SDiN","",12.710217,41.723934
 "1000242","Twin Temples","","temple","","Carsulae","IT","","","","","","","","","","","","Vici.org","","","11625","","","","","","","","","","","","","",12.557378,42.639618
 "1000243","Acropolis","","temple","","Populonia","IT","","","","","","","","","","","","Vici.org","","","11649","","","","","","","","","","","","","",10.5092,42.988754
 "1000244","Temple of Fortuna","Fortuna","temple","","Palestrina","IT","","","","","","","","","concept","","","Vici.org","","","11650","","","","","Palestrina#Sanctuary_of_Fortuna_Primigenia","","","","","","","","",12.89152,41.838009
-"1000245","Temple of Minerva","Minerva","temple","","Assisi","IT","","","","","","","","","god","","","Vici.org","","","11658","","","","","","","","","","","","","",12.614974,43.071224
+"1000245","Temple of Minerva","Minerva","temple","","Assisi","IT","","","","","","","F","","god","","","Vici.org","","","11658","","","","","","","","","","","","","",12.614974,43.071224
 "1000246","Temple of Athena","Athena","temple","","Syracuse","IT","","","","","","","","","god","Greek","","Vici.org","","Part of the structure is incorporated in Siracusa Cathedral","11869","","","","","","","","","","","","","",15.29354,37.05965
-"1000247","Temple of Apollo","Apollo","temple","","Syracuse","IT","","","","","","","","","god","Greek","","Vici.org","","","11870","","","","","","","","","","","","","",15.29297,37.063938
-"1000248","Temple of Diana","Diana","temple","","Alberese","IT","","","","","","","","","god","","","Vici.org","","","11973","","","","","","","","","","","","","",11.05109,42.672871
-"1000249","Temple of Venus, Baiae","Venus","temple","","Bacoli","IT","","","","","","","","","god","","","Vici.org","","","13916","","","","","","","","","","","","","",14.071485,40.816093
+"1000247","Temple of Apollo","Apollo","temple","","Syracuse","IT","","","","","","","M","","god","Greek","","Vici.org","","","11870","","","","","","","","","","","","","",15.29297,37.063938
+"1000248","Temple of Diana Nemorensis","Diana","temple","","Alberese","IT","","","","","","","F","","god","Roman","","Vici.org","","","11973","422917","22227","","","Temple_of_Diana_(Nemi)","Q18590113","","","","","","417127SDiN","",11.05109,42.672871
+"1000249","Temple of Venus, Baiae","Venus","temple","","Bacoli","IT","","","","","","","F","","god","","","Vici.org","","","13916","","","","","","","","","","","","","",14.071485,40.816093
 "1000250","Temple of Diana, Baiae","Diana","temple","","Bacoli","IT","","","","","","","","","god","","","Vici.org","","","13917","","","","","","","","","","","","","",14.070563,40.819092
 "1000251","Temple of Jupiter","Jupiter","temple","","Cumae","IT","91","E","","","","","","","god","","","Vici.org","","","14781","","","","","","","","","","","","","",14.051347,40.849385
-"1000252","Temple of Apollo","Apollo","temple","","Cumae","IT","42","NE","","","","","","","god","","","Vici.org","","","14782","","","","","","","","","","","","","",14.053502,40.848538
-"1000253","Temple of Apollo","Apollo","temple","","Avernus","IT","","","","","","","","","god","","","Vici.org","","Lake Avernus was seen as an entrance to Hades","16310","","","","","","","","","","","","","",14.082209,40.839336
+"1000252","Temple of Apollo","Apollo","temple","","Cumae","IT","42","NE","","","","","M","","god","","","Vici.org","","","14782","","","","","","","","","","","","","",14.053502,40.848538
+"1000253","Temple of Apollo","Apollo","temple","","Avernus","IT","","","","","","","M","","god","","","Vici.org","","Lake Avernus was seen as an entrance to Hades","16310","","","","","","","","","","","","","",14.082209,40.839336
 "1000254","Temple of Hera","Hera","temple","","Paestum","IT","","","","","","","","","god","","","Vici.org","","","16774","","","","","","","","","","","","","",15.005457,40.419327
 "1000255","Temple of Hera","Hera","temple","","Paestum","IT","","","","","","","","","god","","","Vici.org","","","16775","","","","","","","","","","","","","",15.005339,40.419971
-"1000256","Sanctuary of Minerva","Minerva","temple","","Breno","IT","","","","","","","","","god","","","Vici.org","","","17499","","","","","","","","","","","","","",10.284884,45.954277
+"1000256","Sanctuary of Minerva","Minerva","temple","","Breno","IT","","","","","","","F","","god","","","Vici.org","","","17499","","","","","","","","","","","","","",10.284884,45.954277
 "1000257","Temple A","","temple","","Grumentum","IT","","","","","","","","","","","","Vici.org","","","17600","","","","","","","","","","","","","",15.905277,40.283569
 "1000258","Temple B","","temple","","Grumentum","IT","","","","","","","","","","","","Vici.org","","","17601","","","","","","","","","","","","","",15.906185,40.283955
 "1000259","Temple C","","temple","","Grumentum","IT","","","","","","","","","","","","Vici.org","","","17602","","","","","","","","","","","","","",15.906856,40.285255
 "1000260","Temple D","","temple","","Grumentum","IT","","","","","","","","","","","","Vici.org","","","17603","","","","","","","","","","","","","",15.907481,40.285954
 "1000261","Oratorio di Falaride","","temple","","Agrigento","IT","","","","","","","","","","","","Vici.org","","","17664","","","","","","","","","","","","","",13.58861,37.296696
-"1000262","Temple of Demeter","Demeter","temple","","Terraseo","IT","","","","","","","","","god","","","Vici.org","","","17725","","","","","","","","","","","","","",8.635581,39.20137
+"1000262","Temple of Demeter","Demeter","temple","","Terraseo","IT","","","","","","","","","god","","","Vici.org","","","17725","","","","","","","","","","","","392863STer","",8.635581,39.20137
 "1000263","Temple of Victory","Victory","temple","","Himera","IT","","","","","","","","","concept","","","Vici.org","","","17910","","","","battle/himera-480-bce","Temple_of_Victory_%28Himera%29","","","","","","","","",13.82408,37.973946
-"1000264","Capitolium","Jupiter, Juno, Minerva","temple","","Ostia","IT","","","","","","","","","god","","","Vici.org","","","17919","","","","","","","","","","","","","",12.28806,41.754478
+"1000264","Capitolium","Jupiter, Juno, Minerva","temple","","Ostia","IT","","","","","","","M/F","","god","","","Vici.org","","","17919","","","","","","","","","","","","","",12.28806,41.754478
 "1000265","Nymphaeum","Nymphs","temple","","Ostia","IT","","","","","","","F","","god","","","Vici.org","","","17927","","","","","","","","","","","","","",12.295577,41.757095
 "1000266","Temple of Rome and Augustus","Rome, Augustus","temple","","Ostia","IT","","","","","","","","","city,emperor","","","Vici.org","","","17928","","","","","","","","","","","","","",12.288665,41.753574
 "1000267","Temple 'C'","","temple","","Selinunte","IT","","","","","","","","","","","","Vici.org","","","17972","","","","","","","","","","","","","",12.825288,37.583237
@@ -272,15 +272,15 @@
 "1000273","Temple 'G'","","temple","","Selinunte","IT","","","","","","","","","","","","Vici.org","","","17979","","","","","","","","","","","","","",12.834987,37.588314
 "1000274","Sanctuary of Demeter Malophorus","Demeter","temple","","Selinunte","IT","","","","","","","","","god","","","Vici.org","","","17980","","","","","","","","","","","","","",12.817137,37.586945
 "1000275","Greek temple","","temple","","Taranto","IT","","","","","","","","","","","","Vici.org","","","17981","","","","","","","","","","","","","",17.233036,40.473709
-"1000276","Temple of Venus","Venus","temple","","Tivoli","IT","","","","","","","","","god","","","Vici.org","","","17984","","","","","","","","","","","","","",12.774768,41.944672
+"1000276","Temple of Venus","Venus","temple","","Tivoli","IT","","","","","","","F","","god","","","Vici.org","","","17984","","","","","","","","","","","","","",12.774768,41.944672
 "1000277","Temple of Demeter","Demeter","temple","","Palazzolo Acreide","IT","","","","","","","","","god","","","Vici.org","","Temple of Demeter, Acrae","17988","","","","","","","","","","","","","",14.89367,37.057495
 "1000278","Sanctuary","Hera","temple","","Locri Epizephiri","IT","","","","","","","","","","","","Vici.org","","","17993","","","","","","","","","","","","","",16.238371,38.211281
-"1000279","Temple of Hera","","temple","","Tavole Palatine","IT","","","","","","","","","god","","","Vici.org","","","17996","442611","","","","","","","","","","","404168SHer","",16.816666,40.416199
+"1000279","Tavole Palatine","Hera","temple","","Tavole Palatine","IT","","","","","","","F","","god","Greek","","Vici.org","","","17996","442611","21308","","","Tavole_Palatine","Q3981620","","","","","","404168SHer","",16.816666,40.416199
 "1000280","Temple 'A'","","temple","","Pyrgi","IT","","","","","","","","","","","","Vici.org","","","17997","","","","","","","","","","","","","",11.963535,42.015289
 "1000281","Temple 'B'","","temple","","Pyrgi","IT","","","","","","","","","","","","Vici.org","","","17998","","","","","","","","","","","","","",11.963889,42.015129
-"1000282","Sanctuary of Apollo","","temple","","Pyrgi","IT","","","","","","","","","god","","","Vici.org","","","17999","","","","","","","","","","","","","",11.964618,42.014652
-"1000283","Temple of Venus Erycina","","temple","","Erice","IT","","","","","","","","","god","","","Vici.org","","","18316","","","","place/eryx","","","","","","","","","",12.583742,38.036556
-"1000284","Talamonaccio","","temple","","","IT","","","","","","","","","","","","Vici.org","","Etruscan/Roman temple","18371","","","","","","","","","","","","","",11.169796,42.551804
+"1000282","Sanctuary of Apollo","","temple","","Pyrgi","IT","","","","","","","M","","god","","","Vici.org","","","17999","","","","","","","","","","","","","",11.964618,42.014652
+"1000283","Temple of Venus Erycina","","temple","","Erice","IT","","","","","","","F","","god","","","Vici.org","","","18316","","","","place/eryx","","","","","","","","","",12.583742,38.036556
+"1000284","Talamonaccio","","temple","","","IT","","","","","","","","","","","","Vici.org","","Etruscan/Roman temple","18371","","","","","","","","","","","","426112STal","",11.169796,42.551804
 "1000285","Cult Site","","temple","","Monte S. Martino","IT","","","","","","","","","","","","Vici.org","","Luogo die culto preromano e romano","18758","","","","","","","","","","","","","",10.817933,45.917473
 "1000286","Temple of Clitumnus","","temple","","Pissignano","IT","","","","","","","","","","","","Vici.org","","","19791","","","","","","","","","","","","","",12.7569,42.842201
 "1000287","Temple of Flora","","temple","","","IT","","","","","","","","","concept","","","Vici.org","","","19792","","","","","","Q3983249","","","","","","","",14.562722,41.305756
@@ -297,30 +297,30 @@
 "1000298","Large Temple","","temple","","Vulci","IT","","","","","","","","","","Etruscan","","Vici.org","","","23894","","","","","","","","","","","","","",11.62843,42.419655
 "1000299","Temple of Hercules","","temple","","Vulci","IT","","","","","","","","","hero","Etruscan","","Vici.org","","Small temple (sacellum) dedicated to Hercules","23895","","","","","","","","","","","","","",11.631992,42.418175
 "1000300","Etrusco-Roman temple complex","","temple","","Fiesole","IT","","","","","","","","","","","","Vici.org","","","24190","","","","","","","","","","","","","",11.292941,43.808475
-"1000301","Asclepieion","","temple","","Heloros","IT","","","","","","","","","hero","","","Vici.org","","","24464","","","","","","","","","","","","","",15.105948,36.841862
+"1000301","Asclepieion","","temple","","Heloros","IT","","","","","","","M","","hero","","","Vici.org","","","24464","","","","","","","","","","","","","",15.105948,36.841862
 "1000302","Temple of Jupiter","","temple","","Tusculum","IT","","","","","","","","","god","","","Vici.org","","","24929","","","","","","","","","","","","","",12.704335,41.798317
 "1000303","Megara Hyblaea","","temple","","Megara Hyblaea","IT","","","","","","","","","","","","Vici.org","","Extra mural temple","25276","","","","","","","","","","","","","",15.175998,37.204262
 "1000304","Temple","","temple","","Paestum","IT","","","","","","","","","","","","Vici.org","","Roman Temple - santuario romano","25323","","","","","","","","","","","","","",15.006211,40.423512
 "1000305","Temple of Peace","","temple","","Paestum","IT","","","","","","","","","concept","","","Vici.org","","","25325","","","","","","","","","","","","","",15.005541,40.421938
 "1000306","Agora sanctuary","","temple","","Morgantina","IT","","","","","","","","","","","","Vici.org","","","25516","","","","","","","","","","","","","",14.479367,37.430794
-"1000307","Temple of Demeter and Kore","","temple","","Morgantina","IT","","","","","","","","","","","","Vici.org","","Morgantia, Murgantia and Morgantium - temple","25518","","","","","","","","","","","","","",14.479649,37.43034
+"1000307","Temple of Demeter and Kore","","temple","","Morgantina","IT","","","","","","","","","god","","","Vici.org","","Morgantia, Murgantia and Morgantium - temple","25518","","","","","","","","","","","","","",14.479649,37.43034
 "1000308","Citadel","","temple","","Morgantina","IT","","","","","","","","","","","","Vici.org","","Ruins of a temple","25626","","","","","","","","","","","","","",14.48876,37.437569
 "1000309","Rock of Ceres","","temple","","Enna","IT","","","","","","","","","","","","Vici.org","","Rock shrine of Demeter - Ceres.Rocca di Cerere","25627","","","","","","","","","","","","","",14.289181,37.569225
 "1000310","Templi Ferali","","temple","","Acrae","IT","","","","","","","","","hero","","","Vici.org","","Heroon. Temple dedicated to the cult of the dead heroes","25686","","","","","","","","","","","","","",14.895352,37.05713
-"1000311","Kasmenai - Casmenae","","temple","","","IT","","","","","","","","","","","","Vici.org","","Temple pre Kasmenai","25689","","","","","","","","","","","","","",14.82563,37.076412
+"1000311","Temple","","temple","","Kasmenai - Casmenae","IT","","","","","","","","","","Greek","","Vici.org","","Temple pre Kasmenai","25689","","","","","","","","","","","","371148SKas","",14.82563,37.076412
 "1000312","Kasmenai - Casmenae","","temple","","","IT","","","","","","","","","","","","Vici.org","","Temple","25690","","","","","","","","","","","","","",14.826977,37.076519
-"1000313","Temple of Hercules Antica","","temple","","Ostia","IT","","","","","","","","","hero","","","Vici.org","","","27354","","","","","","","","","","","","","",12.286155,41.753826
-"1000314","Serapeum","","temple","","Ostia","IT","","","","","","","","","hero","","","Vici.org","","","27355","","","","","","","","","","","","","",12.283876,41.753315
-"1000315","Temple of Ceres","","temple","","Ostia","IT","","","","","","","","","god","","","Vici.org","","","27359","","","","","","","","","","","","","",12.291035,41.756348
+"1000313","Temple of Hercules Antica","","temple","","Ostia","IT","","","","","","","M","","hero","","","Vici.org","","","27354","","","","","","","","","","","","","http://www.ostia-antica.org/regio1/15/15-5.htm",12.286155,41.753826
+"1000314","Serapeum","","temple","","Ostia","IT","","","","","","","M","","hero","","","Vici.org","","","27355","","","","","","","","","","","","","http://www.ostia-antica.org/regio3/17/17-4.htm",12.283876,41.753315
+"1000315","Temple of Ceres","","temple","","Ostia","IT","","","","","","","F","","god","","","Vici.org","","","27359","","","","","","","","","","","","","http://www.ostia-antica.org/regio2/7/7-5.htm",12.291035,41.756348
 "1000316","Four Small Temples","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","Quatro Tempietti","27361","","","","","","","","","","","","","http://www.ostia-antica.org/regio2/8/8-2.htm",12.290623,41.755665
 "1000317","Shrine of the Altar of the Twins","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363","","","","","","","","","","","","","http://www.ostia-antica.org/regio2/7/7-3.htm",12.29099,41.756107
-"1000318","Jupiter Temple","","temple","","Ostia","IT","","","","","","","","","god","","","Vici.org","","The Shrine of Jupiter - Sacello di Giove","27364","","","","","","","","","","","","","http://www.ostia-antica.org/regio2/8/8-4.htm",12.290882,41.755539
-"1000319","Templum Mensores","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","Probably temple was dedicated to Ceres","27380","","","","","","","","","","","","","",12.285011,41.753784
-"1000320","Sanctuary of the Bona Dea","","temple","","Ostia","IT","","","","","","","","","god","","","Vici.org","","","27393","","","","","","","","","","","","","http://www.ostia-antica.org/regio4/8/8-3.htm",12.285399,41.750599
-"1000321","Templum Fabrum Navalium","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","27409","","","","","","","","","","","","","http://www.ostia-antica.org/regio3/2/2-1.htm",12.286075,41.752777
-"1000322","Temple of Isis","","temple","Isola Sacra","Portus","IT","","","","","","","","","","","","Vici.org","","Isola Sacra","27423","","","","","","","","","","","","","http://www.ostia-antica.org/portus/s009.htm",12.255305,41.772774
+"1000318","Shrine to Jupiter","","temple","","Ostia","IT","","","","","","","M","","god","","","Vici.org","","","27364","","","","","","","","","","","","","http://www.ostia-antica.org/regio2/8/8-4.htm",12.290882,41.755539
+"1000319","Temple of the Mensores","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","Probably temple was dedicated to Ceres","27380","","","","","","","","","","","","","http://www.ostia-antica.org/regio1/19/19-2.htm",12.285011,41.753784
+"1000320","Sanctuary of the Bona Dea","","temple","","Ostia","IT","","","","","","","F","","god","","","Vici.org","","","27393","","","","","","","","","","","","","http://www.ostia-antica.org/regio4/8/8-3.htm",12.285399,41.750599
+"1000321","Temple of the Fabri Navales","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","27409","","","","","","","","","","","","","http://www.ostia-antica.org/regio3/2/2-1.htm",12.286075,41.752777
+"1000322","Temple of Isis","","temple","Isola Sacra","Portus","IT","","","","","","","","","god","","","Vici.org","","Isola Sacra","27423","","","","","","","","","","","","","http://www.ostia-antica.org/portus/s009.htm",12.255305,41.772774
 "1000323","Temple of Portumnus","","temple","","Portus","IT","","","","","","","","","god","","","Vici.org","","","27428","","","","","","","","","","","","","http://www.ostia-antica.org/portus/t021.htm",12.27154,41.780937
-"1000324","Templum Rotundum","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","27444","","","","","","","","","","","","","http://www.ostia-antica.org/regio1/11/11-1.htm",12.28787,41.753544
+"1000324","Round Temple","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","27444","","","","","","","","","","","","","http://www.ostia-antica.org/regio1/11/11-1.htm",12.28787,41.753544
 "1000325","Temple of the Round Altar","","temple","","Ostia","IT","","","","","","","","","","","","Vici.org","","","27449","","","","","","","","","","","","","http://www.ostia-antica.org/regio1/15/15-6.htm",12.286317,41.753693
 "1000326","Temple with portico","","temple","","Cumae","IT","16","N","Early 1st c. CE","","","1","","","","Roman","","","","","","","","","","","","","","","","","","",14.057575,40.847906
 "1000327","Masseria del Gigante","","temple","","Cumae","IT","280","W","Late 1st c. CE","","","1","","","","Roman","","","","","","","","","","","","","","","","","","",14.058799,40.847826
@@ -355,8 +355,8 @@
 "1000356","Roman Temple","","temple","","Orange","FR","","","","","","","","","","","","Vici.org","","","8511","","","","place/nemausus-nimes/nemausus-nimes-maison-carree","","","","","","","","","",4.807766,44.135654
 "1000357","Temple of Mercury, Lutetia","Mercury","temple","","Paris","FR","","","","","","","M","","god","","","Vici.org","","","9849","","","","place/glanum","","","","","","","","","",2.327117,48.843395
 "1000358","Temple 'le Palais'","","temple","","Alba-la-Romaine","FR","","","","","","","","","","","","Vici.org","","","10164","","","","","","","","","","","","","",4.600079,44.561203
-"1000359","Temple of Augustus and Livia","","temple","","Vienne","FR","90","E","","","","","","","","","","Vici.org","","","10170","","202070","","place/arausio-orange","it=Tempio_di_Augusto_e_Livia","Q3517516","","","","","","","",4.874246,45.525478
-"1000360","Temple of the Cybele","","temple","","Vienne","FR","","","","","","","","","","","","Vici.org","","","10172","","","","","","","","","","","","","",4.875925,45.524319
+"1000359","Temple of Augustus and Livia","","temple","","Vienne","FR","90","E","","","","","","","emperor, family","","","Vici.org","","","10170","","202070","","place/arausio-orange","it=Tempio_di_Augusto_e_Livia","Q3517516","","","","","","","",4.874246,45.525478
+"1000360","Temple of the Cybele","","temple","","Vienne","FR","","","","","","","","","god","","","Vici.org","","","10172","","","","","","","","","","","","","",4.875925,45.524319
 "1000361","Temple of Diana","Diana","temple","","Roppeviller","FR","","","","","","","F","","god","","","Vici.org","","","10354","","","","","","","","","","","","","",7.52761,49.103539
 "1000362","Temple of Diana","Diana","temple","","Nîmes","FR","","","","","","","F","","god","","","Vici.org","","","10622","","393010","","","","","","","","","","","",4.348574,43.839947
 "1000363","Gisacum","","temple","","Le Vieil-Évreux","FR","","","","","","","","","","","","Vici.org","","","10640","109007","","","","","Q2243148","","","","","","","",1.235978,49.003063
@@ -367,7 +367,7 @@
 "1000368","Temple Isarnodurum","","temple","","Izernore","FR","","","","","","","","","","","","Vici.org","","","10667","177545","20105","","","","","","","","","","","",5.558579,46.2234
 "1000369","Temple Novioregum","","temple","","Barzan","FR","","","","","","","","","","","","Vici.org","","","10672","","","","","","","","","","","","","",-0.879376,45.535629
 "1000370","Roman temple","","temple","Vineyard Château-Bas","Vernègues","FR","327","NW","1st BCE","-1","","","","","","","","Vici.org","","","10684","148046","18074","","","","Q516783","","","","","","","http://www.chateaubas.com/en/pages/history/temple.html",5.197178,43.681892
-"1000371","Temple of Apollo","","temple","","Riez","FR","","","","","","","","","","","","Vici.org","","","10697","","","","","","Q1272940","","","","","","","",6.088223,43.817055
+"1000371","Temple of Apollo","","temple","","Riez","FR","","","","","","","M","","god","","","Vici.org","","","10697","","","","","","Q1272940","","","","","","","",6.088223,43.817055
 "1000372","Forum Temple Lugdunum Convenarum","","temple","","Saint-Bertrand-de-Comminges","FR","","","","","","","","","","","","Vici.org","","","10770","","","","","","","","","","","","","",0.573152,43.029804
 "1000373","Briga","","temple","","Eu","FR","","","","","","","","","","","","Vici.org","","","10923","108771","13746","","","","","","","","","","","",1.462042,50.021584
 "1000374","Temple complex Petromantalum","","temple","","Genainville","FR","","","","","","","","","","","","Vici.org","","","11313","109004","18747","","","","","","","","","","","",1.771297,49.120399
@@ -381,7 +381,7 @@
 "1000382","Temple forêt Halatte","","temple","","Ognon","FR","","","","","","","","","","","","Vici.org","","","14563","335533616","18751","","","","","","","","","","","",2.625384,49.242058
 "1000383","Temple","","temple","","Dax","FR","","","","","","","","","","Gallo-Roman","","Vici.org","","","14566","","206190","","","","Q3517676","","","","","","","",-1.052306,43.709648
 "1000384","Sanctuary","","temple","","Margerides","FR","","","","","","","","","","Gallo-Roman","","Vici.org","","","14568","138447","16974","","","","","","","","","","","",2.426149,45.450756
-"1000385","Temple de Mercure de la forêt de Tannière","","temple","","Archettes","FR","","","","","","","","","","","","Vici.org","","","14571","","20758","","","","","","","","","","","",6.57349,48.131313
+"1000385","Temple de Mercure de la forêt de Tannière","","temple","","Archettes","FR","","","","","","","","","god","","","Vici.org","","","14571","","20758","","","","","","","","","","","",6.57349,48.131313
 "1000386","Tour de Grisset","","temple","","Fréteval","FR","","","","","","","","","","","","Vici.org","","","14574","138623","18152","","","","","","","","","","","",1.183712,47.896442
 "1000387","Sanctuary Donon","","temple","","Grandfontaine","FR","","","","","","","","","","Gallo-Roman","","Vici.org","","","14577","","15774","","","","","","","","","","","",7.164421,48.512527
 "1000388","Temple - Cathédrale St Jean","","temple","","Alès","FR","","","","","","","","","","","","Vici.org","","","14586","","","","","","","","","","","","","",4.0761,44.123901
@@ -406,15 +406,15 @@
 "1000407","Châtelet","","temple","","Saint-Désirat","FR","","","","","","","","","","","","Vici.org","","","16715","","39298","","","","","","","","","","","",4.79432,45.249901
 "1000408","Temple, Brion","","temple","","Saint-Seurin-de-Cadourne","FR","","","","","","","","","","","","Vici.org","","","16717","","20175","","","","","","","","","","","",-0.838219,45.282433
 "1000409","Sanctuary Rajat","","temple","","Murol","FR","","","","","","","","","","","","Vici.org","","","16745","","20137","","","","","","","","","","","",2.948923,45.591797
-"1000410","Temple of Diana","","temple","","Aix-les-Bains","FR","","","","","","","","","","","","Vici.org","","","16758","","","","","","","","","","","","","",5.914636,45.688812
-"1000411","Temple de Cybèle","","temple","","Lyon","FR","","","","","","","","","","","","Vici.org","","","16770","","39462","","","","","","","","","","","",4.818432,45.759602
+"1000410","Temple of Diana","","temple","","Aix-les-Bains","FR","","","","","","","","","god","","","Vici.org","","","16758","","","","","","","","","","","","","",5.914636,45.688812
+"1000411","Temple de Cybèle","","temple","","Lyon","FR","","","","","","","","","god","","","Vici.org","","","16770","","39462","","","","","","","","","","","",4.818432,45.759602
 "1000412","Temple des Côtes de Clermont","","temple","","Blanzat","FR","","","","","","","","","","","","Vici.org","","","16776","","","","","","","","","","","","","",3.078307,45.806736
-"1000413","Temple de Mercure, Puy de Dôme","","temple","","Orcines","FR","","","","","","","","","","","","Vici.org","","","16779","138464","17715","","","","","","","","","","","",2.964456,45.771854
+"1000413","Temple de Mercure, Puy de Dôme","","temple","","Orcines","FR","","","","","","","","","god","","","Vici.org","","","16779","138464","17715","","","","","","","","","","","",2.964456,45.771854
 "1000414","Temple Cassinomagus","","temple","","Chassenon","FR","","","","","","","","","","","","Vici.org","","","16795","","39339","","","","","","","","","","","",0.767463,45.849098
 "1000415","Puy Lautard","","temple","","Saint-Pardoux-Morterolles","FR","","","","","","","","","","","","Vici.org","","","16805","138527","18100","","","","","","","","","","","",1.869932,45.929768
 "1000416","Puy-de-Joue","","temple","","Saint-Goussaud","FR","","","","","","","","","","","","Vici.org","","","16808","138556","37144","","","","","","","","","","","",1.569519,46.033264
 "1000417","Chez Rigros, Saint-Pardoux","","temple","","Saint-Pardoux","FR","","","","","","","","","","","","Vici.org","","","16814","","39297","","","","","","","","","","","",1.3012,46.07193
-"1000418","Sanctuary of Mars Mullo","","temple","","Allonnes","FR","","","","","","","","","","Gallo-Roman","","Vici.org","","","16820","","20731","","","","","","","","","","","",0.166472,47.968758
+"1000418","Sanctuary of Mars Mullo","","temple","","Allonnes","FR","","","","","","","","","god","Gallo-Roman","","Vici.org","","","16820","","20731","","","","","","","","","","","",0.166472,47.968758
 "1000419","Masamas","","temple","","Saint-Léomer","FR","","","","","","","","","","","","Vici.org","","","16834","138451","17638","","","","","","","","","","","",0.972868,46.399273
 "1000420","Lac-d'Antre","","temple","","Villards-d'Héria","FR","","","","","","","","","","","","Vici.org","","","16835","","39331","","","","","","","","","","","",5.752648,46.415447
 "1000421","Sanctuary Tours Mirandes","","temple","","Vendeuvre-du-Poitou","FR","","","","","","","","","","","","Vici.org","","","16850","","","","","","","","","","","","","",0.293851,46.740105
@@ -494,15 +494,15 @@
 "1000495","Matronentempel","","temple","","Nettersheim","DE","","","","","","","","","","","","","","Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905","","","","","","","","","","","","","",6.618147,50.482342
 "1000496","Temple Görresburg","","temple","","Nettersheim","DE","","","","","","","","","","Gallo-Roman","","","","Gallorömischer Umgangstempel Görresburg","4906","","","","","","","","","","","","","",6.618158,50.482292
 "1000497","Weihetempel","","temple","","Ernzen","DE","","","","","","","","","","","","","","","4907","","","","","","","","","","","","","",6.42365,49.84346
-"1000498","Judenkirchhof - Römischer Tempelbezirk - Pelm","","temple","","Gerolstein","DE","","","","","","","","","","","","","","Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de","5696","","","","","","","","","","","","","",6.674787,50.230743
+"1000498","Judenkirchhof - Roman temple district - Pelm","","temple","","Gerolstein","DE","","","","","","","","","","","","","","Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de","5696","","","","","","","","","","","","","",6.674787,50.230743
 "1000499","Pilgerheiligtum - Sirona-Tempel - Forsthaus Hoch","","temple","","Hochscheid","DE","","","","","","","","","","","","","","Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de","5697","","","","","","","","","","","","","",7.232887,49.86454
-"1000500","Römische Tempelanlage Auf Borstadt - Schleidweiler","","temple","","Zemmer","DE","","","","","","","","","","","","","","Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de","5699","","","","","","","","","","","","","",6.658008,49.885769
-"1000501","Römische Tempelanlage - Gusenburg","","temple","","Hermeskeil","DE","","","","","","","","","","","","","","Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de","5700","","","","","","","","","","","","","",6.925347,49.642498
-"1000502","Römische Tempelanlage","","temple","","Schalkenmehren","DE","","","","","","","","","","","","","","Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de","5701","","","","","","","","","","","","","",6.843915,50.151859
-"1000503","Römischer Tempel - Niersbach","","temple","","","DE","","","","","","","","","","","","","","Römischer Tempel - Niersbach -point imported from roscheiderhof.de","5702","","","","","","","","","","","","","",6.755594,49.942722
-"1000504","Römischer Tempelbezirk auf dem Metzenberg - Tawern","","temple","","Nittel","DE","","","","","","","","","","","","","","Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de","5703","","","","","de=Römischer_Tempelbezirk_Tawern","Q1460725","","","","","","","",6.509661,49.664539
-"1000505","Römischer Tempelbezirk","","temple","","Nattenheim","DE","","","","","","","","","","","","","","Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de","5704","","","","","","","","","","","","","",6.518407,50.020042
-"1000506","Römischer Tempelbezirk - Otrang","","temple","","Fließem","DE","","","","","","","","","","","","","","Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de","5705","","","","","","","","","","","","","",6.546174,50.013863
+"1000500","Roman temple building Auf Borstadt - Schleidweiler","","temple","","Zemmer","DE","","","","","","","","","","","","","","Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de","5699","","","","","","","","","","","","","",6.658008,49.885769
+"1000501","Roman temple building - Gusenburg","","temple","","Hermeskeil","DE","","","","","","","","","","","","","","Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de","5700","","","","","","","","","","","","","",6.925347,49.642498
+"1000502","Roman temple building","","temple","","Schalkenmehren","DE","","","","","","","","","","","","","","Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de","5701","","","","","","","","","","","","","",6.843915,50.151859
+"1000503","Roman Temple - Niersbach","","temple","","","DE","","","","","","","","","","","","","","Römischer Tempel - Niersbach -point imported from roscheiderhof.de","5702","","","","","","","","","","","","","",6.755594,49.942722
+"1000504","Roman temple building auf dem Metzenberg - Tawern","","temple","","Nittel","DE","","","","","","","","","","","","","","Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de","5703","","","","","de=Römischer_Tempelbezirk_Tawern","Q1460725","","","","","","","",6.509661,49.664539
+"1000505","Roman temple district","","temple","","Nattenheim","DE","","","","","","","","","","","","","","Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de","5704","","","","","","","","","","","","","",6.518407,50.020042
+"1000506","Roman temple district - Otrang","","temple","","Fließem","DE","","","","","","","","","","","","","","Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de","5705","","","","","","","","","","","","","",6.546174,50.013863
 "1000507","Tempel am Herrenbrünnchen - Neu-Heiligkreuz","","temple","","Trier","DE","","","","","","","","","","","","","","Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de","5707","","","","","","","","","","","","","",6.646463,49.745407
 "1000508","Tempel auf dem Gelände des Mutterhauses - Altstadt","","temple","","Trier","DE","","","","","","","","","","","","","","Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de","5708","","","","","","Q723125","","","","","","","",6.630699,49.754078
 "1000509","Tempel mit Säulenvorbau - Alt-Heiligkreuz","","temple","","Trier","DE","","","","","","","","","","","","","","Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de","5709","","","","","","","","","","","","","",6.642509,49.746544
@@ -523,10 +523,10 @@
 "1000524","Überreste eines Tempels - Grindelborn","","temple","","Mürlenbach","DE","","","","","","","","","","","","","","Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de","5725","","","","","","","","","","","","","",6.631656,50.141296
 "1000525","Temple and burial precinct","","temple","","Newel","DE","","","","","","","","","","","","","","Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de","6087","","","","","","","","","","","","","",6.60087,49.810493
 "1000526","Temple area","","temple","","Homburg","DE","","","","","","","","","","Gallo-Roman","","","","","6324","","","","","","Q1492512","","","","","","","",7.2925,49.297417
-"1000527","Temple of Mercury","","temple","Koblenzer Stadtwald","Koblenz","DE","","","","","","","","","","","","","","Merkurtempel Koblenz","8140","","","","","","","","","","","","","",7.570019,50.293213
+"1000527","Temple of Mercury","","temple","Koblenzer Stadtwald","Koblenz","DE","","","","","","","","","god","","","","","Merkurtempel Koblenz","8140","","","","","","","","","","","","","",7.570019,50.293213
 "1000528","Temple area","Mars-Lenus","temple","","Pommern","DE","","","","","","","","","","","","","","Tempelbezirk Mars/Lenus","8141","","","","","","Q1234219","","","","","","","",7.286287,50.17915
 "1000529","Sanctuary - Temple","","temple","","Taunusstein","DE","","","","","","","","","","","","","","","8144","","","","","","","","","","","","","",8.204134,50.191593
-"1000530","Apollo-Grannus-Tempel (Faimingen)","","temple","","Lauingen","DE","","","","","","","","","","","","","","Apollo-Grannus-Tempel","8179","","","","","","Q618934","","","","","","","",10.409117,48.561783
+"1000530","Apollo-Grannus-Tempel (Faimingen)","","temple","","Lauingen","DE","","","","","","","M","","","","","","","Apollo-Grannus-Tempel","8179","","","","","","Q618934","","","","","","","",10.409117,48.561783
 "1000531","Bergheiligtum auf dem Calmont","","temple","","Bremm","DE","","","","","","","","","","","","","","","8182","","40734","","","","","","","","","","","",7.12365,50.109138
 "1000532","Spring Sanctuary (Sudelfels)","","temple","","Wallerfangen","DE","","","","","","","","","","","","","","","8203","","","","","","Q1533630","","","","","","","",6.606687,49.336136
 "1000533","Temple area","","temple","Pesch","Bad Münstereifel","DE","","","","","","","","","","","","","","Heidentempel","8205","","","","","","Q1408110","","","","","","","",6.703,50.533657
@@ -535,8 +535,8 @@
 "1000536","Temple","","temple","","Rheinfelden (Baden)","DE","","","","","","","","","","","","","","Tempel (Rheinfelden (Baden))","8249","","","","","","","","","","","","","",7.761292,47.57542
 "1000537","Cult area","","temple","","Sontheim an der Brenz","DE","","","","","","","","","","","","","","","8264","","","","","","","","","","","","","",10.290641,48.548004
 "1000538","Mithraeum","Mithras","mithraeum","","Königsbrunn","DE","","","","","","","","","","","","","","Mithras Heiligtum","8282","","","","","","","","","","","","","",10.87458,48.274055
-"1000539","Römisches Haus","","temple","","Stuttgart","DE","","","","","","","","","","","","","","Römisches Haus (Stuttgart)","8419","","","","","","Q1722809","","","","","","","",9.101792,48.762733
-"1000540","Temple of Diana","","temple","","Meßkirch","DE","","","","","","","","","","","","","","Dianatempel (Meßkirch)","8420","","","","","","","","","","","","","",9.053611,47.986389
+"1000539","Römisches Haus","","temple","","Stuttgart","DE","","","","","","","","","","Germanic","","","","Römisches Haus (Stuttgart)","8419","","","","","","Q1722809","","","","","","","",9.101792,48.762733
+"1000540","Temple of Diana","","temple","","Meßkirch","DE","","","","","","","","","god","","","","","Dianatempel (Meßkirch)","8420","","","","","","","","","","","","","",9.053611,47.986389
 "1000541","Lapidarium","","temple","","Steinheim an der Murr","DE","","","","","","","","","","","","","","Lapidarium (Steinheim / Murr)","8426","","","","","","","","","","","","","",9.286698,48.970776
 "1000542","Spring Sanctuary","","temple","","Holsthum","DE","","","","","","","","","","Roman","","","","Römisches Quellheiligtum (Holsthum)","8448","","","","","","","","","","","","","",6.442838,49.890659
 "1000543","Bergheiligtum auf dem Beinter Kopf","","temple","","Zell (Mosel)","DE","","","","","","","","","","","","","","","9636","","","","","","","","","","","","","",7.178739,50.012611
@@ -597,7 +597,7 @@
 "1000598","Temple","","temple","","Neumagen-Dhron","DE","","","","","","","","","","","","","","Tempel (Neumagen-Dhron)","20350","","","","","","","","","","","","","",6.899114,49.841267
 "1000599","Temple","","temple","","Piesport","DE","","","","","","","","","","","","","","Tempel (Piesport)","20351","","","","","","","","","","","","","",6.923764,49.863735
 "1000600","Sironatempel","","temple","","Stipshausen","DE","","","","","","","","","","","","","","Sironatempel (Stipshausen)","20363","","","","","","","","","","","","","",7.291307,49.850479
-"1000601","Temple of Mercury","","temple","Lemberg","Feilbingert","DE","","","","","","","","","","","","","","","20366","","","","","","","","","","","","","",7.768484,49.785912
+"1000601","Temple of Mercury","","temple","Lemberg","Feilbingert","DE","","","","","","","","","god","","","","","","20366","","","","","","","","","","","","","",7.768484,49.785912
 "1000602","Mithraeum","Mithras","mithraeum","","Rockenhausen","DE","","","","","","","","","","","","","","Mithrasheiligtum (Rockenhausen)","20367","","","","","","","","","","","","","",7.806087,49.628971
 "1000603","Temple","","temple","","Bonn","DE","","","","","","","","","","Gallo-Roman","","","","","20381","","","","","","","","","","","","","",7.085428,50.726795
 "1000604","Mithraeum","Mithras","mithraeum","","Wiesbaden","DE","","","","","","","","","","","","","","Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03)","20705","","","","","","","","","","","","","",8.238866,50.084049
@@ -605,7 +605,7 @@
 "1000606","Forum Augusta Vindelicum","","temple","","Augsburg","DE","","","","","","","","","","","","","","Forum","22882","","","","","","","","","","","","","",10.900263,48.37579
 "1000607","Temple","","temple","","Elsdorf","DE","","","","","","","","","","Gallo-Roman","","","","8x10 meter groot tempelgebouw","23034","","","","","","","","","","","","","",6.581988,50.935829
 "1000608","Heidentempel Kreuzweingarten","","temple","","Euskirchen","DE","","","","","","","","","","","","","","","23244","","","","","","","","","","","","","",6.79086,50.613701
-"1000609","Tempelsäulen","","temple","","Mainz","DE","","","","","","","","","","","","","","Heiligtum der Isis und Mater Magna – Mogontiacum – Mainz","23672","","","","pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/","","","","","","","","","",8.268003,50.001255
+"1000609","Sanctuary of Isis and Magna Mater","Isis, Magna Mater","temple","","Mainz","DE","","","","-1","","","F","","god","Roman","Yes","","","","23672","","","","pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/","","","","","","","","","",8.268003,50.001255
 "1000610","Tempelreste","","temple","","Bonn","DE","","","","","","","","","","","","","","Matronentempel – Bonna – Bonn","23674","","","","","","","","","","","","","",7.100145,50.733246
 "1000611","Temple Ulpia Noviomagus","","temple","","Kreis","DE","","","","","","","","","","","","","","Tempel – Gelduba – Gellep","24560","","","","","","","","","","","","","",6.611528,51.367474
 "1000612","Temple Ziegetsberg","","temple","","Regensburg","DE","","","","","","","","","","","","","","Merkurtempel","26487","","","","","","","","","","","","","",12.069141,48.99202
@@ -619,3 +619,7 @@
 "1000620","Temple of Jupiter","Jupiter","temple","","Jerash","JO","","","","","","","M","","god","Roman","yes","wikipedia","","","11888","","","","","","","","","","","","","",35.889929,32.276571
 "1000621","Capitolium","Jupiter, Juno, Minerva","temple","","Dougga","TU","","","2nd c. AD","","","2","M/F","","god","Roman","yes","wikipedia","","","7877","","","","","","Q11680511","","","","","","","",9.218169,36.422891
 "1000622","Temple of Juno Caelestis","Juno","temple","","Dougga","TU","","","","","","","F","","god","Roman","yes","vici","","","11586","","","","","es=Templo_de_Juno_Caelestis","Q5397577","","","","","","","",9.215682,36.422903
+"1000623","Temple of Ares","Ares","temple","Agora","Athens","GR","","","","","","","","","god","","","topostext","","","","","46858","","","Temple_of_Ares","Q2405583","","","","","","380237SAre","",23.722745,37.975546
+"1000624","Temple of Jupiter","Jupiter","temple","","Ocriticum","IT","","","","","","","","","god","","","topostext","","","","432886","22897","","","","","","","","","","420140SIov","",13.990224,42.002993
+"1000625","Temple of Zeus","Jupiter","temple","","Olympia","GR","","","","","","","M","","god","Greek","yes","topostext","","","","316294900","46666","","","Temple_of_Zeus,_Olympia","Q197019","","","","","","376216SOZe","",21.63042,37.63794
+"1000626","Temple of Olympian Zeus","Jupiter","temple","","Athens","GR","90","E","","","","","M","","god","Greek","yes","wikipedia","","","","","","","","Temple_of_Olympian_Zeus,_Athens","Q1123019","","","","","","380237SOly","",23.733084,37.969429
