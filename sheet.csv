@@ -115,7 +115,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000115",Temple of Sybil,Sybil,temple,,Tivoli,IT,41.966809,12.800843,,,-150-125,"-150","-125","-2",,,,F,,god,Roman,,,Stamper,,Vici.org,,,,,,,,,,,,,,,
 "1000116",Temple of Tellus,Tellus,temple,Esquiline Hill,Rome,IT,,,,,"-268","-268",,"-3",,,,F,,nature,Roman,,,,senate,,,,,,,Temple_of_Tellus,Q16612739,,,,,,419125STel,,
 "1000117",Temple of the Tempestates,Tempestates,temple,Porta Capena,Rome,IT,,,,,,,,,,,,F,December 23,nature,Roman,,,,,,,,,,,,,,,,,,,,
-"1000118",Temple at S. Salvatore in Campo,,temple,Campus Martius,Rome,IT,41.893685,12.474003,"121",SE,,,,,,,,M,,nature,Roman,,,,,,,,,"3467479",,,,,,,,,,,
+"1000118",Temple at S. Salvatore in Campo,,temple,Campus Martius,Rome,IT,41.893685,12.474003,"121",SE,,,,,,,,M,,,Roman,,,,,,,,,"3467479",,,,,,,,,,,
 "1000119",Temple of Tiberinus,Tiberinus,temple,Tiber Island,Rome,IT,,,,,-292-219,"-292","-219","-3",,,,M,,nature,Roman,,,,,,,,,,,,,,,,,,,,
 "1000120",Tomb of Cecilia Metella,,tomb,Via Appia,Rome,IT,41.852196,12.520981,,,,,,,,,,F,,,Roman,,,,,"Pleiades; vici.org",,"423064",,,,,,,,,,,,,
 "1000121",Temple of Veiovis,Veiovis,temple,Inter duos lucos,Rome,IT,41.892776,12.483611,"220",SW,,,,,,,,M,March 7,god,Roman,,,,,Pleiades,"17964",,,"1319962",,,Q764141,,,,,,,,
