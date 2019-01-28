@@ -4130,7 +4130,7 @@ var temples =  {
         "succeeded": "",
         "sex": "M",
         "dedicationday": "",
-        "deitytype": "nature",
+        "deitytype": "",
         "culture": "Roman",
         "style": "",
         "extant": "",
