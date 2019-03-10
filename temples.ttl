@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2018-12-14"  ; 
+    dcterms:modified "2019-03-10"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6011,4 +6011,38 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1123019> ;
 skos:exactMatch <https://topostext.org/place/380237SOly> ;
+.
+<http://romeresearchgroup.org/items/1000627> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.48225"^^xsd:double ; geo:long "22.5011"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/464482219> ;
+skos:exactMatch <http://dare.ht.lu.se/places/46667> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q10751359> ;
+skos:exactMatch <https://topostext.org/place/385225SApo> ;
+.
+<http://romeresearchgroup.org/items/1000628> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.110127"^^xsd:double ; geo:long "25.372447"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://topostext.org/place/371253SApo> ;
+.
+<http://romeresearchgroup.org/items/1000629> a lawd:Place ;
+rdfs:label "Temple of Sangri" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.029422"^^xsd:double ; geo:long "25.431293"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/599631> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Sangri"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q16294969> ;
+skos:exactMatch <https://topostext.org/place/370254SGyr> ;
 .
