@@ -626,4 +626,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,GR,37.969429,23.733084,"90",E,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
 "1000627",Temple of Apollo,Apollo,temple,,Delphi,GR,38.48225,22.5011,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,Yes
 "1000628",Temple of Apollo,Apollo,temple,Naxos,,GR,37.110127,25.372447,,,,,,,,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,
-"1000629",Temple of Sangri,,temple,Naxos,,GR,37.029422,25.431293,,,,,,,,,,,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,
+"1000629",Temple of Sangri,Demeter,temple,Naxos,,GR,37.029422,25.431293,,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,
