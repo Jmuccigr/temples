@@ -628,3 +628,6 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000628",Temple of Apollo,Apollo,temple,Naxos,,GR,37.110127,25.372447,"321",NW,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,Yes
 "1000629",Temple of Sangri,Demeter,temple,Naxos,,GR,37.029422,25.431293,"213",SW,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,Yes
 "1000630",Sanctuary of Yria,Dionysus,temple,Naxos,,GR,37.077689,25.380777,"201",S,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,Yes
+"1000631",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054479,22.218555,"143",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000632",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054295,22.218318,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000633",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054107,22.218239,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
