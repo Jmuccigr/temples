@@ -631,3 +631,6 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000631",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054479,22.218555,"143",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
 "1000632",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054295,22.218318,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
 "1000633",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054107,22.218239,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000634",Western Temple of Kal'at Kalôtá,,temple,,,SY,36.352766,36.936222,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000635",Eastern Temple of Kal'at Kalôtá,,temple,,,SY,36.352679,36.93605,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000636",Temple of Zeus,Zeus Bomos,temple,,,SY,,,,,,161 CE,,"2",,,,M,,god,Roman,,,Segal2014,,,,,,,,,,,,,,,,,
