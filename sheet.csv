@@ -633,7 +633,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000633",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054107,22.218239,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
 "1000634",Western Temple of Kal'at Kalôtá,,temple,,,SY,36.352766,36.936222,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000635",Eastern Temple of Kal'at Kalôtá,,temple,,,SY,36.352679,36.93605,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000636",Temple of Zeus,Zeus Bomos,temple,Burj Bakira,,SY,,,,,,161 CE,,"2",,,,M,,god,Roman,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000636",Temple of Zeus,Zeus Bomos,temple,Burj Bakira,,SY,,,,,,"161",,"2",,,,M,,god,Roman,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000637",Temple of Zeus,,temple,Srîr,,SY,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000638",Temple,,temple,Ma'aishurin,,SY,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000639",Temple,,temple,Isriyeh,,SY,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -643,4 +643,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000643",Temple of Allat,Allat,temple,,Palmyra,SY,34.555001,38.261628,"121",SE,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000644",Temple of Nebu,,temple,,Palmyra,SY,34.549753,38.270442,"198",S,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000645",Temple of Baal Shamin,,temple,,Palmyra,SY,34.553315,38.269899,"132",SE,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000646",Temple of Bel,,temple,,Palmyra,SY,34.547391,38.274073,"177",S,,1st c CE,,"1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000646",Temple of Bel,,temple,,Palmyra,SY,34.547391,38.274073,"177",S,1st c CE,,,"1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
