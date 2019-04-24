@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-03-10"  ; 
+    dcterms:modified "2019-04-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6029,6 +6029,7 @@ skos:exactMatch <https://topostext.org/place/385225SApo> ;
 rdfs:label "Temple of Apollo" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.110127"^^xsd:double ; geo:long "25.372447"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -6038,6 +6039,7 @@ skos:exactMatch <https://topostext.org/place/371253SApo> ;
 rdfs:label "Temple of Sangri" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.029422"^^xsd:double ; geo:long "25.431293"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -6045,4 +6047,152 @@ skos:exactMatch <http://pleiades.stoa.org/places/599631> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Sangri"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q16294969> ;
 skos:exactMatch <https://topostext.org/place/370254SGyr> ;
+.
+<http://romeresearchgroup.org/items/1000630> a lawd:Place ;
+rdfs:label "Sanctuary of Yria" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.077689"^^xsd:double ; geo:long "25.380777"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Dionysus,_Naxos"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q15884671> ;
+.
+<http://romeresearchgroup.org/items/1000631> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.054479"^^xsd:double ; geo:long "22.218555"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://topostext.org/place/401222SPyt> ;
+.
+<http://romeresearchgroup.org/items/1000632> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.054295"^^xsd:double ; geo:long "22.218318"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://topostext.org/place/401222SPyt> ;
+.
+<http://romeresearchgroup.org/items/1000633> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.054107"^^xsd:double ; geo:long "22.218239"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://topostext.org/place/401222SPyt> ;
+.
+<http://romeresearchgroup.org/items/1000634> a lawd:Place ;
+rdfs:label "Western Temple of Kal'at Kalôtá" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.352766"^^xsd:double ; geo:long "36.936222"^^xsd:double ] ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000635> a lawd:Place ;
+rdfs:label "Eastern Temple of Kal'at Kalôtá" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.352679"^^xsd:double ; geo:long "36.93605"^^xsd:double ] ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000636> a lawd:Place ;
+rdfs:label "Temple of Zeus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000637> a lawd:Place ;
+rdfs:label "Temple of Zeus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000638> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000639> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000640> a lawd:Place ;
+rdfs:label "Temple of Zeus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.93036"^^xsd:double ; geo:long "36.24533"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000641> a lawd:Place ;
+rdfs:label "Small Temple" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.931592"^^xsd:double ; geo:long "36.245227"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000642> a lawd:Place ;
+rdfs:label "Semicircular Temple" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.932012"^^xsd:double ; geo:long "36.244786"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000643> a lawd:Place ;
+rdfs:label "Temple of Allat" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.555001"^^xsd:double ; geo:long "38.261628"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000644> a lawd:Place ;
+rdfs:label "Temple of Nebu" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.549753"^^xsd:double ; geo:long "38.270442"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000645> a lawd:Place ;
+rdfs:label "Temple of Baal Shamin" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.553315"^^xsd:double ; geo:long "38.269899"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000646> a lawd:Place ;
+rdfs:label "Temple of Bel" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.547391"^^xsd:double ; geo:long "38.274073"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
