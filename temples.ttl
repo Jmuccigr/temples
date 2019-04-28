@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-04-18"  ; 
+    dcterms:modified "2019-04-27"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6193,6 +6193,474 @@ dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "34.547391"^^xsd:double ; geo:long "38.274073"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000647> a lawd:Place ;
+rdfs:label "Temple A" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000648> a lawd:Place ;
+rdfs:label "Temple B" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000649> a lawd:Place ;
+rdfs:label "Temple C" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000650> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000651> a lawd:Place ;
+rdfs:label "Main Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000652> a lawd:Place ;
+rdfs:label "Temple of Atargatis" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000653> a lawd:Place ;
+rdfs:label "Temple of Jupiter Heliopolitanus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000654> a lawd:Place ;
+rdfs:label "Temple of Bacchus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000655> a lawd:Place ;
+rdfs:label "Temple of Venus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000656> a lawd:Place ;
+rdfs:label "Temple A" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000657> a lawd:Place ;
+rdfs:label "Temple B" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000658> a lawd:Place ;
+rdfs:label "Temple A" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000659> a lawd:Place ;
+rdfs:label "Temple D" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000660> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000661> a lawd:Place ;
+rdfs:label "Temple for the Imperial Cult" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000662> a lawd:Place ;
+rdfs:label "Temple of Jupiter Damascenus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000663> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000664> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000665> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000666> a lawd:Place ;
+rdfs:label "Temple of Tyche" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000667> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IL" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000668> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000669> a lawd:Place ;
+rdfs:label "Kalybe Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000670> a lawd:Place ;
+rdfs:label "Kalybe Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000671> a lawd:Place ;
+rdfs:label "Kalybe Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000672> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000673> a lawd:Place ;
+rdfs:label "Hexastyle Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000674> a lawd:Place ;
+rdfs:label "Temple of the Imperial Cult" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.853853"^^xsd:double ; geo:long "36.626389"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "SY" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000675> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000676> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000677> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000678> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000679> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000680> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000681> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000682> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000683> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000684> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000685> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000686> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000687> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000688> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000689> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000690> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000691> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000692> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000693> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000694> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000695> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000696> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000697> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000698> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000699> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000700> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000701> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000702> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000703> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000704> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000705> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000706> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000707> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000708> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000709> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000710> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000711> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000712> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000713> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000714> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000715> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000716> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000717> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000718> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000719> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
