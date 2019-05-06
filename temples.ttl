@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-04-27"  ; 
+    dcterms:modified "2019-05-05"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6395,272 +6395,313 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000675> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000676> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Zeus" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000677> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Rabbos/Helios" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000678> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple C (The Seraya Temple)" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000679> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Northern Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000680> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Southern Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000681> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "South Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000682> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Dushara" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000683> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Baal Shamin" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000684> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Zeus and Athena" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000685> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Peripteral Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000686> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "West Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000687> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "East Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000688> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000689> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple for the Imperial Cult" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.519595"^^xsd:double ; geo:long "36.482971"^^xsd:double ] ;
+gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000690> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple on the Tel" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "IL" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000691> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Central Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "IL" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000692> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000693> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000694> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Artemis" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.281952"^^xsd:double ; geo:long "35.890843"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000695> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Cathedral Sanctuary Temple" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.280587"^^xsd:double ; geo:long "35.891607"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000696> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple C" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000697> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Zeus" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.276563"^^xsd:double ; geo:long "35.889925"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000698> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Augustus" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "PS" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000699> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Kore" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "PS" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000700> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Zeus" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "PS" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000701> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of Hercules" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000702> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nymphaeum" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000703> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Second Temple" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "31.778163"^^xsd:double ; geo:long "35.235402"^^xsd:double ] ;
+gn:countryCode "IL" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Second_Temple"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q728428> ;
 .
 <http://romeresearchgroup.org/items/1000704> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000705> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000706> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Little Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000707> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Western Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000708> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Central Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000709> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Little Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000710> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000711> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000712> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000713> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple of the Winged Lions" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000714> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000715> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Great Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000716> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Small Temple" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000717> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Nabatean Temple" ;
 dcterms:temporal "-750/640" ;
-dcterms:subject "temple"  ;
-pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-.
-<http://romeresearchgroup.org/items/1000718> a lawd:Place ;
-rdfs:label "" ;
-dcterms:temporal "-750/640" ;
-dcterms:subject "temple"  ;
-pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-.
-<http://romeresearchgroup.org/items/1000719> a lawd:Place ;
-rdfs:label "" ;
-dcterms:temporal "-750/640" ;
+gn:countryCode "JO" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
