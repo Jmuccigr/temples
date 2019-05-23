@@ -628,16 +628,16 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000628",Temple of Apollo,Apollo,temple,Naxos,,GR,37.110127,25.372447,"321",NW,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,Yes
 "1000629",Temple of Sangri,Demeter,temple,Naxos,,GR,37.029422,25.431293,"213",SW,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,Yes
 "1000630",Sanctuary of Yria,Dionysus,temple,Naxos,,GR,37.077689,25.380777,"201",S,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,Yes
-"1000631",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054479,22.218555,"143",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
-"1000632",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054295,22.218318,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
-"1000633",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054107,22.218239,"129",SE,,,,,,,,,,,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000631",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054479,22.218555,"143",SE,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000632",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054295,22.218318,"129",SE,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
+"1000633",Temple of Apollo,Apollo,temple,Pythio,,GR,40.054107,22.218239,"129",SE,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,Yes
 "1000634",Western Temple of Kal'at Kalôtá,,temple,,,SY,36.352766,36.936222,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000635",Eastern Temple of Kal'at Kalôtá,,temple,,,SY,36.352679,36.93605,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000636",Temple of Zeus,Zeus Bomos,temple,Burj Bakira,,SY,,,,,,"161",,"2",,,,M,,god,Roman,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000637",Temple of Zeus,,temple,Srîr,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000638",Temple,,temple,Ma'aishurin,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000639",Temple,,temple,Isriyeh,,SY,35.366017,37.785852,"107",E,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000640",Temple of Zeus,Zeus,temple,Hosn Suleiman (Baitokaike/Baetocaece),,SY,34.93036,36.24533,"192",S,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000640",Temple of Zeus,Zeus,temple,Hosn Suleiman (Baitokaike/Baetocaece),,SY,34.93036,36.24533,"192",S,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000641",Small Temple,,temple,Hosn Suleiman (Baitokaike/Baetocaece),,SY,34.931592,36.245227,"167",S,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000642",Semicircular Temple,,temple,Hosn Suleiman (Baitokaike/Baetocaece),,SY,34.932012,36.244786,"167",S,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000643",Temple of Allat,Allat,temple,,Palmyra,SY,34.555001,38.261628,"121",SE,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -647,7 +647,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000647",Temple A,,temple,Hössn Sfiri,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000648",Temple B,,temple,Hössn Sfiri,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000649",Temple C,,temple,Hössn Sfiri,,LB,34.401158,36.059573,"1",N,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
-"1000650",Temple,,temple,Bziza,,LB,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000650",Temple,,temple,Bziza,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,yes,Segal2013,,,"11958",,"26182",,place/bziza,,,,,,,,,,
 "1000651",Main Temple,,temple,Kal'at Fakra,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000652",Temple of Atargatis,Atargatis,temple,Kal'at Fakra,,SY,,,,,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000654",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,SY,,,,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -684,7 +684,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000686",West Temple,,temple,Maiyamas,,SY,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000687",East Temple,,temple,Maiyamas,,SY,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000688",Temple,,temple,Hebran,,SY,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000689",Temple for the Imperial Cult,,temple,Bosra,Bosra,SY,32.519595,36.482971,,,2nd c. CE,,,"2",,,,,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000689",Temple for the Imperial Cult,,temple,Bosra,Bosra,SY,32.519595,36.482971,,,2nd c. CE,,,"2",,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,IL,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000691",Central Temple,,temple,Beit She'an,Scythopolis,IL,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,Il-Umta'iyeh,,JO,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
