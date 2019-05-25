@@ -50,7 +50,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000050",Capitolium,"Jupiter, Juno, Minerva",temple,,Jerusalem,IL,31.776306,35.235619,"349",N,"130","130",,"2",,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000051",Temple of Jupiter Damascenus,Jupiter,temple,,Damascus,SY,33.510833,36.300833,,,"14","14",,"1",,,,M,,god,Roman,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000052",Temple of Jupiter,Jupiter,temple,,Yarbrud,SY,33.966667,36.666667,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000053",Temple of Jupiter Heliopolitanus,Jupiter,temple,Baalbek,Heliopolis,LB,34.006839,36.203397,"76",E,"135","135",,"2",,,,M,,god,Roman,,yes,,,,"16415",,,,,Temple_of_Jupiter_(Roman_Heliopolis),Q21079381,,,,,,,,
+"1000053",Temple of Jupiter Heliopolitanus,Jupiter,temple,Baalbek,Heliopolis,LB,34.006839,36.203397,"76",E,"135","135",,"2",,,,M,,god,Roman,,yes,,,,"16415",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-jupiter/,Temple_of_Jupiter_(Roman_Heliopolis),Q21079381,,,,,,,,yes
 "1000054",Temple of Jupiter Anxur,Jupiter,temple,,Terracina,IT,41.290817,13.260113,"175",S,,,,,,,,M,,god,Roman,,,,,Coord from Google maps,,"433143",,,,,Q3983252,,,,,,413133SJAn,,
 "1000055",Temple of Jupiter Conservator,Jupiter,temple,Capitoline Hill,Rome,IT,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000056",Temple of Jupiter Custos,Jupiter,temple,Capitoline Hill,Rome,IT,41.891825,12.481892,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -614,8 +614,8 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,GR,38.3871,23.9089,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
 "1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,TR,39.201218,29.609631,,,,,,,,,,M,,god,Greek,,yes,,,,,,,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,HR,43.508341,16.439568,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,Yes
-"1000617",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,LB,34.006143,36.203873,"76",E,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,
-"1000618",Temple of Venus,Venus,temple,Baalbek,Heliopolis,LB,34.006021,36.20623,,,3rd c. AD,,,"3",,,,F,,god,Roman,,,,,,"16416",,,,,,,,,,,,,,
+"1000617",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,LB,34.006143,36.203873,"76",E,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
+"1000618",Temple of Venus,Venus,temple,Baalbek,Heliopolis,LB,34.006021,36.20623,"319",NW,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
 "1000619",Temple of Artemis,Artemis,temple,Jerash,Gerasa,JO,32.281952,35.890922,"116",SE,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
 "1000620",Temple of Jupiter,Jupiter,temple,Jerash,Gerasa,JO,32.276571,35.889929,"54",NE,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,TU,36.422891,9.218169,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
@@ -650,12 +650,10 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000650",Temple,,temple,Bziza,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,yes,Segal2013,,,"11958",,"26182",,place/bziza,,,,,,,,,,
 "1000651",Main Temple,,temple,Faqra,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
 "1000652",Temple of Atargatis,Atargatis,temple,Faqra,,LB,33.997414,35.807748,"69",E,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
-"1000654",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,LB,34.006154,36.203974,"76",E,,,,,,,,M,,god,Roman,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000655",Temple of Venus,Venus,temple,Baalbek,Heliopolis,LB,,,,,,,,,,,,F,,god,,,yes,Segal2013,,,"16416",,,,,,,,,,,,,,
-"1000656",Temple A,,temple,Niha,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000657",Temple B,,temple,Niha,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000658",Temple A,,temple,Hössn Niha,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000659",Temple D,,temple,Hössn Niha,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000656",Temple A,,temple,Niha,,LB,33.894704,35.962494,"73",E,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
+"1000657",Temple B,,temple,Niha,,LB,33.895345,35.963265,"339",N,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
+"1000658",Temple A,,temple,Hössn Niha,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
+"1000659",Temple D,,temple,Hössn Niha,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
 "1000660",Temple,,temple,Qasr Nimrud,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000661",Temple for the Imperial Cult,Philip the Arab,temple,Dmer,Admedera,SY,,,,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000663",Temple,,temple,Ain Hersha,,SY,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -713,3 +711,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000717",Nabatean Temple,Allat,temple,Er-Ram,Iram,JO,,,,,,,,,,,,F,,god,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000718",Temple of Sol Indiges,Sol,temple,,Lavinium,IT,41.647847,12.437675,"63",NE,,,,,,,,M,,nature,Roman,,,Jaia2012,,,,,,,,,,,,,,,,,
 "1000719",Temple of Zeus Labrandeus,Zeus,temple,,Zabranda,TR,37.419186,27.819413,"91",E,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,Yes
+,Temple of Venus Verticordia,Venus,temple,,Rome,IT,,,,,,"-113",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
