@@ -104,7 +104,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000104",Temple of Pax,Peace,temple,,Rome,IT,41.8926,12.4876,,,"75","75",,"1",,,,F,,concept,Roman,,,,,,,,,,,"Temple_of_Peace,_Rome",Q1456939,,,,,,419125SPax,,
 "1000105",Temple of the Penates,Penates,temple,Velian Hill,Rome,IT,,,,,-292-219,"-292","-219","-3",,,,M,,god,Roman,,,,,,,,,"10557",,,,,,,,,,,
 "1000106",Temple of Portunus,Portunus,temple,Forum Boarium,Rome,IT,41.889232,12.480883,"347",N,-292-260,"-292","-260","-3",,,,M,August 17,god,Roman,,,Stamper,,"Vici.org; DARE","11602","494660670","22924","5932",rome/rome-photos/rome-temple-of-portunus,Temple_of_Portunus,Q849241,,,,,,419125SFoV,,
-"1000107",Temple of Quirinus,Quirinus,temple,Quirinal Hill,Rome,IT,,,,,"-293","-293",,"-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000107",Temple of Quirinus,Quirinus,temple,Quirinal Hill,Rome,IT,,,,,"-293","-293",,"-3",,,,M,February 17,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000108",Temple of Robigo,Robigo,sanctuary,,Rome,IT,41.959271,12.447668,,,,,,,,,,F,,nature,Roman,,,,,DARE,,"423024","37158",,,,,,,,,,,,
 "1000109",Temple of Salus,Salus,temple,Quirinal Hill,Rome,IT,,,,,"-303","-303",,"-4",,,,F,,concept,Roman,,,,,,,,,,,,,,,,,,,,
 "1000110",Temple of Saturn,Saturn,temple,Forum,Rome,IT,41.892468,12.484181,"32",NE,"-498","-498",,"-5",,,,M,,god,Roman,,,,,Pleiades,"15012",,,"5644",,Temple_of_Saturn,Q746721,,saturntempel,,,,419125SSat,,
