@@ -98,7 +98,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000098",Nymphaeum of the Villa dei Quintili,Nymphs,temple,,Rome,IT,41.8279699,12.5480362,,,,,,,,,,,F,,god,Roman,,,,,DARE,,,"23839",,,,,,,,,,,,
 "1000099",Nymphaeum Septizodium,Nymphs,temple,Campus Martius,Rome,IT,41.885632,12.488719,,,,,,,,,,,F,,god,Roman,,,,,Vici.org,"17962",,,,,,Q1234446,,,,,,,,
 "1000100",Temple of the Nymphs,Nymphs,temple,,Rome,IT,41.895163,12.478714,,,,,,,,,,,F,August 23,god,Roman,,,,,,,,,"6079",,,,,,,,,,,
-"1000101",Temple of Ops Opifera,Ops Opifera,temple,Capitoline Hill,Rome,IT,41.895163,12.478714,,,,,,,,,,,F,August 23,concept,Roman,,,,,,,,,,,,,,,,,,,,
+"1000101",Temple of Ops Opifera,Ops Opifera,temple,Capitoline Hill,Rome,IT,41.895163,12.478714,,,"-250",,,,,,,,F,August 23,concept,Roman,,,,,,,,,,,,,,,,,,,,
 "1000102",Temple of Pales,Pales,temple,Palatine Hill,Rome,IT,,,,,"-267",-267-219,"-267","-219","-3",,,,F,July 7,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000103",Pantheon,Pantheon,temple,Campus Martius,Rome,IT,41.89856,12.47685,"354",N,,"126","126",,"2",,,,M/F,,god,Roman,,,,,Vici.org,"7853","128044615",,"5664",,"Pantheon,_Rome",Q99309,,,,,"700000158",419125SPan,,
 "1000104",Temple of Pax,Peace,temple,,Rome,IT,41.8926,12.4876,,,,"75","75",,"1",,,,F,,concept,Roman,,,,,,,,,,,"Temple_of_Peace,_Rome",Q1456939,,,,,,419125SPax,,
