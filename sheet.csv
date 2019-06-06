@@ -34,7 +34,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000034",Temple of Hercules Musarum,Hercules,temple,Circus Flaminius,Rome,IT,41.8931188,12.477733,"208",SW,,"-187","-187",,"-2",,,,M,June 30,hero,Roman,,,Arachne,,,,,,"3467458",,,,,,,,,,,
 "1000035",Temple of Hercules Victor,Hercules,temple,ad portam trigeminam,Rome,IT,41.8887057,12.4806393,"93",E,,"-142","-142",,"-2",,,,M,,hero,Roman,,yes,,,,"15006","825969667",,"10771",,Temple_of_Hercules_Victor,Q576929,,,,,,419125SHrc,,
 "1000036",Temple of Hercules Victor,Hercules,temple,,Tivoli,IT,,,,,,-89-82,"-89","-82","-1",,,,M,,hero,Roman,,,Stamper,,,,,,,,,,,,,,,,,
-"1000037",Temple of Hercules Invictus (Victor),Hercules,temple,ad circum maximum,Rome,IT,,,,,,,,,,,,,M,August 13,hero,Roman,,,,,,,,,,,,,,,,,,,,
+"1000037",Temple of Hercules Invictus (Victor),Hercules,temple,ad circum maximum,Rome,IT,,,,,-292-219,"-292","-219",,"-3",,,,M,August 13,hero,Roman,,,,,,,,,,,,,,,,,,,,
 "1000038",Temple of Honos and Virtus,"Honor, Virtue",temple,ad Portam Capenam,Rome,IT,,,,,"-222","-205","-205",,"-3",,,"1000154",F,July 17,concept,Roman,,,,senate,,,,,,,,,,,,,,,,
 "1000039",Temple at Il Torraccio,,temple,,Rome,IT,41.994283,12.492366,,,,,,,,,,,,,,Roman,,,,,DARE,,"3467477","37165",,,,,,,,,,,,
 "1000040",Temple of Isis at via Labicana,Isis,temple,,Rome,IT,41.890049,12.501237,,,,,,,,,,,F,,god,Roman,,,,,Pleiades,"19353",,,,,,Q16612725,,,,,,,,
