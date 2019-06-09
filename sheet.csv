@@ -654,7 +654,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000657",Temple B,,temple,Niha,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
 "1000658",Temple A,,temple,Hössn Niha,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
 "1000659",Temple D,,temple,Hössn Niha,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
-"1000660",Temple,,temple,Qasr Nimrud,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000660",Temple,,temple,Qasr Nimrud,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,"678349",,,,,,,,,,,,,
 "1000661",Temple for the Imperial Cult,Philip the Arab,temple,Dmer,Admedera,SY,,,,,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000663",Temple,,temple,Ain Hersha,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000664",Temple,,temple,Mismiyeh,Phaena,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,
@@ -719,3 +719,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000725",Temple of Hora Quirini,Hora Quirini,temple,Quirinal,Rome,IT,,,,,,-292-219,"-292",,"-3",,,,F,,god,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000727",Temple of Mens,Mens,temple,Capitoline,Rome,IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
+"1000728",Temple,,temple,Qasr el Banat,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,,,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
