@@ -656,7 +656,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000659",Temple D,,temple,Hössn Niha,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
 "1000660",Temple,,temple,Qasr Nimrud,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,"678349",,,,,,,,,,,,,
 "1000661",Temple for the Imperial Cult,Philip the Arab,temple,Dmer,Admedera/Thelsae,SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
-"1000663",Temple,,temple,Ain Hersha,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000663",Temple,,temple,Ain Hersha,,LB,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000664",Temple,,temple,Mismiyeh,Phaena,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,
 "1000665",Temple,,temple,Sahr,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
