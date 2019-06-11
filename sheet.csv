@@ -660,7 +660,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000664",Temple,,temple,Al-Masmiyah,Phaena,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
 "1000665",Temple,,temple,Sahr,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000667",Temple,Baal Shamin,temple,Kedesh,,IL,33.112992,35.533772,,,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000667",Temple,Baal Shamin,temple,Kedesh,,IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
 "1000668",Temple,,temple,Sur,Saura,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000669",Kalybe Temple,,temple,Il-Haiyat,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000670",Kalybe Temple,,temple,Umm Iz-Zetun,,SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
