@@ -682,7 +682,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000686",West Temple,,temple,Mayamas,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000687",East Temple,,temple,Mayamas,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000688",Temple,,temple,Hobran,,SY,,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000689",Temple for the Imperial Cult,,temple,Busra,Bosra,SY,32.519595,36.482971,,,,2nd c. CE,,,"2",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
+"1000689",Temple for the Imperial Cult,,temple,Busra,Bosra,SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
 "1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000691",Central Temple,,temple,Beit She'an,Scythopolis,IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,Il-Umta'iyeh,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -722,3 +722,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000728",Temple,,temple,Qasr el Banat,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,,,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
 "1000729",Temple of Apollo,Apollo,temple,Ferzol,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,Qasrnaba,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
+"1000731",Nymphaeum,Nymphs,temple,Busra,,SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
