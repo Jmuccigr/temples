@@ -1,5 +1,5 @@
 forbidden/
-leaflet
+leaflet*
 
 scripts/ggl2geojson.sh.orig
 maps/scripts/standalone
