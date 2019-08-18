@@ -239,7 +239,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000239",Temple complex,,temple,,Metapontum,IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,No
 "1000240",Temple of Venus Erycina,Venus,temple,,Segesta,IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,No
 "1000241",Temple of Diana,,temple,,Aricia,IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,No
-"1000242",Twin Temples,,temple,,Carsulae,IT,42.639618,12.557378,,,,,,,,,,,,,,,,,Vici.org,,,"11625",,,,,,,,,,,,,,No
+"1000242",Western forum temple,,temple,,Carsulae,IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,Yes
 "1000243",Acropolis,,temple,,Populonia,IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,No
 "1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,IT,41.838009,12.89152,,,,,,,,,,,,,concept,,,,Vici.org,,,"11650",,,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,,,,,,,,,No
 "1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,,,,,,,,,,,F,,god,,,,Vici.org,,,"11658",,,,,,,,,,,,,,No
@@ -723,3 +723,5 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000729",Temple of Apollo,Apollo,temple,Ferzol,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,Qasrnaba,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
 "1000731",Nymphaeum,Nymphs,temple,Busra,,SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
+"1000732",Eastern forum temple,,temple,,Carsulae,IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
+"1000733",Main forum temple,,temple,,Carsulae,IT,42.639936,12.556755,"89",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
