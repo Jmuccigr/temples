@@ -261,7 +261,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000261",Oratorio di Falaride,,temple,,Agrigento,IT,37.296696,13.58861,,,,,,,,,,,,,,,,,Vici.org,,,"17664",,,,,,,,,,,,,,No
 "1000262",Temple of Demeter,Demeter,temple,,Terraseo,IT,39.20137,8.635581,,,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,No
 "1000263",Temple of Victory,Victory,temple,,Himera,IT,37.973946,13.82408,,,,,,,,,,,,,concept,,,,Vici.org,,,"17910",,,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,No
-"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,IT,41.754478,12.28806,,,,,,,,,,,M/F,,god,,,,Vici.org,,,"17919",,,,,,,,,,,,,,No
+"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,IT,41.754478,12.28806,"150",SE,,,,,,,,,M/F,,god,,,,Vici.org,,,"17919",,,,,,,,,,,,,,No
 "1000265",Nymphaeum,Nymphs,temple,,Ostia,IT,41.757095,12.295577,,,,,,,,,,,F,,god,,,,Vici.org,,,"17927",,,,,,,,,,,,,,No
 "1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,Ostia,IT,41.753574,12.288665,,,,,,,,,,,,,"city,emperor",,,,Vici.org,,,"17928",,,,,,,,,,,,,,No
 "1000267",Temple 'C',,temple,,Selinunte,IT,37.583237,12.825288,,,,,,,,,,,,,,,,,Vici.org,,,"17972",,,,,,,,,,,,,,No
@@ -312,16 +312,16 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,No
 "1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
 "1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,No
-"1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,,,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,No
-"1000316",Four Small Temples,,temple,,Ostia,IT,41.755665,12.290623,,,,,,,,,,,,,,,,,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,No
+"1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,"150",SE,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,No
+"1000316",Temple I of Four Small Temples,Venus,temple,,Ostia,IT,41.755735,12.290713,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,god,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
 "1000317",Shrine of the Altar of the Twins,,temple,,Ostia,IT,41.756107,12.29099,,,,,,,,,,,,,,,,,Vici.org,,"Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-3.htm,No
-"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,,,,,,,,,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,Yes
-"1000319",Temple of the Mensores,,temple,,Ostia,IT,41.753784,12.285011,,,,,,,,,,,,,,,,,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,No
-"1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,,F,,god,,,,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,No
-"1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752777,12.286075,,,,,,,,,,,,,,,,,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,No
+"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,"240",SW,,late 1st c. BCE,"-50","-1","-1",,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,Yes
+"1000319",Temple of the Mensores,,temple,,Ostia,IT,41.75373,12.285083,"170",S,,,,,,,,,,,,Roman,,yes,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,Yes
+"1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,,F,,god,,,yes,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,No
+"1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752777,12.286075,,,,,,,,,,,,,,,,,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,Yes
 "1000322",Temple of Isis,,temple,Isola Sacra,Portus,IT,41.772774,12.255305,,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,No
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,No
-"1000324",Round Temple,,temple,,Ostia,IT,41.753544,12.28787,,,,,,,,,,,,,,,,,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,No
+"1000324",Round Temple,,temple,,Ostia,IT,41.75335,12.288047,"329",NW,,2nd qu. 3rd c. CE,"225","249","3",,,,,,,Roman,,yes,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,No
 "1000325",Temple of the Round Altar,,temple,,Ostia,IT,41.753693,12.286317,,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,Yes
 "1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,,Early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
 "1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,,Late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
@@ -725,3 +725,9 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000731",Nymphaeum,Nymphs,temple,Busra,,SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
 "1000732",Eastern forum temple,,temple,,Carsulae,IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
 "1000733",Main forum temple,,temple,,Carsulae,IT,42.639936,12.556755,"89",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000326",Republican Temple,,temple,,Ostia,IT,41.75472,12.289539,"148",SE,,,"-80","-50","-1",,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+"1000327",Temple II of Four Small Temples,Fortuna,temple,,Ostia,IT,41.755696,12.290623,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
+"1000328",Temple III of Four Small Temples,Ceres,temple,,Ostia,IT,41.755648,12.290521,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,god,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
+"1000329",Temple IV of Four Small Temples,Spes,temple,,Ostia,IT,41.755609,12.290436,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
+"1000330",Collegial Temple,,temple,,Ostia,IT,41.753161,12.287807,"60",NE,,Alexander Severus,"222","235","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/10/10-4.htm,Yes
+"1000331",Temple of the Forum Baths,,temple,,Ostia,IT,41.753354,12.289632,"139",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/12/12-6.htm,Yes
