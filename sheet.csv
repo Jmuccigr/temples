@@ -263,7 +263,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000263",Temple of Victory,Victory,temple,,Himera,IT,37.973946,13.82408,,,,,,,,,,,,,concept,,,,Vici.org,,,"17910",,,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,No
 "1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,IT,41.754478,12.28806,"150",SE,,,,,,,,,M/F,,god,,,,Vici.org,,,"17919",,,,,,,,,,,,,,No
 "1000265",Nymphaeum,Nymphs,temple,,Ostia,IT,41.757095,12.295577,,,,,,,,,,,F,,god,,,,Vici.org,,,"17927",,,,,,,,,,,,,,No
-"1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,Ostia,IT,41.753574,12.288665,,,,,,,,,,,,,"city,emperor",,,,Vici.org,,,"17928",,,,,,,,,,,,,,No
+"1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,Ostia,IT,41.753574,12.288665,"329",NW,,Tiberius,"14","37","1",,,,M/F,,"city,emperor",Roman,,yes,Vici.org,,,"17928",,,,,,,,,,,,,https://www.ostia-antica.org/regio1/forum/temprom.htm,Yes
 "1000267",Temple 'C',,temple,,Selinunte,IT,37.583237,12.825288,,,,,,,,,,,,,,,,,Vici.org,,,"17972",,,,,,,,,,,,,,No
 "1000268",Temple 'A',,temple,,Selinunte,IT,37.582607,12.825358,,,,,,,,,,,,,,,,,Vici.org,,,"17974",,,,,,,,,,,,,,No
 "1000269",Temple 'B',,temple,,Selinunte,IT,37.58292,12.825808,,,,,,,,,,,,,,,,,Vici.org,,,"17975",,,,,,,,,,,,,,No
