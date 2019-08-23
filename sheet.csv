@@ -310,7 +310,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000310",Templi Ferali,,temple,,Acrae,IT,37.05713,14.895352,,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,No
 "1000311",Temple,,temple,,Kasmenai - Casmenae,IT,37.076412,14.82563,,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,No
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,No
-"1000313",Temple of Hercules Antica,,temple,,Ostia,IT,41.753826,12.286155,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
+"1000313",Temple of Hercules,Hercules,temple,,Ostia,IT,41.753782,12.286157,"76",E,,4th qu. 2nd - 1st qu. 1st c. BCE,"-124","-75","-2",,,,M,,hero,Roman,,yes,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,Yes
 "1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,No
 "1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,"150",SE,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,No
 "1000316",Temple I of Four Small Temples,Venus,temple,,Ostia,IT,41.755735,12.290713,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,god,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
@@ -731,3 +731,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000329",Temple IV of Four Small Temples,Spes,temple,,Ostia,IT,41.755609,12.290436,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,Yes
 "1000330",Collegial Temple,,temple,,Ostia,IT,41.753161,12.287807,"60",NE,,Alexander Severus,"222","235","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/10/10-4.htm,Yes
 "1000331",Temple of the Forum Baths,,temple,,Ostia,IT,41.753354,12.289632,"139",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/12/12-6.htm,Yes
+"1000332",Tetrastyle Temple,,temple,,Ostia,IT,41.753965,12.286321,"151",SE,,late 2nc c. BCE,"-125","-101","-2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-2.htm,Yes
