@@ -311,13 +311,13 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000311",Temple,,temple,,Kasmenai - Casmenae,IT,37.076412,14.82563,,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,no
 "1000312",Kasmenai - Casmenae,,temple,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,no
 "1000313",Temple of Hercules,Hercules,temple,,Ostia,IT,41.753782,12.286157,"76",E,,4th qu. 2nd - 1st qu. 1st c. BCE,"-124","-75","-2",,,,M,,hero,Roman,,yes,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,yes
-"1000314",Serapeum,,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,no
-"1000315",Temple of Ceres,,temple,,Ostia,IT,41.756348,12.291035,"150",SE,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,no
+"1000314",Serapeum,Serapis,temple,,Ostia,IT,41.753315,12.283876,,,,,,,,,,,M,,hero,,,,Vici.org,,,"27355",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/17/17-4.htm,no
+"1000315",Temple of Ceres,Ceres,temple,,Ostia,IT,41.756348,12.291035,"150",SE,,,,,,,,,F,,god,,,,Vici.org,,,"27359",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-5.htm,no
 "1000316",Temple I of Four Small Temples,Venus,temple,,Ostia,IT,41.755735,12.290713,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,god,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,yes
-"1000317",Shrine of the Altar of the Twins,,temple,,Ostia,IT,41.756107,12.29099,,,,,,,,,,,,,,,,,Vici.org,,"Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-3.htm,no
-"1000318",Shrine to Jupiter,,temple,,Ostia,IT,41.755539,12.290882,"240",SW,,late 1st c. BCE,"-50","-1","-1",,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,yes
+"1000317",Shrine of the Altar of the Twins,Romulus and Remus,temple,,Ostia,IT,41.756107,12.29099,,,,,,,,,,,,,,,,,Vici.org,,"Regio II - Insula VII - Sacello dell'Ara dei Gemelli (II,VII,3)","27363",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/7/7-3.htm,no
+"1000318",Shrine to Jupiter,Jupiter,temple,,Ostia,IT,41.755539,12.290882,"240",SW,,late 1st c. BCE,"-50","-1","-1",,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,yes
 "1000319",Temple of the Mensores,,temple,,Ostia,IT,41.75373,12.285083,"170",S,,,,,,,,,,,,Roman,,yes,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,yes
-"1000320",Sanctuary of the Bona Dea,,temple,,Ostia,IT,41.750599,12.285399,,,,,,,,,,,F,,god,,,yes,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,no
+"1000320",Temple of Bona Dea,Bona Dea,temple,,Ostia,IT,41.750622,12.285329,"99",E,,1st half 1st c. CE,"1","50","1",,,,F,,god,Roman,,yes,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,yes
 "1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752764,12.286052,"104",E,,late 2nc c. CE,"161","192","2",,,,,,,Roman,,yes,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,yes
 "1000322",Temple of Isis,,temple,Isola Sacra,Portus,IT,41.772774,12.255305,,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,no
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,no
@@ -733,6 +733,6 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000331",Temple of the Forum Baths,,temple,,Ostia,IT,41.753354,12.289632,"139",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/12/12-6.htm,yes
 "1000332",Tetrastyle Temple,,temple,,Ostia,IT,41.753965,12.286321,"151",SE,,late 2nc c. BCE,"-125","-101","-2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-2.htm,yes
 "1000333",Temple of the Round Altar,,temple,,Ostia,IT,41.753646,12.286058,"89",E,,Republican,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-6.htm,yes
-"1000334",Temple of the Magna Mater,,temple,,Ostia,IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
-"1000335",Temple of Bona Dea,,temple,,Ostia,IT,41.750622,12.285329,"99",E,,1st half 1st c. CE,"1","50","1",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/8/8-3.htm,yes
+"1000334",Temple of the Magna Mater,Magna Mater,temple,,Ostia,IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
+"1000335",Temple of Bona Dea,Bona Dea,temple,,Ostia,IT,41.754603,12.291503,"158",S,,2nd c. BCE,"-199","-100","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/10/10-2.htm,yes
 "1000336",Temple of L. Hortensius Heraclida,,temple,,Ostia,IT,41.755478,12.292198,"145",SE,,3rd qu. 3rd c. CE,"251","275","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/12/12-1.htm,yes
