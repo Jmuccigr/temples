@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-08-21"  ; 
+    dcterms:modified "2019-08-24"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2176,6 +2176,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q2699249> ;
 rdfs:label "Temple of Bellona" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.752632"^^xsd:double ; geo:long "12.291518"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2522,6 +2523,7 @@ skos:exactMatch <http://vici.org/vici/17927> ;
 rdfs:label "Temple of Rome and Augustus" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753574"^^xsd:double ; geo:long "12.288665"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2954,9 +2956,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/25690> ;
 .
 <http://romeresearchgroup.org/items/1000313> a lawd:Place ;
-rdfs:label "Temple of Hercules Antica" ;
+rdfs:label "Temple of Hercules" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.753826"^^xsd:double ; geo:long "12.286155"^^xsd:double ] ;
+geo:location [ geo:lat "41.753782"^^xsd:double ; geo:long "12.286157"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -3021,9 +3024,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/27380> ;
 .
 <http://romeresearchgroup.org/items/1000320> a lawd:Place ;
-rdfs:label "Sanctuary of the Bona Dea" ;
+rdfs:label "Temple of Bona Dea" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.750599"^^xsd:double ; geo:long "12.285399"^^xsd:double ] ;
+geo:location [ geo:lat "41.750622"^^xsd:double ; geo:long "12.285329"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -3032,7 +3036,8 @@ skos:exactMatch <http://vici.org/vici/27393> ;
 <http://romeresearchgroup.org/items/1000321> a lawd:Place ;
 rdfs:label "Temple of the Fabri Navales" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.752777"^^xsd:double ; geo:long "12.286075"^^xsd:double ] ;
+geo:location [ geo:lat "41.752764"^^xsd:double ; geo:long "12.286052"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -6932,6 +6937,51 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 rdfs:label "Temple of the Forum Baths" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753354"^^xsd:double ; geo:long "12.289632"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000332> a lawd:Place ;
+rdfs:label "Tetrastyle Temple" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.753965"^^xsd:double ; geo:long "12.286321"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000333> a lawd:Place ;
+rdfs:label "Temple of the Round Altar" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.753646"^^xsd:double ; geo:long "12.286058"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000334> a lawd:Place ;
+rdfs:label "Temple of the Magna Mater" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.752114"^^xsd:double ; geo:long "12.2903"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000335> a lawd:Place ;
+rdfs:label "Temple of Bona Dea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.754603"^^xsd:double ; geo:long "12.291503"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000336> a lawd:Place ;
+rdfs:label "Temple of L. Hortensius Heraclida" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.755478"^^xsd:double ; geo:long "12.292198"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;

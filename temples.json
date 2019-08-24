@@ -12095,20 +12095,20 @@
         "location": "",
         "city": "Ostia",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "292",
+        "compass": "W",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "117-138",
+        "startdateearly": "117",
+        "startdatelate": "138",
+        "century": "2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -12127,8 +12127,8 @@
         "ads": "",
         "cona": "",
         "topostext": "",
-        "url": "",
-        "checked": "No"
+        "url": "https://www.ostia-antica.org/regio4/1/1-4.htm",
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -12181,7 +12181,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12234,7 +12234,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12287,7 +12287,7 @@
         "cona": "",
         "topostext": "394085SAdd",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12340,7 +12340,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12393,7 +12393,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12446,7 +12446,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12499,7 +12499,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12552,7 +12552,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12605,7 +12605,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12658,7 +12658,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12711,7 +12711,7 @@
         "cona": "",
         "topostext": "417127SDiN",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12764,7 +12764,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -12817,7 +12817,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12870,7 +12870,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12923,7 +12923,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12976,7 +12976,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13029,7 +13029,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13082,7 +13082,7 @@
         "cona": "",
         "topostext": "417127SDiN",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13135,7 +13135,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13188,7 +13188,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13347,7 +13347,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13400,7 +13400,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13453,7 +13453,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13506,7 +13506,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13559,7 +13559,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13612,7 +13612,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13665,7 +13665,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13718,7 +13718,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13771,7 +13771,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13824,7 +13824,7 @@
         "cona": "",
         "topostext": "392863STer",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13877,7 +13877,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13910,7 +13910,7 @@
         "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -13930,7 +13930,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -13963,7 +13963,7 @@
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -13983,7 +13983,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14003,22 +14003,22 @@
         "location": "",
         "city": "Ostia",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "329",
+        "compass": "NW",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "Tiberius",
+        "startdateearly": "14",
+        "startdatelate": "37",
+        "century": "1",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M/F",
         "dedicationday": "",
         "deitytype": "city,emperor",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -14035,8 +14035,8 @@
         "ads": "",
         "cona": "",
         "topostext": "",
-        "url": "",
-        "checked": "No"
+        "url": "https://www.ostia-antica.org/regio1/forum/temprom.htm",
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -14089,7 +14089,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14142,7 +14142,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14195,7 +14195,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14248,7 +14248,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14301,7 +14301,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14354,7 +14354,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14407,7 +14407,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14460,7 +14460,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14513,7 +14513,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14566,7 +14566,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14619,7 +14619,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14672,7 +14672,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14725,7 +14725,7 @@
         "cona": "",
         "topostext": "404168SHer",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14778,7 +14778,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14831,7 +14831,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14884,7 +14884,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14937,7 +14937,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -14990,7 +14990,7 @@
         "cona": "",
         "topostext": "426112STal",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15043,7 +15043,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15096,7 +15096,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15149,7 +15149,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15202,7 +15202,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15255,7 +15255,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15308,7 +15308,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15361,7 +15361,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15414,7 +15414,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15520,7 +15520,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15573,7 +15573,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15626,7 +15626,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15679,7 +15679,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15732,7 +15732,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15785,7 +15785,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15838,7 +15838,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15891,7 +15891,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15944,7 +15944,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15997,7 +15997,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16050,7 +16050,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16103,7 +16103,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16156,7 +16156,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16209,7 +16209,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16262,7 +16262,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16315,7 +16315,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16368,7 +16368,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16421,7 +16421,7 @@
         "cona": "",
         "topostext": "371148SKas",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16474,7 +16474,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16488,28 +16488,28 @@
       "type": "Feature",
       "properties": {
         "id": "1000313",
-        "name": "Temple of Hercules Antica",
-        "dedicatee": "",
+        "name": "Temple of Hercules",
+        "dedicatee": "Hercules",
         "type": "temple",
         "location": "",
         "city": "Ostia",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "76",
+        "compass": "E",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "4th qu. 2nd - 1st qu. 1st c. BCE",
+        "startdateearly": "-124",
+        "startdatelate": "-75",
+        "century": "-2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "M",
         "dedicationday": "",
         "deitytype": "hero",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -16527,13 +16527,13 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-5.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.286155,
-          41.753826
+          12.286157,
+          41.753782
         ]
       }
     },
@@ -16542,7 +16542,7 @@
       "properties": {
         "id": "1000314",
         "name": "Serapeum",
-        "dedicatee": "",
+        "dedicatee": "Serapis",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -16580,7 +16580,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio3/17/17-4.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16595,7 +16595,7 @@
       "properties": {
         "id": "1000315",
         "name": "Temple of Ceres",
-        "dedicatee": "",
+        "dedicatee": "Ceres",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -16633,7 +16633,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-5.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16686,7 +16686,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -16701,7 +16701,7 @@
       "properties": {
         "id": "1000317",
         "name": "Shrine of the Altar of the Twins",
-        "dedicatee": "",
+        "dedicatee": "Romulus and Remus",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -16739,7 +16739,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-3.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16754,7 +16754,7 @@
       "properties": {
         "id": "1000318",
         "name": "Shrine to Jupiter",
-        "dedicatee": "",
+        "dedicatee": "Jupiter",
         "type": "temple",
         "location": "",
         "city": "Ostia",
@@ -16792,7 +16792,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-4.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -16845,7 +16845,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio1/19/19-2.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -16859,26 +16859,26 @@
       "type": "Feature",
       "properties": {
         "id": "1000320",
-        "name": "Sanctuary of the Bona Dea",
-        "dedicatee": "",
+        "name": "Temple of Bona Dea",
+        "dedicatee": "Bona Dea",
         "type": "temple",
         "location": "",
         "city": "Ostia",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "99",
+        "compass": "E",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "1st half 1st c. CE",
+        "startdateearly": "1",
+        "startdatelate": "50",
+        "century": "1",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "yes",
         "source": "Vici.org",
@@ -16898,13 +16898,13 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio4/8/8-3.htm",
-        "checked": "No"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.285399,
-          41.750599
+          12.285329,
+          41.750622
         ]
       }
     },
@@ -16918,22 +16918,22 @@
         "location": "",
         "city": "Ostia",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "104",
+        "compass": "E",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "late 2nc c. CE",
+        "startdateearly": "161",
+        "startdatelate": "192",
+        "century": "2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -16951,13 +16951,13 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio3/2/2-1.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.286075,
-          41.752777
+          12.286052,
+          41.752764
         ]
       }
     },
@@ -17004,7 +17004,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/portus/s009.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17057,7 +17057,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/portus/t021.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17110,7 +17110,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio1/11/11-1.htm",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17163,7 +17163,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-6.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -17322,7 +17322,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17375,7 +17375,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17428,7 +17428,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17481,7 +17481,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17534,7 +17534,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17587,7 +17587,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17640,7 +17640,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17693,7 +17693,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17746,7 +17746,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17799,7 +17799,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17852,7 +17852,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17905,7 +17905,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17958,7 +17958,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18011,7 +18011,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18064,7 +18064,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18117,7 +18117,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18170,7 +18170,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18223,7 +18223,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18276,7 +18276,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18329,7 +18329,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18382,7 +18382,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18435,7 +18435,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18488,7 +18488,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18541,7 +18541,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18594,7 +18594,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18647,7 +18647,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -18700,7 +18700,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18753,7 +18753,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18806,7 +18806,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18859,7 +18859,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18912,7 +18912,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -18965,7 +18965,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -19018,7 +19018,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19071,7 +19071,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19124,7 +19124,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19177,7 +19177,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19230,7 +19230,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19283,7 +19283,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19336,7 +19336,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19389,7 +19389,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19442,7 +19442,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19495,7 +19495,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19548,7 +19548,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.chateaubas.com/en/pages/history/temple.html",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -19601,7 +19601,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19654,7 +19654,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19707,7 +19707,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19760,7 +19760,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19813,7 +19813,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19866,7 +19866,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19919,7 +19919,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -19972,7 +19972,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20025,7 +20025,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20078,7 +20078,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20131,7 +20131,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20184,7 +20184,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20237,7 +20237,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20290,7 +20290,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20343,7 +20343,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20396,7 +20396,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20449,7 +20449,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20502,7 +20502,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20555,7 +20555,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20608,7 +20608,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20661,7 +20661,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20714,7 +20714,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20767,7 +20767,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20820,7 +20820,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20873,7 +20873,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20926,7 +20926,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -20979,7 +20979,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21032,7 +21032,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21085,7 +21085,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21138,7 +21138,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21191,7 +21191,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21244,7 +21244,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21297,7 +21297,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21350,7 +21350,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21403,7 +21403,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21456,7 +21456,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21509,7 +21509,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21562,7 +21562,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21615,7 +21615,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21668,7 +21668,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21721,7 +21721,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21774,7 +21774,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21827,7 +21827,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21880,7 +21880,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21933,7 +21933,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21986,7 +21986,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22039,7 +22039,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22092,7 +22092,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22145,7 +22145,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22198,7 +22198,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22251,7 +22251,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22304,7 +22304,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22357,7 +22357,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22410,7 +22410,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22463,7 +22463,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22516,7 +22516,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22569,7 +22569,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22622,7 +22622,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22675,7 +22675,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22728,7 +22728,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22781,7 +22781,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22834,7 +22834,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22887,7 +22887,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22940,7 +22940,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22993,7 +22993,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23046,7 +23046,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23099,7 +23099,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23152,7 +23152,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23205,7 +23205,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23258,7 +23258,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23311,7 +23311,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23364,7 +23364,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23417,7 +23417,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23470,7 +23470,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23523,7 +23523,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23576,7 +23576,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23629,7 +23629,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23682,7 +23682,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23735,7 +23735,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23788,7 +23788,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23841,7 +23841,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23894,7 +23894,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -23947,7 +23947,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24000,7 +24000,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24053,7 +24053,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24106,7 +24106,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24159,7 +24159,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24212,7 +24212,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24265,7 +24265,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24318,7 +24318,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24371,7 +24371,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24424,7 +24424,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24477,7 +24477,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24530,7 +24530,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24583,7 +24583,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24636,7 +24636,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24689,7 +24689,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24742,7 +24742,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24795,7 +24795,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24848,7 +24848,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24901,7 +24901,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -24954,7 +24954,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25007,7 +25007,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25060,7 +25060,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25113,7 +25113,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25166,7 +25166,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25219,7 +25219,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25272,7 +25272,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25325,7 +25325,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25378,7 +25378,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25431,7 +25431,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25484,7 +25484,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25537,7 +25537,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25590,7 +25590,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25643,7 +25643,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25696,7 +25696,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25749,7 +25749,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25802,7 +25802,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25855,7 +25855,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25908,7 +25908,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -25961,7 +25961,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26014,7 +26014,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26067,7 +26067,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26120,7 +26120,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26173,7 +26173,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26226,7 +26226,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26279,7 +26279,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26332,7 +26332,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26385,7 +26385,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26438,7 +26438,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26491,7 +26491,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26544,7 +26544,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26597,7 +26597,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26650,7 +26650,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26703,7 +26703,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26756,7 +26756,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26809,7 +26809,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26862,7 +26862,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26915,7 +26915,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -26968,7 +26968,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27021,7 +27021,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27074,7 +27074,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27127,7 +27127,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27180,7 +27180,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27233,7 +27233,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27286,7 +27286,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27339,7 +27339,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27392,7 +27392,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27445,7 +27445,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27498,7 +27498,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27551,7 +27551,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27604,7 +27604,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27657,7 +27657,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27710,7 +27710,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27763,7 +27763,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27816,7 +27816,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27869,7 +27869,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27922,7 +27922,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -27975,7 +27975,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28028,7 +28028,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28081,7 +28081,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28134,7 +28134,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28187,7 +28187,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28240,7 +28240,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28293,7 +28293,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28346,7 +28346,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28399,7 +28399,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28452,7 +28452,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28505,7 +28505,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28558,7 +28558,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28611,7 +28611,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28664,7 +28664,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28717,7 +28717,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28770,7 +28770,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28823,7 +28823,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28876,7 +28876,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28929,7 +28929,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -28982,7 +28982,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29035,7 +29035,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29088,7 +29088,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29141,7 +29141,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29194,7 +29194,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29247,7 +29247,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29300,7 +29300,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29353,7 +29353,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29406,7 +29406,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29459,7 +29459,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29512,7 +29512,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29565,7 +29565,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29618,7 +29618,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29671,7 +29671,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29724,7 +29724,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29777,7 +29777,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29830,7 +29830,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29883,7 +29883,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29936,7 +29936,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -29989,7 +29989,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30042,7 +30042,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30095,7 +30095,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30148,7 +30148,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30201,7 +30201,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30254,7 +30254,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30307,7 +30307,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30360,7 +30360,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30413,7 +30413,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30466,7 +30466,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30519,7 +30519,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30572,7 +30572,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30625,7 +30625,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30678,7 +30678,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30731,7 +30731,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30784,7 +30784,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30837,7 +30837,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30890,7 +30890,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -30943,7 +30943,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -30996,7 +30996,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31049,7 +31049,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31102,7 +31102,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31155,7 +31155,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31208,7 +31208,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31261,7 +31261,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31314,7 +31314,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31367,7 +31367,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31420,7 +31420,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31473,7 +31473,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31526,7 +31526,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31579,7 +31579,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31632,7 +31632,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31685,7 +31685,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31738,7 +31738,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31791,7 +31791,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31844,7 +31844,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31897,7 +31897,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -31950,7 +31950,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32003,7 +32003,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32056,7 +32056,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32109,7 +32109,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32162,7 +32162,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32215,7 +32215,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -32268,7 +32268,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32321,7 +32321,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32374,7 +32374,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "No"
+        "checked": "no"
       },
       "geometry": {
         "type": "Point",
@@ -32586,7 +32586,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33169,7 +33169,7 @@
         "cona": "",
         "topostext": "385225SApo",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33222,7 +33222,7 @@
         "cona": "",
         "topostext": "371253SApo",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33275,7 +33275,7 @@
         "cona": "",
         "topostext": "370254SGyr",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33328,7 +33328,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33381,7 +33381,7 @@
         "cona": "",
         "topostext": "401222SPyt",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33434,7 +33434,7 @@
         "cona": "",
         "topostext": "401222SPyt",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -33487,7 +33487,7 @@
         "cona": "",
         "topostext": "401222SPyt",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -37727,7 +37727,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38522,7 +38522,7 @@
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38575,7 +38575,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38628,7 +38628,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38681,7 +38681,7 @@
         "cona": "",
         "topostext": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38734,7 +38734,7 @@
         "cona": "",
         "topostext": "",
         "url": "https://www.ostia-antica.org/regio1/10/10-4.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -38787,13 +38787,278 @@
         "cona": "",
         "topostext": "",
         "url": "https://www.ostia-antica.org/regio1/12/12-6.htm",
-        "checked": "Yes"
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           12.289632,
           41.753354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000332",
+        "name": "Tetrastyle Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Ostia",
+        "country": "IT",
+        "orientation": "151",
+        "compass": "SE",
+        "vowed": "",
+        "date": "late 2nc c. BCE",
+        "startdateearly": "-125",
+        "startdatelate": "-101",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.ostia-antica.org/regio1/15/15-2.htm",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.286321,
+          41.753965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000333",
+        "name": "Temple of the Round Altar",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Ostia",
+        "country": "IT",
+        "orientation": "89",
+        "compass": "E",
+        "vowed": "",
+        "date": "Republican",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.ostia-antica.org/regio1/15/15-6.htm",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.286058,
+          41.753646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000334",
+        "name": "Temple of the Magna Mater",
+        "dedicatee": "Magna Mater",
+        "type": "temple",
+        "location": "",
+        "city": "Ostia",
+        "country": "IT",
+        "orientation": "52",
+        "compass": "NE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.ostia-antica.org/regio4/1/1-1.htm",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2903,
+          41.752114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000335",
+        "name": "Temple of Bona Dea",
+        "dedicatee": "Bona Dea",
+        "type": "temple",
+        "location": "",
+        "city": "Ostia",
+        "country": "IT",
+        "orientation": "158",
+        "compass": "S",
+        "vowed": "",
+        "date": "2nd c. BCE",
+        "startdateearly": "-199",
+        "startdatelate": "-100",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.ostia-antica.org/regio5/10/10-2.htm",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.291503,
+          41.754603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000336",
+        "name": "Temple of L. Hortensius Heraclida",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Ostia",
+        "country": "IT",
+        "orientation": "145",
+        "compass": "SE",
+        "vowed": "",
+        "date": "3rd qu. 3rd c. CE",
+        "startdateearly": "251",
+        "startdatelate": "275",
+        "century": "3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.ostia-antica.org/regio5/12/12-1.htm",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.292198,
+          41.755478
         ]
       }
     }
