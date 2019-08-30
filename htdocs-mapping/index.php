@@ -102,6 +102,8 @@
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=map; path=/";
 		</script>
+		<script type="text/javascript" src="scripts/function_fix_date.js">
+		</script>
 		<script type="text/javascript" src="scripts/function_check_run.js">
 		</script>
 		<script type="text/javascript" src="scripts/set_cookie.js">

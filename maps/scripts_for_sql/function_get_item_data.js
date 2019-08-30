@@ -47,6 +47,10 @@ res = res[0];
 			}
 			text = text + '</li>';
 		}
+		if (res.properties.date != '') {
+			text = text + '<li>Construction dated to ' + fixDate(res.properties.date)
+			text = text + '</li>';
+		}
 		if (res.properties.location != '' || res.properties.city != '' || res.properties.country != '') {
 			loc = '<li>Location: ';
 			if (res.properties.location != '') {
