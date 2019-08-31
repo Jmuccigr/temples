@@ -56,12 +56,12 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000056",Temple of Jupiter Custos,Jupiter,temple,Capitoline Hill,Rome,IT,41.891825,12.481892,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000057",Temple of Jupiter Dolichenus,Jupiter,temple,Aventine Hill,Rome,IT,41.88319,12.4804,,,,,,,,,,,M,,god,Roman,,,Blake,,Location from Arachne,,,,"6074",,,,,,,,,,,
 "1000058",Temple of Jupiter Feretrius,Jupiter,temple,Capitoline Hill,Rome,IT,,,,,,-752-751,"-752","-751","-8",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000059",Temple of Jupiter Heliopolitanus,Jupiter,temple,Janiculum,Rome,IT,,,,,,Late 1st Century CE,"75","100","1",,,,M,November 29,god,Roman,,,Blake,,,,,,,,,,,,,,,,,
+"1000059",Temple of Jupiter Heliopolitanus,Jupiter,temple,Janiculum,Rome,IT,,,,,,late 1st c. CE,"75","100","1",,,,M,November 29,god,Roman,,,Blake,,,,,,,,,,,,,,,,,
 "1000060",Temple of Jupiter Invictus,Jupiter,temple,Palatine Hill,Rome,IT,,,,,,-180-167,"-180","-167","-2",,,,M,,god,Roman,,,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000061",Temple of Jupiter Libertas,Jupiter,temple,Aventine Hill,Rome,IT,,,,,,"-246","-246",,"-3",,,,M,April 13,god,Roman,,,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000062",Temple of Jupiter Capitolinus/Optimus Maximus,Jupiter,temple,Capitoline Hill,Rome,IT,41.892222,12.481667,"152",SE,,"-509","-509",,"-6",,,,M,September 13,god,Roman,,,Blake,senate,,"17971","871801169",,"3910430",,Temple_of_Jupiter_Optimus_Maximus,Q586468,,,,,,419125SJCa,,
 "1000063",Temple of Jupiter Patulaeius,Jupiter,temple,,Ostia,IT,,,,,,-299-200,"-299","-200","-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000064",Temple of Jupiter,Jupiter,temple,,Pompeii,IT,40.7499,14.4845,,,,mid-2nd century BC,"-175","-125","-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000064",Temple of Jupiter,Jupiter,temple,,Pompeii,IT,40.7499,14.4845,,,,mid-2nd c. BCE,"-175","-125","-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000065",Temple of Jupiter Sospita,Jupiter,temple,,,,,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000066",Temple of Jupiter Stator,Jupiter,temple,ad portam Mugoniam,Rome,IT,41.890487,12.488793,,,"-294","-294","-292","-218","-3",,,,M,June 27,god,Roman,,,,senate,Tenative coordinates,,,,,,,,,,,,,,,
 "1000067",Temple of Jupiter Stator,Jupiter,temple,"Porticus Metelli, Circus Flaminius",Rome,IT,41.892897,12.479021,"208",SW,,"-146","-146",,"-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -78,7 +78,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000078",Temple of Mars Ultor,Mars,temple,Forum of Augustus,Rome,IT,41.894444,12.486944,"233",SW,,"-2","-2",,"-1",,,,M,,god,Roman,,,Stamper,,,,,,"5747",,it=Tempio_di_Marte_Ultore,Q679665,,,"43987",,,419125SMUl,,
 "1000079",Temple of Mater Matuta,Mater Matuta,temple,Forum Boarium,Rome,IT,41.890556,12.480833,"180",S,,"-368","-368",,"-4",,,,F,June 11,god,Roman,,,Stamper,,,,,,,,,,,,,,,419125SMMa,,
 "1000080",Temple of Matidia,Matidia,temple,Campus Martius,Rome,IT,41.899964,12.478081,,,,"119","119",,"2",,,,F,,family,Roman,,,Stamper,,,,,,,,,,,,,,,,,
-"1000081",Mausoleum of Romulus,,tomb,,Rome,IT,41.8550631,12.5181785,,,,early 4th century CE,,,"4",,,,,,hero,Roman,,,,,DARE,,,"23842",,,,,,,,,,,,
+"1000081",Mausoleum of Romulus,,tomb,,Rome,IT,41.8550631,12.5181785,,,,early 4th c. CE,,,"4",,,,,,hero,Roman,,,,,DARE,,,"23842",,,,,,,,,,,,
 "1000082",Temple of Mercury,Mercury,temple,Aventine Hill,Rome,IT,,,,,,"-495","-495",,"-5",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000083",Temple of Minerva,Minerva,temple,Aventine Hill,Rome,IT,,,,,-263-262,-263-260,"-263","-260","-3",,,,F,June 19,god,Roman,,,,,Vici.org,,,,,,,,,,,,,,,
 "1000084",Temple of Minerva Medica,Minerva,temple,Esquiline Hill,Rome,IT,41.893845,12.511867,,,,-399-300,"-399","-300","-4",,,,F,,god,Roman,,,,,Pleiades,"7929","540898685",,,,,Q1411575,,,,,,419125SMiM,,
@@ -125,7 +125,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000125",Temple of Venus Victrix,Venus,temple,Campus Martius,Rome,IT,41.895335,12.473014,"90",E,,"-55","-55",,"-1",,,,F,,god,Roman,,yes,Stamper,senate,"Pleiades; coords modified",,,,,,,,,,,,,,,
 "1000126",Temple of the Divine Vespasian and the Divine Titus,"Vespasian, Titus",temple,Forum,Rome,IT,41.892876,12.484081,"119",SE,,,,,,,,,M,,emperor,Roman,,,,,Pleiades,"15042",,,"5643",,,Q731284,,,,,,,,
 "1000127",Temple of Vesta,Vesta,temple,Forum,Rome,IT,41.891792,12.486141,"35",NE,,"-575","-575",,"-6",,,,F,,god,Roman,,,Stamper,,Pleiades,"15010",,,"8407",,Temple_of_Vesta,,,,,,,419125SVes,,
-"1000128",Temple of Vesta,Vesta,temple,,Tivoli,IT,41.9667,12.8009,"190",S,,early 1st-Century BCE,"-99","-75","-1",,,,F,,god,Roman,,,,,Pleiades,"4381",,,"11457",,"Temple_of_Vesta,_Tivoli",Q1219688,,,,,,,,
+"1000128",Temple of Vesta,Vesta,temple,,Tivoli,IT,41.9667,12.8009,"190",S,,early 1st c. BCE,"-99","-75","-1",,,,F,,god,Roman,,,,,Pleiades,"4381",,,"11457",,"Temple_of_Vesta,_Tivoli",Q1219688,,,,,,,,
 "1000129",Temple of Vica Pota,Vica Pota,temple,Velian Hill,Rome,IT,,,,,,-292-219,"-292","-219","-3",,,,F,January 9,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000130",Temple of Victory,Victoria,temple,Palatine Hill,Rome,IT,41.889418,12.48521,"219",SW,"-305","-294","-294",,"-3",,,,F,August 1,concept,Roman,,,Stamper,,Pleiades,,,,,,Temple_of_Victory,Q1517031,,,,,,419125SViT,,
 "1000131",Temple of Volcanus,Volcanus,temple,Campus Martius,Rome,IT,,,,,,-292-219,"-292","-219","-3",,,,M,August 23,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -147,7 +147,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000147",Temple of Minerva,Minerva,temple,,Tebessa,DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000148",Temple A,"Apollo, Artemis, Aphrodite",temple,,Laodicea on the Lycus,TR,37.836269,29.109676,"27",NE,,2nd c. CE,,,"2",,,,M/F,,god,Roman,,yes,,,,"18182",,,,,,,,,,,,,,
 "1000149",Temple of Trajan,Trajan,temple,,Pergamon,TR,39.132812,27.183256,"201",S,,2nd c. CE,,,"2",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000150",Temple of Dionysus,Dionysus,temple,,Pergamon,TR,39.132283,27.182573,"166",S,,Early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000150",Temple of Dionysus,Dionysus,temple,,Pergamon,TR,39.132283,27.182573,"166",S,,early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000151",Temple of Consus,Consus,temple,Aventine,Rome,IT,,,,,"-272","-272","-272","-218","-3",,,,M,December 12,god,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000152",Temple of Hercules at the Colline Gate,Hercules,temple,ad portam collinam,Rome,IT,,,,,,,,"-211",,,,,M,,hero,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000153",Temple of Honos,Honor,temple,extra portam collinam,Rome,IT,41.906487,12.498676,,,,-292-219,"-292","-219","-3",,,,M,,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
@@ -211,19 +211,19 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000211",Temple of Saturn,Saturn,temple,,Tiddis,DZ,36.463333,6.483889,"75",E,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000212",Temple of Hercules,Hercules,temple,,Amman,JO,31.9538,35.9349,"76",E,,,"162",,"2","166",,,M,,hero,Roman,,,Wikipedia,,,,,,,,Temple_of_Hercules_(Amman),,,,,,,,,
 "1000213",Temple of Herakles,Hercules,temple,,Agrigento,IT,37.290252,13.586221,"89",E,,,,,"-6",,,,M,,hero,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Heracles,_Agrigento",,,,,,,,,
-"1000214",Temple of Hera Lakinia,Juno,temple,,Agrigento,IT,37.288662,13.600197,"82",E,,ca. 450 BC,,,"-5",,,,F,,god,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Juno,_Agrigento",,,,,,,,,
-"1000215",Temple of Concord,,temple,,Agrigento,IT,37.289747,13.592005,"89",E,,ca. 440-430 BC,,,"-5",,,,,,concept,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Concordia,_Agrigento",,,,,,,,,
-"1000216",Temple of Asclepius,,temple,,Agrigento,IT,37.282531,13.589582,"89",E,,late 5th c. BC,,,"-5",,,,,,hero,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
-"1000217",Temple of Olympian Zeus,Jupiter,temple,,Agrigento,IT,37.290982,13.584423,"77",E,,5th c. BC,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Agrigento",,,,,,,,,
-"1000218",Temple of Hephaistos,Vulcan,temple,,Agrigento,IT,37.292956,13.578769,"86",E,,ca. 430 BC,,,"-6",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
-"1000219",Sacellum,,temple,,Agrigento,IT,37.292956,13.578769,"82",E,,ca. 530-520 BC,,,"-7",,,,,,,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
-"1000220",Temple of the Dioscuri,,temple,,Agrigento,IT,37.291344,13.581507,"83",E,,mid-5th c. BC,,,"-5",,,,,,hero,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
-"1000221",Temple L,,temple,,Agrigento,IT,37.291043,13.581401,"77",E,,late 5th c. BC,,,"-5",,,,,,,Greek,,Yes,,,,,,,,,,,,,,,,,,
-"1000222",Temple of Demeter,,temple,,Agrigento,IT,37.299241,13.603379,"123",SE,,ca. 480-470 BC,,,"-5",,,,,,god,Greek,,Yes,,,,,,,,,,,,,,,,,,
-"1000223",Temple of Isis,,temple,,Agrigento,IT,37.298272,13.589222,"167",S,,late 1st c. BC,,,"-1",,,,,,god,Roman,,Yes,,,,,,,,,,,,,,,,,,
-"1000224",Temple of Poseidon,Neptune,temple,,Sounion,GR,37.650153,24.024573,"103",E,,444-440 BC,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
-"1000225",Temple of Athena,Minerva,temple,,Sounion,GR,37.652933,24.027015,"98",E,,470 BC,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
-"1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,,5th c. BC,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
+"1000214",Temple of Hera Lakinia,Juno,temple,,Agrigento,IT,37.288662,13.600197,"82",E,,ca. 450 BCE,,,"-5",,,,F,,god,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Juno,_Agrigento",,,,,,,,,
+"1000215",Temple of Concord,,temple,,Agrigento,IT,37.289747,13.592005,"89",E,,ca. 440-430 BCE,,,"-5",,,,,,concept,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Concordia,_Agrigento",,,,,,,,,
+"1000216",Temple of Asclepius,,temple,,Agrigento,IT,37.282531,13.589582,"89",E,,late 5th c. BCE,,,"-5",,,,,,hero,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
+"1000217",Temple of Olympian Zeus,Jupiter,temple,,Agrigento,IT,37.290982,13.584423,"77",E,,5th c. BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Agrigento",,,,,,,,,
+"1000218",Temple of Hephaistos,Vulcan,temple,,Agrigento,IT,37.292956,13.578769,"86",E,,ca. 430 BCE,,,"-6",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
+"1000219",Sacellum,,temple,,Agrigento,IT,37.292956,13.578769,"82",E,,ca. 530-520 BCE,,,"-7",,,,,,,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
+"1000220",Temple of the Dioscuri,,temple,,Agrigento,IT,37.291344,13.581507,"83",E,,mid-5th c. BCE,,,"-5",,,,,,hero,Greek,,Yes,Wikipedia,,,,,,,,Valle_dei_Templi,,,,,,,,,
+"1000221",Temple L,,temple,,Agrigento,IT,37.291043,13.581401,"77",E,,late 5th c. BCE,,,"-5",,,,,,,Greek,,Yes,,,,,,,,,,,,,,,,,,
+"1000222",Temple of Demeter,,temple,,Agrigento,IT,37.299241,13.603379,"123",SE,,ca. 480-470 BCE,,,"-5",,,,,,god,Greek,,Yes,,,,,,,,,,,,,,,,,,
+"1000223",Temple of Isis,,temple,,Agrigento,IT,37.298272,13.589222,"167",S,,late 1st c. BCE,,,"-1",,,,,,god,Roman,,Yes,,,,,,,,,,,,,,,,,,
+"1000224",Temple of Poseidon,Neptune,temple,,Sounion,GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
+"1000225",Temple of Athena,Minerva,temple,,Sounion,GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
+"1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,,,,,,,,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,,,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,,M,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
@@ -318,13 +318,13 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000318",Shrine to Jupiter,Jupiter,temple,,Ostia,IT,41.755539,12.290882,"240",SW,,late 1st c. BCE,"-50","-1","-1",,,,M,,god,,,,Vici.org,,,"27364",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-4.htm,yes
 "1000319",Temple of the Mensores,,temple,,Ostia,IT,41.75373,12.285083,"170",S,,,,,,,,,,,,Roman,,yes,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,yes
 "1000320",Temple of Bona Dea,Bona Dea,temple,,Ostia,IT,41.750622,12.285329,"99",E,,1st half 1st c. CE,"1","50","1",,,,F,,god,Roman,,yes,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,yes
-"1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752764,12.286052,"104",E,,late 2nc c. CE,"161","192","2",,,,,,,Roman,,yes,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,yes
+"1000321",Temple of the Fabri Navales,,temple,,Ostia,IT,41.752764,12.286052,"104",E,,late 2nd c. CE,"161","192","2",,,,,,,Roman,,yes,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,yes
 "1000322",Temple of Isis,,temple,Isola Sacra,Portus,IT,41.772774,12.255305,,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,no
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,no
 "1000324",Round Temple,,temple,,Ostia,IT,41.75335,12.288047,"329",NW,,2nd qu. 3rd c. CE,"225","249","3",,,,,,,Roman,,yes,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,no
 "1000325",Temple of the Round Altar,,temple,,Ostia,IT,41.753693,12.286317,,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,yes
-"1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,,Early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
-"1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,,Late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
+"1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,,early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
+"1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,,late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
 "1000328",Sanctuary Alto da Vigia,,temple,,Colares,PT,38.824299,-9.47159,,,,,,,,,,,,,,,,,Vici.org,,,"10721","256172","36997",,,,,,,,,,,,no
 "1000329",Temple at Mirobriga Celticorum,,temple,,Santiago do Cacém,PT,38.010284,-8.683709,,,,,,,,,,,,,,,,,Vici.org,,,"10725",,,,,,,,,,,,,,no
 "1000330",Temple,,temple,,Évora,PT,38.572571,-7.907287,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10744",,,,,Roman_Temple_of_Évora,Q737441,,,,,,,,no
@@ -674,7 +674,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000678",Temple C (The Seraya Temple),,temple,Qanawat,Kanatha,SY,32.75422,36.618044,"5",N,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000679",Northern Temple,,temple,Atil,Atheila,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000680",Southern Temple,,temple,Atil,Atheila,SY,32.760855,36.582823,"103",E,,2nd c. CE,"151",,"2",,,,,,,,,yes,Segal2013,,,"31055",,,,,,,,,,,,,,
-"1000681",South Temple,,temple,Sia,Seeia,SY,,,,,,33BCE-55CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000681",South Temple,,temple,Sia,Seeia,SY,,,,,,33 BCE - 55 CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000682",Temple of Dushara,Dushara,temple,Sia,Seeia,SY,,,,,,1st c. BCE,,,"-1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000683",Temple of Baal Shamin,Baal Shamin,temple,Sia,Seeia,SY,32.736603,36.624829,"139",SE,,1st c. CE,,,"1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000684",Temple of Zeus and Athena,"Zeus, Athena",temple,Al-Mushannaf,Nela,SY,32.742352,36.777199,"94",E,,,,,,,,,M/F,,god,,distylos in antis,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -731,7 +731,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000329",Temple IV of Four Small Temples,Spes,temple,,Ostia,IT,41.755609,12.290436,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,yes
 "1000330",Collegial Temple,,temple,,Ostia,IT,41.753161,12.287807,"60",NE,,Alexander Severus,"222","235","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/10/10-4.htm,yes
 "1000331",Temple of the Forum Baths,,temple,,Ostia,IT,41.753354,12.289632,"139",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/12/12-6.htm,yes
-"1000332",Tetrastyle Temple,,temple,,Ostia,IT,41.753965,12.286321,"151",SE,,late 2nc c. BCE,"-125","-101","-2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-2.htm,yes
+"1000332",Tetrastyle Temple,,temple,,Ostia,IT,41.753965,12.286321,"151",SE,,late 2nd c. BCE,"-125","-101","-2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-2.htm,yes
 "1000333",Temple of the Round Altar,,temple,,Ostia,IT,41.753646,12.286058,"89",E,,Republican,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-6.htm,yes
 "1000334",Temple of the Magna Mater,Magna Mater,temple,,Ostia,IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
 "1000335",Temple of Bona Dea,Bona Dea,temple,,Ostia,IT,41.754603,12.291503,"158",S,,2nd c. BCE,"-199","-100","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/10/10-2.htm,yes
