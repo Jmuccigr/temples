@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-08-31"  ; 
+    dcterms:modified "2019-09-01"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -816,14 +816,9 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 <http://romeresearchgroup.org/items/1000084> a lawd:Place ;
 rdfs:label "Temple of Minerva Medica" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.893845"^^xsd:double ; geo:long "12.511867"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-skos:exactMatch <http://vici.org/vici/7929> ;
-skos:exactMatch <http://pleiades.stoa.org/places/540898685> ;
-skos:exactMatch <https://www.wikidata.org/entity/Q1411575> ;
-skos:exactMatch <https://topostext.org/place/419125SMiM> ;
 .
 <http://romeresearchgroup.org/items/1000085> a lawd:Place ;
 rdfs:label "Temple of Minerva" ;
