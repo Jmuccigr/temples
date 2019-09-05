@@ -1495,7 +1495,7 @@
         "location": "Forum Boarium",
         "city": "Rome",
         "country": "IT",
-        "orientation": "180",
+        "orientation": "183",
         "compass": "S",
         "vowed": "",
         "date": "-396",
@@ -1533,8 +1533,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480833,
-          41.890556
+          12.481069,
+          41.890791
         ]
       }
     },
@@ -4092,7 +4092,7 @@
         "location": "Forum Boarium",
         "city": "Rome",
         "country": "IT",
-        "orientation": "180",
+        "orientation": "183",
         "compass": "S",
         "vowed": "",
         "date": "-368",
@@ -4130,8 +4130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.480833,
-          41.890556
+          12.481398,
+          41.89081
         ]
       }
     },
@@ -38482,7 +38482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000326",
+        "id": "1000734",
         "name": "Republican Temple",
         "dedicatee": "",
         "type": "temple",
@@ -38535,7 +38535,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000327",
+        "id": "1000735",
         "name": "Temple II of Four Small Temples",
         "dedicatee": "Fortuna",
         "type": "temple",
@@ -38588,7 +38588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000328",
+        "id": "1000736",
         "name": "Temple III of Four Small Temples",
         "dedicatee": "Ceres",
         "type": "temple",
@@ -38641,7 +38641,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000329",
+        "id": "1000737",
         "name": "Temple IV of Four Small Temples",
         "dedicatee": "Spes",
         "type": "temple",
@@ -38694,7 +38694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000330",
+        "id": "1000738",
         "name": "Collegial Temple",
         "dedicatee": "",
         "type": "temple",
@@ -38747,7 +38747,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000331",
+        "id": "1000739",
         "name": "Temple of the Forum Baths",
         "dedicatee": "",
         "type": "temple",
@@ -38800,7 +38800,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000332",
+        "id": "1000740",
         "name": "Tetrastyle Temple",
         "dedicatee": "",
         "type": "temple",
@@ -38853,7 +38853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000333",
+        "id": "1000741",
         "name": "Temple of the Round Altar",
         "dedicatee": "",
         "type": "temple",
@@ -38906,7 +38906,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000334",
+        "id": "1000742",
         "name": "Temple of the Magna Mater",
         "dedicatee": "Magna Mater",
         "type": "temple",
@@ -38959,7 +38959,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000335",
+        "id": "1000743",
         "name": "Temple of Bona Dea",
         "dedicatee": "Bona Dea",
         "type": "temple",
@@ -39012,7 +39012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000336",
+        "id": "1000744",
         "name": "Temple of L. Hortensius Heraclida",
         "dedicatee": "",
         "type": "temple",

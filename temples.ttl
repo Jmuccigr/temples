@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-09-01"  ; 
+    dcterms:modified "2019-09-05"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -329,7 +329,7 @@ skos:exactMatch <https://topostext.org/place/419125SFor> ;
 <http://romeresearchgroup.org/items/1000030> a lawd:Place ;
 rdfs:label "Temple of Fortuna" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.890556"^^xsd:double ; geo:long "12.480833"^^xsd:double ] ;
+geo:location [ geo:lat "41.890791"^^xsd:double ; geo:long "12.481069"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -775,7 +775,7 @@ skos:exactMatch <https://topostext.org/place/419125SMUl> ;
 <http://romeresearchgroup.org/items/1000079> a lawd:Place ;
 rdfs:label "Temple of Mater Matuta" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.890556"^^xsd:double ; geo:long "12.480833"^^xsd:double ] ;
+geo:location [ geo:lat "41.89081"^^xsd:double ; geo:long "12.481398"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -6880,7 +6880,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000326> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000734> a lawd:Place ;
 rdfs:label "Republican Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.75472"^^xsd:double ; geo:long "12.289539"^^xsd:double ] ;
@@ -6889,7 +6889,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000327> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000735> a lawd:Place ;
 rdfs:label "Temple II of Four Small Temples" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.755696"^^xsd:double ; geo:long "12.290623"^^xsd:double ] ;
@@ -6899,7 +6899,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/27361> ;
 .
-<http://romeresearchgroup.org/items/1000328> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000736> a lawd:Place ;
 rdfs:label "Temple III of Four Small Temples" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.755648"^^xsd:double ; geo:long "12.290521"^^xsd:double ] ;
@@ -6909,7 +6909,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/27361> ;
 .
-<http://romeresearchgroup.org/items/1000329> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000737> a lawd:Place ;
 rdfs:label "Temple IV of Four Small Temples" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.755609"^^xsd:double ; geo:long "12.290436"^^xsd:double ] ;
@@ -6919,7 +6919,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/27361> ;
 .
-<http://romeresearchgroup.org/items/1000330> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000738> a lawd:Place ;
 rdfs:label "Collegial Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753161"^^xsd:double ; geo:long "12.287807"^^xsd:double ] ;
@@ -6928,7 +6928,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000331> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000739> a lawd:Place ;
 rdfs:label "Temple of the Forum Baths" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753354"^^xsd:double ; geo:long "12.289632"^^xsd:double ] ;
@@ -6937,7 +6937,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000332> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000740> a lawd:Place ;
 rdfs:label "Tetrastyle Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753965"^^xsd:double ; geo:long "12.286321"^^xsd:double ] ;
@@ -6946,7 +6946,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000333> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000741> a lawd:Place ;
 rdfs:label "Temple of the Round Altar" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.753646"^^xsd:double ; geo:long "12.286058"^^xsd:double ] ;
@@ -6955,7 +6955,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000334> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000742> a lawd:Place ;
 rdfs:label "Temple of the Magna Mater" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.752114"^^xsd:double ; geo:long "12.2903"^^xsd:double ] ;
@@ -6964,7 +6964,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000335> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000743> a lawd:Place ;
 rdfs:label "Temple of Bona Dea" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.754603"^^xsd:double ; geo:long "12.291503"^^xsd:double ] ;
@@ -6973,7 +6973,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
-<http://romeresearchgroup.org/items/1000336> a lawd:Place ;
+<http://romeresearchgroup.org/items/1000744> a lawd:Place ;
 rdfs:label "Temple of L. Hortensius Heraclida" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.755478"^^xsd:double ; geo:long "12.292198"^^xsd:double ] ;
