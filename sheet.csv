@@ -76,7 +76,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000076",Temple of Mars,Mars,temple,Circus Flaminius,Rome,IT,,,,,,"-138","-138",,"-2",,,,M,,god,Roman,,,,,,,,,,,Temple_of_Mars,,,,,,,,,
 "1000077",Temple of Mars,Mars,temple,North Via Appia,Rome,IT,,,,,"-390","-388","-388",,"-4",,,,M,June 1,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000078",Temple of Mars Ultor,Mars,temple,Forum of Augustus,Rome,IT,41.894444,12.486944,"233",SW,,"-2","-2",,"-1",,,,M,,god,Roman,,,Stamper,,,,,,"5747",,it=Tempio_di_Marte_Ultore,Q679665,,,"43987",,,419125SMUl,,
-"1000079",Temple of Mater Matuta,Mater Matuta,temple,Forum Boarium,Rome,IT,41.890556,12.480833,"180",S,,"-368","-368",,"-4",,,,F,June 11,god,Roman,,,Stamper,,,,,,,,,,,,,,,419125SMMa,,
+"1000079",Temple of Mater Matuta,Mater Matuta,temple,Forum Boarium,Rome,IT,41.890791,12.481074,"180",S,,"-368","-368",,"-4",,,,F,June 11,god,Roman,,,Stamper,,,,,,,,,,,,,,,419125SMMa,,
 "1000080",Temple of Matidia,Matidia,temple,Campus Martius,Rome,IT,41.899964,12.478081,,,,"119","119",,"2",,,,F,,family,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000081",Mausoleum of Romulus,,tomb,,Rome,IT,41.8550631,12.5181785,,,,early 4th c. CE,,,"4",,,,,,hero,Roman,,,,,DARE,,,"23842",,,,,,,,,,,,
 "1000082",Temple of Mercury,Mercury,temple,Aventine Hill,Rome,IT,,,,,,"-495","-495",,"-5",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
