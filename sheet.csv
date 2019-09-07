@@ -14,7 +14,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000014",Temple of Cybele/Magna Mater,Cybele/Magna Mater,temple,Palatine Hill,Rome,IT,41.889554,12.484984,"203",SW,,"-191","-191",,"-2",,,,F,April 11,god,Roman,,,Stamper,senate,Vici.org,"17956",,,"9110",,Temple_of_Cybele_(Palatine),Q383609,,,,,,419125SMMT,,
 "1000015",Temple of Dea Dia,Dea Dia,temple,,Rome,IT,41.83614,12.44195,,,,,,,,,,,F,,god,Roman,,,,,DARE,,"422916","37153",,,,,,,,,,,,
 "1000016",Temple of Diana,Diana,temple,Aventine,Rome,IT,41.882828,12.483194,,,,-499-400,"-499","-400","-5",,,,F,August 13,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000017",Temple of the Divine Antoninus and the Divine Faustina,"Antoninus, Faustina",temple,Forum,Rome,IT,41.892139,12.486689,"217",SW,,"161","161",,"2",,,,M/F,,"emperor, family",Roman,,,Blake,,Vici.org,"15009",,,"5645",,Temple_of_Antoninus_and_Faustina,Q752555,,,,,,419125SFas,,
+"1000017",Temple of the Divine Antoninus and the Divine Faustina,"Antoninus, Faustina",temple,Forum,Rome,IT,41.892139,12.486689,"217",SW,,"141","141",,"2",,,,M/F,,"emperor, family",Roman,,,Blake,,Vici.org,"15009",,,"5645",,Temple_of_Antoninus_and_Faustina,Q752555,,,,,,419125SFas,,
 "1000018",Temple of the Divine Augustus,Augustus,temple,,Rome,IT,41.891616,12.484471,,,,,,,,,,,M,,emperor,Roman,,,Blake,,,,,,"5743",,Temple_of_Divus_Augustus,Q927222,,,,,,419125SDAT,,
 "1000019",Temple of the Divine Julius,Julius,temple,Forum,Rome,IT,41.891943,12.486246,"300",NW,,"-29","-29",,"-1",,,,M,August 18,emperor,Roman,,,Stamper,,,"15048",,,"5744",,,Q1133288,,,,,,419125SJul,,
 "1000020",Temple of the Divine Romulus,Romulus,temple,Forum,Rome,IT,41.891846,12.487166,"205",SW,,,,,,,,,M,,hero,Roman,,,,,Vici.org,"15044",,,"10545",,Temple_of_Romulus,,,,,,,419125SRom,,
