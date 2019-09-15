@@ -736,3 +736,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000742",Temple of the Magna Mater,Magna Mater,temple,,Ostia,IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
 "1000743",Temple of Bona Dea,Bona Dea,temple,,Ostia,IT,41.754603,12.291503,"158",S,,2nd c. BCE,"-199","-100","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/10/10-2.htm,yes
 "1000744",Temple of L. Hortensius Heraclida,,temple,,Ostia,IT,41.755478,12.292198,"145",SE,,3rd qu. 3rd c. CE,"251","275","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/12/12-1.htm,yes
+"1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvium,IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
