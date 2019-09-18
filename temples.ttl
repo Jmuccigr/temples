@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-09-15"  ; 
+    dcterms:modified "2019-09-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6985,6 +6985,24 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 <http://romeresearchgroup.org/items/1000745> a lawd:Place ;
 rdfs:label "Temple of Juno Sospita" ;
 dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000746> a lawd:Place ;
+rdfs:label "Temple of S. Pietro" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.07709"^^xsd:double ; geo:long "13.410732"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000747> a lawd:Place ;
+rdfs:label "Temple on the Pettorino Hill" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.080027"^^xsd:double ; geo:long "13.414105"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;

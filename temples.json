@@ -39114,6 +39114,112 @@
           ""
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000746",
+        "name": "Temple of S. Pietro",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Alba Fucens",
+        "country": "IT",
+        "orientation": "70",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410732,
+          42.07709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000747",
+        "name": "Temple on the Pettorino Hill",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "city": "Alba Fucens",
+        "country": "IT",
+        "orientation": "232",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414105,
+          42.080027
+        ]
+      }
     }
   ]
 }
