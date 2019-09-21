@@ -242,7 +242,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000242",Western forum temple,,temple,,Carsulae,IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
 "1000243",Acropolis,,temple,,Populonia,IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
 "1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,IT,41.838009,12.89152,,,,,,,,,,,,,concept,,,,Vici.org,,,"11650",,,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,,,,,,,,,no
-"1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,,,,,,,,,,yes
+"1000245",Temple of Minerva,Minerva,temple,,Assisi,IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,"Temple_of_Minerva,_Assisi",Q11836,,,,,,,,yes
 "1000246",Temple of Athena,Athena,temple,,Syracuse,IT,37.05965,15.29354,,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,no
 "1000247",Temple of Apollo,Apollo,temple,,Syracuse,IT,37.063938,15.29297,,,,,,,,,,,M,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,no
 "1000248",Temple of Diana Nemorensis,Diana,temple,,Alberese,IT,42.672871,11.05109,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"11973","422917","22227",,,Temple_of_Diana_(Nemi),Q18590113,,,,,,417127SDiN,,no
