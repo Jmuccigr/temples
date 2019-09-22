@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-09-18"  ; 
+    dcterms:modified "2019-09-21"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2318,10 +2318,13 @@ skos:exactMatch <href="https://en.wikipedia.org/wiki/Palestrina#Sanctuary_of_For
 rdfs:label "Temple of Minerva" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "43.071224"^^xsd:double ; geo:long "12.614974"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/11658> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Minerva,_Assisi"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q11836> ;
 .
 <http://romeresearchgroup.org/items/1000246> a lawd:Place ;
 rdfs:label "Temple of Athena" ;
