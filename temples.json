@@ -39220,6 +39220,59 @@
           42.080027
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000748",
+        "name": "Temple at Garni",
+        "dedicatee": "Mihr",
+        "type": "temple",
+        "location": "",
+        "city": "Garni",
+        "country": "AM",
+        "orientation": "345",
+        "compass": "N",
+        "vowed": "",
+        "date": "77 CE",
+        "startdateearly": "77",
+        "startdatelate": "",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Armenian",
+        "style": "Ionic",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "976360689",
+        "dare": "7873",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Garni",
+        "wikidata": "Q684072",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.730136,
+          40.112555
+        ]
+      }
     }
   ]
 }
