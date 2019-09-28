@@ -739,3 +739,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvium,IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000746",Temple of S. Pietro,,temple,,Alba Fucens,IT,42.07709,13.410732,"70",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000747",Temple on the Pettorino Hill,,temple,,Alba Fucens,IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000748",Temple at Garni,Mihr,temple,,Garni,AM,40.112555,44.730136,"165",S,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
