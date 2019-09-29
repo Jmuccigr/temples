@@ -1056,8 +1056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.484645,
-          41.895471
+          "",
+          ""
         ]
       }
     },
@@ -5417,8 +5417,8 @@
         "location": "",
         "city": "Rome",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "323",
+        "compass": "NW",
         "vowed": "",
         "date": "75",
         "startdateearly": "75",
@@ -5435,7 +5435,7 @@
         "extant": "",
         "source": "",
         "meetings": "",
-        "note": "",
+        "note": "Orientation = Mars Ultor + 90",
         "vici": "",
         "pleiades": "",
         "dare": "",
@@ -5746,7 +5746,7 @@
         "preceded": "",
         "succeeded": "",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "December 17",
         "deitytype": "god",
         "culture": "Roman",
         "style": "",
