@@ -741,3 +741,5 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000747",Temple on the Pettorino Hill,,temple,,Alba Fucens,IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000748",Temple at Garni,Mihr,temple,,Garni,AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
 "1000749",Temple of Spes Vetus,Spes,temple,Esquiine,Rome,IT,,,,,,477 BCE,"477",,"5",,,,F,,god,Roman,,no,,,,,,,,,Temple_of_Spes,Q3983282,,,,,,,,
+"1000750",Temple of Jupiter,Jupiter,temple,,Saepinum,IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
+"1000751",,,temple,,Saepinum,IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
