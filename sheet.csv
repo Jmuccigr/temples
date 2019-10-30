@@ -120,7 +120,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000120",Tomb of Cecilia Metella,,tomb,Via Appia,Rome,IT,41.852196,12.520981,,,,,,,,,,,F,,,Roman,,,,,"Pleiades; vici.org",,"423064",,,,,,,,,,,,,
 "1000121",Temple of Veiovis,Veiovis,temple,Inter duos lucos,Rome,IT,41.892776,12.483611,"220",SW,,,,,,,,,M,March 7,god,Roman,,,,,Pleiades,"17964",,,"1319962",,,Q764141,,,,,,,,
 "1000122",Temple of Venus and Roma,"Venus, Rome",temple,,Rome,IT,41.890812,12.490168,"113",SE,,140-145,"140","145","2",,,,F,,"god, city",Roman,,,,,Pleiades,"15008",,,"7481",,Temple_of_Venus_and_Roma,Q430792,,,,,,419125SVeR,,
-"1000123",Temple of Venus Genetrix,Venus,temple,Forum of Julius,Rome,IT,41.8942,12.4848,"130",SE,,"-46","-46",,"-1",,,,F,,god,Roman,,,Blake,,Pleiades,,,,"5656",,Temple_of_Venus_Genetrix,Q2459870,,,,,,419125SVeG,,
+"1000123",Temple of Venus Genetrix,Venus,temple,Forum of Julius,Rome,IT,41.8942,12.4848,"130",SE,,"-46","-46",,"-1",,,,F,September 26,god,Roman,,,Blake,,Pleiades,,,,"5656",,Temple_of_Venus_Genetrix,Q2459870,,,,,,419125SVeG,,
 "1000124",Temple of Venus Obsequens,Venus,temple,Circus Maximus,Rome,IT,,,,,"-295","-290","-290",,"-3",,,,F,August 19,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000125",Temple of Venus Victrix,Venus,temple,Campus Martius,Rome,IT,41.895335,12.473014,"90",E,,"-55","-55",,"-1",,,,F,,god,Roman,,yes,Stamper,senate,"Pleiades; coords modified",,,,,,,,,,,,,,,
 "1000126",Temple of the Divine Vespasian and the Divine Titus,"Vespasian, Titus",temple,Forum,Rome,IT,41.892876,12.484081,"119",SE,,,,,,,,,M,,emperor,Roman,,,,,Pleiades,"15042",,,"5643",,,Q731284,,,,,,,,
