@@ -232,7 +232,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000232",Temple of Juno,Juno,temple,,Gabii,IT,41.887016,12.71593,,,,,,,,,,,,,god,,,,Vici.org,,,"7912",,,,,,,,,,,,,,no
 "1000233",Temple of Antas,,temple,,Fluminimaggiore,IT,39.394028,8.500288,,,,,,,,,,,,,,Punic,,,Vici.org,,,"8129",,,,,,,,,,,,394085SAdd,,no
 "1000234",Punico-Roman Temple,,temple,,Cagliari,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
-"1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,IT,45.539905,10.225802,,,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
+"1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
 "1000237",Temple at Bovianum Vetus,,temple,,Pietrabbondante,IT,41.73999,14.386793,,,,,,,,,,,,,,,,,Vici.org,,,"10919",,,,,,,,,,,,,,no
 "1000238",Temple of Hera Lacinia,Hera,temple,,,IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,no
