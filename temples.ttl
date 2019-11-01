@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-09-29"  ; 
+    dcterms:modified "2019-11-01"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2220,6 +2220,7 @@ skos:exactMatch <http://vici.org/vici/8476> ;
 rdfs:label "Capitolium" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "45.539905"^^xsd:double ; geo:long "10.225802"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -7022,4 +7023,50 @@ skos:exactMatch <http://pleiades.stoa.org/places/976360689> ;
 skos:exactMatch <http://dare.ht.lu.se/places/7873> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Garni"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q684072> ;
+.
+<http://romeresearchgroup.org/items/1000749> a lawd:Place ;
+rdfs:label "Temple of Spes Vetus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Spes"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983282> ;
+.
+<http://romeresearchgroup.org/items/1000750> a lawd:Place ;
+rdfs:label "Temple of Jupiter" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.433011"^^xsd:double ; geo:long "14.617842"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/949315840> ;
+.
+<http://romeresearchgroup.org/items/1000751> a lawd:Place ;
+rdfs:label "Temple" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.433276"^^xsd:double ; geo:long "14.616969"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000752> a lawd:Place ;
+rdfs:label "North Temple of the Antinoeion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.941024"^^xsd:double ; geo:long "12.773639"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000753> a lawd:Place ;
+rdfs:label "South Temple of the Antinoeion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.940718"^^xsd:double ; geo:long "12.773825"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
