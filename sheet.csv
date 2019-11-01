@@ -743,3 +743,5 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000749",Temple of Spes Vetus,Spes,temple,Esquiine,Rome,IT,,,,,,477 BCE,"477",,"5",,,,F,,god,Roman,,no,,,,,,,,,Temple_of_Spes,Q3983282,,,,,,,,
 "1000750",Temple of Jupiter,Jupiter,temple,,Saepinum,IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
 "1000751",Temple,,temple,,Saepinum,IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000752",North Temple of the Antinoeion,,temple,,Tivoli,IT,41.941024,12.773639,"157",SE,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000753",South Temple of the Antinoeion,,temple,,Tivoli,IT,41.940718,12.773825,"337",NW,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
