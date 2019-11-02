@@ -51,7 +51,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000051",Temple of Jupiter Damascenus,Jupiter,temple,,Damascus,SY,33.510833,36.300833,,,,"14","14",,"1",,,,M,,god,Roman,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000052",Temple of Jupiter,Jupiter,temple,,Yarbrud,SY,33.966667,36.666667,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000053",Temple of Jupiter Heliopolitanus,Jupiter,temple,Baalbek,Heliopolis,LB,34.006839,36.203397,"76",E,,"135","135",,"2",,,,M,,god,Roman,,yes,,,,"16415",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-jupiter/,Temple_of_Jupiter_(Roman_Heliopolis),Q21079381,,,,,,,,yes
-"1000054",Temple of Jupiter Anxur,Jupiter,temple,,Terracina,IT,41.290817,13.260113,"175",S,,,,,,,,,M,,god,Roman,,,,,Coord from Google maps,,"433143",,,,,Q3983252,,,,,,413133SJAn,,
+"1000054",Temple of Jupiter Anxur,Jupiter,temple,,Terracina,IT,41.290817,13.260113,"175",S,,,,,,,,,M,,god,Roman,,,,,Coord from Google maps,"10868","433143","42343",,,,Q3983252,,,,,,413133SJAn,,
 "1000055",Temple of Jupiter Conservator,Jupiter,temple,Capitoline Hill,Rome,IT,,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000056",Temple of Jupiter Custos,Jupiter,temple,Capitoline Hill,Rome,IT,41.891825,12.481892,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000057",Temple of Jupiter Dolichenus,Jupiter,temple,Aventine Hill,Rome,IT,41.88319,12.4804,,,,,,,,,,,M,,god,Roman,,,Blake,,Location from Arachne,,,,"6074",,,,,,,,,,,
@@ -224,8 +224,8 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000224",Temple of Poseidon,Neptune,temple,,Sounion,GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
 "1000225",Temple of Athena,Minerva,temple,,Sounion,GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
 "1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
-"1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,,,,,,,,,,,,,,,
-"1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,,,,,,,,,,,,,,,
+"1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,,,,,,,,,
+"1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,,M,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
@@ -745,3 +745,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000751",Temple,,temple,,Saepinum,IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000752",North Temple of the Antinoeion,,temple,,Tivoli,IT,41.941024,12.773639,"157",SE,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000753",South Temple of the Antinoeion,,temple,,Tivoli,IT,41.940718,12.773825,"337",NW,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000754",Tempietto,,temple,,Terracina,IT,41.291178,13.260001,"150",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
