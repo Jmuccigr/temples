@@ -224,7 +224,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000224",Temple of Poseidon,Neptune,temple,,Sounion,GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
 "1000225",Temple of Athena,Minerva,temple,,Sounion,GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
 "1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
-"1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,,,,,,,,,
+"1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,Q30524229,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,,M,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
