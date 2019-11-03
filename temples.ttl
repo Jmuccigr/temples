@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-11-01"  ; 
+    dcterms:modified "2019-11-03"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -564,7 +564,9 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/10868> ;
 skos:exactMatch <http://pleiades.stoa.org/places/433143> ;
+skos:exactMatch <http://dare.ht.lu.se/places/42343> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983252> ;
 skos:exactMatch <https://topostext.org/place/413133SJAn> ;
 .
@@ -2146,6 +2148,8 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/19795> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q30524229> ;
 .
 <http://romeresearchgroup.org/items/1000228> a lawd:Place ;
 rdfs:label "Church of San Cesareo" ;
@@ -2155,6 +2159,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/19797> ;
 .
 <http://romeresearchgroup.org/items/1000229> a lawd:Place ;
 rdfs:label "Temple of Apollo" ;
@@ -7066,6 +7071,53 @@ rdfs:label "South Temple of the Antinoeion" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.940718"^^xsd:double ; geo:long "12.773825"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000754> a lawd:Place ;
+rdfs:label "Tempietto" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.291178"^^xsd:double ; geo:long "13.260001"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000755> a lawd:Place ;
+rdfs:label "Tempio di Via Pertinace" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.2916"^^xsd:double ; geo:long "13.2497"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000756> a lawd:Place ;
+rdfs:label "Temple of the Divine Julius" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.241967"^^xsd:double ; geo:long "13.768918"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000757> a lawd:Place ;
+rdfs:label "Capitolium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.242033"^^xsd:double ; geo:long "13.768104"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://it.wikipedia.org/wiki/Capitolium_di_Minturnae"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3657074> ;
+.
+<http://romeresearchgroup.org/items/1000758> a lawd:Place ;
+rdfs:label "Temple of Augustus and Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.241958"^^xsd:double ; geo:long "13.768308"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
