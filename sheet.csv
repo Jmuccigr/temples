@@ -747,3 +747,5 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000753",South Temple of the Antinoeion,,temple,,Tivoli,IT,41.940718,12.773825,"337",NW,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000754",Tempietto,,temple,,Terracina,IT,41.291178,13.260001,"150",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000755",Tempio di Via Pertinace,,temple,,Terracina,IT,41.2916,13.2497,"224",SW,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000756",Temple of the Divine Julius,Julius Caesar,temple,,Minturnae,IT,41.241967,13.768918,,,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000757",Capitolium,"Jupiter, Juno, Minerva",temple,,Minturnae,IT,41.242033,13.768104,,,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
