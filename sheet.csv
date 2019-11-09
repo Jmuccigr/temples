@@ -750,3 +750,5 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000756",Temple of the Divine Julius,Julius Caesar,temple,,Minturnae,IT,41.241967,13.768918,"197",S,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000757",Capitolium,"Jupiter, Juno, Minerva",temple,,Minturnae,IT,41.242033,13.768104,"201",S,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,it=Capitolium_di_Minturnae,Q3657074,,,,,,,,yes
 "1000758",Temple of Augustus and Rome,"Augustus, Rome",temple,,Minturnae,IT,41.241958,13.768308,"201",S,,,,,,,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000758",Temple A,,temple,,Minturnae,IT,41.241959,13.768308,"201",S,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000759",Temple of the Divine Julius Caesar,Julius Caesar,temple,,Minturnae,IT,41.241955,13.76892,"199",S,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
