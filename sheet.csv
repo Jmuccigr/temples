@@ -248,7 +248,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000248",Temple of Diana Nemorensis,Diana,temple,,Alberese,IT,42.672871,11.05109,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"11973","422917","22227",,,Temple_of_Diana_(Nemi),Q18590113,,,,,,417127SDiN,,no
 "1000249","Temple of Venus, Baiae",Venus,temple,,Bacoli,IT,40.816093,14.071485,,,,,,,,,,,F,,god,,,,Vici.org,,,"13916",,,,,,,,,,,,,,no
 "1000250","Temple of Diana, Baiae",Diana,temple,,Bacoli,IT,40.819092,14.070563,,,,,,,,,,,,,god,,,,Vici.org,,,"13917",,,,,,,,,,,,,,no
-"1000251",Temple of Jupiter,Jupiter,temple,,Cumae,IT,40.849385,14.051347,"91",E,,,,,,,,,,,god,,,,Vici.org,,,"14781",,,,,,,,,,,,,,
+"1000251",Temple of Jupiter,Jupiter,temple,,Cumae,IT,40.849385,14.051347,"91",E,,,,,,,,,,,god,,,,Vici.org,,,"14781",,"42938",,,,Q2185877,,,,,,,,
 "1000252",Temple of Apollo,Apollo,temple,,Cumae,IT,40.848538,14.053502,"42",NE,,,,,,,,,M,,god,,,,Vici.org,,,"14782",,,,,,,,,,,,,,
 "1000253",Temple of Apollo,Apollo,temple,,Avernus,IT,40.839336,14.082209,,,,,,,,,,,M,,god,,,,Vici.org,,Lake Avernus was seen as an entrance to Hades,"16310",,,,,,,,,,,,,,no
 "1000254",Temple of Hera,Hera,temple,,Paestum,IT,40.419327,15.005457,,,,,,,,,,,,,god,,,,Vici.org,,,"16774",,,,,,,,,,,,,,no
@@ -323,8 +323,8 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000323",Temple of Portumnus,,temple,,Portus,IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,no
 "1000324",Round Temple,,temple,,Ostia,IT,41.75335,12.288047,"329",NW,,2nd qu. 3rd c. CE,"225","249","3",,,,,,,Roman,,yes,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,no
 "1000325",Temple of the Round Altar,,temple,,Ostia,IT,41.753693,12.286317,,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,yes
-"1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,,early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
-"1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,,late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
+"1000326",Temple with portico,,temple,,Cumae,IT,40.847906,14.057575,"16",N,,early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000327",Masseria del Gigante,,temple,,Cumae,IT,40.847826,14.058799,"280",W,,late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000328",Sanctuary Alto da Vigia,,temple,,Colares,PT,38.824299,-9.47159,,,,,,,,,,,,,,,,,Vici.org,,,"10721","256172","36997",,,,,,,,,,,,no
 "1000329",Temple at Mirobriga Celticorum,,temple,,Santiago do Cacém,PT,38.010284,-8.683709,,,,,,,,,,,,,,,,,Vici.org,,,"10725",,,,,,,,,,,,,,no
 "1000330",Temple,,temple,,Évora,PT,38.572571,-7.907287,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10744",,,,,Roman_Temple_of_Évora,Q737441,,,,,,,,no
