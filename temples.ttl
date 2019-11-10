@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-11-03"  ; 
+    dcterms:modified "2019-11-10"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -7117,6 +7117,15 @@ skos:exactMatch <https://www.wikidata.org/entity/Q3657074> ;
 rdfs:label "Temple of Augustus and Rome" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.241958"^^xsd:double ; geo:long "13.768308"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000759> a lawd:Place ;
+rdfs:label "Temple of the Divine Julius Caesar" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.241955"^^xsd:double ; geo:long "13.76892"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;

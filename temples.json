@@ -39803,6 +39803,59 @@
           41.241958
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000759",
+        "name": "Temple of the Divine Julius Caesar",
+        "dedicatee": "Julius Caesar",
+        "type": "temple",
+        "location": "",
+        "city": "Minturnae",
+        "country": "IT",
+        "orientation": "199",
+        "compass": "S",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76892,
+          41.241955
+        ]
+      }
     }
   ]
 }
