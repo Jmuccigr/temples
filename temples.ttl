@@ -2391,6 +2391,8 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/14781> ;
+skos:exactMatch <http://dare.ht.lu.se/places/42938> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q2185877> ;
 .
 <http://romeresearchgroup.org/items/1000252> a lawd:Place ;
 rdfs:label "Temple of Apollo" ;

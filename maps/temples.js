@@ -9042,11 +9042,11 @@ var temples =  {
         "note": "",
         "vici": "14781",
         "pleiades": "",
-        "dare": "",
+        "dare": "42938",
         "arachne": "",
         "livius": "",
         "wikipedia": "",
-        "wikidata": "",
+        "wikidata": "Q2185877",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
@@ -13029,7 +13029,7 @@ var temples =  {
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": ""
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -13082,7 +13082,7 @@ var temples =  {
         "cona": "",
         "topostext": "",
         "url": "",
-        "checked": ""
+        "checked": "yes"
       },
       "geometry": {
         "type": "Point",
