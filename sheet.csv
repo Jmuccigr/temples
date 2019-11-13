@@ -61,7 +61,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000061",Temple of Jupiter Libertas,Jupiter,temple,Aventine Hill,Rome,IT,,,,,,"-246","-246",,"-3",,,,M,April 13,god,Roman,,,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000062",Temple of Jupiter Capitolinus/Optimus Maximus,Jupiter,temple,Capitoline Hill,Rome,IT,41.892222,12.481667,"152",SE,,"-509","-509",,"-6",,,,M,September 13,god,Roman,,,Blake,senate,,"17971","871801169",,"3910430",,Temple_of_Jupiter_Optimus_Maximus,Q586468,,,,,,419125SJCa,,
 "1000063",Temple of Jupiter Patulaeius,Jupiter,temple,,Ostia,IT,,,,,,-299-200,"-299","-200","-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000064",Temple of Jupiter,Jupiter,temple,,Pompeii,IT,40.7499,14.4845,,,,mid-2nd c. BCE,"-175","-125","-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000064",Temple of Jupiter,Jupiter,temple,,Pompeii,IT,40.7499,14.4845,"157",SE,,mid-2nd c. BCE,"-175","-125","-2",,,,M,,god,Roman,,yes,,,,,"367026512",,,,,,,,,,,,,
 "1000065",Temple of Jupiter Sospita,Jupiter,temple,,,,,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000066",Temple of Jupiter Stator,Jupiter,temple,ad portam Mugoniam,Rome,IT,41.890487,12.488793,,,"-294","-294","-292","-218","-3",,,,M,June 27,god,Roman,,,,senate,Tenative coordinates,,,,,,,,,,,,,,,
 "1000067",Temple of Jupiter Stator,Jupiter,temple,"Porticus Metelli, Circus Flaminius",Rome,IT,41.892897,12.479021,"208",SW,,"-146","-146",,"-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -226,7 +226,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,Q30524229,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
-"1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.74921,14.4844,,,,,,,,,,,M,,god,,,,Vici.org,,,"4349",,,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
+"1000229",Temple of Apollo,Apollo,temple,,Pompeii,IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,Gabii,IT,41.887016,12.71593,,,,,,,,,,,,,god,,,,Vici.org,,,"7912",,,,,,,,,,,,,,no
@@ -751,4 +751,9 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000757",Capitolium,"Jupiter, Juno, Minerva",temple,,Minturnae,IT,41.242033,13.768104,"201",S,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,it=Capitolium_di_Minturnae,Q3657074,,,,,,,,yes
 "1000758",Temple of Augustus and Rome,"Augustus, Rome",temple,,Minturnae,IT,41.241958,13.768308,"201",S,,,,,,,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000759",Temple of the Divine Julius Caesar,Julius Caesar,temple,,Minturnae,IT,41.241955,13.76892,"199",S,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
-"1000760",Doric Temple,Athena,temple,,Pompeii,IT,40.748285,14.488007,,,,,,,,,,,F,,god,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000760",Doric Temple,Athena,temple,,Pompeii,IT,40.748285,14.488007,"116",SE,,6th c. BCE,"-599","-550","-6",,,,F,,god,Etruscan,,yes,,,,,"81187433",,,,it=Tempio_Dorico_(Pompei),Q3983179,,,,,,,,yes
+"1000761",Temple of Venus,Venus,temple,,Pompeii,IT,40.748435,14.483741,"160",S,,,,,,,,,F,,god,Roman,,yes,,,,,"663121962",,,,it=Tempio_di_Venere_(Pompei),Q3983283,,,,,,,,yes
+"1000762",Temple of Isis,Isis,temple,,Pompeii,IT,40.749178,14.48827,"60",NE,,,,,,,,,F,,god,Roman,,yes,,,,,"793723815",,,,Temple_of_Isis_(Pompeii),Q3517528,,,,,,,,yes
+"1000763",Temple of Asclepius,Asclepius,temple,,Pompeii,IT,40.7493,14.488524,"50",NE,,,,,,,,,M,,hero,Roman,,yes,,,,,"83544252",,,,,,,,,,,,,yes
+"1000764",Temple of Vespasian,Vespasian,temple,,Pompeii,IT,40.749619,14.485245,"250",W,,,,,,,,,M,,emperor,Roman,,yes,,,,,"95873554",,,,,,,,,,,,,yes
+"1000765",Temple of Fortuna Augusta,Fortuna Augusta,temple,,Pompeii,IT,40.75073,14.484442,"241",SW,,,,,,,,,F,,concept,Roman,,yes,,,,,"100249112",,,,it=tempio_della_Fortuna_Augusta,Q3983204,,,,,,,,yes
