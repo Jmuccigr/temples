@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-11-10"  ; 
+    dcterms:modified "2019-11-13"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -648,9 +648,11 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 rdfs:label "Temple of Jupiter" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "40.7499"^^xsd:double ; geo:long "14.4845"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/367026512> ;
 .
 <http://romeresearchgroup.org/items/1000065> a lawd:Place ;
 rdfs:label "Temple of Jupiter Sospita" ;
@@ -2164,11 +2166,13 @@ skos:exactMatch <http://vici.org/vici/19797> ;
 <http://romeresearchgroup.org/items/1000229> a lawd:Place ;
 rdfs:label "Temple of Apollo" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.74921"^^xsd:double ; geo:long "14.4844"^^xsd:double ] ;
+geo:location [ geo:lat "40.749257"^^xsd:double ; geo:long "14.484377"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/4349> ;
+skos:exactMatch <http://pleiades.stoa.org/places/780913480> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Apollo_(Pompeii)"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q2699249> ;
 .
@@ -7132,4 +7136,72 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000760> a lawd:Place ;
+rdfs:label "Doric Temple" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.748285"^^xsd:double ; geo:long "14.488007"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/81187433> ;
+skos:exactMatch <href="https://it.wikipedia.org/wiki/Tempio_Dorico_(Pompei)"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983179> ;
+.
+<http://romeresearchgroup.org/items/1000761> a lawd:Place ;
+rdfs:label "Temple of Venus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.748435"^^xsd:double ; geo:long "14.483741"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/663121962> ;
+skos:exactMatch <href="https://it.wikipedia.org/wiki/Tempio_di_Venere_(Pompei)"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983283> ;
+.
+<http://romeresearchgroup.org/items/1000762> a lawd:Place ;
+rdfs:label "Temple of Isis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.749178"^^xsd:double ; geo:long "14.48827"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/793723815> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Isis_(Pompeii)"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3517528> ;
+.
+<http://romeresearchgroup.org/items/1000763> a lawd:Place ;
+rdfs:label "Temple of Asclepius" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.7493"^^xsd:double ; geo:long "14.488524"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/83544252> ;
+.
+<http://romeresearchgroup.org/items/1000764> a lawd:Place ;
+rdfs:label "Temple of Vespasian" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.749619"^^xsd:double ; geo:long "14.485245"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/95873554> ;
+.
+<http://romeresearchgroup.org/items/1000765> a lawd:Place ;
+rdfs:label "Temple of Fortuna Augusta" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.75073"^^xsd:double ; geo:long "14.484442"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/100249112> ;
+skos:exactMatch <href="https://it.wikipedia.org/wiki/tempio_della_Fortuna_Augusta"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983204> ;
 .
