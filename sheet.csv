@@ -1,4 +1,4 @@
-id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,compass,vowed,date,startdateearly,startdatelate,century,enddate,preceded,succeeded,sex,dedicationday,deitytype,culture,style,extant,source,meetings,note,vici,pleiades,dare,arachne,livius,wikipedia,wikidata,digitalromanforum,digitalesforumromanum,trismegistos,ads,cona,topostext,url,checked
+_cn6ca,name,dedicatee,type,location,city,country,latitude,longitude,orientation,compass,vowed,date,startdateearly,startdatelate,century,enddate,preceded,succeeded,sex,dedicationday,deitytype,culture,style,extant,source,meetings,note,vici,pleiades,dare,arachne,livius,wikipedia,wikidata,digitalromanforum,digitalesforumromanum,trismegistos,ads,cona,topostext,url,checked
 "1000001",Temple of Aesculapius,Aesculapius,temple,Tiber Island,Rome,IT,41.890278,12.478333,,,"-292","-291","-291",,"-3",,,,M,January 1,hero,Roman,,,Ziolkowski,,,"23444",,,,,"Temple_of_Asclepius,_Rome",Q3983243,,,,,,419125SAsc,,
 "1000002",Temple of Apollo Palatinus,Apollo,temple,Palatine Hill,Rome,IT,41.888854,12.485741,"227",SW,,"-28","-28",,"-1",,,,M,,god,Roman,,,"Blake, Stamper",,,,,,"8606",,Temple_of_Apollo_Palatinus,Q1236860,,,,,,419125SApP,,
 "1000003",Temple of Apollo Sosianus/Medicus,Apollo,temple,Circus Flaminius,Rome,IT,41.8923136,12.4795912,"180",S,,"-431","-431",,"-5",,,,M,September 23,god,Roman,,,Stamper,senate,"vici.org; coords modified","15038","740034026",,"5665",,Temple_of_Apollo_Sosianus,Q582353,,,,,,419125SApo,,
@@ -286,7 +286,7 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000286",Temple of Clitumnus,,temple,,Pissignano,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791",,,,,,,,,,,,,,no
 "1000287",Temple of Flora,,temple,,,IT,41.305756,14.562722,,,,,,,,,,,F,,concept,,,,Vici.org,,,"19792",,,,,,Q3983249,,,,,,,,no
 "1000288",Temple of the Dioscuri,,temple,,Napoli,IT,40.85144,14.25683,,,,,,,,,,,,,hero,,,,Vici.org,,,"19793",,,,,,,,,,,,,,no
-"1000289",Diana Tifatina,,temple,,Sant'Angelo In Formis,IT,41.118294,14.260515,,,,,,,,,,,,,god,,,,Vici.org,,,"19794","432813","22559",,,,,,,,,,,,no
+"1000289",Temple of Diana Tifatina,Diana,temple,,Sant'Angelo In Formis,IT,41.118251,14.260432,"256",W,,,"-399","-300","-4",,,,F,,god,,,,Vici.org,,,"19794","432813","22559",,,,,,,,,,,,yes
 "1000290",Temple,,temple,,Bevagna,IT,42.934608,12.609744,,,,,,,,,,,,,,,,,Vici.org,,,"19799",,,,,,,,,,,,,,no
 "1000291",Temple Peltuinum,,temple,,,IT,42.283485,13.623908,,,,,,,,,,,,,,,,,Vici.org,,,"20380",,,,,,,,,,,,,,no
 "1000292",Casentino - Chiesa di Pieve a Socano,,temple,,Castel Focognano,IT,43.652519,11.787855,,,,,,,,,,,,,,,,,Vici.org,,Etruscan sanctuary,"20522",,,,,,,,,,,,,,no
@@ -757,3 +757,4 @@ id,name,dedicatee,type,location,city,country,latitude,longitude,orientation,comp
 "1000763",Temple of Asclepius,Asclepius,temple,,Pompeii,IT,40.7493,14.488524,"50",NE,,,,,,,,,M,,hero,Roman,,yes,,,,,"83544252",,,,,,,,,,,,,yes
 "1000764",Temple of the Genius of Augustus,Genius of Augustus,temple,,Pompeii,IT,40.749619,14.485245,"250",W,,,,,,,,,M,,emperor,Roman,,yes,,,,,"95873554",,,,,,,,,,,,,yes
 "1000765",Temple of Fortuna Augusta,Fortuna Augusta,temple,,Pompeii,IT,40.75073,14.484442,"241",SW,,,,,,,,,F,,concept,Roman,,yes,,,,,"100249112",,,,it=tempio_della_Fortuna_Augusta,Q3983204,,,,,,,,yes
+"1000766",Capitolium,"Jupiter, Juno, Minerva",temple,,Capua,IT,41.080728,14.253573,,,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
