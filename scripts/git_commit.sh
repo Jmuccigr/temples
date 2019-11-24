@@ -25,4 +25,4 @@ do
 	fi
 done
 
-echo "$(date +%Y-%m-%d\ %H:%M:%S) $counter temple-db changes pushed to github." 1>&2
+echo "$(date +%Y-%m-%d\ %H:%M:%S) $counter total temple-db changes pushed to github." 1>&2
