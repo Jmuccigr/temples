@@ -76,6 +76,8 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
             outputText += u'dcterms:subject "temple"  ;\n'
             outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
+            if record['properties']['pleiadesplace'] != '':
+        		outputText += u'<spatial:C rdf:resource="https://pleiades.stoa.org/places/' + record['properties']['pleiadesplace'] + '#this"> ;\n'
             if record['properties']['vici'] != '':
                 outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties']['vici'] + '> ;\n'
             if record['properties']['pleiades'] != '':
@@ -103,9 +105,6 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
             if record['properties']['topostext'] != '':
                 outputText += 'skos:exactMatch <https://topostext.org/place/' + record['properties']['topostext'] + '> ;\n'
-#             if record['properties']['ancientPlace'] != '':
-#            		outputText += u'owl:locatedIn <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
-#            		outputText += u'spatial:P <http://pleiades.stoa.org/places/' + record['properties']['ancientPlace'] + '> ;\n'
             outputText += u'.\n'
 
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")

@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-11-14"  ; 
+    dcterms:modified "2019-11-24"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2746,9 +2746,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/19793> ;
 .
 <http://romeresearchgroup.org/items/1000289> a lawd:Place ;
-rdfs:label "Diana Tifatina" ;
+rdfs:label "Temple of Diana Tifatina" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.118294"^^xsd:double ; geo:long "14.260515"^^xsd:double ] ;
+geo:location [ geo:lat "41.118251"^^xsd:double ; geo:long "14.260432"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -7204,4 +7205,30 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://pleiades.stoa.org/places/100249112> ;
 skos:exactMatch <href="https://it.wikipedia.org/wiki/tempio_della_Fortuna_Augusta"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983204> ;
+.
+<http://romeresearchgroup.org/items/1000766> a lawd:Place ;
+rdfs:label "Capitolium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.080728"^^xsd:double ; geo:long "14.253573"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000767> a lawd:Place ;
+rdfs:label "Temple of Feronia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.130265"^^xsd:double ; geo:long "12.597068"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000768> a lawd:Place ;
+rdfs:label "Temple of Salus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.13035"^^xsd:double ; geo:long "12.59671"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
