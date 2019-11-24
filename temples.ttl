@@ -7213,6 +7213,7 @@ geo:location [ geo:lat "41.080728"^^xsd:double ; geo:long "14.253573"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432754#this> ;
 .
 <http://romeresearchgroup.org/items/1000767> a lawd:Place ;
 rdfs:label "Temple of Feronia" ;
@@ -7222,6 +7223,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413184#this> ;
 .
 <http://romeresearchgroup.org/items/1000768> a lawd:Place ;
 rdfs:label "Temple of Salus" ;
@@ -7231,4 +7233,5 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413184#this> ;
 .
