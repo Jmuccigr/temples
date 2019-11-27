@@ -736,7 +736,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000742",Temple of the Magna Mater,Magna Mater,temple,,Ostia,"422995",IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
 "1000743",Temple of Bona Dea,Bona Dea,temple,,Ostia,"422995",IT,41.754603,12.291503,"158",S,,2nd c. BCE,"-199","-100","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/10/10-2.htm,yes
 "1000744",Temple of L. Hortensius Heraclida,,temple,,Ostia,"422995",IT,41.755478,12.292198,"145",SE,,3rd qu. 3rd c. CE,"251","275","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/12/12-1.htm,yes
-"1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvium,,IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvium,"422956",IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000746",Temple of S. Pietro,,temple,,Alba Fucens,,IT,42.07709,13.410732,"70",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000747",Temple on the Pettorino Hill,,temple,,Alba Fucens,,IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000748",Temple at Garni,Mihr,temple,,Garni,,AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
