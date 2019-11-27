@@ -761,3 +761,4 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000767",Temple of Feronia,Feronia,temple,,Lucus Feroniae,"413184",IT,42.130265,12.597068,"158",S,,late 2nd c. BCE,"-130","-110","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000768",Temple of Salus,Salus,temple,,Lucus Feroniae,"413184",IT,42.13035,12.59671,"158",S,,,,,,,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000769",Sanctuary of Fondo Patterelli,,temple,,Capua,"432754",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000770",Temple of Fortuna Redux,Fortuna,temple,Campus Martius,Rome,"432754",IT,,,,,,Domitianic,"81","96","1",,,,F,,concept,Roman,,no,,,,,,,,,,,,,,,,,,
