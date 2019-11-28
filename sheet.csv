@@ -762,3 +762,4 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000768",Temple of Salus,Salus,temple,,Lucus Feroniae,"413184",IT,42.13035,12.59671,"158",S,,,,,,,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000769",Sanctuary of Fondo Patterelli,,temple,,Capua,"432754",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "1000770",Temple of Fortuna Redux,Fortuna,temple,Campus Martius,Rome,"432754",IT,,,,,,Domitianic,"81","96","1",,,,F,,concept,Roman,,no,,,,,,,,,,,,,,,,,,
+"1000771",Temple of Juno Moneta,Juno,temple,,Signia,"423072",IT,41.696927,13.024674,"154",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
