@@ -221,9 +221,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000221",Temple L,,temple,,Agrigento,"462086",IT,37.291043,13.581401,"77",E,,late 5th c. BCE,,,"-5",,,,,,,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000222",Temple of Demeter,,temple,,Agrigento,"462086",IT,37.299241,13.603379,"123",SE,,ca. 480-470 BCE,,,"-5",,,,,,god,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000223",Temple of Isis,,temple,,Agrigento,"462086",IT,37.298272,13.589222,"167",S,,late 1st c. BCE,,,"-1",,,,,,god,Roman,,Yes,,,,,,,,,,,,,,,,,,
-"1000224",Temple of Poseidon,Neptune,temple,,Sounion,,GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
-"1000225",Temple of Athena,Minerva,temple,,Sounion,,GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
-"1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,,GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
+"1000224",Temple of Poseidon,Neptune,temple,,Sounion,"580107",GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
+"1000225",Temple of Athena,Minerva,temple,,Sounion,"580107",GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
+"1000226",Heroon of Phrontis,Phrontis,temple,,Sounion,"580107",GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,"433143",IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,Q30524229,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,"433143",IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,"433032",IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
@@ -488,7 +488,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000488",Lascaux,,temple,,Montignac,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
 "1000489",Camp celtique,,temple,,Niederbronn-les-Bains,,FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
 "1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,,FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
-"1000491",Hafentempel Colonia Ulpia Traiana,,temple,,Xanten,,DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
+"1000491",Hafentempel Colonia Ulpia Traiana,,temple,,Xanten,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
 "1000492",Capitolium CCAA,,temple,,Köln,,DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
 "1000493",Marstempel CCAA,,temple,,Köln,,DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
 "1000494",Temples CCAA,,temple,,Köln,,DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
@@ -582,12 +582,12 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000582",Sanctuary of Mercury (Gangloff),,temple,,Waldgrehweiler,,DE,49.653168,7.706888,,,,,,,,,,,,,,,,,,,,"15553",,,,,,,,,,,,,,no
 "1000583",Temple of Mercury (Bingen),Mercury,temple,,Bingen am Rhein,,DE,49.966831,7.8924,,,,,,,,,,,,,,,,,,,,"15671",,,,,,,,,,,,,,no
 "1000584",Sanctuary,,temple,,Bitburg,,DE,49.977505,6.526544,,,,,,,,,,,,,,,,,,,Heiligtum (Bitburg),"15674",,,,,,,,,,,,,,no
-"1000585",Temple of the Matronae,Matronae,temple,,Xanten,,DE,51.664839,6.444823,"39",NE,,,,,,,,,F,,god,,,,,,Tempel voor de moedergodinnen,"15679",,,,,,,,,,,,,,yes
+"1000585",Temple of the Matronae,Matronae,temple,,Xanten,"108896",DE,51.664839,6.444823,"39",NE,,,,,,,,,F,,god,,,,,,Tempel voor de moedergodinnen,"15679",,,,,,,,,,,,,,yes
 "1000586",Temple area,,temple,Brachtendorf,Dünfus,,DE,50.218475,7.2154,,,,,,,,,,,,,,Gallo-Roman,,,,,,"15681",,,,,,,,,,,,,,no
 "1000587",Temple (Heidenkopf),,temple,,Breitenbach,,DE,49.434444,7.288409,,,,,,,,,,,,,,,,,,,,"15686",,,,,,,,,,,,,,no
 "1000588",Temple (Lohrsdorf),,temple,,Bad Neuenahr-Ahrweiler,,DE,50.552776,7.193636,,,,,,,,,,,,,,,,,,,,"16281",,,,,,,,,,,,,,no
 "1000589",Spring Sanctuary Kasbruch,,temple,,Neunkirchen,,DE,49.337135,7.213664,,,,,,,,,,,,,,Gallo-Roman,,,,,,"16336",,,,,,,,,,,,,,no
-"1000590",Mithraeum,Mithras,mithraeum,,Xanten,,DE,51.659077,6.462894,,,,,,,,,,,,,,,,,,,,"17413",,,,,,,,,,,,,,no
+"1000590",Mithraeum,Mithras,mithraeum,,Xanten,"108896",DE,51.659077,6.462894,,,,,,,,,,,,,,,,,,,,"17413",,,,,,,,,,,,,,no
 "1000591",Temple,,temple,,Aachen,,DE,50.775005,6.085007,,,,,,,,,,,,,,,,,,,,"18766",,,,,,,,,,,,,,no
 "1000592",Temple,,temple,Straß,Nersingen,,DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
 "1000593",(K)ein Mithrasheiligtum (Saalburg),Mithras,mithraeum,,Bad Homburg vor der Höhe,,DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
