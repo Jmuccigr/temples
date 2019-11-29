@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-11-24"  ; 
+    dcterms:modified "2019-11-29"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2262,6 +2262,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580107#this> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Poseidon_at_Sounion"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q49819204> ;
 skos:exactMatch <https://topostext.org/place/377240SSou> ;
@@ -2274,6 +2275,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580107#this> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q24204542> ;
 skos:exactMatch <https://topostext.org/place/377240SAth> ;
 .
@@ -2285,6 +2287,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580107#this> ;
 .
 <http://romeresearchgroup.org/items/1000227> a lawd:Place ;
 rdfs:label "Capitolium" ;
@@ -4971,6 +4974,7 @@ geo:location [ geo:lat "51.66938"^^xsd:double ; geo:long "6.446255"^^xsd:double 
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108896#this> ;
 skos:exactMatch <http://vici.org/vici/102> ;
 .
 <http://romeresearchgroup.org/items/1000492> a lawd:Place ;
@@ -5839,6 +5843,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108896#this> ;
 skos:exactMatch <http://vici.org/vici/15679> ;
 .
 <http://romeresearchgroup.org/items/1000586> a lawd:Place ;
@@ -5884,6 +5889,7 @@ geo:location [ geo:lat "51.659077"^^xsd:double ; geo:long "6.462894"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108896#this> ;
 skos:exactMatch <http://vici.org/vici/17413> ;
 .
 <http://romeresearchgroup.org/items/1000591> a lawd:Place ;
@@ -7225,6 +7231,7 @@ dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422956#this> ;
 .
 <http://romeresearchgroup.org/items/1000746> a lawd:Place ;
 rdfs:label "Temple of S. Pietro" ;
@@ -7478,4 +7485,22 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/432754#this> ;
+.
+<http://romeresearchgroup.org/items/1000770> a lawd:Place ;
+rdfs:label "Temple of Fortuna Redux" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432754#this> ;
+.
+<http://romeresearchgroup.org/items/1000771> a lawd:Place ;
+rdfs:label "Temple of Juno Moneta" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.696927"^^xsd:double ; geo:long "13.024674"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423072#this> ;
 .
