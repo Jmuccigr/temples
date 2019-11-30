@@ -277,9 +277,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,,IT,37.057495,14.89367,,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,no
 "1000278",Sanctuary,Hera,temple,,Locri Epizephiri,,IT,38.211281,16.238371,,,,,,,,,,,,,,,,,Vici.org,,,"17993",,,,,,,,,,,,,,no
 "1000279",Tavole Palatine,Hera,temple,,Tavole Palatine,,IT,40.416199,16.816666,,,,,,,,,,,F,,god,Greek,,,Vici.org,,,"17996","442611","21308",,,Tavole_Palatine,Q3981620,,,,,,404168SHer,,no
-"1000280",Temple 'A',,temple,,Pyrgi,,IT,42.015289,11.963535,,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
-"1000281",Temple 'B',,temple,,Pyrgi,,IT,42.015129,11.963889,,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,no
-"1000282",Sanctuary of Apollo,,temple,,Pyrgi,,IT,42.014652,11.964618,,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,no
+"1000280",Temple 'A',,temple,,Pyrgi,"433061",IT,42.015289,11.963535,,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
+"1000281",Temple 'B',,temple,,Pyrgi,"433061",IT,42.015129,11.963889,,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,no
+"1000282",Sanctuary of Apollo,,temple,,Pyrgi,"433061",IT,42.014652,11.964618,,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,no
 "1000283",Temple of Venus Erycina,,temple,,Erice,,IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
 "1000284",Talamonaccio,,temple,,,,IT,42.551804,11.169796,,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371",,,,,,,,,,,,426112STal,,no
 "1000285",Cult Site,,temple,,Monte S. Martino,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,no
@@ -303,9 +303,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000303",Megara Hyblaea,,temple,,Megara Hyblaea,,IT,37.204262,15.175998,,,,,,,,,,,,,,,,,Vici.org,,Extra mural temple,"25276",,,,,,,,,,,,,,no
 "1000304",Temple,,temple,,Paestum,"442733",IT,40.423512,15.006211,,,,,,,,,,,,,,,,,Vici.org,,Roman Temple - santuario romano,"25323",,,,,,,,,,,,,,no
 "1000305",Temple of Peace,,temple,,Paestum,"442733",IT,40.421938,15.005541,,,,,,,,,,,,,concept,,,,Vici.org,,,"25325",,,,,,,,,,,,,,no
-"1000306",Agora sanctuary,,temple,,Morgantina,,IT,37.430794,14.479367,,,,,,,,,,,,,,,,,Vici.org,,,"25516",,,,,,,,,,,,,,no
-"1000307",Temple of Demeter and Kore,,temple,,Morgantina,,IT,37.43034,14.479649,,,,,,,,,,,,,god,,,,Vici.org,,"Morgantia, Murgantia and Morgantium - temple","25518",,,,,,,,,,,,,,no
-"1000308",Citadel,,temple,,Morgantina,,IT,37.437569,14.48876,,,,,,,,,,,,,,,,,Vici.org,,Ruins of a temple,"25626",,,,,,,,,,,,,,no
+"1000306",Agora sanctuary,,temple,,Morgantina,"462372",IT,37.430794,14.479367,,,,,,,,,,,,,,,,,Vici.org,,,"25516",,,,,,,,,,,,,,no
+"1000307",Temple of Demeter and Kore,,temple,,Morgantina,"462372",IT,37.43034,14.479649,,,,,,,,,,,,,god,,,,Vici.org,,"Morgantia, Murgantia and Morgantium - temple","25518",,,,,,,,,,,,,,no
+"1000308",Citadel,,temple,,Morgantina,"462372",IT,37.437569,14.48876,,,,,,,,,,,,,,,,,Vici.org,,Ruins of a temple,"25626",,,,,,,,,,,,,,no
 "1000309",Rock of Ceres,,temple,,Enna,,IT,37.569225,14.289181,,,,,,,,,,,,,,,,,Vici.org,,Rock shrine of Demeter - Ceres.Rocca di Cerere,"25627",,,,,,,,,,,,,,no
 "1000310",Templi Ferali,,temple,,Acrae,,IT,37.05713,14.895352,,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,no
 "1000311",Temple,,temple,,Kasmenai - Casmenae,,IT,37.076412,14.82563,,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,no
@@ -489,9 +489,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000489",Camp celtique,,temple,,Niederbronn-les-Bains,,FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
 "1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,,FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
 "1000491",Hafentempel Colonia Ulpia Traiana,,temple,,Xanten,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
-"1000492",Capitolium CCAA,,temple,,Köln,,DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
-"1000493",Marstempel CCAA,,temple,,Köln,,DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
-"1000494",Temples CCAA,,temple,,Köln,,DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
+"1000492",Capitolium CCAA,,temple,,Köln,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
+"1000493",Marstempel CCAA,,temple,,Köln,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
+"1000494",Temples CCAA,,temple,,Köln,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
 "1000495",Matronentempel,,temple,,Nettersheim,,DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
 "1000496",Temple Görresburg,,temple,,Nettersheim,,DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
 "1000497",Weihetempel,,temple,,Ernzen,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
