@@ -492,8 +492,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000492",Capitolium CCAA,,temple,,Köln,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
 "1000493",Marstempel CCAA,,temple,,Köln,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
 "1000494",Temples CCAA,,temple,,Köln,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
-"1000495",Matronentempel,,temple,,Nettersheim,,DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
-"1000496",Temple Görresburg,,temple,,Nettersheim,,DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
+"1000495",Matronentempel,,temple,,Nettersheim,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
+"1000496",Temple Görresburg,,temple,,Nettersheim,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
 "1000497",Weihetempel,,temple,,Ernzen,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
 "1000498",Judenkirchhof - Roman temple district - Pelm,,temple,,Gerolstein,,DE,50.230743,6.674787,,,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
 "1000499",Pilgerheiligtum - Sirona-Tempel - Forsthaus Hoch,,temple,,Hochscheid,,DE,49.86454,7.232887,,,,,,,,,,,,,,,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697",,,,,,,,,,,,,,no
@@ -531,7 +531,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000531",Bergheiligtum auf dem Calmont,,temple,,Bremm,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,Wallerfangen,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205",,,,,,Q1408110,,,,,,,,no
-"1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,Nettersheim,,DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
+"1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,Nettersheim,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220",,,,,,,,,,,,,,no
 "1000536",Temple,,temple,,Rheinfelden (Baden),,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
 "1000537",Cult area,,temple,,Sontheim an der Brenz,,DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
@@ -669,9 +669,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000673",Hexastyle Temple,,temple,Shehba,Philippopolis,,SY,32.854603,36.627829,"162",S,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000674",Temple of the Imperial Cult,,temple,Shehba,Philippopolis,,SY,32.853853,36.626389,"88",E,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000675",Temple,,temple,Slim,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000676",Temple of Zeus,Zeus,temple,Qanawat,Kanatha,,SY,32.753587,36.616972,"8",N,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000677",Temple of Rabbos,Rabbos,temple,Qanawat,Kanatha,,SY,32.757202,36.613803,"107",E,,,,,,,,,M,,god,,,,Segal2013,,,"34905",,,,,,,,,,,,,,
-"1000678",Temple C (The Seraya Temple),,temple,Qanawat,Kanatha,,SY,32.75422,36.618044,"5",N,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000676",Temple of Zeus,Zeus,temple,Qanawat,Kanatha,"678082",SY,32.753587,36.616972,"8",N,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000677",Temple of Rabbos,Rabbos,temple,Qanawat,Kanatha,"678082",SY,32.757202,36.613803,"107",E,,,,,,,,,M,,god,,,,Segal2013,,,"34905",,,,,,,,,,,,,,
+"1000678",Temple C (The Seraya Temple),,temple,Qanawat,Kanatha,"678082",SY,32.75422,36.618044,"5",N,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000679",Northern Temple,,temple,Atil,Atheila,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000680",Southern Temple,,temple,Atil,Atheila,,SY,32.760855,36.582823,"103",E,,2nd c. CE,"151",,"2",,,,,,,,,yes,Segal2013,,,"31055",,,,,,,,,,,,,,
 "1000681",South Temple,,temple,Sia,Seeia,,SY,,,,,,33 BCE - 55 CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
