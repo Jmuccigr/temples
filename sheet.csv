@@ -763,3 +763,6 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000769",Sanctuary of Fondo Patterelli,,temple,,Capua,"432754",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "1000770",Temple of Fortuna Redux,Fortuna,temple,Campus Martius,Rome,"432754",IT,,,,,,Domitianic,"81","96","1",,,,F,,concept,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000771",Temple of Juno Moneta,Juno,temple,,Signia,"423072",IT,41.696927,13.024674,"154",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000772",Temple C,,temple,,Fanum Voltumnae,"416806",IT,42.712117,12.09628,"50",NE,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000773",Temple A,,temple,,Fanum Voltumnae,"416806",IT,42.712455,12.095583,"104",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000774",Temple B,,temple,,Fanum Voltumnae,"416806",IT,42.711072,12.09631,"92",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
