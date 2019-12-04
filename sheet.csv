@@ -356,13 +356,13 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
 "1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,,FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place/glanum,,,,,,,,,,no
 "1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,,FR,44.561203,4.600079,,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,no
-"1000359",Temple of Augustus and Livia,,temple,,Vienne,,FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
-"1000360",Temple of the Cybele,,temple,,Vienne,,FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
+"1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
+"1000360",Temple of the Cybele,,temple,,Vienne,"167719",FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
 "1000361",Temple of Diana,Diana,temple,,Roppeviller,,FR,49.103539,7.52761,,,,,,,,,,,F,,god,,,,Vici.org,,,"10354",,,,,,,,,,,,,,no
 "1000362",Temple of Diana,Diana,temple,,Nîmes,,FR,43.839947,4.348574,,,,,,,,,,,F,,god,,,,Vici.org,,,"10622",,"393010",,,,,,,,,,,,no
 "1000363",Gisacum,,temple,,Le Vieil-Évreux,,FR,49.003063,1.235978,,,,,,,,,,,,,,,,,Vici.org,,,"10640","109007",,,,,Q2243148,,,,,,,,no
 "1000364",Temple of Mercury,Mercury,temple,,Niederbronn-les-Bains,,FR,48.960583,7.616738,,,,,,,,,,,M,,god,,,,Vici.org,,,"10648",,"39152",,,,,,,,,,,,no
-"1000365",Sanctuary,,temple,,Villards-d'Héria,,FR,46.423141,5.742032,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10659",,,,,,,,,,,,,,no
+"1000365",Sanctuary,,temple,,Villards-d'Héria,"177659",FR,46.423141,5.742032,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10659",,,,,,,,,,,,,,no
 "1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661",,,,,,,,,,,,,,no
 "1000367",Sanctuary (Flaviers - Mouzon),,temple,,Mouzon,,FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
 "1000368",Temple Isarnodurum,,temple,,Izernore,,FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667","177545","20105",,,,,,,,,,,,no
@@ -417,7 +417,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000417","Chez Rigros, Saint-Pardoux",,temple,,Saint-Pardoux,,FR,46.07193,1.3012,,,,,,,,,,,,,,,,,Vici.org,,,"16814",,"39297",,,,,,,,,,,,no
 "1000418",Sanctuary of Mars Mullo,,temple,,Allonnes,,FR,47.968758,0.166472,,,,,,,,,,,,,god,Gallo-Roman,,,Vici.org,,,"16820",,"20731",,,,,,,,,,,,no
 "1000419",Masamas,,temple,,Saint-Léomer,,FR,46.399273,0.972868,,,,,,,,,,,,,,,,,Vici.org,,,"16834","138451","17638",,,,,,,,,,,,no
-"1000420",Lac-d'Antre,,temple,,Villards-d'Héria,,FR,46.415447,5.752648,,,,,,,,,,,,,,,,,Vici.org,,,"16835",,"39331",,,,,,,,,,,,no
+"1000420",Lac-d'Antre,,temple,,Villards-d'Héria,"177659",FR,46.415447,5.752648,,,,,,,,,,,,,,,,,Vici.org,,,"16835",,"39331",,,,,,,,,,,,no
 "1000421",Sanctuary Tours Mirandes,,temple,,Vendeuvre-du-Poitou,,FR,46.740105,0.293851,,,,,,,,,,,,,,,,,Vici.org,,,"16850",,,,,,,,,,,,,,no
 "1000422",Les Fons Clairins,,temple,,Uzay-le-Venon,,FR,46.813335,2.411545,,,,,,,,,,,,,,,,,Vici.org,,,"16855",,"20624",,,,,,,,,,,,no
 "1000423",Thaumiers,,temple,,Thaumiers,,FR,46.81356,2.639874,,,,,,,,,,,,,,,,,Vici.org,,,"16856","138615","17703",,,,,,,,,,,,no
@@ -592,7 +592,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000592",Temple,,temple,Straß,Nersingen,,DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
 "1000593",(K)ein Mithrasheiligtum (Saalburg),Mithras,mithraeum,,Bad Homburg vor der Höhe,,DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
 "1000594",Mithraeum,Mithras,mithraeum,,Dieburg,,DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
-"1000595",Sanctuary,,temple,,Mainz,,DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
+"1000595",Sanctuary,,temple,,Mainz,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
 "1000596",Brandopferplatz,,temple,,Erkheim,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
 "1000597",Rosmerta-Tempel,,temple,,Andernach,,DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
 "1000598",Temple,,temple,,Neumagen-Dhron,,DE,49.841267,6.899114,,,,,,,,,,,,,,,,,,,Tempel (Neumagen-Dhron),"20350",,,,,,,,,,,,,,no
@@ -606,7 +606,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000606",Forum Augusta Vindelicum,,temple,,Augsburg,,DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
 "1000607",Temple,,temple,,Elsdorf,,DE,50.935829,6.581988,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,8x10 meter groot tempelgebouw,"23034",,,,,,,,,,,,,,no
 "1000608",Heidentempel Kreuzweingarten,,temple,,Euskirchen,,DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
-"1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,,DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
+"1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
 "1000610",Tempelreste,,temple,,Bonn,,DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple Ziegetsberg,,temple,,Regensburg,,DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
@@ -683,14 +683,14 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000687",East Temple,,temple,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000688",Temple,,temple,Hobran,,,SY,,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000689",Temple for the Imperial Cult,,temple,Busra,Bosra,,SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
-"1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,,IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000691",Central Temple,,temple,Beit She'an,Scythopolis,,IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000691",Central Temple,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,Il-Umta'iyeh,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000693",Temple,,temple,Umm El-Jimal,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000695",Cathedral Sanctuary Temple,,temple,Jerash,Gerasa,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000696",Temple C,,temple,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000698",Temple of Augustus,Augustus,temple,Sebastia,Sebaste,,PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000699",Temple of Kore,Kore,temple,Sebastia,Sebaste,,PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000698",Temple of Augustus,Augustus,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000699",Temple of Kore,Kore,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000700",Temple of Zeus,Zeus,temple,Mount Gerizim,,,PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000701",Temple of Hercules,Hercules,temple,Amman,Philadelphia,,JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000702",Nymphaeum,Nymphs,temple,Amman,Philadelphia,,JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
