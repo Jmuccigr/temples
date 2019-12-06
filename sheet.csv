@@ -146,8 +146,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000146",Unknown,,temple,,Althiburos,,TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000147",Temple of Minerva,Minerva,temple,,Tebessa,,DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000148",Temple A,"Apollo, Artemis, Aphrodite",temple,,Laodicea on the Lycus,,TR,37.836269,29.109676,"27",NE,,2nd c. CE,,,"2",,,,M/F,,god,Roman,,yes,,,,"18182",,,,,,,,,,,,,,
-"1000149",Temple of Trajan,Trajan,temple,,Pergamon,,TR,39.132812,27.183256,"201",S,,2nd c. CE,,,"2",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000150",Temple of Dionysus,Dionysus,temple,,Pergamon,,TR,39.132283,27.182573,"166",S,,early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000149",Temple of Trajan,Trajan,temple,,Pergamon,"550812",TR,39.132812,27.183256,"201",S,,2nd c. CE,,,"2",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000150",Temple of Dionysus,Dionysus,temple,,Pergamon,"550812",TR,39.132283,27.182573,"166",S,,early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000151",Temple of Consus,Consus,temple,Aventine,Rome,"432754",IT,,,,,"-272","-272","-272","-218","-3",,,,M,December 12,god,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000152",Temple of Hercules at the Colline Gate,Hercules,temple,ad portam collinam,Rome,"432754",IT,,,,,,,,"-211",,,,,M,,hero,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000153",Temple of Honos,Honor,temple,extra portam collinam,Rome,"432754",IT,41.906487,12.498676,,,,-292-219,"-292","-219","-3",,,,M,,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
@@ -319,8 +319,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000319",Temple of the Mensores,,temple,,Ostia,"422995",IT,41.75373,12.285083,"170",S,,,,,,,,,,,,Roman,,yes,Vici.org,,Probably temple was dedicated to Ceres,"27380",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/19/19-2.htm,yes
 "1000320",Temple of Bona Dea,Bona Dea,temple,,Ostia,"422995",IT,41.750622,12.285329,"99",E,,1st half 1st c. CE,"1","50","1",,,,F,,god,Roman,,yes,Vici.org,,,"27393",,,,,,,,,,,,,http://www.ostia-antica.org/regio4/8/8-3.htm,yes
 "1000321",Temple of the Fabri Navales,,temple,,Ostia,"422995",IT,41.752764,12.286052,"104",E,,late 2nd c. CE,"161","192","2",,,,,,,Roman,,yes,Vici.org,,,"27409",,,,,,,,,,,,,http://www.ostia-antica.org/regio3/2/2-1.htm,yes
-"1000322",Temple of Isis,,temple,Isola Sacra,Portus,,IT,41.772774,12.255305,,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,no
-"1000323",Temple of Portumnus,,temple,,Portus,,IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,no
+"1000322",Temple of Isis,,temple,Isola Sacra,Portus,"423012",IT,41.772774,12.255305,,,,,,,,,,,,,god,,,,Vici.org,,Isola Sacra,"27423",,,,,,,,,,,,,http://www.ostia-antica.org/portus/s009.htm,no
+"1000323",Temple of Portumnus,,temple,,Portus,"423012",IT,41.780937,12.27154,,,,,,,,,,,,,god,,,,Vici.org,,,"27428",,,,,,,,,,,,,http://www.ostia-antica.org/portus/t021.htm,no
 "1000324",Round Temple,,temple,,Ostia,"422995",IT,41.75335,12.288047,"329",NW,,2nd qu. 3rd c. CE,"225","249","3",,,,,,,Roman,,yes,Vici.org,,,"27444",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/11/11-1.htm,no
 "1000325",Temple of the Round Altar,,temple,,Ostia,"422995",IT,41.753693,12.286317,,,,,,,,,,,,,,,,,Vici.org,,,"27449",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-6.htm,yes
 "1000326",Temple with portico,,temple,,Cumae,"432808",IT,40.847906,14.057575,"16",N,,early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
@@ -567,8 +567,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441",,,,,,,,,,,,,,no
 "1000568",Weihebezirk,,temple,,Osterburken,,DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
 "1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,,DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
-"1000570",Temple area I,,temple,,Rottweil,,DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
-"1000571",Temple area II,,temple,,Rottweil,,DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
+"1000570",Temple area I,,temple,,Rottweil,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
+"1000571",Temple area II,,temple,,Rottweil,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
 "1000572",Sanctuary,,temple,,Schorndorf,,DE,48.814072,9.508077,,,,,,,,,,,,,,,,,,,Heiligtum (Schorndorf),"14465",,,,,,,,,,,,,,no
 "1000573",Merkurheiligtum (Sauhag),,temple,,Neuhausen auf den Fildern,,DE,48.673996,9.293082,,,,,,,,,,,,,,,,,,,,"14482",,,,,,,,,,,,,,no
 "1000574",Tempel (Unterböbingen),,temple,,Böbingen an der Rems,,DE,48.817959,9.92597,,,,,,,,,,,,,,,,,,,,"14492",,,,,,,,,,,,,,no
@@ -666,8 +666,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000670",Kalybe Temple,,temple,Umm Iz-Zetun,,,SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000671",Kalybe Temple,,temple,Shakka,Maximianopolis,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000672",Temple,,temple,Bourajka,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000673",Hexastyle Temple,,temple,Shehba,Philippopolis,,SY,32.854603,36.627829,"162",S,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000674",Temple of the Imperial Cult,,temple,Shehba,Philippopolis,,SY,32.853853,36.626389,"88",E,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000673",Hexastyle Temple,,temple,Shehba,Philippopolis,"678332",SY,32.854603,36.627829,"162",S,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000674",Temple of the Imperial Cult,,temple,Shehba,Philippopolis,"678332",SY,32.853853,36.626389,"88",E,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000675",Temple,,temple,Slim,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000676",Temple of Zeus,Zeus,temple,Qanawat,Kanatha,"678082",SY,32.753587,36.616972,"8",N,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000677",Temple of Rabbos,Rabbos,temple,Qanawat,Kanatha,"678082",SY,32.757202,36.613803,"107",E,,,,,,,,,M,,god,,,,Segal2013,,,"34905",,,,,,,,,,,,,,
@@ -692,8 +692,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000698",Temple of Augustus,Augustus,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000699",Temple of Kore,Kore,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000700",Temple of Zeus,Zeus,temple,Mount Gerizim,,,PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000701",Temple of Hercules,Hercules,temple,Amman,Philadelphia,,JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000702",Nymphaeum,Nymphs,temple,Amman,Philadelphia,,JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000701",Temple of Hercules,Hercules,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000702",Nymphaeum,Nymphs,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000703",Second Temple,,temple,,Jerusalem,,IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,,,,,Second_Temple,Q728428,,,,,,,,
 "1000704",Nabatean Temple,,temple,Dibon,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000705",Nabatean Temple,,temple,Qasr Raba,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
