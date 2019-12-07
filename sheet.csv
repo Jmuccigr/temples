@@ -350,7 +350,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000350",Temple Noviodunum,,temple,,Jublains,,FR,48.26062,-0.498666,,,,,,,,,,,,,,,,,Vici.org,,,"429",,"18750",,,,,,,,,,,,no
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,,FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,,FR,46.496559,-0.024869,,,,,,,,,,,,,,,,,Vici.org,,,"6364",,,,,,,,,,,,,,no
-"1000353",Maison Carrée,,temple,,Nîmes,,FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
+"1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
 "1000354",Temple in Glanum,,temple,,Saint-Rémy-de-Provence,,FR,43.773125,4.832713,,,,,,,,,,,,,,,,,Vici.org,,,"7903",,,,,,,,,,,,,,no
 "1000355",Tasciaca,,temple,,Pouillé,,FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,no
 "1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
@@ -359,9 +359,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
 "1000360",Temple of the Cybele,,temple,,Vienne,"167719",FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
 "1000361",Temple of Diana,Diana,temple,,Roppeviller,,FR,49.103539,7.52761,,,,,,,,,,,F,,god,,,,Vici.org,,,"10354",,,,,,,,,,,,,,no
-"1000362",Temple of Diana,Diana,temple,,Nîmes,,FR,43.839947,4.348574,,,,,,,,,,,F,,god,,,,Vici.org,,,"10622",,"393010",,,,,,,,,,,,no
+"1000362",Temple of Diana,Diana,temple,,Nîmes,"148142",FR,43.839947,4.348574,,,,,,,,,,,F,,god,,,,Vici.org,,,"10622","439736209","393010",,,,,,,,,,,,no
 "1000363",Gisacum,,temple,,Le Vieil-Évreux,,FR,49.003063,1.235978,,,,,,,,,,,,,,,,,Vici.org,,,"10640","109007",,,,,Q2243148,,,,,,,,no
-"1000364",Temple of Mercury,Mercury,temple,,Niederbronn-les-Bains,,FR,48.960583,7.616738,,,,,,,,,,,M,,god,,,,Vici.org,,,"10648",,"39152",,,,,,,,,,,,no
+"1000364",Temple of Mercury,Mercury,temple,,Niederbronn-les-Bains,"109209",FR,48.960583,7.616738,,,,,,,,,,,M,,god,,,,Vici.org,,,"10648",,"39152",,,,,,,,,,,,no
 "1000365",Sanctuary,,temple,,Villards-d'Héria,"177659",FR,46.423141,5.742032,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10659",,,,,,,,,,,,,,no
 "1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661",,,,,,,,,,,,,,no
 "1000367",Sanctuary (Flaviers - Mouzon),,temple,,Mouzon,,FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
@@ -486,7 +486,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000486",Temple du Herapel,,temple,,Cocheren,,FR,49.152973,6.860515,,,,,,,,,,,,,,,,,Vici.org,,,"19418",,,,,,,,,,,,,,no
 "1000487",Temple (Les cinq fontaines),,temple,,Laneuveville-devant-Nancy,,FR,48.656166,6.215222,,,,,,,,,,,,,,,,,Vici.org,,,"19473",,,,,,,,,,,,,,no
 "1000488",Lascaux,,temple,,Montignac,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
-"1000489",Camp celtique,,temple,,Niederbronn-les-Bains,,FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
+"1000489",Camp celtique,,temple,,Niederbronn-les-Bains,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
 "1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,,FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
 "1000491",Hafentempel Colonia Ulpia Traiana,,temple,,Xanten,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
 "1000492",Capitolium CCAA,,temple,,Köln,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
@@ -514,7 +514,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
 "1000515",Temple area,,temple,,Heckenmünster,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715",,,,,,,,,,,,,,no
 "1000516",Temple area,,temple,Hinzerath,Morbach,,DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
-"1000517",Temple Sanctuary,,temple,Butzweiler,Newel,,DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
+"1000517",Temple Sanctuary,,temple,Butzweiler,Newel,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
 "1000518",Presumed temple area,,temple,,Aach,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
 "1000519",Presumed temple area,,temple,,Meckel,,DE,49.888115,6.518048,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de,"5720",,,,,,,,,,,,,,no
 "1000520",Presumed temple area,,temple,,Röhl,,DE,49.948616,6.576705,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Röhl -point imported from roscheiderhof.de,"5721",,,,,,,,,,,,,,no
@@ -522,7 +522,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000522",Vermuteter Tempel,,temple,,Bengel,,DE,50.040829,7.073928,,,,,,,,,,,,,,,,,,,Vermuteter Tempel - Bengel -point imported from roscheiderhof.de,"5723",,,,,,,,,,,,,,no
 "1000523",Vermutetes römisches Heiligtum - Tempelhof,,temple,,Mülbach,,DE,49.965935,6.390636,,,,,,,,,,,,,,,,,,,Vermutetes römisches Heiligtum - Tempelhof -point imported from roscheiderhof.de,"5724",,,,,,,,,,,,,,no
 "1000524",Überreste eines Tempels - Grindelborn,,temple,,Mürlenbach,,DE,50.141296,6.631656,,,,,,,,,,,,,,,,,,,Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de,"5725",,,,,,,,,,,,,,no
-"1000525",Temple and burial precinct,,temple,,Newel,,DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
+"1000525",Temple and burial precinct,,temple,,Newel,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
 "1000526",Temple area,,temple,,Homburg,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,,DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
 "1000528",Temple area,Mars-Lenus,temple,,Pommern,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141",,,,,,Q1234219,,,,,,,,no
@@ -563,7 +563,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000563",Mithraeum I,Mithras,mithraeum,,Güglingen,,DE,49.06266,9.00468,,,,,,,,,,,,,,,,,,,Mithräum I (Güglingen),"14249",,,,,,,,,,,,,,no
 "1000564",Mithraeum I,Mithras,mithraeum,,Heidelberg,"118731",DE,49.415855,8.679235,,,,,,,,,,,,,,,,,,,Mitraeum I (Heidelberg),"14253",,,,,,,,,,,,,,no
 "1000565",Mithraeum II,Mithras,mithraeum,,Heidelberg,"118731",DE,49.413967,8.693815,,,,,,,,,,,,,,,,,,,Mitraeum II (Heidelberg),"14254",,,,,,,,,,,,,,no
-"1000566",Temple area,,temple,Greinberg,Miltenberg,,DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
+"1000566",Temple area,,temple,Greinberg,Miltenberg,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441",,,,,,,,,,,,,,no
 "1000568",Weihebezirk,,temple,,Osterburken,,DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
 "1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,,DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
@@ -575,7 +575,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000575",Sanctuary (St. Johann),,temple,,Rheinstetten,,DE,48.952354,8.365316,,,,,,,,,,,,,,,,,,,,"14534",,,,,,,,,,,,,,no
 "1000576",Temple,,temple,,Gemmrigheim,,DE,49.013542,9.176175,,,,,,,,,,,,,,,,,,,Tempel (Gemmrigheim),"14596",,,,,,,,,,,,,,no
 "1000577",Temple on the Kalkarberg,,temple,,Kalkar,,DE,51.728806,6.285232,,,,,,,,,,,,,,,,,,,Sanctuary of the local goddess Vagdavercustis,"14930",,,,,,,,,,,,,,no
-"1000578",Temple,,temple,,Miltenberg,,DE,49.702648,9.236975,,,,,,,,,,,,,,,,,,,Tempel (Miltenberg),"14991",,,,,,,,,,,,,,no
+"1000578",Temple,,temple,,Miltenberg,"118845",DE,49.702648,9.236975,,,,,,,,,,,,,,,,,,,Tempel (Miltenberg),"14991",,,,,,,,,,,,,,no
 "1000579",Mithraeum (Ober-Florstadt),Mithras,mithraeum,,Florstadt,,DE,50.325161,8.875741,,,,,,,,,,,,,,,,,,,,"15079",,,,,,,,,,,,,,no
 "1000580",Sanctuary (Heidenpütz),,temple,,Morbach,,DE,49.84407,7.072406,,,,,,,,,,,,,,,,,,,,"15092",,,,,,,,,,,,,,no
 "1000581",Temple,,temple,,Barweiler,,DE,50.356865,6.866581,,,,,,,,,,,,,,,,,,,Tempel (Barweiler),"15544",,,,,,,,,,,,,,no
