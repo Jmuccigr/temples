@@ -3503,6 +3503,7 @@ geo:location [ geo:lat "38.701099"^^xsd:double ; geo:long "-5.68604"^^xsd:double
 gn:countryCode "ES" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256236#this> ;
 skos:exactMatch <http://vici.org/vici/15498> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39956> ;
 skos:exactMatch <href="https://es.wikipedia.org/wiki/Cancho_Roano"> ;
@@ -6763,6 +6764,7 @@ dcterms:temporal "-750/640" ;
 gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/678040#this> ;
 .
 <http://romeresearchgroup.org/items/1000680> a lawd:Place ;
 rdfs:label "Southern Temple" ;
@@ -6772,6 +6774,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "SY" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/678040#this> ;
 skos:exactMatch <http://vici.org/vici/31055> ;
 .
 <http://romeresearchgroup.org/items/1000681> a lawd:Place ;
@@ -7065,6 +7068,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "TR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599745#this> ;
 .
 <http://romeresearchgroup.org/items/1000720> a lawd:Place ;
 rdfs:label "Temple of Venus Verticordia" ;
