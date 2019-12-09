@@ -31,7 +31,7 @@ res = res[0];
 		if (res.properties.id != '') {
 			text = text + '<li>ID: ' + res.properties.id + '</li>';
 		}
-		text = text + '<li>' + 'URI: <a href="http://RomeResearchGroup.org/items/' + res.properties.id + '" target="_blank">http://RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
+		text = text + '<li title="Canonical URI for this temple.">' + 'URI: <a href="http://' + window.location.host + '/items/' + res.properties.id + '" target="_blank">http://RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
 		if (res.geometry.coordinates[0] != '') {
 		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] + '</li>';
 		} else {
@@ -50,6 +50,10 @@ res = res[0];
 		if (res.properties.date != '') {
 			text = text + '<li>Construction dated to ' + fixDate(res.properties.date)
 			text = text + '</li>';
+		}
+		if (res.properties.pleiadesplace != '') {
+			getPleiadesPlace(res.properties.pleiadesplace);
+			text = text + '<li>Ancient location: <a target="_blank" href="https://pleiades.stoa.org/places/' + res.properties.pleiadesplace + '"><span id="pleiades" title="Load Pleiades place resource in a new page."><i>loading</i></span></a></li>';
 		}
 		if (res.properties.location != '' || res.properties.city != '' || res.properties.country != '') {
 			loc = '<li>Location: ';

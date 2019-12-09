@@ -106,6 +106,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_check_run.js">
 		</script>
+		<script type="text/javascript" src="scripts/function_get_pleiades_place.js">
+		</script>
 		<script type="text/javascript" src="scripts/set_cookie.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_clear_layers.js">
