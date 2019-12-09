@@ -341,7 +341,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000341",Temple,Trajan and the Roman Gods,temple,,Alcántara,,ES,39.721661,-6.891493,,,,2nd c. CE,,,"2",,,,M/F,,"god,emperor",,,,Vici.org,,,"14476","255966","25494",,,Roman_temple_of_Alcántara,Q7362337,,,,,,,,no
 "1000342",Fortuna,Fortuna,temple,,Los Baños de Fortuna,,ES,38.209648,-1.11363,,,,,,,,,,,F,,god,,,,Vici.org,,,"15389","265899","36550",,,,,,,,,,,,no
 "1000343",Cerro de los Santos,,temple,,Montealegre del Castillo,,ES,38.732769,-1.27022,,,,,,,,,,,,,,,,,Vici.org,,,"15394","265862","37001",,,es=Cerro_de_los_Santos,Q5486840,,,,,,,,no
-"1000344",Cancho Roano,,temple,,Zalamea de la Serena,,ES,38.701099,-5.68604,,,,,,,,,,,,,,,,,Vici.org,,,"15498",,"39956",,,es=Cancho_Roano,Q2060316,,,,,,,,no
+"1000344",Cancho Roano,,temple,,Zalamea de la Serena,"256236",ES,38.701099,-5.68604,,,,,,,,,,,,,,,,,Vici.org,,,"15498",,"39956",,,es=Cancho_Roano,Q2060316,,,,,,,,no
 "1000345",Los Cuadriales,,temple,,Burguillos del Cerro,,ES,38.432659,-6.59005,,,,,,,,,,,,,,,,,Vici.org,,,"15552","256139","36995",,,,,,,,,,,,no
 "1000346",Santa Eulalia de Bóveda,,temple,,Lugo,,ES,42.979946,-7.685923,,,,,,,,,,,,,,,,,Vici.org,,,"15822","236646","37167",,,es=Santa_Eulalia_de_Bóveda,Q3284580,,,,,,,,no
 "1000347","Temple of Serapis, Emporiae",Serapis,temple,,L'Escala,"246382",ES,42.133911,3.121315,,,,,,,,,,,,,god,,,,Vici.org,,,"17713",,,,,,,,,,,,,,no
@@ -672,8 +672,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000676",Temple of Zeus,Zeus,temple,Qanawat,Kanatha,"678082",SY,32.753587,36.616972,"8",N,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000677",Temple of Rabbos,Rabbos,temple,Qanawat,Kanatha,"678082",SY,32.757202,36.613803,"107",E,,,,,,,,,M,,god,,,,Segal2013,,,"34905",,,,,,,,,,,,,,
 "1000678",Temple C (The Seraya Temple),,temple,Qanawat,Kanatha,"678082",SY,32.75422,36.618044,"5",N,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000679",Northern Temple,,temple,Atil,Atheila,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000680",Southern Temple,,temple,Atil,Atheila,,SY,32.760855,36.582823,"103",E,,2nd c. CE,"151",,"2",,,,,,,,,yes,Segal2013,,,"31055",,,,,,,,,,,,,,
+"1000679",Northern Temple,,temple,Atil,Atheila,"678040",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000680",Southern Temple,,temple,Atil,Atheila,"678040",SY,32.760855,36.582823,"103",E,,2nd c. CE,"151",,"2",,,,,,,,,yes,Segal2013,,,"31055",,,,,,,,,,,,,,
 "1000681",South Temple,,temple,Sia,Seeia,"678381",SY,,,,,,33 BCE - 55 CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000682",Temple of Dushara,Dushara,temple,Sia,Seeia,"678381",SY,,,,,,1st c. BCE,,,"-1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000683",Temple of Baal Shamin,Baal Shamin,temple,Sia,Seeia,"678381",SY,32.736603,36.624829,"139",SE,,1st c. CE,,,"1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -710,7 +710,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000716",Small Temple,,temple,,Petra,"697725",JO,,,,,,,,,,,,,,,,Roman,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000717",Nabatean Temple,Allat,temple,Er-Ram,Iram,,JO,,,,,,,,,,,,,F,,god,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000718",Temple of Sol Indiges,Sol,temple,,Lavinium,,IT,41.647847,12.437675,"63",NE,,,,,,,,,M,,nature,Roman,,,Jaia2012,,,,,,,,,,,,,,,,,
-"1000719",Temple of Zeus Labrandeus,Zeus,temple,,Zabranda,,TR,37.419186,27.819413,"91",E,,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,yes
+"1000719",Temple of Zeus Labrandeus,Zeus,temple,,Zabranda,"599745",TR,37.419186,27.819413,"91",E,,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,yes
 "1000720",Temple of Venus Verticordia,Venus,temple,,Rome,"423025",IT,,,,,,,"-113",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000721",Temple of Venus Erycina,Venus,temple,Capitoline,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Capitoline_Hill),Q1888860,,,,,,,,
 "1000722",Temple of Venus Erycina,Venus,temple,Quirinal by the Colline Gate,Rome,"423025",IT,,,,,,"-181","-181",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Quirinal_Hill),Q3983285,,,,,,,,
