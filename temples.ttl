@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-12-09"  ; 
+    dcterms:modified "2019-12-14"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6074,6 +6074,7 @@ geo:location [ geo:lat "50.084049"^^xsd:double ; geo:long "8.238866"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108750#this> ;
 skos:exactMatch <http://vici.org/vici/20705> ;
 .
 <http://romeresearchgroup.org/items/1000605> a lawd:Place ;
@@ -7059,6 +7060,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422960#this> ;
 .
 <http://romeresearchgroup.org/items/1000719> a lawd:Place ;
 rdfs:label "Temple of Zeus Labrandeus" ;
@@ -7624,4 +7626,34 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/416806#this> ;
+.
+<http://romeresearchgroup.org/items/1000775> a lawd:Place ;
+rdfs:label "Temple of Castor and Pollux" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.641621"^^xsd:double ; geo:long "12.913103"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422909#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/426309852> ;
+.
+<http://romeresearchgroup.org/items/1000776> a lawd:Place ;
+rdfs:label "Temple of Hercules" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.642578"^^xsd:double ; geo:long "12.915771"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422909#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/692947274> ;
+.
+<http://romeresearchgroup.org/items/1000777> a lawd:Place ;
+rdfs:label "Temple of Janus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422909#this> ;
 .
