@@ -12,20 +12,36 @@ request.onload = function() {
 	if (rs >= 200 && rs < 400) {
 	// Create a default place name
 	var place = '[unknown]';
+	var latinName = '';
+	var greekName = '';
 
     // Begin accessing JSON data here
     var data = JSON.parse(this.response);
 
-	// Grab English name or else the first one
+	// Grab Latin and Greek names for the Roman period. Use Latin first, or else the first name in the group if neither is present
     for (i = 0; i < data.names.length; i++) {
-        if (data.names[i].language == 'en') {
-            place = data.names[i].romanized;
+        for (j = 0; j < data.names[i].attestations.length; j++) {
+            if (data.names[i].attestations[j].timePeriod == 'roman') {
+                if (data.names[i].language == 'la') {
+                    latinName = data.names[i].romanized;
+                } else {
+                	if (data.names[i].language == 'grc') {
+                	greekName = data.names[i].romanized;
+                	}
+                }
+            }
         }
     }
-	if (place == '[unknown]') {
+    if (latinName + greekName == '') {
 		place = data.names[0].romanized
 		if (data.names[0].language != '') {
 		place += ' (' + data.names[0].language.toUpperCase() + ')'
+		}
+	} else {
+		if (latinName != '') {
+			place = latinName
+		} else {
+			place = greekName
 		}
 	}
 	document.getElementById("pleiades").innerHTML = place;
