@@ -766,6 +766,6 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000772",Temple C,,temple,,Fanum Voltumnae,"416806",IT,42.712117,12.09628,"50",NE,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
 "1000773",Temple A,,temple,,Fanum Voltumnae,"416806",IT,42.712455,12.095583,"104",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
 "1000774",Temple B,,temple,,Fanum Voltumnae,"416806",IT,42.711072,12.09631,"92",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
-"1000775",Temple of Castor and Pollux,"Castor, Pollux",temple,,Cori,"422909",IT,41.64164,12.91311,,,,,"-99","-50","-1",,,,M,,hero,Roman,,yes,,,,,"426309852",,,,,,,,,,,,,yes
+"1000775",Temple of Castor and Pollux,"Castor, Pollux",temple,,Cori,"422909",IT,41.641621,12.913103,"220",SW,,,"-99","-50","-1",,,,M,,hero,Roman,,yes,,,,,"426309852",,,,,,,,,,,,,yes
 "1000776",Temple of Hercules,Hercules,temple,,Cori,"422909",IT,41.642578,12.915771,"174",S,,,"-99","-1","-1",,,,M,,hero,Roman,,yes,,,,,"692947274",,,,,,,,,,,,,yes
 "1000777",Temple of Janus,Janus,temple,,Cori,"422909",IT,,,,,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
