@@ -2128,6 +2128,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "TN" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/315220#this> ;
 skos:exactMatch <http://vici.org/vici/31251> ;
 .
 <http://romeresearchgroup.org/items/1000211> a lawd:Place ;
@@ -2138,6 +2139,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "DZ" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/305167#this> ;
 .
 <http://romeresearchgroup.org/items/1000212> a lawd:Place ;
 rdfs:label "Temple of Hercules" ;
@@ -4436,6 +4438,7 @@ geo:location [ geo:lat "47.3936"^^xsd:double ; geo:long "0.68807"^^xsd:double ] 
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/138255#this> ;
 skos:exactMatch <http://vici.org/vici/16930> ;
 skos:exactMatch <http://dare.ht.lu.se/places/7874> ;
 .
@@ -4456,6 +4459,7 @@ geo:location [ geo:lat "47.671444"^^xsd:double ; geo:long "-2.750201"^^xsd:doubl
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/138323#this> ;
 skos:exactMatch <http://vici.org/vici/16954> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39461> ;
 .
