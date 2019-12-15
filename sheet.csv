@@ -546,7 +546,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000547",Temple,,temple,,Badenweiler,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
 "1000548",Varnenum,,temple,,Aachen,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
-"1000550",Mithraeum,Mithras,mithraeum,Wachstein,Theilenhofen,,DE,49.073357,10.832198,,,,,,,,,,,,,,,,,,,,"10071",,,,,,,,,,,,,,no
+"1000550",Mithraeum,Mithras,mithraeum,Wachstein,Theilenhofen,"118758",DE,49.073357,10.832198,,,,,,,,,,,,,,,,,,,,"10071",,,,,,,,,,,,,,no
 "1000551",Dolichenum Vetoniana,,temple,Pfünz,Walting,,DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
 "1000552",Bergheiligtum,,temple,,Jettenbach,,DE,49.543842,7.561576,,,,,,,,,,,,,,,,,,,Bergheiligtum (Jettenbach),"10328",,,,,,,,,,,,,,no
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,Prutting,,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,no
