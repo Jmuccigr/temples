@@ -144,7 +144,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,,IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000146",Unknown,,temple,,Althiburos,"324664",TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000147",Temple of Minerva,Minerva,temple,,Tebessa,,DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000147",Temple of Minerva,Minerva,temple,,Tebessa,"324831",DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000148",Temple A,"Apollo, Artemis, Aphrodite",temple,,Laodicea on the Lycus,,TR,37.836269,29.109676,"27",NE,,2nd c. CE,,,"2",,,,M/F,,god,Roman,,yes,,,,"18182",,,,,,,,,,,,,,
 "1000149",Temple of Trajan,Trajan,temple,,Pergamon,"550812",TR,39.132812,27.183256,"201",S,,2nd c. CE,,,"2",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000150",Temple of Dionysus,Dionysus,temple,,Pergamon,"550812",TR,39.132283,27.182573,"166",S,,early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
@@ -230,7 +230,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,,IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,Gabii,,IT,41.887016,12.71593,,,,,,,,,,,,,god,,,,Vici.org,,,"7912",,,,,,,,,,,,,,no
-"1000233",Temple of Antas,,temple,,Fluminimaggiore,,IT,39.394028,8.500288,,,,,,,,,,,,,,Punic,,,Vici.org,,,"8129",,,,,,,,,,,,394085SAdd,,no
+"1000233",Temple of Antas,Sid Addir,temple,,Fluminimaggiore,,IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
 "1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
 "1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
@@ -259,7 +259,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000259",Temple C,,temple,,Grumentum,"442603",IT,40.285255,15.906856,,,,,,,,,,,,,,,,,Vici.org,,,"17602",,,,,,,,,,,,,,no
 "1000260",Temple D,,temple,,Grumentum,"442603",IT,40.285954,15.907481,,,,,,,,,,,,,,,,,Vici.org,,,"17603",,,,,,,,,,,,,,no
 "1000261",Oratorio di Falaride,,temple,,Agrigento,"462086",IT,37.296696,13.58861,,,,,,,,,,,,,,,,,Vici.org,,,"17664",,,,,,,,,,,,,,no
-"1000262",Temple of Demeter,Demeter,temple,,Terraseo,,IT,39.20137,8.635581,,,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,no
+"1000262",Temple of Demeter,Demeter,temple,,Terraseo,,IT,39.20137,8.635581,"100",E,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,no
 "1000263",Temple of Victory,Victory,temple,,Himera,,IT,37.973946,13.82408,,,,,,,,,,,,,concept,,,,Vici.org,,,"17910",,,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,no
 "1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia,"422995",IT,41.754478,12.28806,"150",SE,,,,,,,,,M/F,,god,Roman,,,Vici.org,,,"17919",,,,,,,,,,,,,,no
 "1000265",Nymphaeum,Nymphs,temple,,Ostia,"422995",IT,41.757095,12.295577,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"17927",,,,,,,,,,,,,,no
@@ -272,7 +272,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000272",Temple 'F',,temple,,Selinunte,"462489",IT,37.587337,12.834879,,,,,,,,,,,,,,,,,Vici.org,,,"17978",,,,,,,,,,,,,,no
 "1000273",Temple 'G',,temple,,Selinunte,"462489",IT,37.588314,12.834987,,,,,,,,,,,,,,,,,Vici.org,,,"17979",,,,,,,,,,,,,,no
 "1000274",Sanctuary of Demeter Malophorus,Demeter,temple,,Selinunte,"462489",IT,37.586945,12.817137,,,,,,,,,,,,,god,,,,Vici.org,,,"17980",,,,,,,,,,,,,,no
-"1000275",Greek temple,,temple,,Taranto,,IT,40.473709,17.233036,,,,,,,,,,,,,,,,,Vici.org,,,"17981",,,,,,,,,,,,,,no
+"1000275",Greek temple,,temple,,Taranto,"442810",IT,40.473709,17.233036,,,,,,,,,,,,,,,,,Vici.org,,,"17981",,,,,,,,,,,,,,no
 "1000276",Temple of Venus,Venus,temple,,Tivoli,"423081",IT,41.944672,12.774768,,,,,,,,,,,F,,god,,,,Vici.org,,,"17984",,,,,,,,,,,,,,no
 "1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,,IT,37.057495,14.89367,,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,no
 "1000278",Sanctuary,Hera,temple,,Locri Epizephiri,,IT,38.211281,16.238371,,,,,,,,,,,,,,,,,Vici.org,,,"17993",,,,,,,,,,,,,,no
@@ -451,7 +451,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000452",Oisseau-Le-Petit,,temple,,Oisseau-le-Petit,,FR,48.346451,0.075101,,,,,,,,,,,,,,,,,Vici.org,,,"17025","69544","18166",,,,,,,,,,,,no
 "1000453",La Ferme d'Isle,,temple,,Grisy-sur-Seine,,FR,48.433331,3.31667,,,,,,,,,,,,,,,,,Vici.org,,,"17029",,"21014",,,,,,,,,,,,no
 "1000454",Deneuvre,,temple,,Deneuvre,,FR,48.441734,6.73517,,,,,,,,,,,,,,,,,Vici.org,,,"17030","108922","1834",,,,,,,,,,,,no
-"1000455",Asile des Pêcheurs,,temple,,Taden,,FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
+"1000455",Asile des Pêcheurs,,temple,,Taden,"69574",FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
 "1000456",Les Grèves,,temple,,La Villeneuve-au-Châtelot,,FR,48.549187,3.606701,,,,,,,,,,,,,,,,,Vici.org,,,"17036",,"39451",,,,,,,,,,,,no
 "1000457","Nasium, temple",,temple,,Saint-Amand-sur-Ornain,,FR,48.632435,5.386586,,,,,,,,,,,,,,,,,Vici.org,,,"17043",,"18748",,,,,,,,,,,,no
 "1000458",Wasserwald,,temple,,Haegen,,FR,48.713898,7.289902,,,,,,,,,,,,,,,,,Vici.org,,,"17048","109026","20761",,,,,,,,,,,,no
@@ -535,7 +535,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000536",Temple,,temple,,Rheinfelden (Baden),,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
 "1000537",Cult area,,temple,,Sontheim an der Brenz,,DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
 "1000538",Mithraeum,Mithras,mithraeum,,Königsbrunn,,DE,48.274055,10.87458,,,,,,,,,,,,,,,,,,,Mithras Heiligtum,"8282",,,,,,,,,,,,,,no
-"1000539",Römisches Haus,,temple,,Stuttgart,,DE,48.762733,9.101792,,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,no
+"1000539",Römisches Haus,,temple,,Stuttgart,"118980",DE,48.762733,9.101792,,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,no
 "1000540",Temple of Diana,,temple,,Meßkirch,,DE,47.986389,9.053611,,,,,,,,,,,,,god,,,,,,Dianatempel (Meßkirch),"8420",,,,,,,,,,,,,,no
 "1000541",Lapidarium,,temple,,Steinheim an der Murr,,DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,Holsthum,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
@@ -770,3 +770,5 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000777",Temple of Janus,Janus,temple,,Cori,"422909",IT,,,,,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000778",Forum Temple,,temple,,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000779",Temple of Mercury,Mercury,temple,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000780",Temple of Genna Cantonis,,temple,,Matzanni,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
+"1000781",Temple of Antas,Sardus Pater Babai,temple,,Fluminimaggiore,,IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
