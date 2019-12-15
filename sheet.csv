@@ -136,7 +136,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000136",Temple of Aesculapius,Aesculapius,temple,Esquiline,Rome,"423025",IT,,,,,,,,,,,,,M,,hero,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000137",Capitolium,"Jupiter, Juno, Minerva",temple,,Cosa,"413107",IT,42.410911,11.286364,"68",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000138",Capitolium,"Jupiter, Juno, Minerva",temple,,Cumae,"432808",IT,40.848488,14.057007,"105",E,,"26",,,,,,,M/F,,god,Roman,,yes,,,,"14783",,,,,,,,,,,,,,
-"1000139",Capitolium,"Jupiter, Juno, Minerva",temple,,Verona,,IT,45.443872,10.996195,"144",SE,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000139",Capitolium,"Jupiter, Juno, Minerva",temple,,Verona,"383816",IT,45.443872,10.996195,"144",SE,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Scarbantia,,HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Constantinople,,TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,,HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
@@ -152,7 +152,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000152",Temple of Hercules at the Colline Gate,Hercules,temple,ad portam collinam,Rome,"423025",IT,,,,,,,,"-211",,,,,M,,hero,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000153",Temple of Honos,Honor,temple,extra portam collinam,Rome,"423025",IT,41.906487,12.498676,,,,-292-219,"-292","-219","-3",,,,M,,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000154",Temple of Honos,Honor,temple,ad Portam Capenam,Rome,"423025",IT,,,,,"-233",-232-209,"-232","-209","-3","-205","1000038",,F,July 17,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
-"1000155",Portonaccio Temple,Apollo,temple,,Veii,,IT,42.021223,12.390661,"97",E,,"-510",,,"-6",,,,M,,god,Etruscan,,yes,,,,"23458",,,,,,,,,,,,420124SPoA,,
+"1000155",Portonaccio Temple,Apollo,temple,,Veii,"423116",IT,42.021223,12.390661,"97",E,,"-510",,,"-6",,,,M,,god,Etruscan,,yes,,,,"23458",,,,,,,,,,,,420124SPoA,,
 "1000156",Great Chesterford Temple,,temple,,,,UK,52.07048,0.208052084,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1002",,,,
 "1000157",Harlow,,temple,,,,UK,51.79013,0.127076484,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1045",,,,
 "1000158","Gosbecks, Colchester",,temple,,,,UK,51.86582,0.856901856,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1106",,,,
@@ -335,7 +335,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000335",Sra. do Granja,,temple,,,,PT,40.05547,-7.25653,,,,,,,,,,,,,,,,,Vici.org,,,"15252",,"40136",,,,,,,,,,,,no
 "1000336",Santuário da Sra. do Almortão,,temple,,Idanha a Nova,,PT,39.907059,-7.17339,,,,,,,,,,,,,,,,,Vici.org,,,"15253",,"40137",,,,,,,,,,,,no
 "1000337",Santuário de S. Pedro de Almuro,,temple,,,,PT,38.997742,-7.48622,,,,,,,,,,,,,,,,,Vici.org,,,"15254",,"40138",,,,,,,,,,,,no
-"1000338",Roman Temple,,temple,,Vic,,ES,41.929218,2.256823,,,,,,,,,,,,,,,,,Vici.org,,,"10779",,,,,Roman_temple_of_Vic,Q2294240,,,,,,,,no
+"1000338",Roman Temple,,temple,,Vic,"246212",ES,41.929189,2.256857,"271",W,,2nd c. CE,,,"2",,,,,,,Roman,,yes,Vici.org,,,"10779","383321670",,,,Roman_temple_of_Vic,Q2294240,,,,,,,,yes
 "1000339",Temple,,temple,,Córdoba,,ES,37.884762,-4.77628,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10794",,,,,Roman_temple_of_Córdoba,Q1106385,,,,,,,,no
 "1000340",Temple of Diana - Emerita Augusta,Diana,temple,,Mérida,,ES,38.91658,-6.34435,,,,,,,,,,,F,,god,,,,Vici.org,,,"11493",,,,place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum,,,,,,,,,,no
 "1000341",Temple,Trajan and the Roman Gods,temple,,Alcántara,,ES,39.721661,-6.891493,,,,2nd c. CE,,,"2",,,,M/F,,"god,emperor",,,,Vici.org,,,"14476","255966","25494",,,Roman_temple_of_Alcántara,Q7362337,,,,,,,,no
@@ -367,7 +367,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000367",Sanctuary (Flaviers - Mouzon),,temple,,Mouzon,,FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
 "1000368",Temple Isarnodurum,,temple,,Izernore,,FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667","177545","20105",,,,,,,,,,,,no
 "1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
-"1000370",Roman temple,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681892,5.197178,"327",NW,,1st BCE,"-1",,,,,,,,,,,,Vici.org,,,"10684","148046","18074",,,,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
+"1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,,,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
 "1000371",Temple of Apollo,,temple,,Riez,,FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,,Q1272940,,,,,,,,no
 "1000372",Forum Temple Lugdunum Convenarum,,temple,,Saint-Bertrand-de-Comminges,,FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,,FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,no
@@ -418,7 +418,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000418",Sanctuary of Mars Mullo,,temple,,Allonnes,,FR,47.968758,0.166472,,,,,,,,,,,,,god,Gallo-Roman,,,Vici.org,,,"16820",,"20731",,,,,,,,,,,,no
 "1000419",Masamas,,temple,,Saint-Léomer,,FR,46.399273,0.972868,,,,,,,,,,,,,,,,,Vici.org,,,"16834","138451","17638",,,,,,,,,,,,no
 "1000420",Lac-d'Antre,,temple,,Villards-d'Héria,"177659",FR,46.415447,5.752648,,,,,,,,,,,,,,,,,Vici.org,,,"16835",,"39331",,,,,,,,,,,,no
-"1000421",Sanctuary Tours Mirandes,,temple,,Vendeuvre-du-Poitou,,FR,46.740105,0.293851,,,,,,,,,,,,,,,,,Vici.org,,,"16850",,,,,,,,,,,,,,no
+"1000421",Sanctuary Tours Mirandes,,temple,,Vendeuvre-du-Poitou,"138624",FR,46.740086,0.293782,"106",E,,Late 1st c. CE,"51","100","1",,,,,,,Gallo-Roman,,yes,Vici.org,,,"16850",,,,,,,,,,,,,,yes
 "1000422",Les Fons Clairins,,temple,,Uzay-le-Venon,,FR,46.813335,2.411545,,,,,,,,,,,,,,,,,Vici.org,,,"16855",,"20624",,,,,,,,,,,,no
 "1000423",Thaumiers,,temple,,Thaumiers,,FR,46.81356,2.639874,,,,,,,,,,,,,,,,,Vici.org,,,"16856","138615","17703",,,,,,,,,,,,no
 "1000424",Le Bioulet,,temple,,Pupillin,,FR,46.869949,5.7476,,,,,,,,,,,,,,,,,Vici.org,,,"16861",,"39459",,,,,,,,,,,,no
