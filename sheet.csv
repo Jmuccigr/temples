@@ -299,7 +299,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000299",Temple of Hercules,,temple,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,,IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
 "1000301",Asclepieion,,temple,,Heloros,,IT,36.841862,15.105948,,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,no
-"1000302",Temple of Jupiter,,temple,,Tusculum,,IT,41.798317,12.704335,,,,,,,,,,,,,god,,,,Vici.org,,,"24929",,,,,,,,,,,,,,no
+"1000302",Temple of Jupiter,,temple,,Tusculum,"423108",IT,41.798317,12.704335,,,,,,,,,,,,,god,,,,Vici.org,,,"24929",,,,,,,,,,,,,,no
 "1000303",Megara Hyblaea,,temple,,Megara Hyblaea,,IT,37.204262,15.175998,,,,,,,,,,,,,,,,,Vici.org,,Extra mural temple,"25276",,,,,,,,,,,,,,no
 "1000304",Temple,,temple,,Paestum,"442733",IT,40.423512,15.006211,,,,,,,,,,,,,,,,,Vici.org,,Roman Temple - santuario romano,"25323",,,,,,,,,,,,,,no
 "1000305",Temple of Peace,,temple,,Paestum,"442733",IT,40.421938,15.005541,,,,,,,,,,,,,concept,,,,Vici.org,,,"25325",,,,,,,,,,,,,,no
@@ -769,3 +769,5 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000775",Temple of Castor and Pollux,"Castor, Pollux",temple,,Cori,"422909",IT,41.641621,12.913103,"220",SW,,,"-99","-50","-1",,,,M,,hero,Roman,,yes,,,,,"426309852",,,,,,,,,,,,,yes
 "1000776",Temple of Hercules,Hercules,temple,,Cori,"422909",IT,41.642578,12.915771,"174",S,,,"-99","-1","-1",,,,M,,hero,Roman,,yes,,,,,"692947274",,,,,,,,,,,,,yes
 "1000777",Temple of Janus,Janus,temple,,Cori,"422909",IT,,,,,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000778",Forum Temple,,temple,,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000779",Temple of Mercury,Mercury,temple,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
