@@ -767,8 +767,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000774",Temple B,,temple,,Fanum Voltumnae,"416806",IT,42.711072,12.09631,"92",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
 "1000775",Temple of Castor and Pollux,"Castor, Pollux",temple,,Cori,"422909",IT,41.641621,12.913103,"220",SW,,,"-99","-50","-1",,,,M,,hero,Roman,,yes,,,,,"426309852",,,,,,,,,,,,,yes
 "1000776",Temple of Hercules,Hercules,temple,,Cori,"422909",IT,41.642578,12.915771,"174",S,,,"-99","-1","-1",,,,M,,hero,Roman,,yes,,,,,"692947274",,,,,,,,,,,,,yes
-"1000777",Temple of Janus,Janus,temple,,Cori,"422909",IT,,,,,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000777",Temple under S. Oliva,,temple,,Cori,"422909",IT,41.643438,12.912941,"187",S,,3rd c. BCE,"-299","-300","-3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000778",Forum Temple,,temple,,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000779",Temple of Mercury,Mercury,temple,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000780",Temple of Genna Cantonis,,temple,,Matzanni,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
 "1000781",Temple of Antas,Sardus Pater Babai,temple,,Fluminimaggiore,,IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000782",,,temple,,,,,,,,,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
