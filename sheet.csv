@@ -238,10 +238,10 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000238",Temple of Hera Lacinia,Hera,temple,,,,IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,no
 "1000239",Temple complex,,temple,,Metapontum,,IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,no
 "1000240",Temple of Venus Erycina,Venus,temple,,Segesta,"462487",IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,no
-"1000241",Temple of Diana,,temple,,Aricia,,IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
+"1000241",Temple of Diana,,temple,,Aricia,"422844",IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
 "1000242",Western forum temple,,temple,,Carsulae,"413065",IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
-"1000243",Acropolis,,temple,,Populonia,,IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
-"1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,,IT,41.838009,12.89152,,,,,,,,,,,,,concept,,,,Vici.org,,,"11650",,,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,,,,,,,,,no
+"1000243",Acropolis,,temple,,Populonia,"403212",IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
+"1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,"423013",IT,41.838009,12.89152,"195",S,,,,,,,,,,,concept,Italic,,Yes,Vici.org,,,"11650","7963799",,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,Q3949669,,,,,,,,yes
 "1000245",Temple of Minerva,Minerva,temple,,Assisi,,IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,"Temple_of_Minerva,_Assisi",Q11836,,,,,,,,yes
 "1000246",Temple of Athena,Athena,temple,,Syracuse,"462503",IT,37.05965,15.29354,,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,no
 "1000247",Temple of Apollo,Apollo,temple,,Syracuse,"462503",IT,37.063938,15.29297,,,,,,,,,,,M,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,no
@@ -285,9 +285,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000285",Cult Site,,temple,,Monte S. Martino,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,no
 "1000286",Temple of Clitumnus,,temple,,Pissignano,,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791",,,,,,,,,,,,,,no
 "1000287",Temple of Flora,,temple,,,,IT,41.305756,14.562722,,,,,,,,,,,F,,concept,,,,Vici.org,,,"19792",,,,,,Q3983249,,,,,,,,no
-"1000288",Temple of the Dioscuri,,temple,,Napoli,,IT,40.85144,14.25683,,,,,,,,,,,,,hero,,,,Vici.org,,,"19793",,,,,,,,,,,,,,no
+"1000288",Temple of the Dioscuri,,temple,,Napoli,"433014",IT,40.85144,14.25683,,,,,,,,,,,,,hero,,,,Vici.org,,,"19793",,,,,,,,,,,,,,no
 "1000289",Temple of Diana Tifatina,Diana,temple,,Sant'Angelo In Formis,,IT,41.118251,14.260432,"256",W,,,"-399","-300","-4",,,,F,,god,,,,Vici.org,,,"19794","432813","22559",,,,,,,,,,,,yes
-"1000290",Temple,,temple,,Bevagna,,IT,42.934608,12.609744,,,,,,,,,,,,,,,,,Vici.org,,,"19799",,,,,,,,,,,,,,no
+"1000290",Temple,,temple,,Bevagna,"413200",IT,42.934608,12.609744,,,,,,,,,,,,,,,,,Vici.org,,,"19799",,,,,,,,,,,,,,no
 "1000291",Temple Peltuinum,,temple,,,,IT,42.283485,13.623908,,,,,,,,,,,,,,,,,Vici.org,,,"20380",,,,,,,,,,,,,,no
 "1000292",Casentino - Chiesa di Pieve a Socano,,temple,,Castel Focognano,,IT,43.652519,11.787855,,,,,,,,,,,,,,,,,Vici.org,,Etruscan sanctuary,"20522",,,,,,,,,,,,,,no
 "1000293",Large Temple,,temple,,Luna,,IT,44.065861,10.01729,"205",SW,,,,,,,,,,,,,,,Vici.org,,,"22164",,,,,,,,,,,,,,
@@ -407,7 +407,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000408","Temple, Brion",,temple,,Saint-Seurin-de-Cadourne,,FR,45.282433,-0.838219,,,,,,,,,,,,,,,,,Vici.org,,,"16717",,"20175",,,,,,,,,,,,no
 "1000409",Sanctuary Rajat,,temple,,Murol,,FR,45.591797,2.948923,,,,,,,,,,,,,,,,,Vici.org,,,"16745",,"20137",,,,,,,,,,,,no
 "1000410",Temple of Diana,,temple,,Aix-les-Bains,,FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
-"1000411",Temple de Cybèle,,temple,,Lyon,,FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
+"1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
 "1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
 "1000413","Temple de Mercure, Puy de Dôme",,temple,,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
 "1000414",Temple Cassinomagus,,temple,,Chassenon,,FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
