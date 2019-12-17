@@ -395,7 +395,6 @@ http://romeresearchgroup.org/items/1000395
 http://romeresearchgroup.org/items/1000396
 http://romeresearchgroup.org/items/1000397
 http://romeresearchgroup.org/items/1000398
-http://romeresearchgroup.org/items/1000399
 http://romeresearchgroup.org/items/1000400
 http://romeresearchgroup.org/items/1000401
 http://romeresearchgroup.org/items/1000402
@@ -770,3 +769,6 @@ http://romeresearchgroup.org/items/1000776
 http://romeresearchgroup.org/items/1000777
 http://romeresearchgroup.org/items/1000778
 http://romeresearchgroup.org/items/1000779
+http://romeresearchgroup.org/items/1000780
+http://romeresearchgroup.org/items/1000781
+http://romeresearchgroup.org/items/1000782

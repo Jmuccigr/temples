@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-12-15"  ; 
+    dcterms:modified "2019-12-17"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1556,6 +1556,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "DZ" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/324831#this> ;
 .
 <http://romeresearchgroup.org/items/1000148> a lawd:Place ;
 rdfs:label "Temple A" ;
@@ -2375,11 +2376,14 @@ skos:exactMatch <http://vici.org/vici/7912> ;
 <http://romeresearchgroup.org/items/1000233> a lawd:Place ;
 rdfs:label "Temple of Antas" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "39.394028"^^xsd:double ; geo:long "8.500288"^^xsd:double ] ;
+geo:location [ geo:lat "39.393952"^^xsd:double ; geo:long "8.500437"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/8129> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Tempio_di_Antas"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q689104> ;
 skos:exactMatch <https://topostext.org/place/394085SAdd> ;
 .
 <http://romeresearchgroup.org/items/1000234> a lawd:Place ;
@@ -2446,6 +2450,7 @@ geo:location [ geo:lat "37.941475"^^xsd:double ; geo:long "12.832296"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462487#this> ;
 skos:exactMatch <http://vici.org/vici/11596> ;
 skos:exactMatch <http://www.livius.org/articles/place/place/segesta/segesta-temple/> ;
 .
@@ -2456,6 +2461,7 @@ geo:location [ geo:lat "41.723934"^^xsd:double ; geo:long "12.710217"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422844#this> ;
 skos:exactMatch <http://vici.org/vici/11609> ;
 skos:exactMatch <http://www.livius.org/articles/place/place/aricia/> ;
 skos:exactMatch <https://topostext.org/place/417127SDiN> ;
@@ -2479,17 +2485,22 @@ geo:location [ geo:lat "42.988754"^^xsd:double ; geo:long "10.5092"^^xsd:double 
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403212#this> ;
 skos:exactMatch <http://vici.org/vici/11649> ;
 .
 <http://romeresearchgroup.org/items/1000244> a lawd:Place ;
 rdfs:label "Temple of Fortuna" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.838009"^^xsd:double ; geo:long "12.89152"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423013#this> ;
 skos:exactMatch <http://vici.org/vici/11650> ;
+skos:exactMatch <http://pleiades.stoa.org/places/7963799> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Palestrina#Sanctuary_of_Fortuna_Primigenia"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3949669> ;
 .
 <http://romeresearchgroup.org/items/1000245> a lawd:Place ;
 rdfs:label "Temple of Minerva" ;
@@ -2674,6 +2685,7 @@ skos:exactMatch <http://vici.org/vici/17664> ;
 rdfs:label "Temple of Demeter" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.20137"^^xsd:double ; geo:long "8.635581"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2810,6 +2822,7 @@ geo:location [ geo:lat "40.473709"^^xsd:double ; geo:long "17.233036"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442810#this> ;
 skos:exactMatch <http://vici.org/vici/17981> ;
 .
 <http://romeresearchgroup.org/items/1000276> a lawd:Place ;
@@ -2939,6 +2952,7 @@ geo:location [ geo:lat "40.85144"^^xsd:double ; geo:long "14.25683"^^xsd:double 
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433014#this> ;
 skos:exactMatch <http://vici.org/vici/19793> ;
 .
 <http://romeresearchgroup.org/items/1000289> a lawd:Place ;
@@ -2960,6 +2974,7 @@ geo:location [ geo:lat "42.934608"^^xsd:double ; geo:long "12.609744"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413200#this> ;
 skos:exactMatch <http://vici.org/vici/19799> ;
 .
 <http://romeresearchgroup.org/items/1000291> a lawd:Place ;
@@ -3569,6 +3584,7 @@ geo:location [ geo:lat "37.400253"^^xsd:double ; geo:long "-5.993706"^^xsd:doubl
 gn:countryCode "ES" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256210#this> ;
 skos:exactMatch <http://vici.org/vici/23659> ;
 .
 <http://romeresearchgroup.org/items/1000350> a lawd:Place ;
@@ -4081,17 +4097,6 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/16577> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20156> ;
 .
-<http://romeresearchgroup.org/items/1000399> a lawd:Place ;
-rdfs:label "Roquepertuse" ;
-dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "43.532394"^^xsd:double ; geo:long "5.27003"^^xsd:double ] ;
-gn:countryCode "FR" ;
-dcterms:subject "temple"  ;
-pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-skos:exactMatch <http://vici.org/vici/16598> ;
-skos:exactMatch <http://pleiades.stoa.org/places/148174> ;
-skos:exactMatch <http://dare.ht.lu.se/places/18076> ;
-.
 <http://romeresearchgroup.org/items/1000400> a lawd:Place ;
 rdfs:label "Vaugrenier" ;
 dcterms:temporal "-750/640" ;
@@ -4211,6 +4216,7 @@ geo:location [ geo:lat "45.759602"^^xsd:double ; geo:long "4.818432"^^xsd:double
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/167717#this> ;
 skos:exactMatch <http://vici.org/vici/16770> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39462> ;
 .
@@ -4665,6 +4671,7 @@ geo:location [ geo:lat "48.471024"^^xsd:double ; geo:long "-2.011823"^^xsd:doubl
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/69574#this> ;
 skos:exactMatch <http://vici.org/vici/17032> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39092> ;
 .
@@ -4801,6 +4808,7 @@ geo:location [ geo:lat "49.564636"^^xsd:double ; geo:long "1.835476"^^xsd:double
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/109349#this> ;
 skos:exactMatch <http://vici.org/vici/17100> ;
 skos:exactMatch <http://pleiades.stoa.org/places/109349> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18132> ;
@@ -4827,9 +4835,10 @@ skos:exactMatch <http://pleiades.stoa.org/places/109289> ;
 skos:exactMatch <http://dare.ht.lu.se/places/17408> ;
 .
 <http://romeresearchgroup.org/items/1000471> a lawd:Place ;
-rdfs:label "Septeuil" ;
+rdfs:label "Temple to the waters or nymphs" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.897812"^^xsd:double ; geo:long "1.671292"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -5463,6 +5472,7 @@ geo:location [ geo:lat "48.548004"^^xsd:double ; geo:long "10.290641"^^xsd:doubl
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118966#this> ;
 skos:exactMatch <http://vici.org/vici/8264> ;
 .
 <http://romeresearchgroup.org/items/1000538> a lawd:Place ;
@@ -5481,6 +5491,7 @@ geo:location [ geo:lat "48.762733"^^xsd:double ; geo:long "9.101792"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118980#this> ;
 skos:exactMatch <http://vici.org/vici/8419> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1722809> ;
 .
@@ -5500,6 +5511,7 @@ geo:location [ geo:lat "48.970776"^^xsd:double ; geo:long "9.286698"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118974#this> ;
 skos:exactMatch <http://vici.org/vici/8426> ;
 .
 <http://romeresearchgroup.org/items/1000542> a lawd:Place ;
@@ -5585,6 +5597,7 @@ geo:location [ geo:lat "49.073357"^^xsd:double ; geo:long "10.832198"^^xsd:doubl
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118758#this> ;
 skos:exactMatch <http://vici.org/vici/10071> ;
 .
 <http://romeresearchgroup.org/items/1000551> a lawd:Place ;
@@ -6197,6 +6210,7 @@ geo:location [ geo:lat "43.508341"^^xsd:double ; geo:long "16.439568"^^xsd:doubl
 gn:countryCode "HR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/197524#this> ;
 skos:exactMatch <http://vici.org/vici/18128> ;
 skos:exactMatch <href="https://en.wikipedia.org/wiki/Temple_of_Jupiter,_Split"> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q4501094> ;
@@ -7663,8 +7677,10 @@ spatial:C <https://pleiades.stoa.org/places/422909#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/692947274> ;
 .
 <http://romeresearchgroup.org/items/1000777> a lawd:Place ;
-rdfs:label "Temple of Janus" ;
+rdfs:label "Temple under S. Oliva" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.643438"^^xsd:double ; geo:long "12.912941"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -7689,4 +7705,29 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423108#this> ;
+.
+<http://romeresearchgroup.org/items/1000780> a lawd:Place ;
+rdfs:label "Temple of Genna Cantonis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.37514"^^xsd:double ; geo:long "8.699043"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/93478895#this> ;
+.
+<http://romeresearchgroup.org/items/1000781> a lawd:Place ;
+rdfs:label "Temple of Antas" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.394007"^^xsd:double ; geo:long "8.500267"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000782> a lawd:Place ;
+rdfs:label "" ;
+dcterms:temporal "-750/640" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
