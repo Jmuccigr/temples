@@ -237,7 +237,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000237",Temple at Bovianum Vetus,,temple,,Pietrabbondante,,IT,41.73999,14.386793,,,,,,,,,,,,,,,,,Vici.org,,,"10919",,,,,,,,,,,,,,no
 "1000238",Temple of Hera Lacinia,Hera,temple,,,,IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,no
 "1000239",Temple complex,,temple,,Metapontum,,IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,no
-"1000240",Temple of Venus Erycina,Venus,temple,,Segesta,,IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,no
+"1000240",Temple of Venus Erycina,Venus,temple,,Segesta,"462487",IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,no
 "1000241",Temple of Diana,,temple,,Aricia,,IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
 "1000242",Western forum temple,,temple,,Carsulae,"413065",IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
 "1000243",Acropolis,,temple,,Populonia,,IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
@@ -346,7 +346,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000346",Santa Eulalia de Bóveda,,temple,,Lugo,,ES,42.979946,-7.685923,,,,,,,,,,,,,,,,,Vici.org,,,"15822","236646","37167",,,es=Santa_Eulalia_de_Bóveda,Q3284580,,,,,,,,no
 "1000347","Temple of Serapis, Emporiae",Serapis,temple,,L'Escala,"246382",ES,42.133911,3.121315,,,,,,,,,,,,,god,,,,Vici.org,,,"17713",,,,,,,,,,,,,,no
 "1000348","Forum Temple, Emporiae",,temple,,L'Escala,"246382",ES,42.132835,3.117041,"156",SE,,,,,,,,,,,,,,,Vici.org,,,"17714",,,,,,,,,,,,,,no
-"1000349",Temple columns,,temple,,Sevilla,,ES,37.400253,-5.993706,,,,,,,,,,,,,,,,,Vici.org,,,"23659",,,,,,,,,,,,,,no
+"1000349",Temple columns,,temple,,Sevilla,"256210",ES,37.400253,-5.993706,,,,,,,,,,,,,,,,,Vici.org,,,"23659",,,,,,,,,,,,,,no
 "1000350",Temple Noviodunum,,temple,,Jublains,,FR,48.26062,-0.498666,,,,,,,,,,,,,,,,,Vici.org,,,"429",,"18750",,,,,,,,,,,,no
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,,FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,,FR,46.496559,-0.024869,,,,,,,,,,,,,,,,,Vici.org,,,"6364",,,,,,,,,,,,,,no
@@ -464,10 +464,10 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000465",Mare-du-Puits,,temple,,Oissel,,FR,49.338657,1.049869,,,,,,,,,,,,,,,,,Vici.org,,,"17085",,"39384",,,,,,,,,,,,no
 "1000466",Les Essarts,,temple,,Grand-Couronne,,FR,49.345848,1.021025,,,,,,,,,,,,,,,,,Vici.org,,,"17086",,"39385",,,,,,,,,,,,no
 "1000467",Estrées-Saint-Denis,,temple,,Estrées-Saint-Denis,,FR,49.4259,2.644821,,,,,,,,,,,,,,,,,Vici.org,,,"17093","108968","2144",,,,,,,,,,,,no
-"1000468",Les Muguets,,temple,,Songeons,,FR,49.564636,1.835476,,,,,,,,,,,,,,,,,Vici.org,,,"17100","109349","18132",,,,,,,,,,,,no
+"1000468",Les Muguets,,temple,,Songeons,"109349",FR,49.564636,1.835476,,,,,,,,,,,,,,,,,Vici.org,,,"17100","109349","18132",,,,,,,,,,,,no
 "1000469",Ecâtelet,,temple,,Saint-Maur,,FR,49.624222,1.906107,,,,,,,,,,,,,,,,,Vici.org,,,"17107",,"20259",,,,,,,,,,,,no
 "1000470",Le Catillon,,temple,,Rouvroy-les-Merles,,FR,49.656013,2.36636,,,,,,,,,,,,,,,,,Vici.org,,,"17111","109289","17408",,,,,,,,,,,,no
-"1000471",Septeuil,,temple,,Septeuil,,FR,48.897812,1.671292,,,,,,,,,,,,,,,,,Vici.org,,,"17124","109339","16270",,,,,,,,,,,,no
+"1000471",Temple to the waters or nymphs,,temple,,Septeuil,,FR,48.897812,1.671292,"352",N,,,,,,,,,,,,,,,Vici.org,,,"17124","109339","16270",,,,,,,,,,,,no
 "1000472",Bois Titran,,temple,,Caix,,FR,49.816505,2.646559,,,,,,,,,,,,,,,,,Vici.org,,,"17127",,"26629",,,,,,,,,,,,no
 "1000473",Le Moulin,,temple,,Fluy,,FR,49.854774,2.10009,,,,,,,,,,,,,,,,,Vici.org,,,"17136","108987","17409",,,,,,,,,,,,no
 "1000474",Cartigny,,temple,,Cartigny,,FR,49.904331,3.01797,,,,,,,,,,,,,,,,,Vici.org,,,"17148",,"26636",,,,,,,,,,,,no
@@ -533,11 +533,11 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,Nettersheim,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220",,,,,,,,,,,,,,no
 "1000536",Temple,,temple,,Rheinfelden (Baden),,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
-"1000537",Cult area,,temple,,Sontheim an der Brenz,,DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
+"1000537",Cult area,,temple,,Sontheim an der Brenz,"118966",DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
 "1000538",Mithraeum,Mithras,mithraeum,,Königsbrunn,,DE,48.274055,10.87458,,,,,,,,,,,,,,,,,,,Mithras Heiligtum,"8282",,,,,,,,,,,,,,no
 "1000539",Römisches Haus,,temple,,Stuttgart,"118980",DE,48.762733,9.101792,,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,no
 "1000540",Temple of Diana,,temple,,Meßkirch,,DE,47.986389,9.053611,,,,,,,,,,,,,god,,,,,,Dianatempel (Meßkirch),"8420",,,,,,,,,,,,,,no
-"1000541",Lapidarium,,temple,,Steinheim an der Murr,,DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
+"1000541",Lapidarium,,temple,,Steinheim an der Murr,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,Holsthum,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
 "1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,Zell (Mosel),,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
 "1000544","Wachtturm 10-37b ""Schneidershecke""",,temple,,Mudau,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
@@ -612,7 +612,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,,TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,,GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
 "1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,,,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
-"1000616",Temple of Jupiter,Jupiter,temple,,Split,,HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
+"1000616",Temple of Jupiter,Jupiter,temple,,Split,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
 "1000617",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
 "1000618",Temple of Venus,Venus,temple,Baalbek,Heliopolis,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
 "1000619",Temple of Artemis,Artemis,temple,Jerash,Gerasa,"678158",JO,32.281952,35.890922,"116",SE,,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
