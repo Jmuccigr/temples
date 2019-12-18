@@ -229,7 +229,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,"433032",IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,,IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
-"1000232",Temple of Juno,Juno,temple,,Gabii,,IT,41.887016,12.71593,,,,,,,,,,,,,god,,,,Vici.org,,,"7912",,,,,,,,,,,,,,no
+"1000232",Temple of Juno,Juno,temple,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
 "1000233",Temple of Antas,Sid Addir,temple,,Fluminimaggiore,,IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
 "1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
 "1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
