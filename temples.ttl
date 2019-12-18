@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2019-12-17"  ; 
+    dcterms:modified "2019-12-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1527,6 +1527,8 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432815#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/390040629> ;
 .
 <http://romeresearchgroup.org/items/1000145> a lawd:Place ;
 rdfs:label "Capitolium" ;
@@ -2417,12 +2419,14 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/8492> ;
 .
 <http://romeresearchgroup.org/items/1000237> a lawd:Place ;
-rdfs:label "Temple at Bovianum Vetus" ;
+rdfs:label "Temple B" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.73999"^^xsd:double ; geo:long "14.386793"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433025#this> ;
 skos:exactMatch <http://vici.org/vici/10919> ;
 .
 <http://romeresearchgroup.org/items/1000238> a lawd:Place ;
@@ -7726,8 +7730,12 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <http://romeresearchgroup.org/items/1000782> a lawd:Place ;
-rdfs:label "" ;
+rdfs:label "Temple A" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.740481"^^xsd:double ; geo:long "14.387969"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433025#this> ;
 .
