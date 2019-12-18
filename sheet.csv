@@ -141,7 +141,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Constantinople,,TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,,HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
 "1000143",Temple of Augustus,,temple,,Barcelona,,ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
-"1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,,IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,"432815",IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,"390040629",,,,,,,,,,,,,
 "1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000146",Unknown,,temple,,Althiburos,"324664",TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000147",Temple of Minerva,Minerva,temple,,Tebessa,"324831",DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
@@ -234,7 +234,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
 "1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
-"1000237",Temple at Bovianum Vetus,,temple,,Pietrabbondante,,IT,41.73999,14.386793,,,,,,,,,,,,,,,,,Vici.org,,,"10919",,,,,,,,,,,,,,no
+"1000237",Temple at Samnite Sanctuary,,temple,,Pietrabbondante,,IT,41.73999,14.386793,"118",SE,,,,,,,,,,,,Samnite,,yes,Vici.org,,,"10919","433025",,,,,,,,,,,,,yes
 "1000238",Temple of Hera Lacinia,Hera,temple,,,,IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,no
 "1000239",Temple complex,,temple,,Metapontum,,IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,no
 "1000240",Temple of Venus Erycina,Venus,temple,,Segesta,"462487",IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,no
