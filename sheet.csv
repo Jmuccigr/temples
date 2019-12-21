@@ -137,7 +137,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000137",Capitolium,"Jupiter, Juno, Minerva",temple,,Cosa,"413107",IT,42.410911,11.286364,"68",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000138",Capitolium,"Jupiter, Juno, Minerva",temple,,Cumae,"432808",IT,40.848488,14.057007,"105",E,,"26",,,,,,,M/F,,god,Roman,,yes,,,,"14783",,,,,,,,,,,,,,
 "1000139",Capitolium,"Jupiter, Juno, Minerva",temple,,Verona,"383816",IT,45.443872,10.996195,"144",SE,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Scarbantia,,HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Scarbantia,"197501",HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Constantinople,,TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,,HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
 "1000143",Temple of Augustus,,temple,,Barcelona,,ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
@@ -348,7 +348,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000348","Forum Temple, Emporiae",,temple,,L'Escala,"246382",ES,42.132835,3.117041,"156",SE,,,,,,,,,,,,,,,Vici.org,,,"17714",,,,,,,,,,,,,,no
 "1000349",Temple columns,,temple,,Sevilla,"256210",ES,37.400253,-5.993706,,,,,,,,,,,,,,,,,Vici.org,,,"23659",,,,,,,,,,,,,,no
 "1000350",Temple Noviodunum,,temple,,Jublains,,FR,48.26062,-0.498666,,,,,,,,,,,,,,,,,Vici.org,,,"429",,"18750",,,,,,,,,,,,no
-"1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,,FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
+"1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,"109330",FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,,FR,46.496559,-0.024869,,,,,,,,,,,,,,,,,Vici.org,,,"6364",,,,,,,,,,,,,,no
 "1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
 "1000354",Temple in Glanum,,temple,,Saint-Rémy-de-Provence,,FR,43.773125,4.832713,,,,,,,,,,,,,,,,,Vici.org,,,"7903",,,,,,,,,,,,,,no
@@ -623,7 +623,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000624",Temple of Jupiter,Jupiter,temple,,Ocriticum,,IT,42.002993,13.990224,,,,,,,,,,,,,god,,,,topostext,,,,"432886","22897",,,,,,,,,,420140SIov,,
 "1000625",Temple of Zeus,Jupiter,temple,,Olympia,"570531",GR,37.63794,21.63042,"83",E,,,,,,,,,M,,god,Greek,,yes,topostext,,,,"316294900","46666",,,"Temple_of_Zeus,_Olympia",Q197019,,,,,,376216SOZe,,yes
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,"579885",GR,37.969429,23.733084,"90",E,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
-"1000627",Temple of Apollo,Apollo,temple,,Delphi,,GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
+"1000627",Temple of Apollo,Apollo,temple,,Delphi,"540726",GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
 "1000628",Temple of Apollo,Apollo,temple,Naxos,,,GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
 "1000629",Temple of Sangri,Demeter,temple,Naxos,,,GR,37.029422,25.431293,"213",SW,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,yes
 "1000630",Sanctuary of Yria,Dionysus,temple,Naxos,,,GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
