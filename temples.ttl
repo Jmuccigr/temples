@@ -2381,7 +2381,7 @@ skos:exactMatch <http://vici.org/vici/7912> ;
 skos:exactMatch <http://pleiades.stoa.org/places/377820068> ;
 .
 <http://romeresearchgroup.org/items/1000233> a lawd:Place ;
-rdfs:label "Temple of Antas" ;
+rdfs:label "Temple of Antas (Punic)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.393952"^^xsd:double ; geo:long "8.500437"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -7745,7 +7745,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/93478895#this> ;
 .
 <http://romeresearchgroup.org/items/1000781> a lawd:Place ;
-rdfs:label "Temple of Antas" ;
+rdfs:label "Temple of Antas (Roman)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.394007"^^xsd:double ; geo:long "8.500267"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;

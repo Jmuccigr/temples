@@ -12479,7 +12479,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000233",
-        "name": "Temple of Antas",
+        "name": "Temple of Antas (Punic)",
         "dedicatee": "Sid Addir",
         "type": "temple",
         "location": "",
@@ -41693,7 +41693,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000781",
-        "name": "Temple of Antas",
+        "name": "Temple of Antas (Roman)",
         "dedicatee": "Sardus Pater Babai",
         "type": "temple",
         "location": "",
