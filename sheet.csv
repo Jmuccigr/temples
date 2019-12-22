@@ -326,7 +326,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000326",Temple with portico,,temple,,Cumae,"432808",IT,40.847906,14.057575,"16",N,,early 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000327",Masseria del Gigante,,temple,,Cumae,"432808",IT,40.847826,14.058799,"280",W,,late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000328",Sanctuary Alto da Vigia,,temple,,Colares,,PT,38.824299,-9.47159,,,,,,,,,,,,,,,,,Vici.org,,,"10721","256172","36997",,,,,,,,,,,,no
-"1000329",Temple at Mirobriga Celticorum,,temple,,Santiago do Cacém,,PT,38.010284,-8.683709,,,,,,,,,,,,,,,,,Vici.org,,,"10725",,,,,,,,,,,,,,no
+"1000329",Temple at Mirobriga Celticorum,,temple,,Santiago do Cacém,"256303",PT,38.010284,-8.683709,,,,,,,,,,,,,,,,,Vici.org,,,"10725",,,,,,,,,,,,,,no
 "1000330",Temple,,temple,,Évora,,PT,38.572571,-7.907287,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10744",,,,,Roman_Temple_of_Évora,Q737441,,,,,,,,no
 "1000331",S. Miguel de Mota,,temple,,,,PT,38.64328,-7.44304,,,,,,,,,,,,,,,,,Vici.org,,,"15153","256429","37000",,,,,,,,,,,,no
 "1000332",Calanta,,temple,,,,PT,38.76722,-8.03341,,,,,,,,,,,,,,,,,Vici.org,,,"15154","256042","37145",,,,,,,,,,,,no
@@ -343,7 +343,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000343",Cerro de los Santos,,temple,,Montealegre del Castillo,,ES,38.732769,-1.27022,,,,,,,,,,,,,,,,,Vici.org,,,"15394","265862","37001",,,es=Cerro_de_los_Santos,Q5486840,,,,,,,,no
 "1000344",Cancho Roano,,temple,,Zalamea de la Serena,"256236",ES,38.701099,-5.68604,,,,,,,,,,,,,,,,,Vici.org,,,"15498",,"39956",,,es=Cancho_Roano,Q2060316,,,,,,,,no
 "1000345",Los Cuadriales,,temple,,Burguillos del Cerro,,ES,38.432659,-6.59005,,,,,,,,,,,,,,,,,Vici.org,,,"15552","256139","36995",,,,,,,,,,,,no
-"1000346",Santa Eulalia de Bóveda,,temple,,Lugo,,ES,42.979946,-7.685923,,,,,,,,,,,,,,,,,Vici.org,,,"15822","236646","37167",,,es=Santa_Eulalia_de_Bóveda,Q3284580,,,,,,,,no
+"1000346",Santa Eulalia de Bóveda,,temple,,Lugo,"236646",ES,42.979946,-7.685923,,,,,,,,,,,,,,,,,Vici.org,,,"15822","236646","37167",,,es=Santa_Eulalia_de_Bóveda,Q3284580,,,,,,,,no
 "1000347","Temple of Serapis, Emporiae",Serapis,temple,,L'Escala,"246382",ES,42.133911,3.121315,,,,,,,,,,,,,god,,,,Vici.org,,,"17713",,,,,,,,,,,,,,no
 "1000348","Forum Temple, Emporiae",,temple,,L'Escala,"246382",ES,42.132835,3.117041,"156",SE,,,,,,,,,,,,,,,Vici.org,,,"17714",,,,,,,,,,,,,,no
 "1000349",Temple columns,,temple,,Sevilla,"256210",ES,37.400253,-5.993706,,,,,,,,,,,,,,,,,Vici.org,,,"23659",,,,,,,,,,,,,,no
@@ -351,7 +351,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,"109330",FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,"138575",FR,46.496559,-0.024869,"85",E,,2nd c. CE,"101","200","2",,,,,,,Gallo-Roman,,,Vici.org,,,"6364",,,,,,,,,,,,,https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay,yes
 "1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
-"1000354",Temple in Glanum,,temple,,Saint-Rémy-de-Provence,,FR,43.773125,4.832713,,,,,,,,,,,,,,,,,Vici.org,,,"7903",,,,,,,,,,,,,,no
+"1000354",Small Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773114,4.832766,"80",E,,,,,,,,,,,,,,yes,Vici.org,,,"7903",,,,,,,,,,,,,,yes
 "1000355",Tasciaca,,temple,,Pouillé,,FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,no
 "1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
 "1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,,FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place/glanum,,,,,,,,,,no
@@ -404,7 +404,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000405",Le Combalou,,temple,,Roquefort-sur-Soulzon,,FR,43.974461,2.987631,,,,,,,,,,,,,,,,,Vici.org,,,"16700",,"19340",,,,,,,,,,,,no
 "1000406",Tour de Eysses,,temple,,Villeneuve-sur-Lot,,FR,44.419743,0.721229,,,,,,,,,,,,,,,,,Vici.org,,,"16703",,,,,,,,,,,,,,no
 "1000407",Châtelet,,temple,,Saint-Désirat,,FR,45.249901,4.79432,,,,,,,,,,,,,,,,,Vici.org,,,"16715",,"39298",,,,,,,,,,,,no
-"1000408","Temple, Brion",,temple,,Saint-Seurin-de-Cadourne,,FR,45.282433,-0.838219,,,,,,,,,,,,,,,,,Vici.org,,,"16717",,"20175",,,,,,,,,,,,no
+"1000408","Temple, Brion",,temple,,Saint-Seurin-de-Cadourne,"138492",FR,45.282433,-0.838219,,,,,,,,,,,,,,,,,Vici.org,,,"16717",,"20175",,,,,,,,,,,,no
 "1000409",Sanctuary Rajat,,temple,,Murol,,FR,45.591797,2.948923,,,,,,,,,,,,,,,,,Vici.org,,,"16745",,"20137",,,,,,,,,,,,no
 "1000410",Temple of Diana,,temple,,Aix-les-Bains,,FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
 "1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
@@ -774,3 +774,4 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000781",Temple of Antas,Sardus Pater Babai,temple,,Fluminimaggiore,,IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
+"1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,,,,,,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
