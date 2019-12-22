@@ -1,12 +1,12 @@
 html, body, #mask {
   /* Height and width fallback for older browsers. */
-                height: 100%;
+  height: 100%;
   width: 100%;
   /* Set the height & width to match that of the viewport. */
-                height: 95vh;
+  height: 95vh;
   width: 98vw;
   /* Remove any browser-default margins. */
-                margin: 0;
+  margin: 0;
 }
 
 .leaflet-control-layers-expanded {
