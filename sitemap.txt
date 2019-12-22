@@ -772,3 +772,6 @@ http://romeresearchgroup.org/items/1000779
 http://romeresearchgroup.org/items/1000780
 http://romeresearchgroup.org/items/1000781
 http://romeresearchgroup.org/items/1000782
+http://romeresearchgroup.org/items/1000783
+http://romeresearchgroup.org/items/1000784
+http://romeresearchgroup.org/items/1000785
