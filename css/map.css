@@ -14,13 +14,13 @@ html, body, #mask {
 }
 
 #map {
-  height: 85vh;
+  height: 80vh;
   border: 2px black solid;
 }
 
 body {
   font-family: Helvetica,sans-serif;
-  background: #eeeeee;
+  background: #ffffff;
   font-weight: 100;
 }
 
@@ -57,7 +57,10 @@ a {
 }
 
 h1 {
-  font-size: 13pt;
+  font-size: 18pt;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: .1em;
 }
 
 h2 {

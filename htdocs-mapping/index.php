@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>
-			Sacred Buildings of the Classical World
-		</title>
+		<title>Sacred Buildings of the Classical World</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
 	</head>
 	<body>
-<div  id='mask'>
-        <table>
+	<div  id='mask'>
+	<table>
 			<tr>
-				<td id='side_top'>
+				<td colspan=2>
 					<h1>
 						Sacred Buildings of the Classical World
 					</h1>
+				</td>
+			</tr>
+			<tr>
+				<td id='side_top'>
 					<h2>
 						Pick a variable by which to map the structures in the database:
 					</h2>
@@ -214,7 +216,7 @@
 
 			// Clear the cookie on startup
 			// Will generate a php error in json.php
-// 			var sqlquery = '';
+			// var sqlquery = '';
 			setCookie('sqlquery', 'dummy', '-1');
 
 			// Load navigation instructions

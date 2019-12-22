@@ -18,7 +18,7 @@ try {
 	// Should be only one, but loop anyway
 	while ($row = $stmt->fetch())
 		{
-		$text = '        <title>' . $row['name'] . ' (' . trim($row['location'] . ' - ' . $row['city'] . ', ' . $row['country']) . '): ' . $row['ID'] . '</title>' . "\n";
+		$text = $row['name'] . ' (' . trim($row['location'] . ' - ' . $row['city'] . ', ' . $row['country']) . '): ' . $row['ID'];
 		$text = str_replace('(- ', '(', $text);
 		$text = str_replace(' - ,', ',', $text);
 		$text = str_replace(' (,)', '', $text);
@@ -28,6 +28,5 @@ catch(PDOException $e) {
     echo "Error: " . $e->getMessage();
 }
 $conn = null;
-
 echo $text;
 ?>

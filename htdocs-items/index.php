@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
+		<title><?php include 'scripts/title.php' ?></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
 		<?php echo '<link rel="canonical" href="http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].'" />'.PHP_EOL;
-		      include 'scripts/title.php'
 		?>
 	</head>
 	<body>
@@ -49,13 +49,17 @@
 }
 </script>
 
-<div  id='mask'>
+<div id='mask'>
         <table>
 			<tr>
-				<td id='side_top'>
+				<td colspan=2>
 					<h1>
 						Sacred Buildings of the Classical World
 					</h1>
+				</td>
+			</tr>
+			<tr>
+				<td id='side_top'>
 					<form id="mapType" style="vertical-align=left; visibility: hidden; height: 0px">
 						<select id="mymenu" size="1">
 							// Select a mapping style that will work for any object
@@ -86,7 +90,7 @@
 				    <div id="side_bottom"></div>
 				</td>
 			</tr>
-			<tr id='bottom'>
+			<tr id='bottom' style="height:0vh">
 				<td colspan=2>
 				</td>
 			</tr>
@@ -166,8 +170,9 @@
 			    position: 'bottomright'
 			}).addTo(map);
 
-// 			Clear the cookie on startup
-// 			var sqlquery = '';
+			// Clear the cookie on startup
+			// Will generate a php error in json.php
+			// var sqlquery = '';
 			setCookie('sqlquery', 'dummy', '-1');
 
 			// Load navigation instructions
@@ -191,7 +196,6 @@
 				});
 			};
 
-
 		function clickOnMapItem(itemId) {
 			var id = parseInt(itemId);
 			//get target layer by its id
@@ -208,6 +212,5 @@
 			var filename = url.substring(url.lastIndexOf('/')+1);
 			setCookie('sqlquery', 'ID=' + filename, '1');
 		</script>
-
 	</body>
 </html>
