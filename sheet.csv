@@ -398,7 +398,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000398",Saint-Plancard,,temple,,Saint-Plancard,,FR,43.171619,0.576446,,,,,,,,,,,,,,,,,Vici.org,,,"16577",,"20156",,,,,,,,,,,,no
 "1000400",Vaugrenier,,temple,,Villeneuve-Loubet,,FR,43.623562,7.128598,,,,,,,,,,,,,,,,,Vici.org,,,"16608","157943","17386",,,,,,,,,,,,no
 "1000401",Rognes,,temple,,Rognes,,FR,43.663326,5.347199,,,,,,,,,,,,,,,,,Vici.org,,,"16612","148169","18072",,,,,,,,,,,,no
-"1000402",Temple at Puech Caut,,temple,,Sainte-Eulalie-de-Cernon,,FR,43.970982,3.099904,,,,,,,,,,,,,,,,,Vici.org,,,"16632",,"18276",,,,,,,,,,,,no
+"1000402",Temple at Puech Caut,,temple,,Sainte-Eulalie-de-Cernon,"127288246",FR,43.970982,3.099904,"281",W,,Later Augustan,"1","14","1",end of 2nd. c. CE,,,,,,,,,Vici.org,,,"16632",,"18276",,,,,,,,,,,,no
 "1000403",La Réole,,temple,,La Réole,,FR,44.586464,-0.029494,,,,,,,,,,,,,,,,,Vici.org,,,"16660",,"39399",,,,,,,,,,,,no
 "1000404",Fanum d'Aron,,temple,,Aurillac,,FR,44.926109,2.440561,,,,,,,,,,,,,,,,,Vici.org,,,"16667","138193","8396",,,,Q3066668,,,,,,,,no
 "1000405",Le Combalou,,temple,,Roquefort-sur-Soulzon,,FR,43.974461,2.987631,,,,,,,,,,,,,,,,,Vici.org,,,"16700",,"19340",,,,,,,,,,,,no
@@ -775,4 +775,4 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000782",Temple A,,temple,,Pietrabbondante,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
-"1000785",Temple to Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000785",Temple of Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
