@@ -33,7 +33,8 @@ res = res[0];
 		}
 		text = text + '<li title="Canonical URI for this temple.">' + 'URI: <a href="http://' + window.location.host + '/items/' + res.properties.id + '" target="_blank">http://RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
 		if (res.geometry.coordinates[0] != '') {
-		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] + '</li>';
+		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] ;
+		text = text + '<a href="#" onclick="map.flyTo([' + res.geometry.coordinates[1] + ',' + res.geometry.coordinates[0] + '], map.getMaxZoom()); return true;" style="text-decoration: none">&nbsp;🔍</a></li>';
 		} else {
 		text = text + '<li>Precise location unknown!</li>'
 		}
