@@ -228,7 +228,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000228",Church of San Cesareo,,temple,,Terracina,"433143",IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompeii,"433032",IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
-"1000231",Tharros,,temple,,San Giovanni di Sinis,,IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
+"1000231",Tharros,,temple,,San Giovanni di Sinis,"472032",IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
 "1000233",Temple of Antas,Sid Addir,temple,,Fluminimaggiore,,IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
 "1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
@@ -349,7 +349,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000349",Temple columns,,temple,,Sevilla,"256210",ES,37.400253,-5.993706,,,,,,,,,,,,,,,,,Vici.org,,,"23659",,,,,,,,,,,,,,no
 "1000350",Temple Noviodunum,,temple,,Jublains,,FR,48.26062,-0.498666,,,,,,,,,,,,,,,,,Vici.org,,,"429",,"18750",,,,,,,,,,,,no
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,"109330",FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
-"1000352",Temple,,temple,,Sanxay,,FR,46.496559,-0.024869,,,,,,,,,,,,,,,,,Vici.org,,,"6364",,,,,,,,,,,,,,no
+"1000352",Temple,,temple,,Sanxay,"138575",FR,46.496559,-0.024869,"85",E,,2nd c. CE,"101","200","2",,,,,,,Gallo-Roman,,,Vici.org,,,"6364",,,,,,,,,,,,,https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay,yes
 "1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
 "1000354",Temple in Glanum,,temple,,Saint-Rémy-de-Provence,,FR,43.773125,4.832713,,,,,,,,,,,,,,,,,Vici.org,,,"7903",,,,,,,,,,,,,,no
 "1000355",Tasciaca,,temple,,Pouillé,,FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,no
@@ -486,7 +486,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000487",Temple (Les cinq fontaines),,temple,,Laneuveville-devant-Nancy,,FR,48.656166,6.215222,,,,,,,,,,,,,,,,,Vici.org,,,"19473",,,,,,,,,,,,,,no
 "1000488",Lascaux,,temple,,Montignac,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
 "1000489",Camp celtique,,temple,,Niederbronn-les-Bains,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
-"1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,,FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
+"1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,"109254",FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
 "1000491",Hafentempel Colonia Ulpia Traiana,,temple,,Xanten,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
 "1000492",Capitolium CCAA,,temple,,Köln,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
 "1000493",Marstempel CCAA,,temple,,Köln,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
@@ -660,7 +660,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000665",Temple,,temple,Sahr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,,SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000667",Temple,Baal Shamin,temple,Kedesh,,,IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
-"1000668",Temple,,temple,Sour,Saura,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000668",Temple,,temple,Sour,Saura,"678377",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000669",Kalybe Temple,,temple,Il-Haiyat,,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000670",Kalybe Temple,,temple,Umm Iz-Zetun,,,SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000671",Kalybe Temple,,temple,Shakka,Maximianopolis,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
