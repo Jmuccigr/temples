@@ -351,7 +351,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,"109330",FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,"138575",FR,46.496559,-0.024869,"85",E,,2nd c. CE,"101","200","2",,,,,,,Gallo-Roman,,,Vici.org,,,"6364",,,,,,,,,,,,,https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay,yes
 "1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
-"1000354",Small Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773114,4.832766,"80",E,,,,,,,,,,,,,,yes,Vici.org,,,"7903",,,,,,,,,,,,,,yes
+"1000354",Small Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773114,4.832766,"80",E,,20-15 BCE,"-20","-15","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,"7903",,,,,,,,,,,,,,yes
 "1000355",Tasciaca,,temple,,Pouillé,,FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,no
 "1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
 "1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,,FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place/glanum,,,,,,,,,,no
@@ -398,7 +398,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000398",Saint-Plancard,,temple,,Saint-Plancard,,FR,43.171619,0.576446,,,,,,,,,,,,,,,,,Vici.org,,,"16577",,"20156",,,,,,,,,,,,no
 "1000400",Vaugrenier,,temple,,Villeneuve-Loubet,,FR,43.623562,7.128598,,,,,,,,,,,,,,,,,Vici.org,,,"16608","157943","17386",,,,,,,,,,,,no
 "1000401",Rognes,,temple,,Rognes,,FR,43.663326,5.347199,,,,,,,,,,,,,,,,,Vici.org,,,"16612","148169","18072",,,,,,,,,,,,no
-"1000402",Puech Caut,,temple,,Sainte-Eulalie-de-Cernon,,FR,43.970982,3.099904,,,,,,,,,,,,,,,,,Vici.org,,,"16632",,"18276",,,,,,,,,,,,no
+"1000402",Temple at Puech Caut,,temple,,Sainte-Eulalie-de-Cernon,,FR,43.970982,3.099904,,,,,,,,,,,,,,,,,Vici.org,,,"16632",,"18276",,,,,,,,,,,,no
 "1000403",La Réole,,temple,,La Réole,,FR,44.586464,-0.029494,,,,,,,,,,,,,,,,,Vici.org,,,"16660",,"39399",,,,,,,,,,,,no
 "1000404",Fanum d'Aron,,temple,,Aurillac,,FR,44.926109,2.440561,,,,,,,,,,,,,,,,,Vici.org,,,"16667","138193","8396",,,,Q3066668,,,,,,,,no
 "1000405",Le Combalou,,temple,,Roquefort-sur-Soulzon,,FR,43.974461,2.987631,,,,,,,,,,,,,,,,,Vici.org,,,"16700",,"19340",,,,,,,,,,,,no
@@ -774,4 +774,5 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000781",Temple of Antas,Sardus Pater Babai,temple,,Fluminimaggiore,,IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
-"1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,,,,,,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
+"1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
+"1000785",Temple to Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
