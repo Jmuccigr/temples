@@ -369,7 +369,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
 "1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,,,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
 "1000371",Temple of Apollo,,temple,,Riez,,FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,,Q1272940,,,,,,,,no
-"1000372",Forum Temple Lugdunum Convenarum,,temple,,Saint-Bertrand-de-Comminges,,FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
+"1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,,FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,no
 "1000374",Temple complex Petromantalum,,temple,,Genainville,,FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,no
 "1000375",Temple of Mars,Mars,temple,,Corseul,,FR,48.472012,-2.146052,,,,,,,,,,,M,,god,,,,Vici.org,,,"11360",,"20763",,,,,,,,,,,,no
@@ -453,7 +453,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000454",Deneuvre,,temple,,Deneuvre,,FR,48.441734,6.73517,,,,,,,,,,,,,,,,,Vici.org,,,"17030","108922","1834",,,,,,,,,,,,no
 "1000455",Asile des Pêcheurs,,temple,,Taden,"69574",FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
 "1000456",Les Grèves,,temple,,La Villeneuve-au-Châtelot,,FR,48.549187,3.606701,,,,,,,,,,,,,,,,,Vici.org,,,"17036",,"39451",,,,,,,,,,,,no
-"1000457","Nasium, temple",,temple,,Saint-Amand-sur-Ornain,,FR,48.632435,5.386586,,,,,,,,,,,,,,,,,Vici.org,,,"17043",,"18748",,,,,,,,,,,,no
+"1000457",Temple,,temple,,"Naix-aux-Forges, Saint-Amand-sur-Ornain","109190",FR,48.632435,5.386586,,,,,,,,,,,,,,,,,Vici.org,,,"17043","534922362","18748",,,,,,,,,,,,no
 "1000458",Wasserwald,,temple,,Haegen,,FR,48.713898,7.289902,,,,,,,,,,,,,,,,,Vici.org,,,"17048","109026","20761",,,,,,,,,,,,no
 "1000459",La Butte Ronde,,temple,,Saint-Forget,,FR,48.714252,1.984475,,,,,,,,,,,,,,,,,Vici.org,,,"17049",,"20895",,,,,,,,,,,,no
 "1000460",Arnières-sur-Iton,,temple,,Arnières-sur-Iton,,FR,48.999615,1.110515,,,,,,,,,,,,,,,,,Vici.org,,,"17064","108757","18147",,,,,,,,,,,,no
@@ -531,7 +531,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000532",Spring Sanctuary (Sudelfels),,temple,,Wallerfangen,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205",,,,,,Q1408110,,,,,,,,no
 "1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,Nettersheim,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
-"1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220",,,,,,,,,,,,,,no
+"1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,"109298",DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220","925825061",,,,,Q26706748,,,,,,,,no
 "1000536",Temple,,temple,,Rheinfelden (Baden),,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
 "1000537",Cult area,,temple,,Sontheim an der Brenz,"118966",DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
 "1000538",Mithraeum,Mithras,mithraeum,,Königsbrunn,,DE,48.274055,10.87458,,,,,,,,,,,,,,,,,,,Mithras Heiligtum,"8282",,,,,,,,,,,,,,no
