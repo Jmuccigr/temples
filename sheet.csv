@@ -139,7 +139,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000139",Capitolium,"Jupiter, Juno, Minerva",temple,,Verona,"383816",IT,45.443872,10.996195,"144",SE,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Scarbantia,"197501",HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Constantinople,,TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
-"1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,,HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
+"1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,"197448",HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,"391553443",,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
 "1000143",Temple of Augustus,,temple,,Barcelona,,ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
 "1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,"432815",IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,"390040629",,,,,,,,,,,,,
 "1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
@@ -283,7 +283,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000283",Temple of Venus Erycina,,temple,,Erice,,IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
 "1000284",Talamonaccio,,temple,,,,IT,42.551804,11.169796,,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371",,,,,,,,,,,,426112STal,,no
 "1000285",Cult Site,,temple,,Monte S. Martino,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,no
-"1000286",Temple of Clitumnus,,temple,,Pissignano,,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791",,,,,,,,,,,,,,no
+"1000286",Temple of Clitumnus,,temple,,Pissignano,,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791","413140",,,,Temple_of_Clitumnus,Q3983167,,,,,,,,no
 "1000287",Temple of Flora,,temple,,,,IT,41.305756,14.562722,,,,,,,,,,,F,,concept,,,,Vici.org,,,"19792",,,,,,Q3983249,,,,,,,,no
 "1000288",Temple of the Dioscuri,,temple,,Napoli,"433014",IT,40.85144,14.25683,,,,,,,,,,,,,hero,,,,Vici.org,,,"19793",,,,,,,,,,,,,,no
 "1000289",Temple of Diana Tifatina,Diana,temple,,Sant'Angelo In Formis,,IT,41.118251,14.260432,"256",W,,,"-399","-300","-4",,,,F,,god,,,,Vici.org,,,"19794","432813","22559",,,,,,,,,,,,yes
@@ -352,9 +352,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000352",Temple,,temple,,Sanxay,"138575",FR,46.496559,-0.024869,"85",E,,2nd c. CE,"101","200","2",,,,,,,Gallo-Roman,,,Vici.org,,,"6364",,,,,,,,,,,,,https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay,yes
 "1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
 "1000354",Small Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773114,4.832766,"80",E,,20-15 BCE,"-20","-15","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,"7903",,,,,,,,,,,,,,yes
-"1000355",Tasciaca,,temple,,Pouillé,,FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017","138608","20524",,,,,,,,,,,,no
+"1000355",Tasciaca,,temple,,Pouillé,"138520",FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017",,"20524",,,,,,,,,,,,no
 "1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
-"1000357","Temple of Mercury, Lutetia",Mercury,temple,,Paris,,FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,place/glanum,,,,,,,,,,no
+"1000357",Temple of Mercury,Mercury,temple,,Paris,"109126",FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,,,,,,,,,,,no
 "1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,,FR,44.561203,4.600079,,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,no
 "1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
 "1000360",Temple of the Cybele,,temple,,Vienne,"167719",FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
@@ -368,7 +368,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000368",Temple Isarnodurum,,temple,,Izernore,,FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667","177545","20105",,,,,,,,,,,,no
 "1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
 "1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,,,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
-"1000371",Temple of Apollo,,temple,,Riez,,FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,,Q1272940,,,,,,,,no
+"1000371",Temple of Apollo,,temple,,Riez,"157805",FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,fr=Colonnes_de_Riez,Q1272940,,,,,,,,no
 "1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,,FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,no
 "1000374",Temple complex Petromantalum,,temple,,Genainville,,FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,no
@@ -377,7 +377,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
 "1000378",Tempel Cherre',,temple,,Aubigné-Racan,,FR,47.660496,0.235538,,,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
 "1000379",Tempeln Argentomagus,,temple,,Saint-Marcel,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
-"1000380",Tour de Vesone,,temple,,Périgueux,,FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
+"1000380",Tour de Vesone,,temple,,Périgueux,"138513",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
 "1000381",Temple,,temple,,Offemont,,FR,47.658772,6.866085,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14562",,"170040",,,,,,,,,,,,no
 "1000382",Temple forêt Halatte,,temple,,Ognon,,FR,49.242058,2.625384,,,,,,,,,,,,,,,,,Vici.org,,,"14563","335533616","18751",,,,,,,,,,,,no
 "1000383",Temple,,temple,,Dax,,FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
@@ -428,7 +428,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000429",Fourneaux,,temple,,Montreuil-Bellay,,FR,47.102268,-0.08869,,,,,,,,,,,,,,,,,Vici.org,,,"16901","138471","17457",,,,,,,,,,,,no
 "1000430",Temple,,temple,,Chênehutte-Trèves-Cunault,,FR,47.305702,-0.161236,,,,,,,,,,,,,,,,,Vici.org,,,"16920",,"20780",,,,,,,,,,,,no
 "1000431",Villate,,temple,,Neuvy-sur-Barangeon,,FR,47.307056,2.297843,,,,,,,,,,,,,,,,,Vici.org,,,"16921","138484","20623",,,,,,,,,,,,no
-"1000432",Petit-Mars,,temple,,Petit-Mars,,FR,47.390633,-1.468336,,,,,,,,,,,,,,,,,Vici.org,,,"16928","138512","18115",,,,,,,,,,,,no
+"1000432",Sanctuary at Petit-Mars,,temple,,Petit-Mars,,FR,47.390633,-1.468336,,,,,,,,,,,,,,,,,Vici.org,,,"16928","138512","18115",,,,,,,,,,,,no
 "1000433",Temple antique,,temple,,Tours,"138255",FR,47.3936,0.68807,,,,,,,,,,,,,,,,,Vici.org,,,"16930",,"7874",,,,,,,,,,,,no
 "1000434",Sources de la Seine,,temple,,Poncey-sur-l'Ignon,,FR,47.484905,4.719573,,,,,,,,,,,,,,,,,Vici.org,,,"16939",,"20161",,,,,,,,,,,,no
 "1000435",Temple,,temple,,Vannes,"138323",FR,47.671444,-2.750201,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"16954",,"39461",,,,,,,,,,,,no
@@ -524,7 +524,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000525",Temple and burial precinct,,temple,,Newel,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
 "1000526",Temple area,,temple,,Homburg,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,,DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
-"1000528",Temple area,Mars-Lenus,temple,,Pommern,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141",,,,,,Q1234219,,,,,,,,no
+"1000528",Temple area,Mars-Lenus,temple,,Pommern,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
 "1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,Lauingen,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Bergheiligtum auf dem Calmont,,temple,,Bremm,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
@@ -608,7 +608,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
 "1000610",Tempelreste,,temple,,Bonn,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
-"1000612",Temple Ziegetsberg,,temple,,Regensburg,,DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
+"1000612",Temple Ziegetsberg,,temple,,Regensburg,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
 "1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,,TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,,GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
 "1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,,,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
