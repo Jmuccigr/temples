@@ -337,7 +337,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000337",Santuário de S. Pedro de Almuro,,temple,,,,PT,38.997742,-7.48622,,,,,,,,,,,,,,,,,Vici.org,,,"15254",,"40138",,,,,,,,,,,,no
 "1000338",Roman Temple,,temple,,Vic,"246212",ES,41.929189,2.256857,"271",W,,2nd c. CE,,,"2",,,,,,,Roman,,yes,Vici.org,,,"10779","383321670",,,,Roman_temple_of_Vic,Q2294240,,,,,,,,yes
 "1000339",Temple,,temple,,Córdoba,,ES,37.884762,-4.77628,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10794",,,,,Roman_temple_of_Córdoba,Q1106385,,,,,,,,no
-"1000340",Temple of Diana - Emerita Augusta,Diana,temple,,Mérida,,ES,38.91658,-6.34435,,,,,,,,,,,F,,god,,,,Vici.org,,,"11493",,,,place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum,,,,,,,,,,no
+"1000340",Temple of Diana,Diana,temple,,Mérida,"256155",ES,38.91658,-6.34435,"143",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"11493",,,,place/augusta-emerita/augusta-emerita-photos/augusta-emerita-civic-forum,,,,,,,,,,yes
 "1000341",Temple,Trajan and the Roman Gods,temple,,Alcántara,,ES,39.721661,-6.891493,,,,2nd c. CE,,,"2",,,,M/F,,"god,emperor",,,,Vici.org,,,"14476","255966","25494",,,Roman_temple_of_Alcántara,Q7362337,,,,,,,,no
 "1000342",Fortuna,Fortuna,temple,,Los Baños de Fortuna,,ES,38.209648,-1.11363,,,,,,,,,,,F,,god,,,,Vici.org,,,"15389","265899","36550",,,,,,,,,,,,no
 "1000343",Cerro de los Santos,,temple,,Montealegre del Castillo,,ES,38.732769,-1.27022,,,,,,,,,,,,,,,,,Vici.org,,,"15394","265862","37001",,,es=Cerro_de_los_Santos,Q5486840,,,,,,,,no
@@ -350,13 +350,13 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000350",Temple Noviodunum,,temple,,Jublains,,FR,48.26062,-0.498666,,,,,,,,,,,,,,,,,Vici.org,,,"429",,"18750",,,,,,,,,,,,no
 "1000351",Nymphaeum Aquae Segetae,Nymphs,temple,,Sceaux-du-Gâtinais,"109330",FR,48.115402,2.622707,,,,,,,,,,,F,,god,,,,Vici.org,,,"4326",,"7863",,,,,,,,,,,,no
 "1000352",Temple,,temple,,Sanxay,"138575",FR,46.496559,-0.024869,"85",E,,2nd c. CE,"101","200","2",,,,,,,Gallo-Roman,,,Vici.org,,,"6364",,,,,,,,,,,,,https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay,yes
-"1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,,Maison_Carrée,Q677659,,,,,,,,yes
+"1000353",Maison Carrée,,temple,,Nîmes,"148142",FR,43.838333,4.356111,"349",N,,,,,,,,,,,,,,,Vici.org,,,"7858",,"39300",,place/nemausus-nimes/nemausus-nimes-maison-carree,Maison_Carrée,Q677659,,,,,,,,yes
 "1000354",Small Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773114,4.832766,"80",E,,20-15 BCE,"-20","-15","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,"7903",,,,,,,,,,,,,,yes
 "1000355",Tasciaca,,temple,,Pouillé,"138520",FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017",,"20524",,,,,,,,,,,,no
-"1000356",Roman Temple,,temple,,Orange,,FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,place/nemausus-nimes/nemausus-nimes-maison-carree,,,,,,,,,,no
+"1000356",Roman Temple,,temple,,Orange,"148054",FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,,,,,,,,,,,no
 "1000357",Temple of Mercury,Mercury,temple,,Paris,"109126",FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,,,,,,,,,,,no
 "1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,,FR,44.561203,4.600079,,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,no
-"1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,place/arausio-orange,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
+"1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
 "1000360",Temple of the Cybele,,temple,,Vienne,"167719",FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
 "1000361",Temple of Diana,Diana,temple,,Roppeviller,,FR,49.103539,7.52761,,,,,,,,,,,F,,god,,,,Vici.org,,,"10354",,,,,,,,,,,,,,no
 "1000362",Temple of Diana,Diana,temple,,Nîmes,"148142",FR,43.839947,4.348574,,,,,,,,,,,F,,god,,,,Vici.org,,,"10622","439736209","393010",,,,,,,,,,,,no
@@ -409,7 +409,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000410",Temple of Diana,,temple,,Aix-les-Bains,,FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
 "1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
 "1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
-"1000413","Temple de Mercure, Puy de Dôme",,temple,,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
+"1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
 "1000414",Temple Cassinomagus,,temple,,Chassenon,,FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
 "1000415",Puy Lautard,,temple,,Saint-Pardoux-Morterolles,,FR,45.929768,1.869932,,,,,,,,,,,,,,,,,Vici.org,,,"16805","138527","18100",,,,,,,,,,,,no
 "1000416",Puy-de-Joue,,temple,,Saint-Goussaud,,FR,46.033264,1.569519,,,,,,,,,,,,,,,,,Vici.org,,,"16808","138556","37144",,,,,,,,,,,,no
@@ -564,7 +564,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000565",Mithraeum II,Mithras,mithraeum,,Heidelberg,"118731",DE,49.413967,8.693815,,,,,,,,,,,,,,,,,,,Mitraeum II (Heidelberg),"14254",,,,,,,,,,,,,,no
 "1000566",Temple area,,temple,Greinberg,Miltenberg,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441",,,,,,,,,,,,,,no
-"1000568",Weihebezirk,,temple,,Osterburken,,DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
+"1000568",Sanctuary area,,temple,,Osterburken,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
 "1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,,DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
 "1000570",Temple area I,,temple,,Rottweil,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
 "1000571",Temple area II,,temple,,Rottweil,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
