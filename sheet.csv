@@ -387,7 +387,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000387",Sanctuary Donon,,temple,,Grandfontaine,,FR,48.512527,7.164421,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14577",,"15774",,,,,,,,,,,,no
 "1000388",Temple - Cathédrale St Jean,,temple,,Alès,,FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
 "1000389",Fanum - Civaux,,temple,,Civaux,,FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
-"1000390",Grannum,,temple,,Grand,,FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743","109016","7783",,,,,,,,,,,,no
+"1000390",Grannum,,temple,,Grand,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
 "1000391",Temple complex,,temple,,Castelnau-Montratier,,FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033","138277","17730",,,,,,,,,,,,no
 "1000392",Sanctuary,,temple,,Drevant,,FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
 "1000393",Fanum,,temple,,Bennecourt,,FR,49.04372,1.570312,,,,,,,,,,,,,,,,,Vici.org,,,"16326",,,,,,,,,,,,,,no
@@ -494,7 +494,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000495",Matronentempel,,temple,,Nettersheim,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
 "1000496",Temple Görresburg,,temple,,Nettersheim,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
 "1000497",Weihetempel,,temple,,Ernzen,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
-"1000498",Judenkirchhof - Roman temple district - Pelm,,temple,,Gerolstein,,DE,50.230743,6.674787,,,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
+"1000498",Juddekirchhof,,temple,,Gerolstein,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
 "1000499",Temple of Sirona,Sirona,temple,,Hochscheid,,DE,49.864198,7.232936,,,,,,,,,,,,,,Gallo-Roman,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697","109046",,,,,,,,,,,,,yes
 "1000500",Roman temple building Auf Borstadt - Schleidweiler,,temple,,Zemmer,,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,no
 "1000501",Roman temple building - Gusenburg,,temple,,Hermeskeil,"109042",DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,no
@@ -511,7 +511,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000512",Temple area,,temple,Lindenkreuz,Gusterath,,DE,49.703884,6.705037,,,,,,,,,,,,,,,Umgangstempel,,,,Tempelanlage Beim Lindenkreuz - Umgangstempel - Gusterath -point imported from roscheiderhof.de,"5712",,,,,,,,,,,,,,no
 "1000513",Temple area,,temple,,Neidenbach,,DE,50.107349,6.563914,,,,,,,,,,,,,,,,,,,Tempelanlage - Neidenbach -point imported from roscheiderhof.de,"5713",,,,,,,,,,,,,,no
 "1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
-"1000515",Temple area,,temple,,Heckenmünster,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715",,,,,,,,,,,,,,no
+"1000515",Temple area,,temple,,Heckenmünster,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715","109034",,,,,,,,,,,,,no
 "1000516",Temple area,,temple,Hinzerath,Morbach,,DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
 "1000517",Temple Sanctuary,,temple,Butzweiler,Newel,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
 "1000518",Presumed temple area,,temple,,Aach,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
