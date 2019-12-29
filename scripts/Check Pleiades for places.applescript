@@ -33,7 +33,13 @@ repeat with place in urlList
 		end try
 	end if
 end repeat
-display alert "Done" message "Found " & counter & " possible locations in Pleiades." & return & "Last entry: " & replace(place, "_", " ")
+
+-- Done, so activate Safari by having it show an alert
+tell application "Safari"
+	display alert "Done" message "Found " & counter & " possible locations in Pleiades." & return & "Last entry: " & my replace(place, "_", " ")
+	-- and so we don't forget...
+	set the clipboard to place
+end tell
 
 -- Quick search and replace with TID
 on replace(origtext, ftext, rtext)
