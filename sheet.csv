@@ -364,7 +364,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000364",Temple of Mercury,Mercury,temple,,Niederbronn-les-Bains,"109209",FR,48.960583,7.616738,,,,,,,,,,,M,,god,,,,Vici.org,,,"10648",,"39152",,,,,,,,,,,,no
 "1000365",Sanctuary,,temple,,Villards-d'Héria,"177659",FR,46.423141,5.742032,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10659",,,,,,,,,,,,,,no
 "1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661",,,,,,,,,,,,,,no
-"1000367",Sanctuary (Flaviers - Mouzon),,temple,,Mouzon,,FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
+"1000367",Sanctuary (Flaviers - Mouzon),,temple,,Flaviers - Mouzon,"109183",FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
 "1000368",Temple Isarnodurum,,temple,,Izernore,,FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667","177545","20105",,,,,,,,,,,,no
 "1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
 "1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,,,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
@@ -379,7 +379,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000379",Tempeln Argentomagus,,temple,,Saint-Marcel,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
 "1000380",Tour de Vesone,,temple,,Périgueux,"138513",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
 "1000381",Temple,,temple,,Offemont,,FR,47.658772,6.866085,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14562",,"170040",,,,,,,,,,,,no
-"1000382",Temple forêt Halatte,,temple,,Ognon,,FR,49.242058,2.625384,,,,,,,,,,,,,,,,,Vici.org,,,"14563","335533616","18751",,,,,,,,,,,,no
+"1000382",Temple at forêt Halatte,,temple,,Ognon,,FR,49.242058,2.625384,,,,,,,,,,,,,,,,,Vici.org,,,"14563","335533616","18751",,,,,,,,,,,,no
 "1000383",Temple,,temple,,Dax,,FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
 "1000384",Sanctuary,,temple,,Margerides,,FR,45.450756,2.426149,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14568","138447","16974",,,,,,,,,,,,no
 "1000385",Temple de Mercure de la forêt de Tannière,,temple,,Archettes,,FR,48.131313,6.57349,,,,,,,,,,,,,god,,,,Vici.org,,,"14571",,"20758",,,,,,,,,,,,no
@@ -436,7 +436,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000437",Moncelon,,temple,,Briou,,FR,47.821045,1.476534,,,,,,,,,,,,,,,,,Vici.org,,,"16970","138290","18151",,,,,,,,,,,,no
 "1000438",La Tour,,temple,,Sablé-sur-Sarthe,,FR,47.83168,-0.353501,,,,,,,,,,,,,,,,,Vici.org,,,"16971",,"20733",,,,,,,,,,,,no
 "1000439",Le Mur,,temple,,Comblessac,,FR,47.845501,-2.099815,,,,,,,,,,,,,,,,,Vici.org,,,"16973",,"39457",,,,,,,,,,,,no
-"1000440",Craon,,temple,,Montbouy,,FR,47.869492,2.828017,,,,,,,,,,,,,,,,,Vici.org,,,"16981","138468","16983",,,,,,,,,,,,no
+"1000440",Fanum,,temple,,Montbouy,"138468",FR,47.869492,2.828017,,,,,,,,,,,,,,,,,Vici.org,,,"16981",,"16983",,,,,,,,,,,,no
 "1000441",Ruines d'un vieux temple - Membrey,,temple,,Savoyeux,,FR,47.5644,5.734408,,,,,,,,,,,,,,,,,Vici.org,,,"16983",,,,,,,,,,,,,,no
 "1000442",Les Clairs Chênes,,temple,,Faverolles,,FR,47.964176,5.222123,,,,,,,,,,,,,,,,,Vici.org,,,"16994","177521","17579",,,,,,,,,,,,no
 "1000443",Plombières-les-Bains,,temple,,Plombières-les-Bains,,FR,47.965816,6.460263,,,,,,,,,,,,,,,,,Vici.org,,,"16995",,"20759",,,,,,,,,,,,no
@@ -523,7 +523,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000524",Überreste eines Tempels - Grindelborn,,temple,,Mürlenbach,,DE,50.141296,6.631656,,,,,,,,,,,,,,,,,,,Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de,"5725",,,,,,,,,,,,,,no
 "1000525",Temple and burial precinct,,temple,,Newel,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
 "1000526",Temple area,,temple,,Homburg,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
-"1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,,DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
+"1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
 "1000528",Temple area,Mars-Lenus,temple,,Pommern,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
 "1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,Lauingen,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
@@ -552,7 +552,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,Prutting,,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,no
 "1000554",Mithraeum,Mithras,mithraeum,,Riegel am Kaiserstuhl,,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,no
 "1000555",Temple of Cimbrian Mercury,Mercury,temple,,Heidelberg,"118731",DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,no
-"1000556",Fossa Sanguinis,,temple,,Neuss,,DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,no
+"1000556",Fossa Sanguinis,,temple,,Neuss,"109201",DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,no
 "1000557","Maienbühl, Riehen",,temple,,Inzlingen,,DE,47.594391,7.68094,,,,,,,,,,,,,,,,,,,,"13164",,"38834",,,,,,,,,,,,no
 "1000558",Mithraeum,Mithras,mithraeum,Mundelsheim,Besigheim,,DE,49.008961,9.210657,,,,,,,,,,,,,,,,,,,,"13937",,,,,,,,,,,,,,no
 "1000559",Temple,,temple,,Langenau,,DE,48.496727,10.119792,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel (Langenau),"14194",,,,,,,,,,,,,,no
@@ -588,13 +588,13 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000589",Spring Sanctuary Kasbruch,,temple,,Neunkirchen,,DE,49.337135,7.213664,,,,,,,,,,,,,,Gallo-Roman,,,,,,"16336",,,,,,,,,,,,,,no
 "1000590",Mithraeum,Mithras,mithraeum,,Xanten,"108896",DE,51.659077,6.462894,,,,,,,,,,,,,,,,,,,,"17413",,,,,,,,,,,,,,no
 "1000591",Temple,,temple,,Aachen,"108749",DE,50.775005,6.085007,,,,,,,,,,,,,,,,,,,,"18766",,,,,,,,,,,,,,no
-"1000592",Temple,,temple,Straß,Nersingen,,DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
+"1000592",Temple,,temple,Straß,Nersingen,"118867",DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
 "1000593",(K)ein Mithrasheiligtum (Saalburg),Mithras,mithraeum,,Bad Homburg vor der Höhe,,DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
 "1000594",Mithraeum,Mithras,mithraeum,,Dieburg,,DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
 "1000595",Sanctuary,,temple,,Mainz,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
 "1000596",Brandopferplatz,,temple,,Erkheim,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
 "1000597",Rosmerta-Tempel,,temple,,Andernach,,DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
-"1000598",Temple,,temple,,Neumagen-Dhron,,DE,49.841267,6.899114,,,,,,,,,,,,,,,,,,,Tempel (Neumagen-Dhron),"20350",,,,,,,,,,,,,,no
+"1000598",Temple,,temple,,Neumagen-Dhron,"109223",DE,49.841267,6.899114,,,,,,,,,,,,,,,,,,,Tempel (Neumagen-Dhron),"20350",,,,,,,,,,,,,,no
 "1000599",Temple,,temple,,Piesport,,DE,49.863735,6.923764,,,,,,,,,,,,,,,,,,,Tempel (Piesport),"20351",,,,,,,,,,,,,,no
 "1000600",Sironatempel,,temple,,Stipshausen,,DE,49.850479,7.291307,,,,,,,,,,,,,,,,,,,Sironatempel (Stipshausen),"20363",,,,,,,,,,,,,,no
 "1000601",Temple of Mercury,,temple,Lemberg,Feilbingert,,DE,49.785912,7.768484,,,,,,,,,,,,,god,,,,,,,"20366",,,,,,,,,,,,,,no
