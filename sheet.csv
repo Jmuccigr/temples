@@ -371,7 +371,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000371",Temple of Apollo,,temple,,Riez,"157805",FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,fr=Colonnes_de_Riez,Q1272940,,,,,,,,no
 "1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,,FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,no
-"1000374",Temple complex Petromantalum,,temple,,Genainville,,FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,no
+"1000374",Temple complex (at Petromantalum?),,temple,,Genainville,"109004",FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313",,"18747",,,,,,,,,,,,no
 "1000375",Temple of Mars,Mars,temple,,Corseul,,FR,48.472012,-2.146052,,,,,,,,,,,M,,god,,,,Vici.org,,,"11360",,"20763",,,,,,,,,,,,no
 "1000376",Temple of Janus,Janus,temple,,Autun,,FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
@@ -392,7 +392,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000392",Sanctuary,,temple,,Drevant,,FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
 "1000393",Fanum,,temple,,Bennecourt,,FR,49.04372,1.570312,,,,,,,,,,,,,,,,,Vici.org,,,"16326",,,,,,,,,,,,,,no
 "1000394",Mons Seleucus,,temple,,La Bâtie-Montsaléon,,FR,44.456219,5.748653,,,,,,,,,,,,,,,,,Vici.org,,,"16332","167836",,,,,,,,,,,,,no
-"1000395",Nymphaeum,Nymphs,temple,,Gennes,,FR,47.337536,-0.232876,,,,,,,,,,,F,,god,,,,Vici.org,,,"16398",,"393910",,,,,,,,,,,,no
+"1000395",Nymphaeum,Nymphs,temple,,Gennes,"138371",FR,47.337536,-0.232876,,,,,,,,,,,F,,god,,,,Vici.org,,,"16398",,"393910",,,,,,,,,,,,no
 "1000396",Nistos,,temple,,Bramevaque,,FR,42.981285,0.537025,,,,,,,,,,,,,,,,,Vici.org,,,"16568","246520","18233",,,,,,,,,,,,no
 "1000397",Saint-Pé-d'Ardet,,temple,,Saint-Pé-d'Ardet,,FR,42.983734,0.669335,,,,,,,,,,,,,,,,,Vici.org,,,"16569",,"20154",,,,,,,,,,,,no
 "1000398",Saint-Plancard,,temple,,Saint-Plancard,,FR,43.171619,0.576446,,,,,,,,,,,,,,,,,Vici.org,,,"16577",,"20156",,,,,,,,,,,,no
@@ -738,7 +738,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvium,"422956",IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000746",Temple of S. Pietro,,temple,,Alba Fucens,"413005",IT,42.07709,13.410732,"70",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000747",Temple on the Pettorino Hill,,temple,,Alba Fucens,"413005",IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
-"1000748",Temple at Garni,Mihr,temple,,Garni,,AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
+"1000748",Temple at Garni,Mihr,temple,,Garni,"863795",AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
 "1000749",Temple of Spes Vetus,Spes,temple,Esquiine,Rome,"423025",IT,,,,,,477 BCE,"477",,"5",,,,F,,god,Roman,,no,,,,,,,,,Temple_of_Spes,Q3983282,,,,,,,,
 "1000750",Temple of Jupiter,Jupiter,temple,,Saepinum,"433073",IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
 "1000751",Temple,,temple,,Saepinum,"433073",IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
@@ -771,7 +771,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000778",Forum Temple,,temple,,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000779",Temple of Mercury,Mercury,temple,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000780",Temple of Genna Cantonis,,temple,,Matzanni,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
-"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,,IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,"471928",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
