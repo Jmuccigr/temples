@@ -230,7 +230,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000230",Temple of Bellona,Bellona,temple,,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,"472032",IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
-"1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,,IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
+"1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,"471971",IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
 "1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
 "1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
@@ -297,7 +297,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000297",Temple of Diana,,temple,,Cefalú,,IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
 "1000298",Large Temple,,temple,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894",,,,,,,,,,,,,,no
 "1000299",Temple of Hercules,,temple,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
-"1000300",Etrusco-Roman temple complex,,temple,,Fiesole,,IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
+"1000300",Etrusco-Roman temple complex,,temple,,Fiesole,"413124",IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
 "1000301",Asclepieion,,temple,,Heloros,,IT,36.841862,15.105948,,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,no
 "1000302",Temple of Jupiter,,temple,,Tusculum,"423108",IT,41.798317,12.704335,,,,,,,,,,,,,god,,,,Vici.org,,,"24929",,,,,,,,,,,,,,no
 "1000303",Temple,,temple,,Megara Hyblaea,"462307",IT,37.204262,15.175998,,,,,,,,,,,,,,,,,Vici.org,,Extra mural temple,"25276",,,,,,,,,,,,,,no
@@ -327,7 +327,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000327",Masseria del Gigante,,temple,,Cumae,"432808",IT,40.847826,14.058799,"280",W,,late 1st c. CE,,,"1",,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000328",Sanctuary Alto da Vigia,,temple,,Colares,,PT,38.824299,-9.47159,,,,,,,,,,,,,,,,,Vici.org,,,"10721","256172","36997",,,,,,,,,,,,no
 "1000329",Temple at Mirobriga Celticorum,,temple,,Santiago do Cacém,"256303",PT,38.010284,-8.683709,,,,,,,,,,,,,,,,,Vici.org,,,"10725",,,,,,,,,,,,,,no
-"1000330",Temple,,temple,,Évora,,PT,38.572571,-7.907287,,,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10744",,,,,Roman_Temple_of_Évora,Q737441,,,,,,,,no
+"1000330",Temple,,temple,,Évora,"256151",PT,38.572571,-7.907287,"150",SE,,1st c. CE,,,"1",,,,,,,,,,Vici.org,,,"10744","862813573",,,,Roman_Temple_of_Évora,Q737441,,,,,,,,no
 "1000331",S. Miguel de Mota,,temple,,,,PT,38.64328,-7.44304,,,,,,,,,,,,,,,,,Vici.org,,,"15153","256429","37000",,,,,,,,,,,,no
 "1000332",Calanta,,temple,,,,PT,38.76722,-8.03341,,,,,,,,,,,,,,,,,Vici.org,,,"15154","256042","37145",,,,,,,,,,,,no
 "1000333",Cabeço de Fráguas,,temple,,,,PT,40.419579,-7.22432,,,,,,,,,,,,,,,,,Vici.org,,,"15250",,"40134",,,,,,,,,,,,no
@@ -502,7 +502,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000503",Roman Temple - Niersbach,,temple,,,,DE,49.942722,6.755594,,,,,,,,,,,,,,,,,,,Römischer Tempel - Niersbach -point imported from roscheiderhof.de,"5702",,,,,,,,,,,,,,no
 "1000504",Roman temple building auf dem Metzenberg - Tawern,,temple,,Nittel,,DE,49.664539,6.509661,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de,"5703",,,,,de=Römischer_Tempelbezirk_Tawern,Q1460725,,,,,,,,no
 "1000505",Roman temple district,,temple,,Nattenheim,,DE,50.020042,6.518407,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de,"5704",,,,,,,,,,,,,,no
-"1000506",Roman temple district - Otrang,,temple,,Fließem,,DE,50.013863,6.546174,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de,"5705",,,,,,,,,,,,,,no
+"1000506",Roman temple district,,temple,Villa Otrang,Fließem,"108982",DE,50.013863,6.546174,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de,"5705",,,,,,,,,,,,,,no
 "1000507",Tempel am Herrenbrünnchen - Neu-Heiligkreuz,,temple,,Trier,"108894",DE,49.745407,6.646463,,,,,,,,,,,,,,,,,,,Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de,"5707",,,,,,,,,,,,,,no
 "1000508",Tempel auf dem Gelände des Mutterhauses - Altstadt,,temple,,Trier,"108894",DE,49.754078,6.630699,,,,,,,,,,,,,,,,,,,Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de,"5708",,,,,,Q723125,,,,,,,,no
 "1000509",Tempel mit Säulenvorbau - Alt-Heiligkreuz,,temple,,Trier,"108894",DE,49.746544,6.642509,,,,,,,,,,,,,,,,,,,Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5709",,,,,,,,,,,,,,no
@@ -771,7 +771,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000778",Forum Temple,,temple,,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000779",Temple of Mercury,Mercury,temple,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000780",Temple of Genna Cantonis,,temple,,Matzanni,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
-"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,"471928",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,"471971",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
