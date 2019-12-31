@@ -280,7 +280,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000280",Temple 'A',,temple,,Pyrgi,"433061",IT,42.015289,11.963535,,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
 "1000281",Temple 'B',,temple,,Pyrgi,"433061",IT,42.015129,11.963889,,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,no
 "1000282",Sanctuary of Apollo,,temple,,Pyrgi,"433061",IT,42.014652,11.964618,,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,no
-"1000283",Temple of Venus Erycina,,temple,,Erice,,IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
+"1000283",Temple of Venus Erycina,,temple,,Erice,"462201",IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
 "1000284",Talamonaccio,,temple,,,,IT,42.551804,11.169796,,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371",,,,,,,,,,,,426112STal,,no
 "1000285",Cult Site,,temple,,Monte S. Martino,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,no
 "1000286",Temple of Clitumnus,,temple,,Pissignano,,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791","413140",,,,Temple_of_Clitumnus,Q3983167,,,,,,,,no
@@ -306,7 +306,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000306",Agora sanctuary,,temple,,Morgantina,"462372",IT,37.430794,14.479367,,,,,,,,,,,,,,,,,Vici.org,,,"25516",,,,,,,,,,,,,,no
 "1000307",Temple of Demeter and Kore,,temple,,Morgantina,"462372",IT,37.43034,14.479649,,,,,,,,,,,,,god,,,,Vici.org,,"Morgantia, Murgantia and Morgantium - temple","25518",,,,,,,,,,,,,,no
 "1000308",Citadel,,temple,,Morgantina,"462372",IT,37.437569,14.48876,,,,,,,,,,,,,,,,,Vici.org,,Ruins of a temple,"25626",,,,,,,,,,,,,,no
-"1000309",Rock of Ceres,,temple,,Enna,,IT,37.569225,14.289181,,,,,,,,,,,,,,,,,Vici.org,,Rock shrine of Demeter - Ceres.Rocca di Cerere,"25627",,,,,,,,,,,,,,no
+"1000309",Rock of Ceres,,temple,,Enna,"462236",IT,37.569225,14.289181,,,,,,,,,,,,,,,,,Vici.org,,Rock shrine of Demeter - Ceres.Rocca di Cerere,"25627",,,,,,,,,,,,,,no
 "1000310",Templi Ferali,,temple,,Acrae,,IT,37.05713,14.895352,,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,no
 "1000311",Temple,,temple,,Casmenae,"462269",IT,37.076412,14.82563,,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,no
 "1000312",Kasmenai - Casmenae,,temple,,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,no
@@ -363,16 +363,16 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000363",Gisacum,,temple,,Le Vieil-Évreux,,FR,49.003063,1.235978,,,,,,,,,,,,,,,,,Vici.org,,,"10640","109007",,,,,Q2243148,,,,,,,,no
 "1000364",Temple of Mercury,Mercury,temple,,Niederbronn-les-Bains,"109209",FR,48.960583,7.616738,,,,,,,,,,,M,,god,,,,Vici.org,,,"10648",,"39152",,,,,,,,,,,,no
 "1000365",Sanctuary,,temple,,Villards-d'Héria,"177659",FR,46.423141,5.742032,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10659",,,,,,,,,,,,,,no
-"1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661",,,,,,,,,,,,,,no
+"1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661","177583",,,,,,,,,,,,,no
 "1000367",Sanctuary (Flaviers - Mouzon),,temple,,Flaviers - Mouzon,"109183",FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
 "1000368",Temple Isarnodurum,,temple,,Izernore,"177545",FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667",,"20105",,,,,,,,,,,,no
 "1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
-"1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,,,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
+"1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-1",,"-1",,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
 "1000371",Temple of Apollo,,temple,,Riez,"157805",FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,fr=Colonnes_de_Riez,Q1272940,,,,,,,,no
 "1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
-"1000373",Briga,,temple,,Eu,,FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923","108771","13746",,,,,,,,,,,,no
+"1000373",Briga,,temple,,Eu,"108771",FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923",,"13746",,,,,,,,,,,,no
 "1000374",Temple complex (at Petromantalum?),,temple,,Genainville,"109004",FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313",,"18747",,,,,,,,,,,,no
-"1000375",Temple of Mars,Mars,temple,,Corseul,,FR,48.472012,-2.146052,,,,,,,,,,,M,,god,,,,Vici.org,,,"11360",,"20763",,,,,,,,,,,,no
+"1000375",Temple of Mars,Mars,temple,Haut Bécherel,Corseul,"69507",FR,48.471614,-2.146368,,,,1st c CE,"51",,"1",,,,M,,god,,,,Vici.org,,,"11360","636775194","20763",,,fr=Temple_de_Mars_(Corseul),,,,,,,,,no
 "1000376",Temple of Janus,Janus,temple,,Autun,,FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
 "1000378",Tempel Cherre',,temple,,Aubigné-Racan,,FR,47.660496,0.235538,,,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
@@ -380,7 +380,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000380",Tour de Vesone,,temple,,Périgueux,"138513",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
 "1000381",Temple,,temple,,Offemont,,FR,47.658772,6.866085,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14562",,"170040",,,,,,,,,,,,no
 "1000382",Temple at forêt Halatte,,temple,,Ognon,,FR,49.242058,2.625384,,,,,,,,,,,,,,,,,Vici.org,,,"14563","335533616","18751",,,,,,,,,,,,no
-"1000383",Temple,,temple,,Dax,,FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
+"1000383",Temple,,temple,,Dax,"246173",FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
 "1000384",Sanctuary,,temple,,Margerides,,FR,45.450756,2.426149,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14568","138447","16974",,,,,,,,,,,,no
 "1000385",Temple de Mercure de la forêt de Tannière,,temple,,Archettes,,FR,48.131313,6.57349,,,,,,,,,,,,,god,,,,Vici.org,,,"14571",,"20758",,,,,,,,,,,,no
 "1000386",Tour de Grisset,,temple,,Fréteval,,FR,47.896442,1.183712,,,,,,,,,,,,,,,,,Vici.org,,,"14574","138623","18152",,,,,,,,,,,,no
@@ -389,7 +389,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000389",Fanum - Civaux,,temple,,Civaux,,FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
 "1000390",Grannum,,temple,,Grand,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
 "1000391",Temple complex,,temple,,Castelnau-Montratier,,FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033","138277","17730",,,,,,,,,,,,no
-"1000392",Sanctuary,,temple,,Drevant,,FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
+"1000392",Sanctuary,,temple,,Drevant,"138327",FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
 "1000393",Fanum,,temple,,Bennecourt,,FR,49.04372,1.570312,,,,,,,,,,,,,,,,,Vici.org,,,"16326",,,,,,,,,,,,,,no
 "1000394",Mons Seleucus,,temple,,La Bâtie-Montsaléon,,FR,44.456219,5.748653,,,,,,,,,,,,,,,,,Vici.org,,,"16332","167836",,,,,,,,,,,,,no
 "1000395",Nymphaeum,Nymphs,temple,,Gennes,"138371",FR,47.337536,-0.232876,,,,,,,,,,,F,,god,,,,Vici.org,,,"16398",,"393910",,,,,,,,,,,,no
@@ -441,11 +441,11 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000442",Les Clairs Chênes,,temple,,Faverolles,,FR,47.964176,5.222123,,,,,,,,,,,,,,,,,Vici.org,,,"16994","177521","17579",,,,,,,,,,,,no
 "1000443",Plombières-les-Bains,,temple,,Plombières-les-Bains,,FR,47.965816,6.460263,,,,,,,,,,,,,,,,,Vici.org,,,"16995",,"20759",,,,,,,,,,,,no
 "1000444",Clos du Détour,,temple,,Pannes,,FR,47.996143,2.676318,,,,,,,,,,,,,,,,,Vici.org,,,"16996",,"20553",,,,,,,,,,,,no
-"1000445",La Furetière,,temple,,Entrammes,,FR,47.998966,-0.705822,,,,,,,,,,,,,,,,,Vici.org,,,"16997",,"20737",,,,,,,,,,,,no
+"1000445",La Furetière,,temple,,Entrammes,"138342",FR,47.998966,-0.705822,,,,,,,,,,,,,,,,,Vici.org,,,"16997",,"20737",,,,,,,,,,,,no
 "1000446",Bains-les-Bains,,temple,,Bains-les-Bains,,FR,48.001415,6.26457,,,,,,,,,,,,,,,,,Vici.org,,,"16999",,"20760",,,,,,,,,,,,no
 "1000447",Bouexière,,temple,,Bréal-sous-Montfort,,FR,48.049622,-1.900603,,,,,,,,,,,,,,,,,Vici.org,,,"17005",,"39091",,,,,,,,,,,,no
 "1000448",Trouguer,,temple,,Cléden-Cap-Sizun,,FR,48.058224,-4.705246,,,,,,,,,,,,,,,,,Vici.org,,,"17006",,"39095",,,,,,,,,,,,no
-"1000449",Trogouzel,,temple,,Douarnenez,,FR,48.075298,-4.314423,,,,,,,,,,,,,,,,,Vici.org,,,"17009",,"39456",,,,,,,,,,,,no
+"1000449",Trogouzel,,temple,,Douarnenez,"69500",FR,48.075298,-4.314423,,,,,,,,,,,,,,,,,Vici.org,,,"17009",,"39456",,,,,,,,,,,,no
 "1000450",Fanum Pithiviers-le-Vieil,,temple,,Pithiviers-le-Vieil,,FR,48.163734,2.202981,,,,,,,,,,,,,,,,,Vici.org,,,"17014","109248","20635",,,,,,,,,,,,no
 "1000451",Juillé,,temple,,Juillé,,FR,48.244579,0.12194,,,,,,,,,,,,,,,,,Vici.org,,,"17022",,"3650",,,,,,,,,,,,no
 "1000452",Oisseau-Le-Petit,,temple,,Oisseau-le-Petit,,FR,48.346451,0.075101,,,,,,,,,,,,,,,,,Vici.org,,,"17025","69544","18166",,,,,,,,,,,,no
@@ -590,7 +590,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000591",Temple,,temple,,Aachen,"108749",DE,50.775005,6.085007,,,,,,,,,,,,,,,,,,,,"18766",,,,,,,,,,,,,,no
 "1000592",Temple,,temple,Straß,Nersingen,"118867",DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
 "1000593",(K)ein Mithrasheiligtum (Saalburg),Mithras,mithraeum,,Bad Homburg vor der Höhe,,DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
-"1000594",Mithraeum,Mithras,mithraeum,,Dieburg,,DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
+"1000594",Mithraeum,Mithras,mithraeum,,Dieburg,"118839",DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
 "1000595",Sanctuary,,temple,,Mainz,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
 "1000596",Brandopferplatz,,temple,,Erkheim,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
 "1000597",Rosmerta-Tempel,,temple,,Andernach,,DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
@@ -604,7 +604,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000605",Mithraeum,Mithras,mithraeum,,Großkrotzenburg,,DE,50.081806,8.977619,,,,,,,,,,,,,,,,,,,Mithrasheiligtum (Großkrotzenburg),"21413",,,,,,,,,,,,,,no
 "1000606",Forum Augusta Vindelicum,,temple,,Augsburg,,DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
 "1000607",Temple,,temple,,Elsdorf,,DE,50.935829,6.581988,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,8x10 meter groot tempelgebouw,"23034",,,,,,,,,,,,,,no
-"1000608",Heidentempel Kreuzweingarten,,temple,,Euskirchen,,DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
+"1000608",Heidentempel Kreuzweingarten,,temple,,Euskirchen,"108801",DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
 "1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
 "1000610",Tempelreste,,temple,,Bonn,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
