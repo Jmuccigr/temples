@@ -776,4 +776,4 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000783",Temple of Hera,Hera,temple,,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
 "1000785",Temple of Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
-"1000786",Temple,,temple,,Neung-sur-Beuvron,,FR,47.514506,1.813998,,,,,,,,,,,,,,Gallo-Roman,,no,,,,,,,,,,,,,,,,,,yes
+"1000786",Temple,,temple,,Neung-sur-Beuvron,,FR,47.514506,1.813998,"282",W,,,,,,,,,,,,Gallo-Roman,,no,,,,,,,,,,,,,,,,,,yes
