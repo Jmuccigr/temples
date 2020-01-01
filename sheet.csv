@@ -231,8 +231,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000231",Tharros,,temple,,San Giovanni di Sinis,"472032",IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
 "1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,"471971",IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
-"1000234",Punico-Roman Temple,,temple,,Cagliari,,IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
-"1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,,IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480",,,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
+"1000234",Punico-Roman Temple,,temple,,Cagliari,"471899",IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
+"1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,"383603",IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480","444468888",,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
 "1000237",Temple B,,temple,,Pietrabbondante,"433025",IT,41.73999,14.386793,"118",SE,,2nd half 2nd c. BCE,"-149","-100","-2",1st. c. CE,,,,,,Samnite,,yes,Vici.org,,,"10919",,,,,,,,,,,,,,yes
 "1000238",Temple of Hera Lacinia,Hera,temple,,,,IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966",,,,,,,,,,,,,,no
@@ -294,7 +294,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000294",Sanctuary of the Lake of the Idols,,temple,,,,IT,43.866669,11.683333,,,,,,,,,,,,,,Etruscan,,,Vici.org,,Lago degli Idoli,"22684",,,,,,,,,,,,,,no
 "1000295",Montemignaio,,temple,,La Pieve-molino,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
-"1000297",Temple of Diana,,temple,,Cefalú,,IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
+"1000297",Temple of Diana,,temple,,Cefalú,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
 "1000298",Large Temple,,temple,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894",,,,,,,,,,,,,,no
 "1000299",Temple of Hercules,,temple,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,"413124",IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
@@ -386,9 +386,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000386",Tour de Grisset,,temple,,Fréteval,,FR,47.896442,1.183712,,,,,,,,,,,,,,,,,Vici.org,,,"14574","138623","18152",,,,,,,,,,,,no
 "1000387",Sanctuary Donon,,temple,,Grandfontaine,,FR,48.512527,7.164421,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14577",,"15774",,,,,,,,,,,,no
 "1000388",Temple - Cathédrale St Jean,,temple,,Alès,,FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
-"1000389",Fanum - Civaux,,temple,,Civaux,,FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
+"1000389",Fanum,,temple,,Civaux,"138351",FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
 "1000390",Grannum,,temple,,Grand,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
-"1000391",Temple complex,,temple,,Castelnau-Montratier,,FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033","138277","17730",,,,,,,,,,,,no
+"1000391",Temple complex,,temple,,Castelnau-Montratier,"138277",FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033",,"17730",,,,,,,,,,,,no
 "1000392",Sanctuary,,temple,,Drevant,"138327",FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
 "1000393",Fanum,,temple,,Bennecourt,,FR,49.04372,1.570312,,,,,,,,,,,,,,,,,Vici.org,,,"16326",,,,,,,,,,,,,,no
 "1000394",Mons Seleucus,,temple,,La Bâtie-Montsaléon,,FR,44.456219,5.748653,,,,,,,,,,,,,,,,,Vici.org,,,"16332","167836",,,,,,,,,,,,,no
@@ -410,7 +410,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
 "1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
 "1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
-"1000414",Temple Cassinomagus,,temple,,Chassenon,,FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
+"1000414",Temple Cassinomagus,,temple,,Chassenon,"138275",FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
 "1000415",Puy Lautard,,temple,,Saint-Pardoux-Morterolles,,FR,45.929768,1.869932,,,,,,,,,,,,,,,,,Vici.org,,,"16805","138527","18100",,,,,,,,,,,,no
 "1000416",Puy-de-Joue,,temple,,Saint-Goussaud,,FR,46.033264,1.569519,,,,,,,,,,,,,,,,,Vici.org,,,"16808","138556","37144",,,,,,,,,,,,no
 "1000417","Chez Rigros, Saint-Pardoux",,temple,,Saint-Pardoux,,FR,46.07193,1.3012,,,,,,,,,,,,,,,,,Vici.org,,,"16814",,"39297",,,,,,,,,,,,no
@@ -421,7 +421,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000422",Les Fons Clairins,,temple,,Uzay-le-Venon,,FR,46.813335,2.411545,,,,,,,,,,,,,,,,,Vici.org,,,"16855",,"20624",,,,,,,,,,,,no
 "1000423",Thaumiers,,temple,,Thaumiers,,FR,46.81356,2.639874,,,,,,,,,,,,,,,,,Vici.org,,,"16856","138615","17703",,,,,,,,,,,,no
 "1000424",Le Bioulet,,temple,,Pupillin,,FR,46.869949,5.7476,,,,,,,,,,,,,,,,,Vici.org,,,"16861",,"39459",,,,,,,,,,,,no
-"1000425",Sanctuary of Alléans,,temple,,Baugy,,FR,47.0793,2.749274,,,,,,,,,,,,,,,,,Vici.org,,,"16865",,,,,,,,,,,,,,no
+"1000425",Sanctuary of Alléant,,temple,,Baugy,"138216",FR,47.0793,2.749274,,,,,,,,,,,,,,,,,Vici.org,,,"16865",,,,,,,,,,,,,,no
 "1000426",La Touratte,,temple,,Dun-sur-Auron,,FR,46.903824,2.548355,,,,,,,,,,,,,,,,,Vici.org,,,"16868",,"20622",,,,,,,,,,,,no
 "1000427",Pied de Bourges,,temple,,Clion,"138299",FR,46.946854,1.225093,,,,,,,,,,,,,,,,,Vici.org,,,"16874",,"20503",,,,,,,,,,,,no
 "1000428",Sanctuaries,,temple,,Boncourt-le-Bois,,FR,47.139778,5.001985,,,,,,,,,,,,,,,,,Vici.org,,,"16892",,,,,,,,,,,,,,no
@@ -471,7 +471,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000472",Bois Titran,,temple,,Caix,,FR,49.816505,2.646559,,,,,,,,,,,,,,,,,Vici.org,,,"17127",,"26629",,,,,,,,,,,,no
 "1000473",Le Moulin,,temple,,Fluy,,FR,49.854774,2.10009,,,,,,,,,,,,,,,,,Vici.org,,,"17136","108987","17409",,,,,,,,,,,,no
 "1000474",Cartigny,,temple,,Cartigny,,FR,49.904331,3.01797,,,,,,,,,,,,,,,,,Vici.org,,,"17148",,"26636",,,,,,,,,,,,no
-"1000475",Bracquemont,,temple,,Bracquemont,,FR,49.943413,1.123369,,,,,,,,,,,,,,,,,Vici.org,,,"17159",,"26649",,,,,,,,,,,,no
+"1000475",Bracquemont,,temple,,Bracquemont,,FR,49.943413,1.123369,,,,,,,,,,,,,,,,,Vici.org,,,"17159","108822","26649",,,,,,,,,,,,no
 "1000476",Ribemont-sur-Ancre,,temple,,Ribemont-sur-Ancre,,FR,49.96442,2.55404,,,,,,,,,,,,,,,,,Vici.org,,,"17166","109278","17404",,,,,,,,,,,,no
 "1000477",Bailleul,,temple,,Bailleul,,FR,50.033588,1.87157,,,,,,,,,,,,,,,,,Vici.org,,,"17178",,"26624",,,,,,,,,,,,no
 "1000478",Les Huit Journaux,,temple,,Beauval,,FR,50.132519,2.34789,,,,,,,,,,,,,,,,,Vici.org,,,"17188",,"26626",,,,,,,,,,,,no
@@ -580,7 +580,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000581",Temple,,temple,,Barweiler,,DE,50.356865,6.866581,,,,,,,,,,,,,,,,,,,Tempel (Barweiler),"15544",,,,,,,,,,,,,,no
 "1000582",Sanctuary of Mercury (Gangloff),,temple,,Waldgrehweiler,,DE,49.653168,7.706888,,,,,,,,,,,,,,,,,,,,"15553",,,,,,,,,,,,,,no
 "1000583",Temple of Mercury (Bingen),Mercury,temple,,Bingen am Rhein,,DE,49.966831,7.8924,,,,,,,,,,,,,,,,,,,,"15671",,,,,,,,,,,,,,no
-"1000584",Sanctuary,,temple,,Bitburg,,DE,49.977505,6.526544,,,,,,,,,,,,,,,,,,,Heiligtum (Bitburg),"15674",,,,,,,,,,,,,,no
+"1000584",Sanctuary,,temple,,Bitburg,"108798",DE,49.977505,6.526544,,,,,,,,,,,,,,,,,,,Heiligtum (Bitburg),"15674",,,,,,,,,,,,,,no
 "1000585",Temple of the Matronae,Matronae,temple,,Xanten,"108896",DE,51.664839,6.444823,"39",NE,,,,,,,,,F,,god,,,,,,Tempel voor de moedergodinnen,"15679",,,,,,,,,,,,,,yes
 "1000586",Temple area,,temple,Brachtendorf,Dünfus,,DE,50.218475,7.2154,,,,,,,,,,,,,,Gallo-Roman,,,,,,"15681",,,,,,,,,,,,,,no
 "1000587",Temple (Heidenkopf),,temple,,Breitenbach,,DE,49.434444,7.288409,,,,,,,,,,,,,,,,,,,,"15686",,,,,,,,,,,,,,no
@@ -681,7 +681,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000686",West Temple,,temple,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000687",East Temple,,temple,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000688",Temple,,temple,Hobran,,,SY,,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000689",Temple for the Imperial Cult,,temple,Busra,Bosra,,SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
+"1000689",Temple for the Imperial Cult,,temple,Busra,Bosra,"678073",SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
 "1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000691",Central Temple,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,Il-Umta'iyeh,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
