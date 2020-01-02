@@ -140,7 +140,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Scarbantia,"197501",HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Constantinople,"520998",TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,"197448",HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,"391553443",,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
-"1000143",Temple of Augustus,,temple,,Barcelona,,ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,,,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
+"1000143",Temple of Augustus,,temple,,Barcelona,"246343",ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,"592223249",,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
 "1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,"432815",IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,"390040629",,,,,,,,,,,,,
 "1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000146",Unknown,,temple,,Althiburos,"324664",TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
@@ -366,14 +366,14 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000366",Sanctuary,,temple,Mont Rivel,Équevillon,,FR,46.76136,5.922335,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"10661","177583",,,,,,,,,,,,,no
 "1000367",Sanctuary (Flaviers - Mouzon),,temple,,Flaviers - Mouzon,"109183",FR,49.580894,5.105447,,,,,,,,,,,,,,,,,Vici.org,,,"10663",,"20618",,,,,,,,,,,,no
 "1000368",Temple Isarnodurum,,temple,,Izernore,"177545",FR,46.2234,5.558579,,,,,,,,,,,,,,,,,Vici.org,,,"10667",,"20105",,,,,,,,,,,,no
-"1000369",Temple Novioregum,,temple,,Barzan,,FR,45.535629,-0.879376,,,,,,,,,,,,,,,,,Vici.org,,,"10672",,,,,,,,,,,,,,no
+"1000369",Temple,,temple,Fâ,Barzan,"138496",FR,45.535458,-0.879348,"99",E,,,,,,,,,,,,Gallo-Roman,,yes,Vici.org,,,"10672",,,,,,,,,,,,,,yes
 "1000370",Roman temple of Château-Bas,,temple,Vineyard Château-Bas,Vernègues,,FR,43.681936,5.197151,"327",NW,,1st BCE,"-99","-9","-1",,,,,,,Roman,,yes,Vici.org,,,"10684","148046","18074",,,fr=Temple_romain_de_Château-Bas,Q516783,,,,,,,http://www.chateaubas.com/en/pages/history/temple.html,yes
 "1000371",Temple of Apollo,,temple,,Riez,"157805",FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,fr=Colonnes_de_Riez,Q1272940,,,,,,,,no
 "1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,"108771",FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923",,"13746",,,,,,,,,,,,no
 "1000374",Temple complex (at Petromantalum?),,temple,,Genainville,"109004",FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313",,"18747",,,,,,,,,,,,no
 "1000375",Temple of Mars,Mars,temple,Haut Bécherel,Corseul,"69507",FR,48.471673,-2.14693,"99",E,,1st c CE,"51","100","1",end of 3rd c. CE,,,M,,god,Gallo-Roman,,yes,Vici.org,,,"11360","636775194","20763",,,fr=Temple_de_Mars_(Corseul),,,,,,,,,yes
-"1000376",Temple of Janus,Janus,temple,,Autun,,FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
+"1000376",Temple of Janus,Janus,temple,,Autun,"177460",FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
 "1000378",Tempel Cherre',,temple,,Aubigné-Racan,,FR,47.660496,0.235538,,,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
 "1000379",Tempeln Argentomagus,,temple,,Saint-Marcel,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
@@ -602,7 +602,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000603",Temple,,temple,,Bonn,"108818",DE,50.726795,7.085428,,,,,,,,,,,,,,Gallo-Roman,,,,,,"20381",,,,,,,,,,,,,,no
 "1000604",Mithraeum,Mithras,mithraeum,,Wiesbaden,"108750",DE,50.084049,8.238866,,,,,,,,,,,,,,,,,,,Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03),"20705",,,,,,,,,,,,,,no
 "1000605",Mithraeum,Mithras,mithraeum,,Großkrotzenburg,,DE,50.081806,8.977619,,,,,,,,,,,,,,,,,,,Mithrasheiligtum (Großkrotzenburg),"21413",,,,,,,,,,,,,,no
-"1000606",Forum Augusta Vindelicum,,temple,,Augsburg,,DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
+"1000606",Forum Augusta Vindelicum,,temple,,Augsburg,"118580",DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
 "1000607",Temple,,temple,,Elsdorf,,DE,50.935829,6.581988,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,8x10 meter groot tempelgebouw,"23034",,,,,,,,,,,,,,no
 "1000608",Heidentempel Kreuzweingarten,,temple,,Euskirchen,"108801",DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
 "1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
