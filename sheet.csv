@@ -242,7 +242,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000242",Western forum temple,,temple,,Carsulae,"413065",IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
 "1000243",Acropolis,,temple,,Populonia,"403212",IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
 "1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,"423013",IT,41.838009,12.89152,"195",S,,,,,,,,,,,concept,Italic,,Yes,Vici.org,,,"11650","7963799",,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,Q3949669,,,,,,,,yes
-"1000245",Temple of Minerva,Minerva,temple,,Assisi,,IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,"Temple_of_Minerva,_Assisi",Q11836,,,,,,,,yes
+"1000245",Temple of Minerva,Minerva,temple,,Assisi,"413037",IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,"Temple_of_Minerva,_Assisi",Q11836,,,,,,,,yes
 "1000246",Temple of Athena,Athena,temple,,Syracuse,"462503",IT,37.05965,15.29354,,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,no
 "1000247",Temple of Apollo,Apollo,temple,,Syracuse,"462503",IT,37.063938,15.29297,,,,,,,,,,,M,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,no
 "1000248",Temple of Diana Nemorensis,Diana,temple,,Alberese,,IT,42.672871,11.05109,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"11973","422917","22227",,,Temple_of_Diana_(Nemi),Q18590113,,,,,,417127SDiN,,no
@@ -375,7 +375,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000375",Temple of Mars,Mars,temple,Haut Bécherel,Corseul,"69507",FR,48.471673,-2.14693,"99",E,,1st c CE,"51","100","1",end of 3rd c. CE,,,M,,god,Gallo-Roman,,yes,Vici.org,,,"11360","636775194","20763",,,fr=Temple_de_Mars_(Corseul),,,,,,,,,yes
 "1000376",Temple of Janus,Janus,temple,,Autun,"177460",FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
-"1000378",Tempel Cherre',,temple,,Aubigné-Racan,,FR,47.660496,0.235538,,,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
+"1000378",Temple,,temple,Cherré,Aubigné-Racan,"492111677",FR,47.660224,0.235457,"74",E,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
 "1000379",Tempeln Argentomagus,,temple,,Saint-Marcel,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
 "1000380",Tour de Vesone,,temple,,Périgueux,"138513",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
 "1000381",Temple,,temple,,Offemont,,FR,47.658772,6.866085,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14562",,"170040",,,,,,,,,,,,no
@@ -593,7 +593,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000594",Mithraeum,Mithras,mithraeum,,Dieburg,"118839",DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
 "1000595",Sanctuary,,temple,,Mainz,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
 "1000596",Brandopferplatz,,temple,,Erkheim,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
-"1000597",Rosmerta-Tempel,,temple,,Andernach,,DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
+"1000597",Rosmerta-Tempel,,temple,,Andernach,"108746",DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
 "1000598",Temple,,temple,,Neumagen-Dhron,"109223",DE,49.841267,6.899114,,,,,,,,,,,,,,,,,,,Tempel (Neumagen-Dhron),"20350",,,,,,,,,,,,,,no
 "1000599",Temple,,temple,,Piesport,,DE,49.863735,6.923764,,,,,,,,,,,,,,,,,,,Tempel (Piesport),"20351",,,,,,,,,,,,,,no
 "1000600",Sironatempel,,temple,,Stipshausen,,DE,49.850479,7.291307,,,,,,,,,,,,,,,,,,,Sironatempel (Stipshausen),"20363",,,,,,,,,,,,,,no
