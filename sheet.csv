@@ -565,7 +565,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000566",Temple area,,temple,Greinberg,Miltenberg,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441","187499",,,,,,,,,,,,,no
 "1000568",Sanctuary area,,temple,,Osterburken,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
-"1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,,DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
+"1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,"118985",DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
 "1000570",Temple area I,,temple,,Rottweil,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
 "1000571",Temple area II,,temple,,Rottweil,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
 "1000572",Sanctuary,,temple,,Schorndorf,,DE,48.814072,9.508077,,,,,,,,,,,,,,,,,,,Heiligtum (Schorndorf),"14465",,,,,,,,,,,,,,no
@@ -633,7 +633,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000634",Western Temple of Kal'at Kalôtá,,temple,,,,SY,36.352766,36.936222,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000635",Eastern Temple of Kal'at Kalôtá,,temple,,,,SY,36.352679,36.93605,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000636",Temple of Zeus,Zeus Bomos,temple,Burj Bakira,,,SY,,,,,,,"161",,"2",,,,M,,god,Roman,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000637",Temple of Zeus,,temple,Srîr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000637",Temple of Zeus,,temple,Srîr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,"658603",,,,,,,,,,,,,
 "1000638",Temple,,temple,Ma'aishurin,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000639",Temple,,temple,Isriyeh,,,SY,35.366017,37.785852,"107",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000640",Temple of Zeus,Zeus,temple,Hosn Suleiman (Baitokaike/Baetocaece),,,SY,34.93036,36.24533,"192",S,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -685,7 +685,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000690",Temple on the Tel,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000691",Central Temple,,temple,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,Il-Umta'iyeh,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000693",Temple,,temple,Umm El-Jimal,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000693",Temple,,temple,Umm El-Jimal,,"678439",JO,32.325681,36.36632,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000695",Cathedral Sanctuary Temple,,temple,Jerash,Gerasa,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000696",Temple C,,temple,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000698",Temple of Augustus,Augustus,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -696,7 +696,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000703",Second Temple,,temple,,Jerusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
 "1000704",Nabatean Temple,,temple,Dibon,,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000705",Nabatean Temple,,temple,Qasr Raba,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000706",Little Temple,,temple,Rabba,Rabbat Moab,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000706",Little Temple,,temple,Rabba,Rabbat Moab,"697632",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000707",Western Temple,,temple,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000708",Central Temple,,temple,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000709",Little Temple,,temple,Dhat-Ras,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
