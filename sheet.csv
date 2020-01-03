@@ -307,7 +307,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000307",Temple of Demeter and Kore,,temple,,Morgantina,"462372",IT,37.43034,14.479649,,,,,,,,,,,,,god,,,,Vici.org,,"Morgantia, Murgantia and Morgantium - temple","25518",,,,,,,,,,,,,,no
 "1000308",Citadel,,temple,,Morgantina,"462372",IT,37.437569,14.48876,,,,,,,,,,,,,,,,,Vici.org,,Ruins of a temple,"25626",,,,,,,,,,,,,,no
 "1000309",Rock of Ceres,,temple,,Enna,"462236",IT,37.569225,14.289181,,,,,,,,,,,,,,,,,Vici.org,,Rock shrine of Demeter - Ceres.Rocca di Cerere,"25627",,,,,,,,,,,,,,no
-"1000310",Templi Ferali,,temple,,Acrae,,IT,37.05713,14.895352,,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,no
+"1000310",Templi Ferali,,temple,,Acrae,"462068",IT,37.05713,14.895352,,,,,,,,,,,,,hero,,,,Vici.org,,Heroon. Temple dedicated to the cult of the dead heroes,"25686",,,,,,,,,,,,,,no
 "1000311",Temple,,temple,,Casmenae,"462269",IT,37.076412,14.82563,,,,,,,,,,,,,,Greek,,,Vici.org,,Temple pre Kasmenai,"25689",,,,,,,,,,,,371148SKas,,no
 "1000312",Kasmenai - Casmenae,,temple,,,,IT,37.076519,14.826977,,,,,,,,,,,,,,,,,Vici.org,,Temple,"25690",,,,,,,,,,,,,,no
 "1000313",Temple of Hercules,Hercules,temple,,Ostia,"422995",IT,41.753782,12.286157,"76",E,,4th qu. 2nd - 1st qu. 1st c. BCE,"-124","-75","-2",,,,M,,hero,Roman,,yes,Vici.org,,,"27354",,,,,,,,,,,,,http://www.ostia-antica.org/regio1/15/15-5.htm,yes
@@ -355,7 +355,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000355",Tasciaca,,temple,,Pouillé,"138520",FR,47.324047,1.299076,,,,,,,,,,,,,,,,,Vici.org,,,"8017",,"20524",,,,,,,,,,,,no
 "1000356",Roman Temple,,temple,,Orange,"148054",FR,44.135654,4.807766,,,,,,,,,,,,,,,,,Vici.org,,,"8511",,,,,,,,,,,,,,no
 "1000357",Temple of Mercury,Mercury,temple,,Paris,"109126",FR,48.843395,2.327117,,,,,,,,,,,M,,god,,,,Vici.org,,,"9849",,,,,,,,,,,,,,no
-"1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,,FR,44.561203,4.600079,,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,no
+"1000358",Temple 'le Palais',,temple,,Alba-la-Romaine,"167629",FR,44.561203,4.600079,,,,,,,,,,,,,,,,,Vici.org,,,"10164",,,,,,,,,,,,,,no
 "1000359",Temple of Augustus and Livia,,temple,,Vienne,"167719",FR,45.525478,4.874246,"90",E,,,,,,,,,,,"emperor, family",,,,Vici.org,,,"10170",,"202070",,,it=Tempio_di_Augusto_e_Livia,Q3517516,,,,,,,,yes
 "1000360",Temple of the Cybele,,temple,,Vienne,"167719",FR,45.524319,4.875925,,,,,,,,,,,,,god,,,,Vici.org,,,"10172",,,,,,,,,,,,,,no
 "1000361",Temple of Diana,Diana,temple,,Roppeviller,,FR,49.103539,7.52761,,,,,,,,,,,F,,god,,,,Vici.org,,,"10354",,,,,,,,,,,,,,no
@@ -385,7 +385,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000385",Temple de Mercure de la forêt de Tannière,,temple,,Archettes,,FR,48.131313,6.57349,,,,,,,,,,,,,god,,,,Vici.org,,,"14571",,"20758",,,,,,,,,,,,no
 "1000386",Tour de Grisset,,temple,,Fréteval,,FR,47.896442,1.183712,,,,,,,,,,,,,,,,,Vici.org,,,"14574","138623","18152",,,,,,,,,,,,no
 "1000387",Sanctuary Donon,,temple,,Grandfontaine,,FR,48.512527,7.164421,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14577",,"15774",,,,,,,,,,,,no
-"1000388",Temple - Cathédrale St Jean,,temple,,Alès,,FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
+"1000388",Temple - Cathédrale St Jean,,temple,,Alès,"147988",FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
 "1000389",Fanum,,temple,,Civaux,"138351",FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
 "1000390",Grannum,,temple,,Grand,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
 "1000391",Temple complex,,temple,,Castelnau-Montratier,"138277",FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033",,"17730",,,,,,,,,,,,no
@@ -406,7 +406,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000407",Châtelet,,temple,,Saint-Désirat,,FR,45.249901,4.79432,,,,,,,,,,,,,,,,,Vici.org,,,"16715",,"39298",,,,,,,,,,,,no
 "1000408","Temple, Brion",,temple,,Saint-Seurin-de-Cadourne,"138492",FR,45.282433,-0.838219,,,,,,,,,,,,,,,,,Vici.org,,,"16717",,"20175",,,,,,,,,,,,no
 "1000409",Sanctuary Rajat,,temple,,Murol,,FR,45.591797,2.948923,,,,,,,,,,,,,,,,,Vici.org,,,"16745",,"20137",,,,,,,,,,,,no
-"1000410",Temple of Diana,,temple,,Aix-les-Bains,,FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
+"1000410",Temple of Diana,,temple,,Aix-les-Bains,"167650",FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
 "1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
 "1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
 "1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
@@ -609,9 +609,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000610",Tempelreste,,temple,,Bonn,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple Ziegetsberg,,temple,,Regensburg,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
-"1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,,TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,,GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
-"1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,,,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
+"1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,"314843",TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
+"1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,"609292",TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,"442858431",,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
 "1000617",Temple of Bacchus,Bacchus,temple,Baalbek,Heliopolis,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
 "1000618",Temple of Venus,Venus,temple,Baalbek,Heliopolis,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
@@ -658,7 +658,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000663",Temple,,temple,Ain Hirsha,,,LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
 "1000664",Temple,,temple,Al-Masmiyah,Phaena,,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
 "1000665",Temple,,temple,Sahr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,,SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,"678004",SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000667",Temple,Baal Shamin,temple,Kedesh,,,IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
 "1000668",Temple,,temple,Sour,Saura,"678377",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000669",Kalybe Temple,,temple,Il-Haiyat,,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
