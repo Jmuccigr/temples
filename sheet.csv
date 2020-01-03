@@ -676,7 +676,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000681",South Temple,,temple,Sia,Seeia,"678381",SY,,,,,,33 BCE - 55 CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000682",Temple of Dushara,Dushara,temple,Sia,Seeia,"678381",SY,,,,,,1st c. BCE,,,"-1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000683",Temple of Baal Shamin,Baal Shamin,temple,Sia,Seeia,"678381",SY,32.736603,36.624829,"139",SE,,1st c. CE,,,"1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000684",Temple of Zeus and Athena,"Zeus, Athena",temple,Al-Mushannaf,Nela,,SY,32.742352,36.777199,"94",E,,,,,,,,,M/F,,god,,distylos in antis,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000684",Temple of Zeus and Athena,"Zeus, Athena",temple,Al-Mushannaf,Nela,"678305",SY,32.742352,36.777199,"94",E,,,,,,,,,M/F,,god,,distylos in antis,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000685",Peripteral Temple,,temple,Suweida,Dionysias Soada,,SY,,,,,,1st c. BCE - 1st c. CE,,,,,,,,,,Nabatean,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000686",West Temple,,temple,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000687",East Temple,,temple,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -721,7 +721,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000728",Temple,,temple,Qasr el Banat,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,,,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
 "1000729",Temple of Apollo,Apollo,temple,Ferzol,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,Qasrnaba,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
-"1000731",Nymphaeum,Nymphs,temple,Busra,,,SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
+"1000731",Nymphaeum,Nymphs,temple,Busra,Bosra,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
 "1000732",Eastern forum temple,,temple,,Carsulae,"413065",IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
 "1000733",Main forum temple,,temple,,Carsulae,"413065",IT,42.639936,12.556755,"89",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000734",Republican Temple,,temple,,Ostia,"422995",IT,41.75472,12.289539,"148",SE,,,"-80","-50","-1",,,,,,,,,,,,,,,,,,,,,,,,,,,yes
