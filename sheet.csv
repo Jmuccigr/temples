@@ -409,7 +409,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000410",Temple of Diana,,temple,,Aix-les-Bains,"167650",FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
 "1000411",Temple de Cybèle,,temple,,Lyon,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
 "1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
-"1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,,,,,,,,,,no
+"1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,fr=Temple_de_Mercure_(puy_de_Dôme),Q3517583,,,,,,,,no
 "1000414",Temple Cassinomagus,,temple,,Chassenon,"138275",FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
 "1000415",Puy Lautard,,temple,,Saint-Pardoux-Morterolles,,FR,45.929768,1.869932,,,,,,,,,,,,,,,,,Vici.org,,,"16805","138527","18100",,,,,,,,,,,,no
 "1000416",Puy-de-Joue,,temple,,Saint-Goussaud,,FR,46.033264,1.569519,,,,,,,,,,,,,,,,,Vici.org,,,"16808","138556","37144",,,,,,,,,,,,no
@@ -529,7 +529,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,Lauingen,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Bergheiligtum auf dem Calmont,,temple,,Bremm,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,Wallerfangen,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
-"1000533",Temple area,,temple,Pesch,Bad Münstereifel,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205",,,,,,Q1408110,,,,,,,,no
+"1000533",Temple area,,temple,Pesch,Bad Münstereifel,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205","109214",,,,,Q1408110,,,,,,,,no
 "1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,Nettersheim,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,"109298",DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220","925825061",,,,,Q26706748,,,,,,,,no
 "1000536",Temple,,temple,,Rheinfelden (Baden),,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
@@ -547,7 +547,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000548",Varnenum,,temple,,Aachen,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
 "1000550",Mithraeum,Mithras,mithraeum,Wachstein,Theilenhofen,"118758",DE,49.073357,10.832198,,,,,,,,,,,,,,,,,,,,"10071",,,,,,,,,,,,,,no
-"1000551",Dolichenum Vetoniana,,temple,Pfünz,Walting,,DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
+"1000551",Dolichenum Vetoniana,,temple,Pfünz,Walting,"119020",DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
 "1000552",Bergheiligtum,,temple,,Jettenbach,,DE,49.543842,7.561576,,,,,,,,,,,,,,,,,,,Bergheiligtum (Jettenbach),"10328",,,,,,,,,,,,,,no
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,Prutting,,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,no
 "1000554",Mithraeum,Mithras,mithraeum,,Riegel am Kaiserstuhl,,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,no
@@ -563,7 +563,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000564",Mithraeum I,Mithras,mithraeum,,Heidelberg,"118731",DE,49.415855,8.679235,,,,,,,,,,,,,,,,,,,Mitraeum I (Heidelberg),"14253",,,,,,,,,,,,,,no
 "1000565",Mithraeum II,Mithras,mithraeum,,Heidelberg,"118731",DE,49.413967,8.693815,,,,,,,,,,,,,,,,,,,Mitraeum II (Heidelberg),"14254",,,,,,,,,,,,,,no
 "1000566",Temple area,,temple,Greinberg,Miltenberg,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
-"1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441",,,,,,,,,,,,,,no
+"1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441","187499",,,,,,,,,,,,,no
 "1000568",Sanctuary area,,temple,,Osterburken,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
 "1000569",Temple area,,temple,Sumelocenna,Rottenburg am Neckar,,DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
 "1000570",Temple area I,,temple,,Rottweil,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
@@ -625,8 +625,8 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,"579885",GR,37.969429,23.733084,"90",E,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
 "1000627",Temple of Apollo,Apollo,temple,,Delphi,"540726",GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
 "1000628",Temple of Apollo,Apollo,temple,Naxos,,"599821",GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
-"1000629",Temple of Sangri,Demeter,temple,Naxos,,,GR,37.029422,25.431293,"213",SW,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,yes
-"1000630",Sanctuary of Yria,Dionysus,temple,Naxos,,,GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
+"1000629",Temple of Sangri,Demeter,temple,Naxos,,,GR,37.029116,25.431301,"213",SW,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",an,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,yes
+"1000630",Sanctuary of Yria,Dionysus,temple,Naxos,Sangri,"599821",GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
 "1000631",Temple of Apollo,Apollo,temple,Pythio,,,GR,40.054479,22.218555,"143",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
 "1000632",Temple of Apollo,Apollo,temple,Pythio,,,GR,40.054295,22.218318,"129",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
 "1000633",Temple of Apollo,Apollo,temple,Pythio,,,GR,40.054107,22.218239,"129",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
@@ -649,10 +649,10 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000650",Temple,,temple,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
 "1000651",Main Temple,,temple,Faqra,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
 "1000652",Temple of Atargatis,Atargatis,temple,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
-"1000656",Temple A,,temple,Niha,,,LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
-"1000657",Temple B,,temple,Niha,,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
-"1000658",Temple A,,temple,Hössn Niha,,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
-"1000659",Temple D,,temple,Hössn Niha,,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
+"1000656",Great Temple (A),,temple,Niha,,,LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
+"1000657",Small Temple (B),,temple,Niha,,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
+"1000658",Upper Great Temple (A),,temple,Hössn Niha,,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
+"1000659",Upper Small Temple (D),,temple,Hössn Niha,,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
 "1000660",Temple,,temple,Qasr Nimrud,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,"29013","678349",,,,,,,,,,,,,
 "1000661",Temple for the Imperial Cult,Philip the Arab,temple,Dmer,Admedera/Thelsae,,SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
 "1000663",Temple,,temple,Ain Hirsha,,,LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
@@ -718,7 +718,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000725",Temple of Hora Quirini,Hora Quirini,temple,Quirinal,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,F,,god,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000727",Temple of Mens,Mens,temple,Capitoline,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
-"1000728",Temple,,temple,Qasr el Banat,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,,,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
+"1000728",Temple,,temple,Qasr el Banat,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
 "1000729",Temple of Apollo,Apollo,temple,Ferzol,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,Qasrnaba,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
 "1000731",Nymphaeum,Nymphs,temple,Busra,Bosra,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
