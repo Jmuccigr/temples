@@ -512,7 +512,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000513",Temple area,,temple,,Neidenbach,,DE,50.107349,6.563914,,,,,,,,,,,,,,,,,,,Tempelanlage - Neidenbach -point imported from roscheiderhof.de,"5713",,,,,,,,,,,,,,no
 "1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
 "1000515",Temple area,,temple,,Heckenmünster,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715","109034",,,,,,,,,,,,,no
-"1000516",Temple area,,temple,Hinzerath,Morbach,,DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
+"1000516",Temple area,,temple,Hinzerath,Morbach,"108802",DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
 "1000517",Temple Sanctuary,,temple,Butzweiler,Newel,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
 "1000518",Presumed temple area,,temple,,Aach,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
 "1000519",Presumed temple area,,temple,,Meckel,,DE,49.888115,6.518048,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de,"5720",,,,,,,,,,,,,,no
@@ -624,7 +624,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000625",Temple of Zeus,Jupiter,temple,,Olympia,"570531",GR,37.63794,21.63042,"83",E,,,,,,,,,M,,god,Greek,,yes,topostext,,,,"316294900","46666",,,"Temple_of_Zeus,_Olympia",Q197019,,,,,,376216SOZe,,yes
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,"579885",GR,37.969429,23.733084,"90",E,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
 "1000627",Temple of Apollo,Apollo,temple,,Delphi,"540726",GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
-"1000628",Temple of Apollo,Apollo,temple,Naxos,,,GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
+"1000628",Temple of Apollo,Apollo,temple,Naxos,,"599821",GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
 "1000629",Temple of Sangri,Demeter,temple,Naxos,,,GR,37.029422,25.431293,"213",SW,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,yes
 "1000630",Sanctuary of Yria,Dionysus,temple,Naxos,,,GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
 "1000631",Temple of Apollo,Apollo,temple,Pythio,,,GR,40.054479,22.218555,"143",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
@@ -659,7 +659,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000664",Temple,,temple,Al-Masmiyah,Phaena,,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
 "1000665",Temple,,temple,Sahr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,Is Sanamen,Aere,"678004",SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000667",Temple,Baal Shamin,temple,Kedesh,,,IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
+"1000667",Temple,Baal Shamin,temple,Kedesh,,"678215",IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
 "1000668",Temple,,temple,Sour,Saura,"678377",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000669",Kalybe Temple,,temple,Il-Haiyat,,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000670",Kalybe Temple,,temple,Umm Iz-Zetun,,,SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
@@ -690,7 +690,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000696",Temple C,,temple,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000698",Temple of Augustus,Augustus,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000699",Temple of Kore,Kore,temple,Sebastia,Sebaste,"678370",PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000700",Temple of Zeus,Zeus,temple,Mount Gerizim,,,PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000700",Temple of Zeus,Zeus,temple,Mount Gerizim,,"678147",PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000701",Temple of Hercules,Hercules,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000702",Nymphaeum,Nymphs,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000703",Second Temple,,temple,,Jerusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
