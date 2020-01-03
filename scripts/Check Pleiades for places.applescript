@@ -29,9 +29,10 @@ if not stopscript then
 	end repeat
 	
 	repeat with place in urlList
-		set place to (do shell script "echo " & place & " | perl -pe 's/^\\s+//' | perl -pe 's/\\s+$//'")
+		set place to replace(place, "'", "&#39;")
+		(do shell script "echo " & place & " | perl -pe 's/^\\s+//' | perl -pe 's/\\s+$//'")
 		if place is not "" then
-			set place to my replace(replace(place, " ", "_"), "'", "&#39;")
+			set place to my replace(place, " ", "_")
 			try
 				set testURL to "https://pleiades.stoa.org/places/" & place
 				set the clipboard to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")

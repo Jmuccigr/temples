@@ -46,6 +46,7 @@ These are a combo of shell scripts & AppleScripts with some embedded shell comma
 - `Estimate count of DARE items.applescript`: a script to estimate the number of items for each DARE ID. It outputs to DARE\_count.csv in this folder.
 - `Get_dare_info.applescript`
 - `Pleiades_titles.applescript`
+- `Check Pleiades for places.applescript`: go through list of place names on the clipboard and see if Pleiades returns anything potentially useful. If so, open the page in Safari for inspection.
 - `Vici_get_external_IDs.applescript`
 
 ## External scripts
