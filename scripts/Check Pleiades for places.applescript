@@ -29,12 +29,15 @@ if not stopscript then
 	end repeat
 	
 	repeat with place in urlList
-		set place to replace(place, "'", "&#39;")
-		(do shell script "echo " & place & " | perl -pe 's/^\\s+//' | perl -pe 's/\\s+$//'")
-		if place is not "" then
-			set place to my replace(place, " ", "_")
+		-- Escape single quote marks
+		set cleanPlace to replace(place, "'", "&#39;")
+		-- Trim the string
+		set cleanPlace to (do shell script "echo " & quoted form of cleanPlace & " | xargs")
+		-- Escape the remaining (internal) space characters
+		set cleanPlace to replace(cleanPlace, " ", "%20")
+		if cleanPlace is not "" then
 			try
-				set testURL to "https://pleiades.stoa.org/places/" & place
+				set testURL to "https://pleiades.stoa.org/places/" & cleanPlace
 				set the clipboard to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
 				set reply to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
 				-- Result is an error if the URL doesn't give Pleiades' "no idea" response.
@@ -57,9 +60,9 @@ if not stopscript then
 	
 	-- Done. Display info in notification
 	if counter > 0 then
-		display notification ("Found " & counter & " possible locations in Pleiades." & return & "Last entry: " & my replace(place, "_", " ")) with title "Pleiades Place Search" sound name "beep"
+		display notification ("Found " & counter & " possible locations in Pleiades." & return & "Last entry: " & place) with title "Pleiades Place Search" sound name "beep"
 	else
-		display notification ("Sorry, no possible locations found in Pleiades." & return & "Last entry: " & my replace(place, "_", " ")) with title "Pleiades Place Search" sound name "Basso"
+		display notification ("Sorry, no possible locations found in Pleiades." & return & "Last entry: " & place) with title "Pleiades Place Search" sound name "Basso"
 	end if
 	set the clipboard to place
 end if
