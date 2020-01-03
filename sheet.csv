@@ -542,7 +542,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,Zell (Mosel),,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
 "1000544","Wachtturm 10-37b ""Schneidershecke""",,temple,,Mudau,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,Güglingen,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
-"1000546",Temple area,,temple,Cambodunum,Kempten (Allgäu),,DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
+"1000546",Temple area,,temple,Cambodunum,Kempten (Allgäu),"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
 "1000547",Temple,,temple,,Badenweiler,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
 "1000548",Varnenum,,temple,,Aachen,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
@@ -646,9 +646,9 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000647",Temple A,,temple,Hössn Sfiri,,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000648",Temple B,,temple,Hössn Sfiri,,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000649",Temple C,,temple,Hössn Sfiri,,,LB,34.401158,36.059573,"1",N,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
-"1000650",Temple,,temple,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958",,"26182",,place/bziza,,,,,,,,,,
+"1000650",Temple,,temple,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
 "1000651",Main Temple,,temple,Faqra,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
-"1000652",Temple of Atargatis,Atargatis,temple,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
+"1000652",Temple of Atargatis,Atargatis,temple,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
 "1000656",Temple A,,temple,Niha,,,LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
 "1000657",Temple B,,temple,Niha,,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
 "1000658",Temple A,,temple,Hössn Niha,,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
@@ -694,12 +694,12 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000701",Temple of Hercules,Hercules,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000702",Nymphaeum,Nymphs,temple,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000703",Second Temple,,temple,,Jerusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
-"1000704",Nabatean Temple,,temple,Dibon,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000704",Nabatean Temple,,temple,Dibon,,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000705",Nabatean Temple,,temple,Qasr Raba,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000706",Little Temple,,temple,Rabba,Rabbat Moab,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000707",Western Temple,,temple,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000708",Central Temple,,temple,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000709",Little Temple,,temple,Dhat-Ras,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000709",Little Temple,,temple,Dhat-Ras,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000710",Nabatean Temple,,temple,Mahaiy,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000711",Nabatean Temple,,temple,Khirbet edh-Dharih,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000712",Nabatean Temple,,temple,Tawaneh,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
