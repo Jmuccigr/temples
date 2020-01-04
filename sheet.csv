@@ -371,7 +371,7 @@ id,name,dedicatee,type,location,city,pleiadesplace,country,latitude,longitude,or
 "1000371",Temple of Apollo,,temple,,Riez,"157805",FR,43.817055,6.088223,,,,,,,,,,,M,,god,,,,Vici.org,,,"10697",,,,,fr=Colonnes_de_Riez,Q1272940,,,,,,,,no
 "1000372",Forum Temple,,temple,,Saint-Bertrand-de-Comminges,"246477",FR,43.029804,0.573152,,,,,,,,,,,,,,,,,Vici.org,,,"10770",,,,,,,,,,,,,,no
 "1000373",Briga,,temple,,Eu,"108771",FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923",,"13746",,,,,,,,,,,,no
-"1000374",Temple complex (at Petromantalum?),,temple,,Genainville,"109004",FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313",,"18747",,,,,,,,,,,,no
+"1000374",Temple complex (at Petromantalum?),,temple,,Genainville,,FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,no
 "1000375",Temple of Mars,Mars,temple,Haut Bécherel,Corseul,"69507",FR,48.471673,-2.14693,"99",E,,1st c CE,"51","100","1",end of 3rd c. CE,,,M,,god,Gallo-Roman,,yes,Vici.org,,,"11360","636775194","20763",,,fr=Temple_de_Mars_(Corseul),,,,,,,,,yes
 "1000376",Temple of Janus,Janus,temple,,Autun,"177460",FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
