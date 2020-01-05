@@ -75,3 +75,11 @@ To help prioritize our own work on these various items, I used Google's API to f
 ## LOD
 
 1. Followed the [Pelagios cookbook](https://github.com/pelagios/pelagios-cookbook/wiki/Pleiades-) to get the database into shape as LOD for Pelagios (July 2018).
+
+## Pleiades places
+
+1. I added Pleiades places to each entry where such a place was the location of the entry. This is to be distinguished from Pleiades places that are identical to the entry. For example, the Temple of Jupiter Optimus Maximus, Pleiades item [871801169](https://pleiades.stoa.org/places/871801169), is located in Rome, item [423025](https://pleiades.stoa.org/places/423025). Not all of these have ancient names. (Jan 2020)
+
+## New fields
+
+- Changed city to two fields, modern and ancient place names.

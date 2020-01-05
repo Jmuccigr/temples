@@ -21,7 +21,7 @@ res = res[0];
 		cites = '';
 		l = false;
 // 		if (document.title == '') {
-// 			document.title = res.properties.name + ' (' + res.properties.city + ' ' + res.properties.country + ')';
+// 			document.title = res.properties.name + ' (' + res.properties.modernplace + ' ' + res.properties.country + ')';
 // 			var file = document.createElement('link');
 // 			file.setAttribute("rel", "canonical");
 // 			file.setAttribute("href", 'http://www.romeresearchgroup.org/items/' + res.properties.id);
@@ -54,25 +54,25 @@ res = res[0];
 		}
 		if (res.properties.pleiadesplace != '') {
 			getPleiadesPlace(res.properties.pleiadesplace);
-			text = text + '<li>Ancient location: <a target="_blank" href="https://pleiades.stoa.org/places/' + res.properties.pleiadesplace + '"><span id="pleiades" title="Load Pleiades place resource in a new page."><i>loading</i></span></a></li>';
+			text = text + '<span id="pleiadesEntry"><li>Ancient location: <a target="_blank" href="https://pleiades.stoa.org/places/' + res.properties.pleiadesplace + '"><span id="pleiades" title="Load Pleiades place resource in a new page."><i>loading</i></span></a></li></span>';
 		}
-		if (res.properties.location != '' || res.properties.city != '' || res.properties.country != '') {
-			loc = '<li>Location: ';
+		if (res.properties.location != '' || res.properties.modernplace != '' || res.properties.country != '') {
+			loc = '<li>Found in: ';
 			if (res.properties.location != '') {
 				loc = loc + res.properties.location;
 				l = true;
 			}
-			if (res.properties.city != '') {
+			if (res.properties.modernplace != '') {
 				if (l) {
 					loc = loc + ' in ';
 				}
-				loc = loc + res.properties.city;
+				loc = loc + res.properties.modernplace;
 			}
 			if (res.properties.country != '') {
 				if (loc.length > 14) {
 					loc = loc + ', '
 				}
-				loc = loc + res.properties.country;
+				loc = loc + 'modern ' + res.properties.country;
 			}
 			if (res.properties.compass != '' ) {
 				if (loc.length > 14) {
