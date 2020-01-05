@@ -38,7 +38,6 @@ if not stopscript then
 		if cleanPlace is not "" then
 			try
 				set testURL to "https://pleiades.stoa.org/places/" & cleanPlace
-				set the clipboard to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
 				set reply to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
 				-- Result is an error if the URL doesn't give Pleiades' "no idea" response.
 				-- Lots of other reasons for errors, but assuming all is working well, this is the only one we need to worry about.
