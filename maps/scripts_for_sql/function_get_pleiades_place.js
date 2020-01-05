@@ -19,7 +19,11 @@ request.onload = function() {
     var data = JSON.parse(this.response);
 
 	// Grab Latin and Greek names for the Roman period. Use Latin first, or else the first name in the group if neither is present
-    for (i = 0; i < data.names.length; i++) {
+if ( data.names == '' ) {
+	document.getElementById("pleiades").innerHTML = "[Name unknown]"
+
+	} else {
+	for (i = 0; i < data.names.length; i++) {
         for (j = 0; j < data.names[i].attestations.length; j++) {
             if (data.names[i].attestations[j].timePeriod == 'roman') {
                 if (data.names[i].language == 'la') {
@@ -45,6 +49,7 @@ request.onload = function() {
 		}
 	}
 	document.getElementById("pleiades").innerHTML = place;
+	}
 	} else {
 	if ( rs == '404') {
 		errorText = '<i>[ID not found!]</i>'
