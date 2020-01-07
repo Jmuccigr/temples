@@ -153,7 +153,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000153",Temple of Honos,Honor,temple,extra portam collinam,Rome,Rome,"423025",IT,41.906487,12.498676,,,,-292-219,"-292","-219","-3",,,,M,,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000154",Temple of Honos,Honor,temple,ad Portam Capenam,Rome,Rome,"423025",IT,,,,,"-233",-232-209,"-232","-209","-3","-205","1000038",,F,July 17,concept,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000155",Portonaccio Temple,Apollo,temple,,,Veii,"423116",IT,42.021223,12.390661,"97",E,,"-510",,,"-6",,,,M,,god,Etruscan,,yes,,,,"23458",,,,,,,,,,,,420124SPoA,,
-"1000156",Great Chesterford Temple,,temple,,,,,UK,52.07048,0.208052084,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1002",,,,
+"1000156",Great Chesterford Temple,,temple,,Great Chesterford,,"79488",UK,52.07048,0.208052084,,,,,"1",,,"350",,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1002",,,,
 "1000157",Harlow,,temple,,,,,UK,51.79013,0.127076484,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1045",,,,
 "1000158","Gosbecks, Colchester",,temple,,,,,UK,51.86582,0.856901856,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1106",,,,
 "1000159",Stonea Grange,,temple,,,,,UK,52.52174,0.134535711,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"2042",,,,
