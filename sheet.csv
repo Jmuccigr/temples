@@ -180,12 +180,12 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000180",Chanctonbury Ring,,temple,,,,,UK,50.89682,-0.381227592,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11012",,,,
 "1000181","Broadbridge, Bosham",,temple,,,,,UK,50.83983,-0.852303555,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11023",,,,
 "1000182","Ratham Mill, Funtington",,temple,,,,,UK,50.85183,-0.852122691,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11062",,,,
-"1000183",Weycock Hill,,temple,,Weycock Hill,,,UK,51.49345,-0.817544128,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79755",,,,,,,,,"12055",,,https://www.pastscape.org.uk/hob.aspx?hob_id=248004,yes
+"1000183",Octagonal Temple,,temple,,Weycock Hill,,,UK,51.49287,-0.817942,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79755",,,,,,,,,"12055",,,https://www.pastscape.org.uk/hob.aspx?hob_id=248004,yes
 "1000184",Bancroft temple-Mausoleum,,temple,,,,,UK,52.05657,-0.797733369,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"13002",,,,
 "1000185",Bourton Grounds temple,,temple,,,,,UK,51.99158,-0.939216473,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"13039",,,,
 "1000186",Chedworth temple,,temple,,,,,UK,51.81811,-1.91261855,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14072",,,,
-"1000187",Lydney Park,,temple,,,,,UK,51.72146,-2.557441682,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14074",,,,
-"1000188",Uley,,temple,,,,,UK,51.69565,-2.306678281,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14103",,,,
+"1000187",Temple,,temple,,Lydney Park,,"79583",UK,51.720922,-2.558005,"138",SE,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14074",,,,
+"1000188",Uley,,temple,,Uley,,,UK,51.69565,-2.306678281,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79726",,,,,,,,,"14103",,,https://www.pastscape.org.uk/hob.aspx?hob_id=205240,yes
 "1000189",Hayling Island temple,,temple,,,,,UK,50.82193,-0.972536725,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"15044",,,,
 "1000190",Sansom's Platt,,temple,,,,,UK,51.86778,-1.343901034,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16063",,,,
 "1000191",Woodeaton,,temple,,,,,UK,51.80893,-1.223670327,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16093",,,,
