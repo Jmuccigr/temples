@@ -147,7 +147,7 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + res.properties.ads + '">Archaeological Data Service</a>';
+			otherDB = otherDB + '<a target="_blank" href="https://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + res.properties.ads + '">Archaeological Data Service</a>';
 		}
 		if (res.properties.cona != '') {
 			if (otherDB.length > 4) {
