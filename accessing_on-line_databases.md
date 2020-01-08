@@ -43,6 +43,10 @@ Get an item by:
 
 - ID: `curl -s -stdout http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=<###>`
 
+Tuesday, 7 January 2020 Update: the items seem to have moved to a secure server (https, not http):
+
+- ID: `curl -s -stdout https://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=<####>`
+
 # ToposText
 
 Download the [entire database as ttl](https://topostext.org/downloads/pelagios.ttl) via their [download page](https://topostext.org/TT-downloads).
