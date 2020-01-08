@@ -194,16 +194,16 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000194",Badbury Romano-Celtic temple,,temple,,,,,UK,50.82652,-2.057591749,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20014",,,,
 "1000195",Temple,,temple,,Maiden Castle,,"82240559",UK,50.69488,-2.46999813,,,,4th c. CE,"301","400","4",,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20035",,,,
 "1000196",Poundbury,,temple,,,,,UK,50.71896,-2.451285648,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20060",,,,
-"1000197",Temple,,temple,Jordan Hill,Weymouth,,,UK,50.63755,-2.427115997,,,,,"69","79","1",4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79540",,,,Jordan_Hill_Roman_Temple,Q6276614,,,,"20079",,,,
-"1000198",Brean Down,,temple,,,,,UK,51.32421,-3.015511638,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21004",,,,
-"1000199",Henley Wood,,temple,,,,,UK,51.3831,-2.801914168,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21047",,,,
+"1000197",Temple,,temple,Jordan Hill,Weymouth,,,UK,50.63755,-2.427115997,"179",S,,,"69","79","1",4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79540",,,,Jordan_Hill_Roman_Temple,Q6276614,,,,"20079",,,,yes
+"1000198",Temple,,temple,Brean Down,Somerset,,,UK,51.32421,-3.015511638,,,,4th c. CE,"340",,"4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79351",,,,,,,,,"21004",,,http://www.pastscape.org.uk/hob.aspx?hob_id=191317,yes
+"1000199",Temple,,temple,Henley Wood,Somerset,,,UK,51.3831,-2.801914168,,,,4th c. CE,"301","400","4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79507",,,,,,,,,"21047",,,,yes
 "1000200","Pagans Hill, Chew Stoke",,temple,,,,,UK,51.36073,-2.637358019,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21106",,,,
 "1000201",Lamyatt Beacon,,temple,,,,,UK,51.12394,-2.473626892,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21127",,,,
 "1000202","Redhill, Ratcliffe on Soar",,temple,,,,,UK,52.86942,-1.269562233,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"25035",,,,
-"1000203",Cosgrove,,temple,,,,,UK,52.07176,-0.841971487,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"26043",,,,
-"1000204",Thistleton religious complex/town,,temple,,,,,UK,52.74453,-0.65474716,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"27005",,,,
-"1000205","Grimstock Hill, Coleshill",,temple,,,,,UK,52.51183,-1.714308514,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"32006",,,,
-"1000206",Maryport,,temple,,,,,UK,54.72287,-3.489841344,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"41043",,,,
+"1000203",Villa temple,,temple,,Cosgrove,,"79404",UK,52.07176,-0.841971487,,,,late 2nd c.,"167",,"2",5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"26043",,,,
+"1000204",Religious complex/town,,temple,,Thistleton,,"79712",UK,52.74453,-0.65474716,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"27005",,,,
+"1000205","Grimstock Hill, Coleshill",,temple,,,,,UK,52.51183,-1.714308514,,,,,"120",,"2",4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"32006",,,,
+"1000206",Maryport,,temple,,Maryport,,"89097",UK,54.72287,-3.489841344,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"41043",,,,
 "1000207",Great Bulmore,,temple,,,,,UK,51.61875,-2.927248119,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"43021",,,,
 "1000208",Caersws Vicus 84-93,,temple,,,,,UK,52.5169,-3.428691514,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"45019",,,,
 "1000209",Temple of Saturn,Saturn,temple,,Dougga,,"315223",TN,36.42555,9.22063,"109",E,,,,,,,,,M,,god,Roman,,,,,,"11588",,,,,,,,,,,,,,
