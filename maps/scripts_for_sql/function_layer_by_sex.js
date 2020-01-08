@@ -53,7 +53,7 @@
         {
             return L.marker(latlng,
             {
-                icon: redIcon
+                icon: whiteIcon
             });
         },
         filter: function (feature, layer)
@@ -69,7 +69,7 @@
         {
             return L.marker(latlng,
             {
-                icon: greyIcon
+                icon: BandWIcon
             });
         },
         filter: function (feature, layer)
@@ -85,7 +85,7 @@
         {
             return L.marker(latlng,
             {
-                icon: whiteIcon
+                icon: greyIcon
             });
         },
         filter: function (feature, layer)
@@ -96,9 +96,9 @@
 
     var overlays = {
         "<span style='color: black'>Male</span>": m,
-        "<span style='color: red'>Female</span>": f,
-        "<span style='color: grey'>Both</span>": b,
-        "<span style='color: black'>Unknown</span>": u
+        "<span style='color: white;background-color: black'>Female</span>": f,
+        "<span style='font-family: monospace'><span style='color: black'>B</span><span style='color: white;background-color: black'>o</span><span style='color: black'>t</span><span style='color: white;background-color: black'>h</span></span>": b,
+        "<span style='color: gray'>Unknown</span>": u
     };
 
     // Make sure this is global so the control can be deleted by other scripts.

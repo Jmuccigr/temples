@@ -82,6 +82,28 @@ var redIcon = new L.Icon(
     popupAnchor: [1, -34],
     shadowSize: [41, 41]
 });
+
+var BandWIcon = new L.Icon(
+{
+    iconUrl: '/icons/marker-icon-2x-b&w.png',
+    shadowUrl: '/icons/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+});
+
+// var QMIcon = new L.Icon(
+// {
+//     iconUrl: '/icons/marker-icon-2x-QM.png',
+//     shadowUrl: '/icons/marker-shadow.png',
+//     iconSize: [25, 41],
+//     iconAnchor: [12, 41],
+//     popupAnchor: [1, -34],
+//     shadowSize: [41, 41]
+// });
+//
+
 // For rotations
 
 var arrowIcon = L.icon(
