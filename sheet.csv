@@ -156,7 +156,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000156",Great Chesterford Temple,,temple,,Great Chesterford,,"79488",UK,52.07048,0.208052084,,,,,"1",,"1","350",,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1002",,,,
 "1000157",Temple,,temple,,Harlow,,,UK,51.790161,0.127094,"115",SE,,last quarter 1st c. CE,"76","100","1",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79502",,,,,,,,,"1045",,,https://www.pastscape.org.uk/hob.aspx?hob_id=370088,yes
 "1000158",Temple,,temple,,Gosbecks,,"79486",UK,51.86582,0.856901856,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"1106",,,http://www.pastscape.org.uk/hob.aspx?hob_id=384017,yes
-"1000159",Stonea Grange,,temple,,,,,UK,52.52174,0.134535711,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"2042",,,,
+"1000159",Temple,,temple,,Stonea Grange,,"79696",UK,52.52174,0.134535711,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"2042",,,,
 "1000160","Waste Management Park, Waterbeach, Cambridge",,temple,,,,,UK,52.2972,0.1791583,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"2068",,,,
 "1000161",Baldock,,temple,,,,"79311",UK,51.99054,-0.184278987,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"3012",,,,
 "1000162",Wood End Lane/Buncefield Lane,,temple,,,,,UK,51.7593,-0.433190999,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"3031",,,,
@@ -178,12 +178,12 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000178",Roman Temple,,temple,,Wanborough,,,UK,51.23794,-0.683091189,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79746",,,,,,,,,"10027",,,https://www.pastscape.org.uk/hob.aspx?hob_id=250569,yes
 "1000179","Church Field, Titsey",,temple,,,,,UK,51.27624,0.035920719,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"10035",,,,
 "1000180",Chanctonbury Ring,,temple,,,,,UK,50.89682,-0.381227592,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11012",,,,
-"1000181","Broadbridge, Bosham",,temple,,,,,UK,50.83983,-0.852303555,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11023",,,,
+"1000181",Temple,,temple,,"Broadbridge, Bosham",,"110448342",UK,50.83983,-0.852303555,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11023",,,,
 "1000182","Ratham Mill, Funtington",,temple,,,,,UK,50.85183,-0.852122691,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11062",,,,
 "1000183",Octagonal Temple,,temple,,Weycock Hill,,,UK,51.49287,-0.817942,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79755",,,,,,,,,"12055",,,https://www.pastscape.org.uk/hob.aspx?hob_id=248004,yes
 "1000184",Temple-Mausoleum,,temple,Roman villa,Bancroft,,"79312",UK,52.05657,-0.797733369,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"13002",,,,yes
 "1000185",Temple,,temple,,Bourton Grounds,,,UK,51.99158,-0.939216473,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"13039",,,,
-"1000186",Chedworth temple,,temple,,,,,UK,51.81811,-1.91261855,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14072",,,,
+"1000186",Temple,,temple,,Chedworth,,"79383",UK,51.81811,-1.91261855,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14072",,,https://www.pastscape.org.uk/hob.aspx?hob_id=327595,yes
 "1000187",Temple,,temple,,Lydney Park,,"79583",UK,51.720922,-2.558005,"138",SE,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"14074",,,,yes
 "1000188",Uley,,temple,,Uley,,,UK,51.69565,-2.306678281,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79726",,,,,,,,,"14103",,,https://www.pastscape.org.uk/hob.aspx?hob_id=205240,yes
 "1000189",Temple,,temple,,Hayling Island,,"79504",UK,50.82193,-0.972536725,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79504",,,,,,,,,"15044",,,https://www.pastscape.org.uk/hob.aspx?hob_id=242295,yes
@@ -197,8 +197,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000197",Temple,,temple,Jordan Hill,Weymouth,,,UK,50.63755,-2.427115997,"179",S,,,"69","79","1",4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79540",,,,Jordan_Hill_Roman_Temple,Q6276614,,,,"20079",,,,yes
 "1000198",Temple,,temple,Brean Down,Somerset,,,UK,51.32421,-3.015511638,,,,4th c. CE,"340",,"4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79351",,,,,,,,,"21004",,,http://www.pastscape.org.uk/hob.aspx?hob_id=191317,yes
 "1000199",Temple,,temple,Henley Wood,Somerset,,,UK,51.3831,-2.801914168,,,,4th c. CE,"301","400","4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79507",,,,,,,,,"21047",,,,yes
-"1000200","Pagans Hill, Chew Stoke",,temple,,,,,UK,51.36073,-2.637358019,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21106",,,,
-"1000201",Lamyatt Beacon,,temple,,,,"79554",UK,51.12394,-2.473626892,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21127",,,https://www.pastscape.org.uk/hob.aspx?hob_id=199898,yes
+"1000200",Temple,,temple,,"Pagans Hill, Chew Stoke",,,UK,51.36073,-2.637358019,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,Pagans_Hill_Roman_temple,,,,,"21106",,,,
+"1000201",Temple,,temple,,Lamyatt,,"79554",UK,51.12394,-2.473626892,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21127",,,https://www.pastscape.org.uk/hob.aspx?hob_id=199898,yes
 "1000202","Redhill, Ratcliffe on Soar",,temple,,,,,UK,52.86942,-1.269562233,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"25035",,,,
 "1000203",Villa temple,,temple,,Cosgrove,,"79404",UK,52.07176,-0.841971487,,,,late 2nd c.,"167",,"2",5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"26043",,,,
 "1000204",Religious complex/town,,temple,,Thistleton,,"79712",UK,52.74453,-0.65474716,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"27005",,,,
