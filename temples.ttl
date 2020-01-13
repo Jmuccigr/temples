@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-01-05"  ; 
+    dcterms:modified "2020-01-13"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1644,43 +1644,48 @@ skos:exactMatch <http://vici.org/vici/23458> ;
 skos:exactMatch <https://topostext.org/place/420124SPoA> ;
 .
 <http://romeresearchgroup.org/items/1000156> a lawd:Place ;
-rdfs:label "Great Chesterford Temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.07048"^^xsd:double ; geo:long "0.208052084"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79488#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=1002> ;
 .
 <http://romeresearchgroup.org/items/1000157> a lawd:Place ;
-rdfs:label "Harlow" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.79013"^^xsd:double ; geo:long "0.127076484"^^xsd:double ] ;
+geo:location [ geo:lat "51.790161"^^xsd:double ; geo:long "0.127094"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79502> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=1045> ;
 .
 <http://romeresearchgroup.org/items/1000158> a lawd:Place ;
-rdfs:label "Gosbecks, Colchester" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.86582"^^xsd:double ; geo:long "0.856901856"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79486#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=1106> ;
 .
 <http://romeresearchgroup.org/items/1000159> a lawd:Place ;
-rdfs:label "Stonea Grange" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.52174"^^xsd:double ; geo:long "0.134535711"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79696#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=2042> ;
 .
 <http://romeresearchgroup.org/items/1000160> a lawd:Place ;
-rdfs:label "Waste Management Park, Waterbeach, Cambridge" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.2972"^^xsd:double ; geo:long "0.1791583"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1689,16 +1694,17 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=2068> ;
 .
 <http://romeresearchgroup.org/items/1000161> a lawd:Place ;
-rdfs:label "Baldock" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.99054"^^xsd:double ; geo:long "-0.184278987"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79311#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=3012> ;
 .
 <http://romeresearchgroup.org/items/1000162> a lawd:Place ;
-rdfs:label "Wood End Lane/Buncefield Lane" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.7593"^^xsd:double ; geo:long "-0.433190999"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1707,7 +1713,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=3031> ;
 .
 <http://romeresearchgroup.org/items/1000163> a lawd:Place ;
-rdfs:label "Friars Wash, Redbourn" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.81901"^^xsd:double ; geo:long "-0.404061466"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1716,25 +1722,27 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=3073> ;
 .
 <http://romeresearchgroup.org/items/1000164> a lawd:Place ;
-rdfs:label "Caistor St Edmund temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.58692"^^xsd:double ; geo:long "1.304821414"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79735#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=4023> ;
 .
 <http://romeresearchgroup.org/items/1000165> a lawd:Place ;
-rdfs:label "Scole, A143 Scole-Stuston Bypass" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.36266"^^xsd:double ; geo:long "1.159824025"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79675#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=4031> ;
 .
 <http://romeresearchgroup.org/items/1000166> a lawd:Place ;
-rdfs:label "Crownthorpe, Wicklewood" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.58352"^^xsd:double ; geo:long "1.080879369"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1743,7 +1751,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=4083> ;
 .
 <http://romeresearchgroup.org/items/1000167> a lawd:Place ;
-rdfs:label "Lancing Down" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.84807"^^xsd:double ; geo:long "-0.328010681"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1752,7 +1760,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=7006> ;
 .
 <http://romeresearchgroup.org/items/1000168> a lawd:Place ;
-rdfs:label "Greenwich Park" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.48127"^^xsd:double ; geo:long "0.001558654"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1761,16 +1769,17 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=8036> ;
 .
 <http://romeresearchgroup.org/items/1000169> a lawd:Place ;
-rdfs:label "Lullingstone" ;
+rdfs:label "Temple-Mausoleum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.36418"^^xsd:double ; geo:long "0.196533335"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79582#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9013> ;
 .
 <http://romeresearchgroup.org/items/1000170> a lawd:Place ;
-rdfs:label "Castle Field, Worth" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.25017"^^xsd:double ; geo:long "1.3458945"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1779,25 +1788,27 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9015> ;
 .
 <http://romeresearchgroup.org/items/1000171> a lawd:Place ;
-rdfs:label "Keston" ;
+rdfs:label "Temple-Mausoleum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.3505"^^xsd:double ; geo:long "0.029"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79544#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9016> ;
 .
 <http://romeresearchgroup.org/items/1000172> a lawd:Place ;
-rdfs:label "Springhead, sanctuary complex" ;
+rdfs:label "Sanctuary complex" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.43066"^^xsd:double ; geo:long "0.32613761"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79729#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9020> ;
 .
 <http://romeresearchgroup.org/items/1000173> a lawd:Place ;
-rdfs:label "Springhead, roadside settlement" ;
+rdfs:label "Roadside settlement" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.4307"^^xsd:double ; geo:long "0.323981736"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1806,7 +1817,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9021> ;
 .
 <http://romeresearchgroup.org/items/1000174> a lawd:Place ;
-rdfs:label "Thurnham" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.2847"^^xsd:double ; geo:long "0.579052952"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1815,16 +1826,17 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9069> ;
 .
 <http://romeresearchgroup.org/items/1000175> a lawd:Place ;
-rdfs:label "Richborough temples" ;
+rdfs:label "Temples" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.28995"^^xsd:double ; geo:long "1.329420998"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79664#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9106> ;
 .
 <http://romeresearchgroup.org/items/1000176> a lawd:Place ;
-rdfs:label "Boxted, Upchurch" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.36451"^^xsd:double ; geo:long "0.658099701"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1833,25 +1845,28 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=9126> ;
 .
 <http://romeresearchgroup.org/items/1000177> a lawd:Place ;
-rdfs:label "Farley Heath" ;
+rdfs:label "Temple and temenos" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.19389"^^xsd:double ; geo:long "-0.49751161"^^xsd:double ] ;
+geo:location [ geo:lat "51.193714"^^xsd:double ; geo:long "-0.496281"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79459> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=10005> ;
 .
 <http://romeresearchgroup.org/items/1000178> a lawd:Place ;
-rdfs:label "Wanborough Roman Temple" ;
+rdfs:label "Roman Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.23794"^^xsd:double ; geo:long "-0.683091189"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79746> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=10027> ;
 .
 <http://romeresearchgroup.org/items/1000179> a lawd:Place ;
-rdfs:label "Church Field, Titsey" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.27624"^^xsd:double ; geo:long "0.035920719"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1860,7 +1875,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=10035> ;
 .
 <http://romeresearchgroup.org/items/1000180> a lawd:Place ;
-rdfs:label "Chanctonbury Ring" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.89682"^^xsd:double ; geo:long "-0.381227592"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1869,16 +1884,17 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=11012> ;
 .
 <http://romeresearchgroup.org/items/1000181> a lawd:Place ;
-rdfs:label "Broadbridge, Bosham" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.83983"^^xsd:double ; geo:long "-0.852303555"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/110448342#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=11023> ;
 .
 <http://romeresearchgroup.org/items/1000182> a lawd:Place ;
-rdfs:label "Ratham Mill, Funtington" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.85183"^^xsd:double ; geo:long "-0.852122691"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1887,25 +1903,27 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=11062> ;
 .
 <http://romeresearchgroup.org/items/1000183> a lawd:Place ;
-rdfs:label "Weycock Hill" ;
+rdfs:label "Octagonal Temple" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.49345"^^xsd:double ; geo:long "-0.817544128"^^xsd:double ] ;
+geo:location [ geo:lat "51.49287"^^xsd:double ; geo:long "-0.817942"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79755> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=12055> ;
 .
 <http://romeresearchgroup.org/items/1000184> a lawd:Place ;
-rdfs:label "Bancroft temple-Mausoleum" ;
+rdfs:label "Temple-Mausoleum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.05657"^^xsd:double ; geo:long "-0.797733369"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79312#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=13002> ;
 .
 <http://romeresearchgroup.org/items/1000185> a lawd:Place ;
-rdfs:label "Bourton Grounds temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.99158"^^xsd:double ; geo:long "-0.939216473"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1914,43 +1932,49 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=13039> ;
 .
 <http://romeresearchgroup.org/items/1000186> a lawd:Place ;
-rdfs:label "Chedworth temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.81811"^^xsd:double ; geo:long "-1.91261855"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79383#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=14072> ;
 .
 <http://romeresearchgroup.org/items/1000187> a lawd:Place ;
-rdfs:label "Lydney Park" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.72146"^^xsd:double ; geo:long "-2.557441682"^^xsd:double ] ;
+geo:location [ geo:lat "51.720922"^^xsd:double ; geo:long "-2.558005"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79583#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=14074> ;
 .
 <http://romeresearchgroup.org/items/1000188> a lawd:Place ;
-rdfs:label "Uley" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.69565"^^xsd:double ; geo:long "-2.306678281"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79726> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=14103> ;
 .
 <http://romeresearchgroup.org/items/1000189> a lawd:Place ;
-rdfs:label "Hayling Island temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.82193"^^xsd:double ; geo:long "-0.972536725"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79504#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79504> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=15044> ;
 .
 <http://romeresearchgroup.org/items/1000190> a lawd:Place ;
-rdfs:label "Sansom's Platt" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.86778"^^xsd:double ; geo:long "-1.343901034"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -1959,52 +1983,57 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=16063> ;
 .
 <http://romeresearchgroup.org/items/1000191> a lawd:Place ;
-rdfs:label "Woodeaton" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.80893"^^xsd:double ; geo:long "-1.223670327"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79769> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=16093> ;
 .
 <http://romeresearchgroup.org/items/1000192> a lawd:Place ;
-rdfs:label "Marcham/Frilford" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.6633"^^xsd:double ; geo:long "-1.366780827"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79470#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=16099> ;
 .
 <http://romeresearchgroup.org/items/1000193> a lawd:Place ;
-rdfs:label "Nettleton" ;
+rdfs:label "Temple of Apollo Cunomaglos" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.49076"^^xsd:double ; geo:long "-2.257769643"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79609> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=17001> ;
 .
 <http://romeresearchgroup.org/items/1000194> a lawd:Place ;
-rdfs:label "Badbury Romano-Celtic temple" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.82652"^^xsd:double ; geo:long "-2.057591749"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79740#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=20014> ;
 .
 <http://romeresearchgroup.org/items/1000195> a lawd:Place ;
-rdfs:label "Maiden Castle" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.69488"^^xsd:double ; geo:long "-2.46999813"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/82240559#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=20035> ;
 .
 <http://romeresearchgroup.org/items/1000196> a lawd:Place ;
-rdfs:label "Poundbury" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.71896"^^xsd:double ; geo:long "-2.451285648"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -2013,52 +2042,60 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=20060> ;
 .
 <http://romeresearchgroup.org/items/1000197> a lawd:Place ;
-rdfs:label "Jordan Hill" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.63755"^^xsd:double ; geo:long "-2.427115997"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79540> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Jordan_Hill_Roman_Temple"> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q6276614> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=20079> ;
 .
 <http://romeresearchgroup.org/items/1000198> a lawd:Place ;
-rdfs:label "Brean Down" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.32421"^^xsd:double ; geo:long "-3.015511638"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79351> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=21004> ;
 .
 <http://romeresearchgroup.org/items/1000199> a lawd:Place ;
-rdfs:label "Henley Wood" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.3831"^^xsd:double ; geo:long "-2.801914168"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79507> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=21047> ;
 .
 <http://romeresearchgroup.org/items/1000200> a lawd:Place ;
-rdfs:label "Pagans Hill, Chew Stoke" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.36073"^^xsd:double ; geo:long "-2.637358019"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <href="https://en.wikipedia.org/wiki/Pagans_Hill_Roman_temple"> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=21106> ;
 .
 <http://romeresearchgroup.org/items/1000201> a lawd:Place ;
-rdfs:label "Lamyatt Beacon" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.12394"^^xsd:double ; geo:long "-2.473626892"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79554#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=21127> ;
 .
 <http://romeresearchgroup.org/items/1000202> a lawd:Place ;
-rdfs:label "Redhill, Ratcliffe on Soar" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.86942"^^xsd:double ; geo:long "-1.269562233"^^xsd:double ] ;
 gn:countryCode "UK" ;
@@ -2067,57 +2104,63 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=25035> ;
 .
 <http://romeresearchgroup.org/items/1000203> a lawd:Place ;
-rdfs:label "Cosgrove" ;
+rdfs:label "Villa temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.07176"^^xsd:double ; geo:long "-0.841971487"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79404#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=26043> ;
 .
 <http://romeresearchgroup.org/items/1000204> a lawd:Place ;
-rdfs:label "Thistleton religious complex/town" ;
+rdfs:label "Religious complex/town" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.74453"^^xsd:double ; geo:long "-0.65474716"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79712#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=27005> ;
 .
 <http://romeresearchgroup.org/items/1000205> a lawd:Place ;
-rdfs:label "Grimstock Hill, Coleshill" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.51183"^^xsd:double ; geo:long "-1.714308514"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/79397> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=32006> ;
 .
 <http://romeresearchgroup.org/items/1000206> a lawd:Place ;
-rdfs:label "Maryport" ;
+rdfs:label "Temples" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "54.72287"^^xsd:double ; geo:long "-3.489841344"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/89097#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=41043> ;
 .
 <http://romeresearchgroup.org/items/1000207> a lawd:Place ;
-rdfs:label "Great Bulmore" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.61875"^^xsd:double ; geo:long "-2.927248119"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/972561590#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=43021> ;
 .
 <http://romeresearchgroup.org/items/1000208> a lawd:Place ;
-rdfs:label "Caersws Vicus 84-93" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "52.5169"^^xsd:double ; geo:long "-3.428691514"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79363#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=45019> ;
 .
 <http://romeresearchgroup.org/items/1000209> a lawd:Place ;
