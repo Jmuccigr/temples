@@ -63,7 +63,7 @@ then
    echo "Error with sheet.csv creation" | mail -s "Temples problem: data" $me
    exit 0
 else
-    if  [ `stat -f%z "$temp/sheet.csv"` -lt 1000 ]
+    if  [ `stat -f%z "$temp/sheet.csv"` -lt 50000 ]
     then
 		echo "$(date +%Y-%m-%d\ %H:%M:%S) sheet.csv is too small." 1>&2
 		echo "Too small sheet.csv" | mail -s "Temples problem: data" $me
