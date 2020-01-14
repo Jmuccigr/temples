@@ -190,7 +190,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000190",Temple,,temple,,Sansom's Platt,,,UK,51.86778,-1.343901034,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16063",,,,
 "1000191",Temple,,temple,,,,,UK,51.80893,-1.223670327,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79769",,,,,,,,,"16093",,,,yes
 "1000192",Temple,,temple,,,,"79470",UK,51.6633,-1.366780827,,,,later 1st c. CE,"51","100","1",early 5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16099",,,https://www.pastscape.org.uk/hob.aspx?hob_id=234025,yes
-"1000193",Temple of Apollo Cunomaglos,Apollo Cunomaglos,temple,,,,,UK,51.49076,-2.257769643,,,,mid/late 2nd c CE,"151","400","2",late 4th c. CE,,,M,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79609",,,,,,,,,"17001",,,http://www.pastscape.org.uk/hob.aspx?hob_id=208294,yes
+"1000193",Temple of Apollo Cunomaglos,Apollo Cunomaglos,temple,,Nettleton,,,UK,51.49076,-2.257769643,,,,mid/late 2nd c CE,"151","400","2",late 4th c. CE,,,M,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79609",,,,,,,,,"17001",,,http://www.pastscape.org.uk/hob.aspx?hob_id=208294,yes
 "1000194",Temple,,temple,,,Vindocladia,"79740",UK,50.82652,-2.057591749,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20014",,,http://www.pastscape.org.uk/hob.aspx?hob_id=209560,yes
 "1000195",Temple,,temple,,,,"82240559",UK,50.69488,-2.46999813,,,,4th c. CE,"301","400","4",,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20035",,,,
 "1000196",Temple,,temple,,Poundbury,,,UK,50.71896,-2.451285648,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20060",,,,
@@ -718,7 +718,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000725",Temple of Hora Quirini,Hora Quirini,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,F,,god,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000727",Temple of Mens,Mens,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
-"1000728",Temple,,temple,Qasr el Banat,,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
+"1000728",Temple,,temple,,Qasr el Banat,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
 "1000729",Temple of Apollo,Apollo,temple,,,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,,,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
 "1000731",Nymphaeum,Nymphs,temple,,,,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
