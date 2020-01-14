@@ -40,7 +40,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: greyIcon
+                icon: greyIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -52,7 +53,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: blackIcon
+                icon: blackIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -64,7 +66,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: orangeIcon
+                icon: orangeIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -76,7 +79,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: yellowIcon
+                icon: yellowIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -88,7 +92,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: redIcon
+                icon: redIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -100,7 +105,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: blueIcon
+                icon: blueIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -112,7 +118,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: greenIcon
+                icon: greenIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {
@@ -124,7 +131,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: whiteIcon
+                icon: whiteIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer) {

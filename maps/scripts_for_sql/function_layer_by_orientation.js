@@ -28,7 +28,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: arrowIcon,
+                icon: arrowIcon,,
+                riseOnHover: true
                 rotationAngle: feature.properties.orientation,
                 rotationOrigin: 'center center'
             })
@@ -42,7 +43,8 @@
 		onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: circleIcon
+                icon: circleIcon,
+                riseOnHover: true
             })
         },
         filter: function (feature, layer) {

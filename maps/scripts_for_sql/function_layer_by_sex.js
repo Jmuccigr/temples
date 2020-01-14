@@ -37,7 +37,8 @@
         {
             return L.marker(latlng,
             {
-                icon: blackIcon
+                icon: blackIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer)
@@ -53,7 +54,8 @@
         {
             return L.marker(latlng,
             {
-                icon: whiteIcon
+                icon: whiteIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer)
@@ -69,7 +71,8 @@
         {
             return L.marker(latlng,
             {
-                icon: BandWIcon
+                icon: BandWIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer)
@@ -85,7 +88,8 @@
         {
             return L.marker(latlng,
             {
-                icon: greyIcon
+                icon: greyIcon,
+                riseOnHover: true
             });
         },
         filter: function (feature, layer)
