@@ -28,8 +28,8 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: arrowIcon,,
-                riseOnHover: true
+                icon: arrowIcon,
+                riseOnHover: true,
                 rotationAngle: feature.properties.orientation,
                 rotationOrigin: 'center center'
             })
