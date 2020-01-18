@@ -740,8 +740,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000747",Temple on the Pettorino Hill,,temple,,Alba Fucens,,"413005",IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000748",Temple,Mihr,temple,,Garni,Gorneae,"863795",AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
 "1000749",Temple of Spes Vetus,Spes,temple,Esquiine,Rome,Rome,"423025",IT,,,,,,477 BCE,"477",,"5",,,,F,,god,Roman,,no,,,,,,,,,Temple_of_Spes,Q3983282,,,,,,,,
-"1000750",Temple of Jupiter,Jupiter,temple,,Saepinum,,"433073",IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
-"1000751",Temple,,temple,,Saepinum,,"433073",IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000750",Temple of Jupiter,Jupiter,temple,,Alitlia,Saepinum,"433073",IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
+"1000751",Temple,,temple,,Altilia,Saepinum,"433073",IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000752",North Temple of the Antinoeion,,temple,,Tivoli,,"423081",IT,41.941024,12.773639,"157",SE,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000753",South Temple of the Antinoeion,,temple,,Tivoli,,"423081",IT,41.940718,12.773825,"337",NW,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000754",Tempietto,,temple,,Terracina,,"433143",IT,41.291178,13.260001,"150",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
@@ -779,3 +779,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000786",Temple,,temple,,Neung-sur-Beuvron,,,FR,47.514506,1.813998,"282",W,,,,,,,,,,,,Gallo-Roman,,no,,,,,,,,,,,,,,,,,,yes
 "1000787",South temple,,temple,Pied de Bourges,,Clion,"138299",FR,46.946785,1.229261,"90",E,,,,,,,,,,,,Gallo-Roman,,no,Vici.org,,,"16874",,"20503",,,,,,,,,,,,yes
 "1000788",Ionic Temple,,temple,,,Vibo Valentia,"452337",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000789",Temple A,,temple,,Altilia,Saepinum,"433073",IT,41.43229,14.617611,,,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,
