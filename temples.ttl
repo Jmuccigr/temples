@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-01-13"  ; 
+    dcterms:modified "2020-01-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -138,7 +138,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q3949870> ;
 skos:exactMatch <https://topostext.org/place/419125SCer> ;
 .
 <http://romeresearchgroup.org/items/1000011> a lawd:Place ;
-rdfs:label "Temple of Cessati Spiriti" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.862522"^^xsd:double ; geo:long "12.533184"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -448,7 +448,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
 <http://romeresearchgroup.org/items/1000039> a lawd:Place ;
-rdfs:label "Temple at Il Torraccio" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.994283"^^xsd:double ; geo:long "12.492366"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -459,7 +459,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/3467477> ;
 skos:exactMatch <http://dare.ht.lu.se/places/37165> ;
 .
 <http://romeresearchgroup.org/items/1000040> a lawd:Place ;
-rdfs:label "Temple of Isis at via Labicana" ;
+rdfs:label "Temple of Isis" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.890049"^^xsd:double ; geo:long "12.501237"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -1018,7 +1018,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://dare.ht.lu.se/places/45671> ;
 .
 <http://romeresearchgroup.org/items/1000096> a lawd:Place ;
-rdfs:label "Temple at Monte del Grano" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.865272"^^xsd:double ; geo:long "12.549292"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -1252,7 +1252,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
 <http://romeresearchgroup.org/items/1000118> a lawd:Place ;
-rdfs:label "Temple at S. Salvatore in Campo" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.893685"^^xsd:double ; geo:long "12.474003"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -1607,7 +1607,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
 <http://romeresearchgroup.org/items/1000152> a lawd:Place ;
-rdfs:label "Temple of Hercules at the Colline Gate" ;
+rdfs:label "Temple of Hercules" ;
 dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -3439,7 +3439,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/256172> ;
 skos:exactMatch <http://dare.ht.lu.se/places/36997> ;
 .
 <http://romeresearchgroup.org/items/1000329> a lawd:Place ;
-rdfs:label "Temple at Mirobriga Celticorum" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.010284"^^xsd:double ; geo:long "-8.683709"^^xsd:double ] ;
 gn:countryCode "PT" ;
@@ -4039,7 +4039,7 @@ skos:exactMatch <http://vici.org/vici/14562> ;
 skos:exactMatch <http://dare.ht.lu.se/places/170040> ;
 .
 <http://romeresearchgroup.org/items/1000382> a lawd:Place ;
-rdfs:label "Temple at forêt Halatte" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.242058"^^xsd:double ; geo:long "2.625384"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4239,7 +4239,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/148169> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18072> ;
 .
 <http://romeresearchgroup.org/items/1000402> a lawd:Place ;
-rdfs:label "Temple at Puech Caut" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "43.970982"^^xsd:double ; geo:long "3.099904"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
@@ -4556,7 +4556,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/138484> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20623> ;
 .
 <http://romeresearchgroup.org/items/1000432> a lawd:Place ;
-rdfs:label "Sanctuary at Petit-Mars" ;
+rdfs:label "Sanctuary" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.390633"^^xsd:double ; geo:long "-1.468336"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -7560,7 +7560,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/413005#this> ;
 .
 <http://romeresearchgroup.org/items/1000748> a lawd:Place ;
-rdfs:label "Temple at Garni" ;
+rdfs:label "Temple" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "40.112555"^^xsd:double ; geo:long "44.730136"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -7981,4 +7981,22 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/138299#this> ;
 skos:exactMatch <http://vici.org/vici/16874> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20503> ;
+.
+<http://romeresearchgroup.org/items/1000788> a lawd:Place ;
+rdfs:label "Ionic Temple" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452337#this> ;
+.
+<http://romeresearchgroup.org/items/1000789> a lawd:Place ;
+rdfs:label "Temple A" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.43229"^^xsd:double ; geo:long "14.617611"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433073#this> ;
 .
