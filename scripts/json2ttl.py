@@ -9,6 +9,7 @@ import datetime
 
 me = os.getenv("USER")
 
+labelText = u''
 outputText = u''
 outputText += u'@prefix void: <http://rdfs.org/ns/void#> .\n'
 outputText += u'@prefix dcterms: <http://purl.org/dc/terms/> .\n'
@@ -46,7 +47,14 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
 #           Only one name for now, which needs rdfs, not lawd:hasName
 #           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
 #			A few names have escaped quotation marks. This retains them.
-            outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
+            labelText = (record['properties']['name'])
+            if record['properties']['ancientplace'] != '':
+                    labelText += ' at ' + record['properties']['ancientplace']
+            elif record['properties']['modernplace'] != '':
+                    labelText += ' (' + record['properties']['modernplace'] + ')'
+#           outputText += '"' + labelText + '" ;\n'
+            outputText += u'rdfs:label "' + labelText.replace('"', '\\"') + '" ;\n'
+#           outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
 #			These are overbroad dates, but better than nothing.
             outputText += u'dcterms:temporal "-750/640" ;\n'
             if record['geometry']['coordinates'][0] != '':
