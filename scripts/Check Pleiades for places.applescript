@@ -10,7 +10,7 @@ set place to ""
 set stopscript to false
 
 if (the clipboard) is not "" then
-	set urlList to get the clipboard
+	set urlList to (do shell script "pbpaste | uniq")
 	set urlList to paragraphs of urlList
 else
 	display alert "Nothing to do!" message "There's nothing on the clipboard to work with."
