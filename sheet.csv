@@ -62,7 +62,6 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000062",Temple of Jupiter Capitolinus/Optimus Maximus,Jupiter,temple,Capitoline Hill,Rome,Rome,"423025",IT,41.892222,12.481667,"152",SE,,"-509","-509",,"-6",,,,M,September 13,god,Roman,,,Blake,senate,,"17971","871801169",,"3910430",,Temple_of_Jupiter_Optimus_Maximus,Q586468,,,,,,419125SJCa,,
 "1000063",Temple of Jupiter Patulaeius,Jupiter,temple,,,Ostia,"422995",IT,,,,,,-299-200,"-299","-200","-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000064",Temple of Jupiter,Jupiter,temple,,,Pompeii,"433032",IT,40.7499,14.4845,"157",SE,,mid-2nd c. BCE,"-175","-125","-2",,,,M,,god,Roman,,yes,,,,,"367026512",,,,,,,,,,,,,
-"1000065",Temple of Jupiter Sospita,Jupiter,temple,,,,,,,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000066",Temple of Jupiter Stator,Jupiter,temple,ad portam Mugoniam,Rome,Rome,"423025",IT,41.890487,12.488793,,,"-294","-294","-292","-218","-3",,,,M,June 27,god,Roman,,,,senate,Tenative coordinates,,,,,,,,,,,,,,,
 "1000067",Temple of Jupiter Stator,Jupiter,temple,"Porticus Metelli, Circus Flaminius",Rome,Rome,"423025",IT,41.892897,12.479021,"208",SW,,"-146","-146",,"-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000068",Temple of Jupiter Tonans,Jupiter,temple,Capitoline Hill,Rome,Rome,"423025",IT,,,,,,"-22","-22",,"-1",,,,M,September 1,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -172,13 +171,13 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000172",Sanctuary complex,,temple,,Springhead,,"79729",UK,51.43066,0.32613761,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9020",,,,
 "1000173",Roadside settlement,,temple,,Springhead,,,UK,51.4307,0.323981736,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9021",,,,
 "1000174",Temple,,temple,,Thurnham,,,UK,51.2847,0.579052952,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9069",,,,
-"1000175",Temples,,temple,,,Rutupiae,"79664",UK,51.28995,1.329420998,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9106",,,,
+"1000175",Temples,,temple,,Richborough,Rutupiae,"79664",UK,51.28995,1.329420998,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9106",,,,
 "1000176",Temple,,temple,,"Boxted, Upchurch",,,UK,51.36451,0.658099701,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"9126",,,,
-"1000177",Temple and temenos,,temple,,,,,UK,51.193714,-0.496281,"13",N,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79459",,,,,,,,,"10005",,,,
-"1000178",Roman Temple,,temple,,,,,UK,51.23794,-0.683091189,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79746",,,,,,,,,"10027",,,https://www.pastscape.org.uk/hob.aspx?hob_id=250569,yes
+"1000177",Temple and temenos,,temple,,Farley Heath,,,UK,51.193714,-0.496281,"13",N,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79459",,,,,,,,,"10005",,,,
+"1000178",Roman Temple,,temple,,Wanborough,,,UK,51.23794,-0.683091189,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79746",,,,,,,,,"10027",,,https://www.pastscape.org.uk/hob.aspx?hob_id=250569,yes
 "1000179",Temple,,temple,,"Church Field, Titsey",,,UK,51.27624,0.035920719,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"10035",,,,
 "1000180",Temple,,temple,,Chanctonbury Ring,,,UK,50.89682,-0.381227592,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11012",,,,
-"1000181",Temple,,temple,,,,"110448342",UK,50.83983,-0.852303555,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11023",,,,
+"1000181",Temple,,temple,Broadbridge,Bosham,,"110448342",UK,50.83983,-0.852303555,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11023",,,,
 "1000182",Temple,,temple,,"Ratham Mill, Funtington",,,UK,50.85183,-0.852122691,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"11062",,,,
 "1000183",Octagonal Temple,,temple,,Weycock Hill,,,UK,51.49287,-0.817942,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79755",,,,,,,,,"12055",,,https://www.pastscape.org.uk/hob.aspx?hob_id=248004,yes
 "1000184",Temple-Mausoleum,,temple,Roman villa,Bancroft,,"79312",UK,52.05657,-0.797733369,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"13002",,,,yes
@@ -188,17 +187,17 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000188",Temple,,temple,,Uley,,,UK,51.69565,-2.306678281,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79726",,,,,,,,,"14103",,,https://www.pastscape.org.uk/hob.aspx?hob_id=205240,yes
 "1000189",Temple,,temple,,Hayling Island,,"79504",UK,50.82193,-0.972536725,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79504",,,,,,,,,"15044",,,https://www.pastscape.org.uk/hob.aspx?hob_id=242295,yes
 "1000190",Temple,,temple,,Sansom's Platt,,,UK,51.86778,-1.343901034,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16063",,,,
-"1000191",Temple,,temple,,,,,UK,51.80893,-1.223670327,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79769",,,,,,,,,"16093",,,,yes
-"1000192",Temple,,temple,,,,"79470",UK,51.6633,-1.366780827,,,,later 1st c. CE,"51","100","1",early 5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16099",,,https://www.pastscape.org.uk/hob.aspx?hob_id=234025,yes
+"1000191",Temple,,temple,,Woodeaton,,,UK,51.80893,-1.223670327,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79769",,,,,,,,,"16093",,,,yes
+"1000192",Temple,,temple,,Marcham/Frilford,,"79470",UK,51.6633,-1.366780827,,,,later 1st c. CE,"51","100","1",early 5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"16099",,,https://www.pastscape.org.uk/hob.aspx?hob_id=234025,yes
 "1000193",Temple of Apollo Cunomaglos,Apollo Cunomaglos,temple,,Nettleton,,,UK,51.49076,-2.257769643,,,,mid/late 2nd c CE,"151","400","2",late 4th c. CE,,,M,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79609",,,,,,,,,"17001",,,http://www.pastscape.org.uk/hob.aspx?hob_id=208294,yes
-"1000194",Temple,,temple,,,Vindocladia,"79740",UK,50.82652,-2.057591749,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20014",,,http://www.pastscape.org.uk/hob.aspx?hob_id=209560,yes
-"1000195",Temple,,temple,,,,"82240559",UK,50.69488,-2.46999813,,,,4th c. CE,"301","400","4",,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20035",,,,
+"1000194",Temple,,temple,,Badbury,Vindocladia,"79740",UK,50.82652,-2.057591749,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20014",,,http://www.pastscape.org.uk/hob.aspx?hob_id=209560,yes
+"1000195",Temple,,temple,,Maiden Castle,,"82240559",UK,50.69488,-2.46999813,,,,4th c. CE,"301","400","4",,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20035",,,,
 "1000196",Temple,,temple,,Poundbury,,,UK,50.71896,-2.451285648,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"20060",,,,
 "1000197",Temple,,temple,,Jordan Hill,,,UK,50.63755,-2.427115997,"179",S,,,"69","79","1",4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79540",,,,Jordan_Hill_Roman_Temple,Q6276614,,,,"20079",,,,yes
 "1000198",Temple,,temple,,Brean Down,,,UK,51.32421,-3.015511638,,,,4th c. CE,"340",,"4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79351",,,,,,,,,"21004",,,http://www.pastscape.org.uk/hob.aspx?hob_id=191317,yes
 "1000199",Temple,,temple,,Henley Wood,,,UK,51.3831,-2.801914168,,,,4th c. CE,"301","400","4",late 4th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,"79507",,,,,,,,,"21047",,,,yes
-"1000200",Temple,,temple,,,,,UK,51.36073,-2.637358019,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,Pagans_Hill_Roman_temple,,,,,"21106",,,,
-"1000201",Temple,,temple,,,,"79554",UK,51.12394,-2.473626892,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21127",,,https://www.pastscape.org.uk/hob.aspx?hob_id=199898,yes
+"1000200",Temple,,temple,Pagans Hill,Chew Stoke,,,UK,51.36073,-2.637358019,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,Pagans_Hill_Roman_temple,,,,,"21106",,,,
+"1000201",Temple,,temple,,Lamyatt Beacon,,"79554",UK,51.12394,-2.473626892,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"21127",,,https://www.pastscape.org.uk/hob.aspx?hob_id=199898,yes
 "1000202",Temple,,temple,,"Redhill, Ratcliffe on Soar",,,UK,52.86942,-1.269562233,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"25035",,,,
 "1000203",Villa temple,,temple,,Cosgrove,,"79404",UK,52.07176,-0.841971487,,,,late 2nd c.,"167",,"2",5th c. CE,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"26043",,,,
 "1000204",Religious complex/town,,temple,,Thistleton,,"79712",UK,52.74453,-0.65474716,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"27005",,,,
@@ -487,30 +486,30 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000488",Lascaux,,temple,,Montignac,,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
 "1000489",Camp celtique,,temple,,Niederbronn-les-Bains,,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
 "1000490",Mithraeum de Sarrebourg,Mithras,mithraeum,,Sarrebourg,,"109254",FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
-"1000491",Hafentempel Colonia Ulpia Traiana,,temple,,,,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
-"1000492",Capitolium CCAA,,temple,,,,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
-"1000493",Temple of Mars CCAA,,temple,,,,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
-"1000494",Temples CCAA,,temple,,,,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
-"1000495",Matronentempel,,temple,,,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
-"1000496",Temple Görresburg,,temple,,,,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
+"1000491",Harbor Temple,,temple,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
+"1000492",Capitolium,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
+"1000493",Temple of Mars,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
+"1000494",Temples,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
+"1000495",Matronentempel,,temple,Görresburg,Nettersheim,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
+"1000496",Temple,,temple,Görresburg,Nettersheim,,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
 "1000497",Weihetempel,,temple,,,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
-"1000498",Juddekirchhof,,temple,,,,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
+"1000498",Juddekirchhof,,temple,Sarresdorf,Gerolstein,,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
 "1000499",Temple of Sirona,Sirona,temple,,,,,DE,49.864198,7.232936,,,,,,,,,,,,,,Gallo-Roman,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697","109046",,,,,,,,,,,,,yes
 "1000500",Roman temple building Auf Borstadt - Schleidweiler,,temple,,,,,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,no
-"1000501",Roman temple building - Gusenburg,,temple,,,,"109042",DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,no
+"1000501",Temple,,temple,Otzenhausen,Hermeskeil,,"109042",DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,no
 "1000502",Roman temple building,,temple,,,,,DE,50.151859,6.843915,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de,"5701",,,,,,,,,,,,,,no
 "1000503",Roman Temple - Niersbach,,temple,,,,,DE,49.942722,6.755594,,,,,,,,,,,,,,,,,,,Römischer Tempel - Niersbach -point imported from roscheiderhof.de,"5702",,,,,,,,,,,,,,no
 "1000504",Roman temple building auf dem Metzenberg - Tawern,,temple,,,,,DE,49.664539,6.509661,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk auf dem Metzenberg - Tawern -point imported from roscheiderhof.de,"5703",,,,,de=Römischer_Tempelbezirk_Tawern,Q1460725,,,,,,,,no
 "1000505",Roman temple district,,temple,,,,,DE,50.020042,6.518407,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Nattenheim -point imported from roscheiderhof.de,"5704",,,,,,,,,,,,,,no
 "1000506",Roman temple district,,temple,Villa Otrang,Fließem,,"108982",DE,50.013863,6.546174,,,,,,,,,,,,,,,,,,,Römischer Tempelbezirk - Otrang -point imported from roscheiderhof.de,"5705",,,,,,,,,,,,,,no
-"1000507",Tempel am Herrenbrünnchen - Neu-Heiligkreuz,,temple,,,,"108894",DE,49.745407,6.646463,,,,,,,,,,,,,,,,,,,Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de,"5707",,,,,,,,,,,,,,no
-"1000508",Tempel auf dem Gelände des Mutterhauses - Altstadt,,temple,,,,"108894",DE,49.754078,6.630699,,,,,,,,,,,,,,,,,,,Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de,"5708",,,,,,Q723125,,,,,,,,no
-"1000509",Tempel mit Säulenvorbau - Alt-Heiligkreuz,,temple,,,,"108894",DE,49.746544,6.642509,,,,,,,,,,,,,,,,,,,Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5709",,,,,,,,,,,,,,no
-"1000510",Tempel mit Vorhalle - Alt-Heiligkreuz,,temple,,,,"108894",DE,49.746704,6.642539,,,,,,,,,,,,,,,,,,,Tempel mit Vorhalle - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5710",,,,,,,,,,,,,,no
+"1000507",Temple,,temple,Herrenbrünnchen - Neu-Heiligkreuz,Trier,Colonia Augusta Treverorum,"108894",DE,49.745407,6.646463,,,,,,,,,,,,,,,,,,,Tempel am Herrenbrünnchen - Neu-Heiligkreuz -point imported from roscheiderhof.de,"5707",,,,,,,,,,,,,,no
+"1000508",Temple,,temple,Mutterhaus - Altstadt,Trier,Colonia Augusta Treverorum,"108894",DE,49.754078,6.630699,,,,,,,,,,,,,,,,,,,Tempel auf dem Gelände des Mutterhauses - Altstadt -point imported from roscheiderhof.de,"5708",,,,,,Q723125,,,,,,,,no
+"1000509",Temple with portico,,temple,Alt-Heiligkreuz,Trier,Colonia Augusta Treverorum,"108894",DE,49.746544,6.642509,,,,,,,,,,,,,,,,,,,Tempel mit Säulenvorbau - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5709",,,,,,,,,,,,,,no
+"1000510",Temple with porch,,temple,Alt-Heiligkreuz,Trier,Colonia Augusta Treverorum,"108894",DE,49.746704,6.642539,,,,,,,,,,,,,,,,,,,Tempel mit Vorhalle - Alt-Heiligkreuz -point imported from roscheiderhof.de,"5710",,,,,,,,,,,,,,no
 "1000511",Tempelanlage Beim Lindenkreuz - Münzschatz,,temple,,,,,DE,49.703876,6.705217,,,,,,,,,,,,,,,,,,,Tempelanlage Beim Lindenkreuz - Münzschatz - Gusterath -point imported from roscheiderhof.de,"5711",,,,,,,,,,,,,,no
 "1000512",Temple area,,temple,Lindenkreuz,Gusterath,,,DE,49.703884,6.705037,,,,,,,,,,,,,,,Umgangstempel,,,,Tempelanlage Beim Lindenkreuz - Umgangstempel - Gusterath -point imported from roscheiderhof.de,"5712",,,,,,,,,,,,,,no
 "1000513",Temple area,,temple,,,,,DE,50.107349,6.563914,,,,,,,,,,,,,,,,,,,Tempelanlage - Neidenbach -point imported from roscheiderhof.de,"5713",,,,,,,,,,,,,,no
-"1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
+"1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,Colonia Augusta Treverorum,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
 "1000515",Temple area,,temple,,,,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715","109034",,,,,,,,,,,,,no
 "1000516",Temple area,,temple,Hinzerath,Morbach,,"108802",DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
 "1000517",Temple Sanctuary,,temple,Butzweiler,Newel,,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
@@ -542,7 +541,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
 "1000544","Wachtturm 10-37b ""Schneidershecke""",,temple,,,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,,,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
-"1000546",Temple area,,temple,,Cambodunum,,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
+"1000546",Temple area,,temple,,Kempten,Cambodunum,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
 "1000547",Temple,,temple,,,,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
 "1000548",Varnenum,,temple,,,,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
