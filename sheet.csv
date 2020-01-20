@@ -490,7 +490,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000492",Capitolium,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
 "1000493",Temple of Mars,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
 "1000494",Temples,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
-"1000495",Matronentempel,,temple,Görresburg,Nettersheim,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
+"1000495",Temple of the Matrons,,temple,Görresburg,Nettersheim,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
 "1000496",Temple,,temple,Görresburg,Nettersheim,,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
 "1000497",Weihetempel,,temple,,,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
 "1000498",Juddekirchhof,,temple,Sarresdorf,Gerolstein,,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
@@ -511,7 +511,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000513",Temple area,,temple,,,,,DE,50.107349,6.563914,,,,,,,,,,,,,,,,,,,Tempelanlage - Neidenbach -point imported from roscheiderhof.de,"5713",,,,,,,,,,,,,,no
 "1000514",Temple area,Mars-Lenus,temple,Trier-West,Trier,Colonia Augusta Treverorum,"108894",DE,49.749973,6.613711,,,,,,,,,,,,,,,,,,,Tempelbezirk des Lenus Mars - Trier-West -point imported from roscheiderhof.de,"5714",,,,,,,,,,,,,,no
 "1000515",Temple area,,temple,,,,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715","109034",,,,,,,,,,,,,no
-"1000516",Temple area,,temple,Hinzerath,Morbach,,"108802",DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
+"1000516",Temple area,,temple,Hinzerath,Morbach,Belginum,"108802",DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
 "1000517",Temple Sanctuary,,temple,Butzweiler,Newel,,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
 "1000518",Presumed temple area,,temple,,,,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
 "1000519",Presumed temple area,,temple,,,,,DE,49.888115,6.518048,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de,"5720",,,,,,,,,,,,,,no
@@ -520,38 +520,38 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000522",Vermuteter Tempel,,temple,,,,,DE,50.040829,7.073928,,,,,,,,,,,,,,,,,,,Vermuteter Tempel - Bengel -point imported from roscheiderhof.de,"5723",,,,,,,,,,,,,,no
 "1000523",Vermutetes römisches Heiligtum - Tempelhof,,temple,,,,,DE,49.965935,6.390636,,,,,,,,,,,,,,,,,,,Vermutetes römisches Heiligtum - Tempelhof -point imported from roscheiderhof.de,"5724",,,,,,,,,,,,,,no
 "1000524",Überreste eines Tempels - Grindelborn,,temple,,,,,DE,50.141296,6.631656,,,,,,,,,,,,,,,,,,,Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de,"5725",,,,,,,,,,,,,,no
-"1000525",Temple and burial precinct,,temple,,,,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
+"1000525",Temple and burial precinct,,temple,Butzweiler,Newel,,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
 "1000526",Temple area,,temple,,,,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
-"1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
+"1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,Confluentes,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
 "1000528",Temple area,Mars-Lenus,temple,,,,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
 "1000529",Sanctuary - Temple,,temple,,,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
 "1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,,,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Bergheiligtum auf dem Calmont,,temple,,,,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205","109214",,,,,Q1408110,,,,,,,,no
-"1000534","Matronenheiligtum ""Vor Hirschberg""",,temple,,,,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
+"1000534","Sanctuary of the Matrons ""Vor Hirschberg""",,temple,,Nettersheim,,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,"109298",DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220","925825061",,,,,Q26706748,,,,,,,,no
 "1000536",Temple,,temple,,,,,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
-"1000537",Cult area,,temple,,,,"118966",DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
+"1000537",Cult area,,temple,,Sontheim,,"118966",DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
 "1000538",Mithraeum,Mithras,mithraeum,,,,,DE,48.274055,10.87458,,,,,,,,,,,,,,,,,,,Mithras Heiligtum,"8282",,,,,,,,,,,,,,no
-"1000539",Römisches Haus,,temple,,,,"118980",DE,48.762733,9.101792,,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,,Q1722809,,,,,,,,no
+"1000539",Roman House,,temple,,Stuttgart,,"118980",DE,48.762611,9.101787,,,,,,,,,,,,,,Germanic,,,,,Römisches Haus (Stuttgart),"8419",,,,,de=Römisches_Haus_(Stuttgart),Q1722809,,,,,,,,no
 "1000540",Temple of Diana,,temple,,,,,DE,47.986389,9.053611,,,,,,,,,,,,,god,,,,,,Dianatempel (Meßkirch),"8420",,,,,,,,,,,,,,no
-"1000541",Lapidarium,,temple,,,,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
+"1000541",Lapidarium,,temple,,Steinheim,,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,,,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
 "1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
 "1000544","Wachtturm 10-37b ""Schneidershecke""",,temple,,,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,,,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
 "1000546",Temple area,,temple,,Kempten,Cambodunum,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
 "1000547",Temple,,temple,,,,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
-"1000548",Varnenum,,temple,,,,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
+"1000548",Varnenum Temple Complex,,temple,,Aachen,Aquae Granni,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
 "1000550",Mithraeum,Mithras,mithraeum,Wachstein,Theilenhofen,,"118758",DE,49.073357,10.832198,,,,,,,,,,,,,,,,,,,,"10071",,,,,,,,,,,,,,no
-"1000551",Dolichenum Vetoniana,,temple,Pfünz,Walting,,"119020",DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
+"1000551",Dolichenum,,temple,Pfünz,Walting,Vetoniana,"119020",DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
 "1000552",Bergheiligtum,,temple,,,,,DE,49.543842,7.561576,,,,,,,,,,,,,,,,,,,Bergheiligtum (Jettenbach),"10328",,,,,,,,,,,,,,no
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,,,,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,no
 "1000554",Mithraeum,Mithras,mithraeum,,,,,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,no
-"1000555",Temple of Cimbrian Mercury,Mercury,temple,,,,"118731",DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,no
-"1000556",Fossa Sanguinis,,temple,,,,"109201",DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,no
+"1000555",Temple of Cimbrian Mercury,Mercury,temple,,Heidelberg,,"118731",DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,no
+"1000556",Fossa Sanguinis,,temple,,Neuss-Grimmlinghausen,,"109201",DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,no
 "1000557","Maienbühl, Riehen",,temple,,,,,DE,47.594391,7.68094,,,,,,,,,,,,,,,,,,,,"13164",,"38834",,,,,,,,,,,,no
 "1000558",Mithraeum,Mithras,mithraeum,Mundelsheim,Besigheim,,,DE,49.008961,9.210657,,,,,,,,,,,,,,,,,,,,"13937",,,,,,,,,,,,,,no
 "1000559",Temple,,temple,,,,,DE,48.496727,10.119792,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel (Langenau),"14194",,,,,,,,,,,,,,no
@@ -559,11 +559,11 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000561",Temple,,temple,Michaelsberg,Cleebronn,,,DE,49.03854,9.04568,,,,,,,,,,,,,,,Umgangstempel,,,,,"14218",,,,,,,,,,,,,,no
 "1000562",Mountain Sanctuary,,temple,,,,,DE,48.407143,8.020556,,,,,,,,,,,,,,,,,,,Bergheiligtum (Gengenbach),"14246",,,,,,,,,,,,,,no
 "1000563",Mithraeum I,Mithras,mithraeum,,,,,DE,49.06266,9.00468,,,,,,,,,,,,,,,,,,,Mithräum I (Güglingen),"14249",,,,,,,,,,,,,,no
-"1000564",Mithraeum I,Mithras,mithraeum,,,,"118731",DE,49.415855,8.679235,,,,,,,,,,,,,,,,,,,Mitraeum I (Heidelberg),"14253",,,,,,,,,,,,,,no
-"1000565",Mithraeum II,Mithras,mithraeum,,,,"118731",DE,49.413967,8.693815,,,,,,,,,,,,,,,,,,,Mitraeum II (Heidelberg),"14254",,,,,,,,,,,,,,no
+"1000564",Mithraeum I,Mithras,mithraeum,,Heidelberg,,"118731",DE,49.415855,8.679235,,,,,,,,,,,,,,,,,,,Mitraeum I (Heidelberg),"14253",,,,,,,,,,,,,,no
+"1000565",Mithraeum II,Mithras,mithraeum,,Heidelberg,,"118731",DE,49.413967,8.693815,,,,,,,,,,,,,,,,,,,Mitraeum II (Heidelberg),"14254",,,,,,,,,,,,,,no
 "1000566",Temple area,,temple,Greinberg,Miltenberg,,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441","187499",,,,,,,,,,,,,no
-"1000568",Sanctuary area,,temple,,,,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
+"1000568",Sanctuary area,,temple,,Osterburken,,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
 "1000569",Temple area,,temple,,Sumelocenna,,"118985",DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
 "1000570",Temple area I,,temple,,,,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
 "1000571",Temple area II,,temple,,,,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
