@@ -61,7 +61,6 @@ http://romeresearchgroup.org/items/1000061
 http://romeresearchgroup.org/items/1000062
 http://romeresearchgroup.org/items/1000063
 http://romeresearchgroup.org/items/1000064
-http://romeresearchgroup.org/items/1000065
 http://romeresearchgroup.org/items/1000066
 http://romeresearchgroup.org/items/1000067
 http://romeresearchgroup.org/items/1000068
@@ -779,3 +778,6 @@ http://romeresearchgroup.org/items/1000786
 http://romeresearchgroup.org/items/1000787
 http://romeresearchgroup.org/items/1000788
 http://romeresearchgroup.org/items/1000789
+http://romeresearchgroup.org/items/1000790
+http://romeresearchgroup.org/items/1000791
+http://romeresearchgroup.org/items/1000792
