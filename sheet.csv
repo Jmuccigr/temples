@@ -564,16 +564,16 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000566",Temple area,,temple,Greinberg,Miltenberg,,"118845",DE,49.692158,9.241514,,,,,,,,,,,,,,,,,,,,"14395",,,,,,,,,,,,,,no
 "1000567",Temple,,temple,Orsingen,Orsingen-Nenzingen,,,DE,47.84251,8.939867,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"14441","187499",,,,,,,,,,,,,no
 "1000568",Sanctuary area,,temple,,Osterburken,,"118898",DE,49.430134,9.425451,,,,,,,,,,,,,,,,,,,Weihebezirk (Osterburken),"14445",,,,,,,,,,,,,,no
-"1000569",Temple area,,temple,,Sumelocenna,,"118985",DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
-"1000570",Temple area I,,temple,,,,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
-"1000571",Temple area II,,temple,,,,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
+"1000569",Temple area,,temple,,Rottenburg am Neckar,Sumelocenna,"118985",DE,48.478004,8.932575,,,,,,,,,,,,,,,,,,,,"14452",,,,,,,,,,,,,,no
+"1000570",Temple area I,,temple,,Rottweil,Arae Flaviae,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
+"1000571",Temple area II,,temple,,Rottweil,Arae Flaviae,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
 "1000572",Sanctuary,,temple,,,,,DE,48.814072,9.508077,,,,,,,,,,,,,,,,,,,Heiligtum (Schorndorf),"14465",,,,,,,,,,,,,,no
 "1000573",Merkurheiligtum (Sauhag),,temple,,,,,DE,48.673996,9.293082,,,,,,,,,,,,,,,,,,,,"14482",,,,,,,,,,,,,,no
 "1000574",Tempel (Unterböbingen),,temple,,,,,DE,48.817959,9.92597,,,,,,,,,,,,,,,,,,,,"14492",,,,,,,,,,,,,,no
 "1000575",Sanctuary (St. Johann),,temple,,,,,DE,48.952354,8.365316,,,,,,,,,,,,,,,,,,,,"14534",,,,,,,,,,,,,,no
 "1000576",Temple,,temple,,,,,DE,49.013542,9.176175,,,,,,,,,,,,,,,,,,,Tempel (Gemmrigheim),"14596",,,,,,,,,,,,,,no
-"1000577",Temple on the Kalkarberg,,temple,,,,"108837",DE,51.728806,6.285232,,,,,,,,,,,,,,,,,,,Sanctuary of the local goddess Vagdavercustis,"14930",,,,,,,,,,,,,,no
-"1000578",Temple,,temple,,,,"118845",DE,49.702648,9.236975,,,,,,,,,,,,,,,,,,,Tempel (Miltenberg),"14991",,,,,,,,,,,,,,no
+"1000577",Temple on the Kalkarberg,,temple,,,Burginatium,"108837",DE,51.728806,6.285232,,,,,,,,,,,,,,,,,,,Sanctuary of the local goddess Vagdavercustis,"14930",,,,,,,,,,,,,,no
+"1000578",Temple,,temple,Altstadt,Miltenberg,,"118845",DE,49.702648,9.236975,,,,,,,,,,,,,,,,,,,Tempel (Miltenberg),"14991",,,,,,,,,,,,,,no
 "1000579",Mithraeum (Ober-Florstadt),Mithras,mithraeum,,,,,DE,50.325161,8.875741,,,,,,,,,,,,,,,,,,,,"15079",,,,,,,,,,,,,,no
 "1000580",Sanctuary (Heidenpütz),,temple,,,,,DE,49.84407,7.072406,,,,,,,,,,,,,,,,,,,,"15092",,,,,,,,,,,,,,no
 "1000581",Temple,,temple,,,,,DE,50.356865,6.866581,,,,,,,,,,,,,,,,,,,Tempel (Barweiler),"15544",,,,,,,,,,,,,,no
@@ -601,10 +601,10 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000603",Temple,,temple,,,,"108818",DE,50.726795,7.085428,,,,,,,,,,,,,,Gallo-Roman,,,,,,"20381",,,,,,,,,,,,,,no
 "1000604",Mithraeum,Mithras,mithraeum,,,,"108750",DE,50.084049,8.238866,,,,,,,,,,,,,,,,,,,Mithras-Heiligtum (aufgedeckt in den Jahren 1902/03),"20705",,,,,,,,,,,,,,no
 "1000605",Mithraeum,Mithras,mithraeum,,,,,DE,50.081806,8.977619,,,,,,,,,,,,,,,,,,,Mithrasheiligtum (Großkrotzenburg),"21413",,,,,,,,,,,,,,no
-"1000606",Forum Augusta Vindelicum,,temple,,,,"118580",DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
+"1000606",Forum Temple,,temple,,Augsburg,Augusta Vindelicum,"118580",DE,48.37579,10.900263,,,,,,,,,,,,,,,,,,,Forum,"22882",,,,,,,,,,,,,,no
 "1000607",Temple,,temple,,,,,DE,50.935829,6.581988,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,8x10 meter groot tempelgebouw,"23034",,,,,,,,,,,,,,no
 "1000608",Heidentempel Kreuzweingarten,,temple,,,,"108801",DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
-"1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,,,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
+"1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,Mogontiacum,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
 "1000610",Tempelreste,,temple,,,,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,,,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple Ziegetsberg,,temple,,,,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
@@ -780,3 +780,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000788",Ionic Temple,,temple,,,Vibo Valentia,"452337",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "1000789",Temple A,,temple,,Altilia,Saepinum,"433073",IT,41.43229,14.617611,"31",NE,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000790",Temple,,temple,Poggio Cassetta,Bolsena,Volsinii,"413389",IT,42.656053,11.991613,,,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000791",Tempietto,,temple,Poggio Moscini,Bolsena,Volsinii,"413389",IT,42.648916,11.984524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
