@@ -372,23 +372,23 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000373",Temple,,temple,,Eu,Augusta Ambianorum,"108771",FR,50.021584,1.462042,,,,,,,,,,,,,,,,,Vici.org,,,"10923",,"13746",,,,,,,,,,,,no
 "1000374",Temple complex (at Petromantalum?),,temple,,Genainville,,,FR,49.120399,1.771297,,,,,,,,,,,,,,,,,Vici.org,,,"11313","109004","18747",,,,,,,,,,,,no
 "1000375",Temple of Mars,Mars,temple,Haut Bécherel,Corseul,Civitas Coriosolitum,"69507",FR,48.471673,-2.14693,"99",E,,1st c CE,"51","100","1",end of 3rd c. CE,,,M,,god,Gallo-Roman,,yes,Vici.org,,,"11360","636775194","20763",,,fr=Temple_de_Mars_(Corseul),,,,,,,,,yes
-"1000376",Temple of Janus,Janus,temple,,Autun,,"177460",FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
+"1000376",Temple of Janus,Janus,temple,,Autun,Augustodunum,"177460",FR,46.96125,4.288465,,,,,,,,,,,M,,god,,,,Vici.org,,,"11367",,"207950",,,Temple_of_Janus_(Autun),Q1526555,,,,,,,,no
 "1000377",Sanctuary,,temple,,Châteaubleau,,,FR,48.593163,3.109161,,,,,,,,,,,,,,,,,Vici.org,,,"11418","108879","2130",,,,,,,,,,,,no
 "1000378",Temple,,temple,Cherré,Aubigné-Racan,,"492111677",FR,47.660224,0.235457,"74",E,,,,,,,,,,,,,,,Vici.org,,,"11881",,"393800",,,,,,,,,,,,no
-"1000379",Tempeln Argentomagus,,temple,,Saint-Marcel,,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
-"1000380",Tour de Vesone,,temple,,Périgueux,,"138513",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
+"1000379",Temple,,temple,,Saint-Marcel,Argentomagus,"138192",FR,46.599777,1.51518,,,,,,,,,,,,,,,,,Vici.org,,,"11950",,,,,,,,,,,,,,no
+"1000380",Tour de Vesone,,temple,,Périgueux,Vesunna,"138650",FR,45.179405,0.714345,,,,,,,,,,,,,,,,,Vici.org,,,"11979",,"206160",,,,Q3533474,,,,,,,,no
 "1000381",Temple,,temple,,Offemont,,,FR,47.658772,6.866085,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14562",,"170040",,,,,,,,,,,,no
 "1000382",Temple,,temple,forêt Halatte,Ognon,,,FR,49.242058,2.625384,,,,,,,,,,,,,,,,,Vici.org,,,"14563","335533616","18751",,,,,,,,,,,,no
-"1000383",Temple,,temple,,Dax,,"246173",FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
+"1000383",Temple,,temple,,Dax,Aquae Terebellicae,"246173",FR,43.709648,-1.052306,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14566",,"206190",,,,Q3517676,,,,,,,,no
 "1000384",Sanctuary,,temple,,Margerides,,,FR,45.450756,2.426149,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14568","138447","16974",,,,,,,,,,,,no
 "1000385",Temple de Mercure de la forêt de Tannière,,temple,,Archettes,,,FR,48.131313,6.57349,,,,,,,,,,,,,god,,,,Vici.org,,,"14571",,"20758",,,,,,,,,,,,no
 "1000386",Tour de Grisset,,temple,,Fréteval,,,FR,47.896442,1.183712,,,,,,,,,,,,,,,,,Vici.org,,,"14574","138623","18152",,,,,,,,,,,,no
 "1000387",Sanctuary Donon,,temple,,Grandfontaine,,,FR,48.512527,7.164421,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"14577",,"15774",,,,,,,,,,,,no
-"1000388",Temple - Cathédrale St Jean,,temple,,Alès,,"147988",FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
-"1000389",Fanum,,temple,,Civaux,,"138351",FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
-"1000390",Grannum,,temple,,Grand,,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
+"1000388",Temple,,temple,Exidualum,Alès,,"147988",FR,44.123901,4.0761,,,,,,,,,,,,,,,,,Vici.org,,,"14586",,,,,,,,,,,,,,no
+"1000389",Fanum,,temple,,Civaux,Exidualum,"138351",FR,46.444412,0.664659,,,,,,,,,,,,,,,,,Vici.org,,,"14591",,,,,,,,,,,,,,no
+"1000390",Temple,,temple,,Grand,Grannum,"109016",FR,48.383953,5.48573,,,,,,,,,,,,,,,,,Vici.org,,,"14743",,"7783",,,,,,,,,,,,no
 "1000391",Temple complex,,temple,,Castelnau-Montratier,,"138277",FR,44.272472,1.294166,,,,,,,,,,,,,,,,,Vici.org,,,"15033",,"17730",,,,,,,,,,,,no
-"1000392",Sanctuary,,temple,,Drevant,,"138327",FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
+"1000392",Sanctuary,,temple,,Drevant,Derventum,"138327",FR,46.694786,2.520366,,,,,,,,,,,,,,,,,Vici.org,,,"16293",,,,,,,,,,,,,,no
 "1000393",Fanum,,temple,,Bennecourt,,,FR,49.04372,1.570312,,,,,,,,,,,,,,,,,Vici.org,,,"16326",,,,,,,,,,,,,,no
 "1000394",Mons Seleucus,,temple,,La Bâtie-Montsaléon,,,FR,44.456219,5.748653,,,,,,,,,,,,,,,,,Vici.org,,,"16332","167836",,,,,,,,,,,,,no
 "1000395",Nymphaeum,Nymphs,temple,,Gennes,,"138371",FR,47.337536,-0.232876,,,,,,,,,,,F,,god,,,,Vici.org,,,"16398",,"393910",,,,,,,,,,,,no
