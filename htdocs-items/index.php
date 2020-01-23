@@ -17,7 +17,7 @@
   "name":"Temples of the Classical World",
   "description":"A database of structures, extant and attested, identified as temples in the Classical World, broadly defined.",
   "url":"https://romeresearchgroup.org/database-of-temples/",
-
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
   "keywords":[
      "TEMPLES"
   ],
