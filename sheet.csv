@@ -444,13 +444,13 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000446",Bains-les-Bains,,temple,,Bains-les-Bains,,,FR,48.001415,6.26457,,,,,,,,,,,,,,,,,Vici.org,,,"16999",,"20760",,,,,,,,,,,,no
 "1000447",Bouexière,,temple,,Bréal-sous-Montfort,,,FR,48.049622,-1.900603,,,,,,,,,,,,,,,,,Vici.org,,,"17005",,"39091",,,,,,,,,,,,no
 "1000448",Trouguer,,temple,,Cléden-Cap-Sizun,,,FR,48.058224,-4.705246,,,,,,,,,,,,,,,,,Vici.org,,,"17006",,"39095",,,,,,,,,,,,no
-"1000449",Trogouzel,,temple,,Douarnenez,,"69500",FR,48.075298,-4.314423,,,,,,,,,,,,,,,,,Vici.org,,,"17009",,"39456",,,,,,,,,,,,no
-"1000450",Fanum Pithiviers-le-Vieil,,temple,,Pithiviers-le-Vieil,,,FR,48.163734,2.202981,,,,,,,,,,,,,,,,,Vici.org,,,"17014","109248","20635",,,,,,,,,,,,no
+"1000449",Temple,,temple,Trogouzel,Douarnenez,,"69500",FR,48.075298,-4.314423,,,,,,,,,,,,,,,,,Vici.org,,,"17009",,"39456",,,,,,,,,,,,no
+"1000450",Fanum,,temple,,Pithiviers-le-Vieil,,,FR,48.163734,2.202981,,,,,,,,,,,,,,,,,Vici.org,,,"17014","109248","20635",,,,,,,,,,,,no
 "1000451",Juillé,,temple,,Juillé,,,FR,48.244579,0.12194,,,,,,,,,,,,,,,,,Vici.org,,,"17022",,"3650",,,,,,,,,,,,no
 "1000452",Oisseau-Le-Petit,,temple,,Oisseau-le-Petit,,,FR,48.346451,0.075101,,,,,,,,,,,,,,,,,Vici.org,,,"17025","69544","18166",,,,,,,,,,,,no
 "1000453",La Ferme d'Isle,,temple,,Grisy-sur-Seine,,,FR,48.433331,3.31667,,,,,,,,,,,,,,,,,Vici.org,,,"17029",,"21014",,,,,,,,,,,,no
 "1000454",Deneuvre,,temple,,Deneuvre,,,FR,48.441734,6.73517,,,,,,,,,,,,,,,,,Vici.org,,,"17030","108922","1834",,,,,,,,,,,,no
-"1000455",Asile des Pêcheurs,,temple,,Taden,,"69574",FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
+"1000455",Temple,,temple,,Taden,,"69574",FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
 "1000456",Les Grèves,,temple,,La Villeneuve-au-Châtelot,,,FR,48.549187,3.606701,,,,,,,,,,,,,,,,,Vici.org,,,"17036",,"39451",,,,,,,,,,,,no
 "1000457",Temple,,temple,,"Naix-aux-Forges, Saint-Amand-sur-Ornain",Nasium,"109190",FR,48.632435,5.386586,,,,,,,,,,,,,,,,,Vici.org,,,"17043","534922362","18748",,,,,,,,,,,,no
 "1000458",Wasserwald,,temple,,Haegen,,,FR,48.713898,7.289902,,,,,,,,,,,,,,,,,Vici.org,,,"17048","109026","20761",,,,,,,,,,,,no
@@ -474,18 +474,18 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000476",Ribemont-sur-Ancre,,temple,,Ribemont-sur-Ancre,,,FR,49.96442,2.55404,,,,,,,,,,,,,,,,,Vici.org,,,"17166","109278","17404",,,,,,,,,,,,no
 "1000477",Bailleul,,temple,,Bailleul,,,FR,50.033588,1.87157,,,,,,,,,,,,,,,,,Vici.org,,,"17178",,"26624",,,,,,,,,,,,no
 "1000478",Les Huit Journaux,,temple,,Beauval,,,FR,50.132519,2.34789,,,,,,,,,,,,,,,,,Vici.org,,,"17188",,"26626",,,,,,,,,,,,no
-"1000479",Petit fanum,,temple,,Cocquerel,,,FR,50.05582,1.938265,,,,,,,,,,,,,,,,,Vici.org,,,"17190",,,,,,,,,,,,,,no
+"1000479",Small fanum,,temple,,Cocquerel,,,FR,50.05582,1.938265,,,,,,,,,,,,,,,,,Vici.org,,,"17190",,,,,,,,,,,,,,no
 "1000480",Le Fief du Bac,,temple,,Proyart,,,FR,49.887169,2.702727,,,,,,,,,,,,,,,,,Vici.org,,,"17191",,"42228",,,,,,,,,,,,no
 "1000481",Sanctuary,,temple,,Pont-Sainte-Maxence,,,FR,49.316475,2.604453,,,,,,,,,,,,,,,,,Vici.org,,,"18732",,,,,,,,,,,,,,no
 "1000482",Temple,,temple,,Remiencourt,,,FR,49.779976,2.392164,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"18807",,,,,,,,,,,,,,no
 "1000483",Fanum,,temple,,Sorcy-Saint-Martin,,,FR,48.697834,5.63705,,,,,,,,,,,,,,,,,Vici.org,,,"19368",,,,,,,,,,,,,,no
-"1000484",Complexe cultuel,,temple,,Amel-sur-l'Étang,,,FR,49.26498,5.642999,,,,,,,,,,,,,,,,,Vici.org,,,"19374",,,,,,,,,,,,,,no
-"1000485",Fanum au Pont-Verdunois,,temple,,Lachalade,,,FR,49.158867,4.960401,,,,,,,,,,,,,,,,,Vici.org,,,"19381",,,,,,,,,,,,,,no
-"1000486",Temple du Herapel,,temple,,Cocheren,,"108893",FR,49.152973,6.860515,,,,,,,,,,,,,,,,,Vici.org,,,"19418",,,,,,,,,,,,,,no
+"1000484",Cultic complex,,temple,,Amel-sur-l'Étang,,,FR,49.26498,5.642999,,,,,,,,,,,,,,,,,Vici.org,,,"19374",,,,,,,,,,,,,,no
+"1000485",Fanum,,temple,Pont-Verdunois,Lachalade,,,FR,49.158867,4.960401,,,,,,,,,,,,,,,,,Vici.org,,,"19381",,,,,,,,,,,,,,no
+"1000486",Temple,,temple,Le Herapel,Cocheren,,"108893",FR,49.152973,6.860515,,,,,,,,,,,,,,,,,Vici.org,,,"19418",,,,,,,,,,,,,,no
 "1000487",Temple (Les cinq fontaines),,temple,,Laneuveville-devant-Nancy,,,FR,48.656166,6.215222,,,,,,,,,,,,,,,,,Vici.org,,,"19473",,,,,,,,,,,,,,no
 "1000488",Lascaux,,temple,,Montignac,,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
-"1000489",Camp celtique,,temple,,Niederbronn-les-Bains,,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
-"1000490",Mithraeum,Mithras,mithraeum,,Sarrebourg,,"109254",FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
+"1000489",Celtic camp,,temple,,Niederbronn-les-Bains,,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
+"1000490",Mithraeum,Mithras,mithraeum,,Sarrebourg,Pons Saravi,"109254",FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
 "1000491",Harbor Temple,,temple,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
 "1000492",Capitolium,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934589,6.958396,,,,,,,,,,,,,,,,,,,"Tempel voor Jupiter, Juno en Minerva.","357",,,,,,,,,,,,,,no
 "1000493",Temple of Mars,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.937386,6.958447,,,,,,,,,,,,,,,,,,,"Tempel voor Mars, naast de marspoort.","358",,,,,,,,,,,,,,no
