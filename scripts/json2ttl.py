@@ -102,7 +102,7 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <http://www.trismegistos.org/place/' + record['properties']['trismegistos'] + '> ;\n'
             if record['properties']['wikipedia'] != '':
 #             	Some wikilinks from vici.org are to non-English wikipedias. This fixes the URL.
-                wikiText = 'skos:exactMatch <href="https://en.wikipedia.org/wiki/' + record['properties']['wikipedia'] + '"> ;\n'
+                wikiText = 'skos:exactMatch <https://en.wikipedia.org/wiki/' + record['properties']['wikipedia'] + '> ;\n'
                 wikiText = re.sub(r"en(\.wikipedia\.org/wiki/)([a-z][a-z])=", r"\2\1", wikiText)
                 outputText += wikiText
             if record['properties']['wikidata'] != '':
