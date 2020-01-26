@@ -4340,9 +4340,9 @@ skos:exactMatch <http://vici.org/vici/16770> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39462> ;
 .
 <http://romeresearchgroup.org/items/1000412> a lawd:Place ;
-rdfs:label "Temple des Côtes de Clermont (Blanzat)" ;
+rdfs:label "Temple (Blanzat)" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "45.806736"^^xsd:double ; geo:long "3.078307"^^xsd:double ] ;
+geo:location [ geo:lat "45.806771"^^xsd:double ; geo:long "3.078248"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -4395,7 +4395,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/138556> ;
 skos:exactMatch <http://dare.ht.lu.se/places/37144> ;
 .
 <http://romeresearchgroup.org/items/1000417> a lawd:Place ;
-rdfs:label "Chez Rigros, Saint-Pardoux (Saint-Pardoux)" ;
+rdfs:label "Temple (Saint-Pardoux)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "46.07193"^^xsd:double ; geo:long "1.3012"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4448,7 +4448,7 @@ spatial:C <https://pleiades.stoa.org/places/138624#this> ;
 skos:exactMatch <http://vici.org/vici/16850> ;
 .
 <http://romeresearchgroup.org/items/1000422> a lawd:Place ;
-rdfs:label "Les Fons Clairins (Uzay-le-Venon)" ;
+rdfs:label "Temple (Uzay-le-Venon)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "46.813335"^^xsd:double ; geo:long "2.411545"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4469,7 +4469,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/138615> ;
 skos:exactMatch <http://dare.ht.lu.se/places/17703> ;
 .
 <http://romeresearchgroup.org/items/1000424> a lawd:Place ;
-rdfs:label "Le Bioulet (Pupillin)" ;
+rdfs:label "Temple (Pupillin)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "46.869949"^^xsd:double ; geo:long "5.7476"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4477,6 +4477,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/16861> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39459> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q15648078> ;
 .
 <http://romeresearchgroup.org/items/1000425> a lawd:Place ;
 rdfs:label "Sanctuary of Alléant (Baugy)" ;
@@ -4489,7 +4490,7 @@ spatial:C <https://pleiades.stoa.org/places/138216#this> ;
 skos:exactMatch <http://vici.org/vici/16865> ;
 .
 <http://romeresearchgroup.org/items/1000426> a lawd:Place ;
-rdfs:label "La Touratte (Dun-sur-Auron)" ;
+rdfs:label "Temple (Dun-sur-Auron)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "46.903824"^^xsd:double ; geo:long "2.548355"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4574,7 +4575,7 @@ skos:exactMatch <http://vici.org/vici/16930> ;
 skos:exactMatch <http://dare.ht.lu.se/places/7874> ;
 .
 <http://romeresearchgroup.org/items/1000434> a lawd:Place ;
-rdfs:label "Sources de la Seine (Poncey-sur-l'Ignon)" ;
+rdfs:label "Temple (Poncey-sur-l'Ignon)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.484905"^^xsd:double ; geo:long "4.719573"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4595,7 +4596,7 @@ skos:exactMatch <http://vici.org/vici/16954> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39461> ;
 .
 <http://romeresearchgroup.org/items/1000436> a lawd:Place ;
-rdfs:label "Nal, La Vraie-Croix (La Vraie-Croix)" ;
+rdfs:label "Temple (La Vraie-Croix)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.700558"^^xsd:double ; geo:long "-2.505833"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4616,7 +4617,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/138290> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18151> ;
 .
 <http://romeresearchgroup.org/items/1000438> a lawd:Place ;
-rdfs:label "La Tour (Sablé-sur-Sarthe)" ;
+rdfs:label "Sanctuary (Sablé-sur-Sarthe)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.83168"^^xsd:double ; geo:long "-0.353501"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4648,7 +4649,7 @@ skos:exactMatch <http://vici.org/vici/16981> ;
 skos:exactMatch <http://dare.ht.lu.se/places/16983> ;
 .
 <http://romeresearchgroup.org/items/1000441> a lawd:Place ;
-rdfs:label "Ruines d'un vieux temple - Membrey (Savoyeux)" ;
+rdfs:label "Temple (Savoyeux)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.5644"^^xsd:double ; geo:long "5.734408"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4668,7 +4669,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/177521> ;
 skos:exactMatch <http://dare.ht.lu.se/places/17579> ;
 .
 <http://romeresearchgroup.org/items/1000443> a lawd:Place ;
-rdfs:label "Plombières-les-Bains (Plombières-les-Bains)" ;
+rdfs:label "Temple (Plombières-les-Bains)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.965816"^^xsd:double ; geo:long "6.460263"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4678,7 +4679,7 @@ skos:exactMatch <http://vici.org/vici/16995> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20759> ;
 .
 <http://romeresearchgroup.org/items/1000444> a lawd:Place ;
-rdfs:label "Clos du Détour (Pannes)" ;
+rdfs:label "Temple (Pannes)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.996143"^^xsd:double ; geo:long "2.676318"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4699,7 +4700,7 @@ skos:exactMatch <http://vici.org/vici/16997> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20737> ;
 .
 <http://romeresearchgroup.org/items/1000446> a lawd:Place ;
-rdfs:label "Bains-les-Bains (Bains-les-Bains)" ;
+rdfs:label "Temple (Bains-les-Bains)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.001415"^^xsd:double ; geo:long "6.26457"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4709,7 +4710,7 @@ skos:exactMatch <http://vici.org/vici/16999> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20760> ;
 .
 <http://romeresearchgroup.org/items/1000447> a lawd:Place ;
-rdfs:label "Bouexière (Bréal-sous-Montfort)" ;
+rdfs:label "Temple (Bréal-sous-Montfort)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.049622"^^xsd:double ; geo:long "-1.900603"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4719,7 +4720,7 @@ skos:exactMatch <http://vici.org/vici/17005> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39091> ;
 .
 <http://romeresearchgroup.org/items/1000448> a lawd:Place ;
-rdfs:label "Trouguer (Cléden-Cap-Sizun)" ;
+rdfs:label "Temple (Cléden-Cap-Sizun)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.058224"^^xsd:double ; geo:long "-4.705246"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4751,7 +4752,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/109248> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20635> ;
 .
 <http://romeresearchgroup.org/items/1000451> a lawd:Place ;
-rdfs:label "Juillé (Juillé)" ;
+rdfs:label "Temple (Juillé)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.244579"^^xsd:double ; geo:long "0.12194"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4772,7 +4773,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/69544> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18166> ;
 .
 <http://romeresearchgroup.org/items/1000453> a lawd:Place ;
-rdfs:label "La Ferme d'Isle (Grisy-sur-Seine)" ;
+rdfs:label "Temple (Grisy-sur-Seine)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.433331"^^xsd:double ; geo:long "3.31667"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4804,12 +4805,13 @@ skos:exactMatch <http://vici.org/vici/17032> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39092> ;
 .
 <http://romeresearchgroup.org/items/1000456> a lawd:Place ;
-rdfs:label "Les Grèves (La Villeneuve-au-Châtelot)" ;
+rdfs:label "Temple (La Villeneuve-au-Châtelot)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.549187"^^xsd:double ; geo:long "3.606701"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/109431#this> ;
 skos:exactMatch <http://vici.org/vici/17036> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39451> ;
 .
@@ -4837,7 +4839,7 @@ skos:exactMatch <http://vici.org/vici/17048> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20761> ;
 .
 <http://romeresearchgroup.org/items/1000459> a lawd:Place ;
-rdfs:label "La Butte Ronde (Saint-Forget)" ;
+rdfs:label "Temple (Saint-Forget)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.714252"^^xsd:double ; geo:long "1.984475"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4891,7 +4893,7 @@ skos:exactMatch <http://vici.org/vici/17079> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18124> ;
 .
 <http://romeresearchgroup.org/items/1000464> a lawd:Place ;
-rdfs:label "Les Régales (Louviers)" ;
+rdfs:label "Temple (Louviers)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.246918"^^xsd:double ; geo:long "1.129583"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4901,7 +4903,7 @@ skos:exactMatch <http://vici.org/vici/17081> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39455> ;
 .
 <http://romeresearchgroup.org/items/1000465> a lawd:Place ;
-rdfs:label "Mare-du-Puits (Oissel)" ;
+rdfs:label "Temple (Oissel)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.338657"^^xsd:double ; geo:long "1.049869"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4911,7 +4913,7 @@ skos:exactMatch <http://vici.org/vici/17085> ;
 skos:exactMatch <http://dare.ht.lu.se/places/39384> ;
 .
 <http://romeresearchgroup.org/items/1000466> a lawd:Place ;
-rdfs:label "Les Essarts (Grand-Couronne)" ;
+rdfs:label "Temple (Grand-Couronne)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.345848"^^xsd:double ; geo:long "1.021025"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4943,7 +4945,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/109349> ;
 skos:exactMatch <http://dare.ht.lu.se/places/18132> ;
 .
 <http://romeresearchgroup.org/items/1000469> a lawd:Place ;
-rdfs:label "Ecâtelet (Saint-Maur)" ;
+rdfs:label "Temple (Saint-Maur)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.624222"^^xsd:double ; geo:long "1.906107"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4976,7 +4978,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/109339> ;
 skos:exactMatch <http://dare.ht.lu.se/places/16270> ;
 .
 <http://romeresearchgroup.org/items/1000472> a lawd:Place ;
-rdfs:label "Bois Titran (Caix)" ;
+rdfs:label "Temple (Caix)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.816505"^^xsd:double ; geo:long "2.646559"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -4997,7 +4999,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/108987> ;
 skos:exactMatch <http://dare.ht.lu.se/places/17409> ;
 .
 <http://romeresearchgroup.org/items/1000474> a lawd:Place ;
-rdfs:label "Cartigny (Cartigny)" ;
+rdfs:label "Temple (Cartigny)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.904331"^^xsd:double ; geo:long "3.01797"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5030,7 +5032,7 @@ skos:exactMatch <http://dare.ht.lu.se/places/17404> ;
 skos:exactMatch <https://fr.wikipedia.org/wiki/Sanctuaire_de_Ribemont-sur-Ancre> ;
 .
 <http://romeresearchgroup.org/items/1000477> a lawd:Place ;
-rdfs:label "Bailleul (Bailleul)" ;
+rdfs:label "Temple (Bailleul)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.033588"^^xsd:double ; geo:long "1.87157"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5040,7 +5042,7 @@ skos:exactMatch <http://vici.org/vici/17178> ;
 skos:exactMatch <http://dare.ht.lu.se/places/26624> ;
 .
 <http://romeresearchgroup.org/items/1000478> a lawd:Place ;
-rdfs:label "Les Huit Journaux (Beauval)" ;
+rdfs:label "Temple (Beauval)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.132519"^^xsd:double ; geo:long "2.34789"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5059,7 +5061,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/17190> ;
 .
 <http://romeresearchgroup.org/items/1000480> a lawd:Place ;
-rdfs:label "Le Fief du Bac (Proyart)" ;
+rdfs:label "Temple (Proyart)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.887169"^^xsd:double ; geo:long "2.702727"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5124,7 +5126,7 @@ spatial:C <https://pleiades.stoa.org/places/108893#this> ;
 skos:exactMatch <http://vici.org/vici/19418> ;
 .
 <http://romeresearchgroup.org/items/1000487> a lawd:Place ;
-rdfs:label "Temple (Les cinq fontaines) (Laneuveville-devant-Nancy)" ;
+rdfs:label "Temple (Laneuveville-devant-Nancy)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.656166"^^xsd:double ; geo:long "6.215222"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5133,7 +5135,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/19473> ;
 .
 <http://romeresearchgroup.org/items/1000488> a lawd:Place ;
-rdfs:label "Lascaux (Montignac)" ;
+rdfs:label "Temple (Montignac)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "45.049168"^^xsd:double ; geo:long "1.176111"^^xsd:double ] ;
 gn:countryCode "FR" ;
