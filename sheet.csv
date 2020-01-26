@@ -407,21 +407,21 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000409",Sanctuary,,temple,Rajat,Murol,,,FR,45.591797,2.948923,,,,,,,,,,,,,,,,,Vici.org,,,"16745",,"20137",,,,,,,,,,,,no
 "1000410",Temple of Diana,,temple,,Aix-les-Bains,Aquae Sextiae,"167650",FR,45.688812,5.914636,,,,,,,,,,,,,god,,,,Vici.org,,,"16758",,,,,,,,,,,,,,no
 "1000411",Temple of Cybele,,temple,,Lyon,Colonia Lugdunum,"167717",FR,45.759602,4.818432,,,,,,,,,,,,,god,,,,Vici.org,,,"16770",,"39462",,,,,,,,,,,,no
-"1000412",Temple des Côtes de Clermont,,temple,,Blanzat,,,FR,45.806736,3.078307,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
+"1000412",Temple,,temple,Côtes de Clermont,Blanzat,,,FR,45.806771,3.078248,,,,,,,,,,,,,,,,,Vici.org,,,"16776",,,,,,,,,,,,,,no
 "1000413",Temple of Mercury,,temple,Puy de Dôme,Orcines,,,FR,45.771854,2.964456,,,,,,,,,,,,,god,,,,Vici.org,,,"16779","138464","17715",,,fr=Temple_de_Mercure_(puy_de_Dôme),Q3517583,,,,,,,,no
 "1000414",Temple,,temple,,Chassenon,Cassinomagus,"138275",FR,45.849098,0.767463,,,,,,,,,,,,,,,,,Vici.org,,,"16795",,"39339",,,,,,,,,,,,no
 "1000415",Fanum,Puy Lautard,temple,,Saint-Pardoux-Morterolles,,,FR,45.929768,1.869932,,,,,,,,,,,,,,,,,Vici.org,,,"16805","138527","18100",,,,,,,,,,,,no
 "1000416",Temple,,temple,Puy-de-Joue,Saint-Goussaud,,,FR,46.033264,1.569519,,,,,,,,,,,,,,,,,Vici.org,,,"16808","138556","37144",,,,,,,,,,,,no
-"1000417","Chez Rigros, Saint-Pardoux",,temple,,Saint-Pardoux,,,FR,46.07193,1.3012,,,,,,,,,,,,,,,,,Vici.org,,,"16814",,"39297",,,,,,,,,,,,no
+"1000417",Temple,,temple,"Chez Rigros, Saint-Pardoux",Saint-Pardoux,,,FR,46.07193,1.3012,,,,,,,,,,,,,,,,,Vici.org,,,"16814",,"39297",,,,,,,,,,,,no
 "1000418",Sanctuary of Mars Mullo,,temple,,Allonnes,,,FR,47.968758,0.166472,,,,,,,,,,,,,god,Gallo-Roman,,,Vici.org,,,"16820",,"20731",,,,,,,,,,,,no
 "1000419",Twin Temples,,temple,Masamas,Saint-Léomer,,,FR,46.399273,0.972868,,,,,,,,,,,,,,,,,Vici.org,,,"16834","138451","17638",,,,,,,,,,,,no
 "1000420",Temple,,temple,,Villards-d'Héria,,"177659",FR,46.415447,5.752648,,,,,,,,,,,,,,,,,Vici.org,,,"16835",,"39331",,,,,,,,,,,,no
 "1000421",Sanctuary,,temple,Tours Mirandes,Vendeuvre-du-Poitou,,"138624",FR,46.740086,0.293782,"106",E,,Late 1st c. CE,"51","100","1",,,,,,,Gallo-Roman,,yes,Vici.org,,,"16850",,,,,,,,,,,,,,yes
-"1000422",Les Fons Clairins,,temple,,Uzay-le-Venon,,,FR,46.813335,2.411545,,,,,,,,,,,,,,,,,Vici.org,,,"16855",,"20624",,,,,,,,,,,,no
+"1000422",Temple,,temple,Les Fons Clairins,Uzay-le-Venon,,,FR,46.813335,2.411545,,,,,,,,,,,,,,,,,Vici.org,,,"16855",,"20624",,,,,,,,,,,,no
 "1000423",Sanctuary,,temple,Moulin des Gaumins,Thaumiers,,,FR,46.81356,2.639874,,,,,,,,,,,,,,,,,Vici.org,,,"16856","138615","17703",,,,,,,,,,,,no
-"1000424",Le Bioulet,,temple,,Pupillin,,,FR,46.869949,5.7476,,,,,,,,,,,,,,,,,Vici.org,,,"16861",,"39459",,,,,,,,,,,,no
+"1000424",Temple,,temple,Le Bioulet,Pupillin,,,FR,46.869949,5.7476,,,,,,,,,,,,,,,,,Vici.org,,,"16861",,"39459",,,,Q15648078,,,,,,,,no
 "1000425",Sanctuary of Alléant,,temple,,Baugy,,"138216",FR,47.0793,2.749274,,,,,,,,,,,,,,,,,Vici.org,,,"16865",,,,,,,,,,,,,,no
-"1000426",La Touratte,,temple,,Dun-sur-Auron,,,FR,46.903824,2.548355,,,,,,,,,,,,,,,,,Vici.org,,,"16868",,"20622",,,,,,,,,,,,no
+"1000426",Temple,,temple,La Touratte,Dun-sur-Auron,,,FR,46.903824,2.548355,,,,,,,,,,,,,,,,,Vici.org,,,"16868",,"20622",,,,,,,,,,,,no
 "1000427",North temple,,temple,Pied de Bourges,Clion,Claudiomagus,"138299",FR,46.947024,1.229261,"90",E,,,,,,,,,,,,Gallo-Roman,,no,Vici.org,,,"16874",,"20503",,,,,,,,,,,,yes
 "1000428",Sanctuaries,,temple,,Boncourt-le-Bois,,,FR,47.139778,5.001985,,,,,,,,,,,,,,,,,Vici.org,,,"16892",,,,,,,,,,,,,,no
 "1000429",Temple,,temple,Fourneaux,Montreuil-Bellay,,,FR,47.102268,-0.08869,,,,,,,,,,,,,,,,,Vici.org,,,"16901","138471","17457",,,,,,,,,,,,no
@@ -429,61 +429,61 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000431",Temple,,temple,,Neuvy-sur-Barangeon,,,FR,47.307056,2.297843,,,,,,,,,,,,,,,,,Vici.org,,,"16921","138484","20623",,,,,,,,,,,,no
 "1000432",Sanctuary,,temple,,Petit-Mars,,,FR,47.390633,-1.468336,,,,,,,,,,,,,,,,,Vici.org,,,"16928","138512","18115",,,,,,,,,,,,no
 "1000433",Temple,,temple,,Tours,Caesarodunum,"138255",FR,47.3936,0.68807,,,,,,,,,,,,,,,,,Vici.org,,,"16930",,"7874",,,,,,,,,,,,no
-"1000434",Sources de la Seine,,temple,,Poncey-sur-l'Ignon,,,FR,47.484905,4.719573,,,,,,,,,,,,,,,,,Vici.org,,,"16939",,"20161",,,,,,,,,,,,no
+"1000434",Temple,,temple,Head of the Seine,Poncey-sur-l'Ignon,,,FR,47.484905,4.719573,,,,,,,,,,,,,,,,,Vici.org,,,"16939",,"20161",,,,,,,,,,,,no
 "1000435",Temple,,temple,,Vannes,Darioritum,"138323",FR,47.671444,-2.750201,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"16954",,"39461",,,,,,,,,,,,no
-"1000436","Nal, La Vraie-Croix",,temple,,La Vraie-Croix,,,FR,47.700558,-2.505833,,,,,,,,,,,,,,,,,Vici.org,,,"16959",,"39101",,,,,,,,,,,,no
+"1000436",Temple,,temple,"Nal, La Vraie-Croix",La Vraie-Croix,,,FR,47.700558,-2.505833,,,,,,,,,,,,,,,,,Vici.org,,,"16959",,"39101",,,,,,,,,,,,no
 "1000437",Temple,,temple,,Briou,,,FR,47.821045,1.476534,,,,,,,,,,,,,,,,,Vici.org,,,"16970","138290","18151",,,,,,,,,,,,no
-"1000438",La Tour,,temple,,Sablé-sur-Sarthe,,,FR,47.83168,-0.353501,,,,,,,,,,,,,,,,,Vici.org,,,"16971",,"20733",,,,,,,,,,,,no
+"1000438",Sanctuary,,temple,La Tour,Sablé-sur-Sarthe,,,FR,47.83168,-0.353501,,,,,,,,,,,,,,,,,Vici.org,,,"16971",,"20733",,,,,,,,,,,,no
 "1000439",Heptagonal Temple,,temple,,Comblessac,,,FR,47.845501,-2.099815,,,,,,,,,,,,,,,,,Vici.org,,,"16973","44707452","39457",,,,,,,,,,,,no
 "1000440",Fanum,,temple,,Montbouy,,"138468",FR,47.869492,2.828017,,,,,,,,,,,,,,,,,Vici.org,,,"16981",,"16983",,,,,,,,,,,,no
-"1000441",Ruines d'un vieux temple - Membrey,,temple,,Savoyeux,,,FR,47.5644,5.734408,,,,,,,,,,,,,,,,,Vici.org,,,"16983",,,,,,,,,,,,,,no
+"1000441",Temple,,temple,Membrey,Savoyeux,,,FR,47.5644,5.734408,,,,,,,,,,,,,,,,,Vici.org,,,"16983",,,,,,,,,,,,,,no
 "1000442",Temple,,temple,Les Clairs Chênes,Faverolles,,,FR,47.964176,5.222123,,,,,,,,,,,,,,,,,Vici.org,,,"16994","177521","17579",,,,,,,,,,,,no
-"1000443",Plombières-les-Bains,,temple,,Plombières-les-Bains,,,FR,47.965816,6.460263,,,,,,,,,,,,,,,,,Vici.org,,,"16995",,"20759",,,,,,,,,,,,no
-"1000444",Clos du Détour,,temple,,Pannes,,,FR,47.996143,2.676318,,,,,,,,,,,,,,,,,Vici.org,,,"16996",,"20553",,,,,,,,,,,,no
+"1000443",Temple,,temple,,Plombières-les-Bains,,,FR,47.965816,6.460263,,,,,,,,,,,,,,,,,Vici.org,,,"16995",,"20759",,,,,,,,,,,,no
+"1000444",Temple,,temple,Clos du Détour,Pannes,,,FR,47.996143,2.676318,,,,,,,,,,,,,,,,,Vici.org,,,"16996",,"20553",,,,,,,,,,,,no
 "1000445",Temple,,temple,La Furetière,Entrammes,Inter Amnes,"138342",FR,47.998966,-0.705822,,,,,,,,,,,,,,,,,Vici.org,,,"16997",,"20737",,,,,,,,,,,,no
-"1000446",Bains-les-Bains,,temple,,Bains-les-Bains,,,FR,48.001415,6.26457,,,,,,,,,,,,,,,,,Vici.org,,,"16999",,"20760",,,,,,,,,,,,no
-"1000447",Bouexière,,temple,,Bréal-sous-Montfort,,,FR,48.049622,-1.900603,,,,,,,,,,,,,,,,,Vici.org,,,"17005",,"39091",,,,,,,,,,,,no
-"1000448",Trouguer,,temple,,Cléden-Cap-Sizun,,,FR,48.058224,-4.705246,,,,,,,,,,,,,,,,,Vici.org,,,"17006",,"39095",,,,,,,,,,,,no
+"1000446",Temple,,temple,,Bains-les-Bains,,,FR,48.001415,6.26457,,,,,,,,,,,,,,,,,Vici.org,,,"16999",,"20760",,,,,,,,,,,,no
+"1000447",Temple,,temple,Bouexière,Bréal-sous-Montfort,,,FR,48.049622,-1.900603,,,,,,,,,,,,,,,,,Vici.org,,,"17005",,"39091",,,,,,,,,,,,no
+"1000448",Temple,,temple,Trouguer,Cléden-Cap-Sizun,,,FR,48.058224,-4.705246,,,,,,,,,,,,,,,,,Vici.org,,,"17006",,"39095",,,,,,,,,,,,no
 "1000449",Temple,,temple,Trogouzel,Douarnenez,,"69500",FR,48.075298,-4.314423,,,,,,,,,,,,,,,,,Vici.org,,,"17009",,"39456",,,,,,,,,,,,no
 "1000450",Fanum,,temple,,Pithiviers-le-Vieil,,,FR,48.163734,2.202981,,,,,,,,,,,,,,,,,Vici.org,,,"17014","109248","20635",,,,,,,,,,,,no
-"1000451",Juillé,,temple,,Juillé,,,FR,48.244579,0.12194,,,,,,,,,,,,,,,,,Vici.org,,,"17022",,"3650",,,,,,,,,,,,no
+"1000451",Temple,,temple,,Juillé,,,FR,48.244579,0.12194,,,,,,,,,,,,,,,,,Vici.org,,,"17022",,"3650",,,,,,,,,,,,no
 "1000452",Fanum,,temple,,Oisseau-le-Petit,,,FR,48.346451,0.075101,,,,,,,,,,,,,,,,,Vici.org,,,"17025","69544","18166",,,,,,,,,,,,no
-"1000453",La Ferme d'Isle,,temple,,Grisy-sur-Seine,,,FR,48.433331,3.31667,,,,,,,,,,,,,,,,,Vici.org,,,"17029",,"21014",,,,,,,,,,,,no
+"1000453",Temple,,temple,La Ferme d'Isle,Grisy-sur-Seine,,,FR,48.433331,3.31667,,,,,,,,,,,,,,,,,Vici.org,,,"17029",,"21014",,,,,,,,,,,,no
 "1000454",Temple,,temple,,Deneuvre,,,FR,48.441734,6.73517,,,,,,,,,,,,,,,,,Vici.org,,,"17030","108922","1834",,,,,,,,,,,,no
 "1000455",Temple,,temple,,Taden,,"69574",FR,48.471024,-2.011823,,,,,,,,,,,,,,,,,Vici.org,,,"17032",,"39092",,,,,,,,,,,,no
-"1000456",Les Grèves,,temple,,La Villeneuve-au-Châtelot,,,FR,48.549187,3.606701,,,,,,,,,,,,,,,,,Vici.org,,,"17036",,"39451",,,,,,,,,,,,no
+"1000456",Temple,,temple,Les Grèves,La Villeneuve-au-Châtelot,,"109431",FR,48.549187,3.606701,,,,,,,,,,,,,,,,,Vici.org,,,"17036",,"39451",,,,,,,,,,,,no
 "1000457",Temple,,temple,,"Naix-aux-Forges, Saint-Amand-sur-Ornain",Nasium,"109190",FR,48.632435,5.386586,,,,,,,,,,,,,,,,,Vici.org,,,"17043","534922362","18748",,,,,,,,,,,,no
 "1000458",Fanum,,temple,Wasserwald,Haegen,,"109026",FR,48.713898,7.289902,,,,,,,,,,,,,,,,,Vici.org,,,"17048",,"20761",,,,,,,,,,,,no
-"1000459",La Butte Ronde,,temple,,Saint-Forget,,,FR,48.714252,1.984475,,,,,,,,,,,,,,,,,Vici.org,,,"17049",,"20895",,,,,,,,,,,,no
+"1000459",Temple,,temple,La Butte Ronde,Saint-Forget,,,FR,48.714252,1.984475,,,,,,,,,,,,,,,,,Vici.org,,,"17049",,"20895",,,,,,,,,,,,no
 "1000460",Arnières-sur-Iton,,temple,,Arnières-sur-Iton,,,FR,48.999615,1.110515,,,,,,,,,,,,,,,,,Vici.org,,,"17064","108757","18147",,,,,,,,,,,,no
 "1000461",Sanctuary,,temple,,Épiais-Rhus,,,FR,49.133663,2.085254,,,,,,,,,,,,,,,,,Vici.org,,,"17075","108962","18140",,,,,,,,,,,,no
 "1000462",Sanctuary,,temple,,Saint-Aubin-sur-Gaillon,,,FR,49.148079,1.32437,,,,,,,,,,,,,,,,,Vici.org,,,"17077","109305","18145",,,,,,,,,,,,no
 "1000463",Sanctuary of Mercury Canetonnessis,,temple,,Berthouville,Canetonum,"108852",FR,49.173302,0.621389,,,,,,,,,,,,,,,,,Vici.org,,,"17079",,"18124",,,,,,,,,,,,no
-"1000464",Les Régales,,temple,,Louviers,,,FR,49.246918,1.129583,,,,,,,,,,,,,,,,,Vici.org,,,"17081",,"39455",,,,,,,,,,,,no
-"1000465",Mare-du-Puits,,temple,,Oissel,,,FR,49.338657,1.049869,,,,,,,,,,,,,,,,,Vici.org,,,"17085",,"39384",,,,,,,,,,,,no
-"1000466",Les Essarts,,temple,,Grand-Couronne,,,FR,49.345848,1.021025,,,,,,,,,,,,,,,,,Vici.org,,,"17086",,"39385",,,,,,,,,,,,no
+"1000464",Temple,,temple,Les Régales,Louviers,,,FR,49.246918,1.129583,,,,,,,,,,,,,,,,,Vici.org,,,"17081",,"39455",,,,,,,,,,,,no
+"1000465",Temple,,temple,Mare-du-Puits,Oissel,,,FR,49.338657,1.049869,,,,,,,,,,,,,,,,,Vici.org,,,"17085",,"39384",,,,,,,,,,,,no
+"1000466",Temple,,temple,Les Essarts,Grand-Couronne,,,FR,49.345848,1.021025,,,,,,,,,,,,,,,,,Vici.org,,,"17086",,"39385",,,,,,,,,,,,no
 "1000467",Sanctuary,,temple,,Estrées-Saint-Denis,,,FR,49.4259,2.644821,,,,,,,,,,,,,,,,,Vici.org,,,"17093","108968","2144",,,,,,,,,,,,no
 "1000468",Sanctuary,,temple,Les Muguets,Songeons,,,FR,49.564636,1.835476,,,,,,,,,,,,,,,,,Vici.org,,,"17100","109349","18132",,,,,,,,,,,,no
-"1000469",Ecâtelet,,temple,,Saint-Maur,,,FR,49.624222,1.906107,,,,,,,,,,,,,,,,,Vici.org,,,"17107",,"20259",,,,,,,,,,,,no
+"1000469",Temple,,temple,Ecâtelet,Saint-Maur,,,FR,49.624222,1.906107,,,,,,,,,,,,,,,,,Vici.org,,,"17107",,"20259",,,,,,,,,,,,no
 "1000470",Sanctuary,,temple,Le Catillon,Rouvroy-les-Merles,,,FR,49.656013,2.36636,,,,,,,,,,,,,,,,,Vici.org,,,"17111","109289","17408",,,,,,,,,,,,no
 "1000471",Temple to the waters or nymphs,,temple,,Septeuil,,,FR,48.897812,1.671292,"352",N,,,,,,,,,,,,,,,Vici.org,,,"17124","109339","16270",,,,,,,,,,,,no
-"1000472",Bois Titran,,temple,,Caix,,,FR,49.816505,2.646559,,,,,,,,,,,,,,,,,Vici.org,,,"17127",,"26629",,,,,,,,,,,,no
+"1000472",Temple,,temple,Bois Titran,Caix,,,FR,49.816505,2.646559,,,,,,,,,,,,,,,,,Vici.org,,,"17127",,"26629",,,,,,,,,,,,no
 "1000473",Sanctuary,,temple,Le Moulin,Fluy,,,FR,49.854774,2.10009,,,,,,,,,,,,,,,,,Vici.org,,,"17136","108987","17409",,,,,,,,,,,,no
-"1000474",Cartigny,,temple,,Cartigny,,,FR,49.904331,3.01797,,,,,,,,,,,,,,,,,Vici.org,,,"17148",,"26636",,,,,,,,,,,,no
+"1000474",Temple,,temple,,Cartigny,,,FR,49.904331,3.01797,,,,,,,,,,,,,,,,,Vici.org,,,"17148",,"26636",,,,,,,,,,,,no
 "1000475",Sanctuary,,temple,,Bracquemont,,,FR,49.943413,1.123369,,,,,,,,,,,,,,,,,Vici.org,,,"17159","108822","26649",,,,,,,,,,,,no
 "1000476",Sanctuary,,temple,,Ribemont-sur-Ancre,,"109278",FR,49.96442,2.55404,,,,,,,,,,,,,,,,,Vici.org,,,"17166",,"17404",,,fr=Sanctuaire_de_Ribemont-sur-Ancre,,,,,,,,,no
-"1000477",Bailleul,,temple,,Bailleul,,,FR,50.033588,1.87157,,,,,,,,,,,,,,,,,Vici.org,,,"17178",,"26624",,,,,,,,,,,,no
-"1000478",Les Huit Journaux,,temple,,Beauval,,,FR,50.132519,2.34789,,,,,,,,,,,,,,,,,Vici.org,,,"17188",,"26626",,,,,,,,,,,,no
+"1000477",Temple,,temple,,Bailleul,,,FR,50.033588,1.87157,,,,,,,,,,,,,,,,,Vici.org,,,"17178",,"26624",,,,,,,,,,,,no
+"1000478",Temple,,temple,Les Huit Journaux,Beauval,,,FR,50.132519,2.34789,,,,,,,,,,,,,,,,,Vici.org,,,"17188",,"26626",,,,,,,,,,,,no
 "1000479",Small fanum,,temple,,Cocquerel,,,FR,50.05582,1.938265,,,,,,,,,,,,,,,,,Vici.org,,,"17190",,,,,,,,,,,,,,no
-"1000480",Le Fief du Bac,,temple,,Proyart,,,FR,49.887169,2.702727,,,,,,,,,,,,,,,,,Vici.org,,,"17191",,"42228",,,,,,,,,,,,no
+"1000480",Temple,,temple,Le Fief du Bac,Proyart,,,FR,49.887169,2.702727,,,,,,,,,,,,,,,,,Vici.org,,,"17191",,"42228",,,,,,,,,,,,no
 "1000481",Sanctuary,,temple,,Pont-Sainte-Maxence,,,FR,49.316475,2.604453,,,,,,,,,,,,,,,,,Vici.org,,,"18732",,,,,,,,,,,,,,no
 "1000482",Temple,,temple,,Remiencourt,,,FR,49.779976,2.392164,,,,,,,,,,,,,,Gallo-Roman,,,Vici.org,,,"18807",,,,,,,,,,,,,,no
 "1000483",Fanum,,temple,,Sorcy-Saint-Martin,,,FR,48.697834,5.63705,,,,,,,,,,,,,,,,,Vici.org,,,"19368",,,,,,,,,,,,,,no
 "1000484",Cultic complex,,temple,,Amel-sur-l'Étang,,,FR,49.26498,5.642999,,,,,,,,,,,,,,,,,Vici.org,,,"19374",,,,,,,,,,,,,,no
 "1000485",Fanum,,temple,Pont-Verdunois,Lachalade,,,FR,49.158867,4.960401,,,,,,,,,,,,,,,,,Vici.org,,,"19381",,,,,,,,,,,,,,no
 "1000486",Temple,,temple,Le Herapel,Cocheren,,"108893",FR,49.152973,6.860515,,,,,,,,,,,,,,,,,Vici.org,,,"19418",,,,,,,,,,,,,,no
-"1000487",Temple (Les cinq fontaines),,temple,,Laneuveville-devant-Nancy,,,FR,48.656166,6.215222,,,,,,,,,,,,,,,,,Vici.org,,,"19473",,,,,,,,,,,,,,no
-"1000488",Lascaux,,temple,,Montignac,,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
+"1000487",Temple,,temple,Les cinq fontaines,Laneuveville-devant-Nancy,,,FR,48.656166,6.215222,,,,,,,,,,,,,,,,,Vici.org,,,"19473",,,,,,,,,,,,,,no
+"1000488",Temple,,temple,Lascaux,Montignac,,,FR,45.049168,1.176111,,,,,,,,,,,,,,,,,Vici.org,,,"20790",,,,,,,,,,,,,,no
 "1000489",Celtic camp,,temple,,Niederbronn-les-Bains,,"109209",FR,48.969513,7.619184,,,,,,,,,,,,,,,,,Vici.org,,,"21801",,,,,,,,,,,,,,no
 "1000490",Mithraeum,Mithras,mithraeum,,Sarrebourg,Pons Saravi,"109254",FR,48.730274,7.053757,,,,,,,,,,,M,,hero,,,,Vici.org,,,"23978",,,,,,,,,,,,,,no
 "1000491",Harbor Temple,,temple,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.66938,6.446255,,,,,,,,,,,,,,,,,,,Hafentempel,"102",,,,,,,,,,,,,,no
