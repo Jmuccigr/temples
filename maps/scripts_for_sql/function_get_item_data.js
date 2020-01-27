@@ -170,5 +170,5 @@ res = res[0];
 			cites = '<li>Citations:<ol><li>' + res.properties.cite + '</li></ol>';
 		}
 		document.getElementById("side_bottom").innerHTML = text + otherDB + cites +
-			'<br><span style="font-size:x-small; align=center;" onclick="loadNavigation()"><br>(Restore navigation instructions.)</span>';
+			'<br><a href="#" style="font-size:x-small; align=center;" onclick="loadNavigation()">(Restore navigation instructions.)</a>';
 }
