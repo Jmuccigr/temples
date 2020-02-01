@@ -609,7 +609,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000611",Temple Ulpia Noviomagus,,temple,,,,,DE,51.367474,6.611528,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple,,temple,,Regensburg,Reginum,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
 "1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,,"314843",TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
+"1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,Amarynthos,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
 "1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,"609292",TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,"442858431",,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
 "1000617",Temple of Bacchus,Bacchus,temple,,Heliopolis,,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
@@ -623,9 +623,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000625",Temple of Zeus,Jupiter,temple,,,Olympia,"570531",GR,37.63794,21.63042,"83",E,,,,,,,,,M,,god,Greek,,yes,topostext,,,,"316294900","46666",,,"Temple_of_Zeus,_Olympia",Q197019,,,,,,376216SOZe,,yes
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,Athens,"579885",GR,37.969429,23.733084,"90",E,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
 "1000627",Temple of Apollo,Apollo,temple,,,Delphi,"540726",GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
-"1000628",Temple of Apollo,Apollo,temple,,,,"599821",GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
+"1000628",Temple of Apollo,Apollo,temple,,Naxos,Naxos,"599821",GR,37.110127,25.372447,"321",NW,,,"-530",,"-6",,,,M,,god,Greek,,yes,topostext,,,,,,,,,,,,,,,371253SApo,,yes
 "1000629",Temple of Sangri,Demeter,temple,,,,,GR,37.029116,25.431301,"213",SW,,,,,,,,,F,,god,Greek,,yes,wikipedia,,,,"599631",an,,,Temple_of_Sangri,Q16294969,,,,,,370254SGyr,,yes
-"1000630",Sanctuary of Yria,Dionysus,temple,,Sangri,,"599821",GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
+"1000630",Temple of Dionyus,Dionysus,temple,,Yria,,"599822",GR,37.077689,25.380777,"201",S,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Dionysus,_Naxos",Q15884671,,,,,,,,yes
 "1000631",Temple of Apollo,Apollo,temple,,,,,GR,40.054479,22.218555,"143",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
 "1000632",Temple of Apollo,Apollo,temple,,,,,GR,40.054295,22.218318,"129",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
 "1000633",Temple of Apollo,Apollo,temple,,,,,GR,40.054107,22.218239,"129",SE,,,,,,,,,M,,god,,,,topostext,,,,,,,,,,,,,,,401222SPyt,,yes
@@ -772,7 +772,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000780",Temple of Genna Cantonis,,temple,,Matzanni,,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
 "1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,,"471971",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
-"1000783",Temple of Hera,Hera,temple,,Olympia,,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
+"1000783",Temple of Hera,Hera,temple,,Olympia,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,Glanum,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
 "1000785",Temple of Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,Glanum,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000786",Temple,,temple,,Neung-sur-Beuvron,,,FR,47.514506,1.813998,"282",W,,,,,,,,,,,,Gallo-Roman,,no,,,,,,,,,,,,,,,,,,yes
