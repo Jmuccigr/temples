@@ -20,13 +20,13 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000020",Temple of the Divine Romulus,Romulus,temple,Forum,Rome,Rome,"423025",IT,41.891846,12.487166,"205",SW,,,,,,,,,M,,hero,Roman,,,,,Vici.org,"15044",,,"10545",,Temple_of_Romulus,,,,,,,419125SRom,,
 "1000021",Temple of the Divine Trajan,Trajan,temple,Forum of Trajan,Rome,Rome,"423025",IT,,,,,,"128","128",,"2",,,,M,,emperor,Roman,,,Stamper,,,,,,,,,,,,,,,,,
 "1000022",Temple of Elagabal,Elagabal,temple,,Rome,Rome,"423025",IT,41.889603,12.488894,,,,,,,,,,,M,,emperor,Roman,,,,,Vici.org,"11503",,,,,,,,,,,,,,
-"1000023",Temple of Feronia,Feronia,temple,Campus Martius,Rome,Rome,"423025",IT,41.895163,12.476723,"90",E,-292-219,-292-219,"-292","-219","-3",,,,F,November 13,god,Roman,,,Stamper/Ziolkowski,,Pleiades: Temple C,"39266","967215409",,"5865",,,,,,,,,,,
+"1000023",Temple of Feronia,Feronia,temple,Campus Martius,Rome,Rome,"423025",IT,41.895163,12.476723,"90",E,-292-219,-292-219,"-292","-219","-3",,,,F,November 13,god,Roman,,,Stamper/Ziolkowski,,Pleiades: Temple C,"39266",,,"5865",,,Q1541068,,,,,,,,
 "1000024",Temple of Fides,Fides,temple,Capitoline,Rome,Rome,"423025",IT,41.8914,12.4812,,,,"-254","-254",,"-3",,,,F,October 1,concept,Roman,,,Ziolkowski,senate,,,,,,,Temple_of_Fides,Q3983246,,,,,,,,
 "1000025",Temple of Flora,Flora,temple,Circus Maximus,Rome,Rome,"423025",IT,,,,,,"-240","-240",,"-3",,,,F,April 28,nature,Roman,,,,,,,,,,,Temple_of_Flora,Q3983248,,,,,,,,
 "1000026",Temple of Flora,Flora,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292","-219","-3",,,,F,May 3,nature,Roman,,,,,,,,,,,,,,,,,,,,
 "1000027",Temple of Fons/Fontus,Fons/Fontus,temple,extra portam fontinalem,Rome,Rome,"423025",IT,,,,,,"-231","-231","-219","-3",,,,M,October 13,nature,Roman,,,,,,,,,,,,,,,,,,,,
 "1000028",Temple of Fors Fortuna,Fors Fortuna,temple,Right bank of Tiber,Rome,Rome,"423025",IT,,,,,,"-293","-292","-280","-3",,,,F,,concept,Roman,,,,,Vici.org,,"422925",,,,,,,,,,,,,
-"1000029",Temple of Fortuna Huiusce Diei,Fortuna,temple,Campus Martius,Rome,Rome,"423025",IT,41.895387,12.476839,"90",E,,1-99,"1","99","1",,,,F,,concept,Roman,,yes,Stamper,,Pleiades: Temple B,"17946","967215409",,"6515",,,,,,,,,419125SFor,,
+"1000029",Temple of Fortuna Huiusce Diei,Fortuna,temple,Campus Martius,Rome,Rome,"423025",IT,41.895387,12.476839,"90",E,,1-99,"1","99","1",,,,F,,concept,Roman,,yes,Stamper,,Pleiades: Temple B,"39264","635795593",,"6515",,,,,,,,,419125SFor,,
 "1000030",Temple of Fortuna,Fortuna,temple,Forum Boarium,Rome,Rome,"423025",IT,41.890791,12.481069,"183",S,,"-396","-396",,"-4",,,,F,,concept,Roman,,,Platner and Ashby,,,,,,,,,,,,,,,,,
 "1000031",Temple of Fortuna Muliebris,Fortuna,temple,,Rome,Rome,"423025",IT,41.843745,12.555806,,,,,,,,,,,F,,concept,Roman,,,,,DARE,,,"37154",,,,,,,,,,,,
 "1000032",Temple of the Divine Hadrian,Hadrian,temple,Campus Martius,Rome,Rome,"423025",IT,41.899876,12.479621,"90",E,,"145","145",,"2",,,,M,,emperor,Roman,,,Blake,,Vici.org,"15032",,,"5651",,Temple_of_Hadrian,Q431062,,,,,,419125SHad,,
@@ -60,17 +60,17 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000060",Temple of Jupiter Invictus,Jupiter,temple,Palatine Hill,Rome,Rome,"423025",IT,,,,,,-180-167,"-180","-167","-2",,,,M,,god,Roman,,,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000061",Temple of Jupiter Libertas,Jupiter,temple,Aventine Hill,Rome,Rome,"423025",IT,,,,,,"-246","-246",,"-3",,,,M,April 13,god,Roman,,,Ziolkowski,,,,,,,,,,,,,,,,,
 "1000062",Temple of Jupiter Capitolinus/Optimus Maximus,Jupiter,temple,Capitoline Hill,Rome,Rome,"423025",IT,41.892222,12.481667,"152",SE,,"-509","-509",,"-6",,,,M,September 13,god,Roman,,,Blake,senate,,"17971","871801169",,"3910430",,Temple_of_Jupiter_Optimus_Maximus,Q586468,,,,,,419125SJCa,,
-"1000063",Temple of Jupiter Patulaeius,Jupiter,temple,,,Ostia,"422995",IT,,,,,,-299-200,"-299","-200","-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000063",Temple of Jupiter Patulaeius,Jupiter,temple,,Ostia Antica,Ostia,"422995",IT,,,,,,-299-200,"-299","-200","-3",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000064",Temple of Jupiter,Jupiter,temple,,Pompei,Pompeii,"433032",IT,40.7499,14.4845,"157",SE,,mid-2nd c. BCE,"-175","-125","-2",,,,M,,god,Roman,,yes,,,,,"367026512",,,,,,,,,,,,,
 "1000066",Temple of Jupiter Stator,Jupiter,temple,ad portam Mugoniam,Rome,Rome,"423025",IT,41.890487,12.488793,,,"-294","-294","-292","-218","-3",,,,M,June 27,god,Roman,,,,senate,Tenative coordinates,,,,,,,,,,,,,,,
 "1000067",Temple of Jupiter Stator,Jupiter,temple,"Porticus Metelli, Circus Flaminius",Rome,Rome,"423025",IT,41.892897,12.479021,"208",SW,,"-146","-146",,"-2",,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000068",Temple of Jupiter Tonans,Jupiter,temple,Capitoline Hill,Rome,Rome,"423025",IT,,,,,,"-22","-22",,"-1",,,,M,September 1,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000069",Temple of Jupiter Victor,Jupiter,temple,Quirinal Hill,Rome,Rome,"423025",IT,,,,,"-295",-292-219,"-295","-291","-3",,,,M,April 13,god,Roman,,,Blake,,,,,,,,,,,,,,,,,
 "1000070",Temple of Jupiter/Baalshamin,"Jupiter, Baalshamin",temple,,Kedesh,Kadasa,"678215",IL,33.112906,35.531175,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000071",Temple of Juturna,Juturna,temple,Campus Martius,Rome,Rome,"423025",IT,41.895664,12.476876,"90",E,"-242",-242-219,"-242","-219","-3",,,,F,January 11,god,Roman,,,Ziolkowski,,Pleiades: Temple A,"17946","967215409",,"5864",,,,,,,,,419125SFer,,
+"1000071",Temple of Juturna,Juturna,temple,Campus Martius,Rome,Rome,"423025",IT,41.895664,12.476876,"90",E,"-242",-242-219,"-242","-219","-3",,,,F,January 11,god,Roman,,,Ziolkowski,,Pleiades: Temple A,"39261",,,"5864",,,,,,,,,419125SFer,,
 "1000072",Temple of Juventas,Juventas,temple,Circus Maximus,Rome,Rome,"423025",IT,,,,,,"-193","-193",,"-2",,,,F,,concept,Roman,,,,,,,,,,,,,,,,,,,,
 "1000073",Temple of the Lares,Lares,temple,in summa Sacra Via,Rome,Rome,"423025",IT,,,,,,-292-219,"-292","-219","-3",,,,M,June 27,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000074",Temple of the Lares Permarini,Lares Permarini,temple,Campus Martius,Rome,Rome,"423025",IT,41.894983,12.476957,"90",E,,"-179","-179",,"-2",,,,M,,god,Roman,,,,,Pleiades: Temple D,"17946","967215409",,"6516",,,,,,,,,419125SLPe,,
+"1000074",Temple of the Lares Permarini,Lares Permarini,temple,Campus Martius,Rome,Rome,"423025",IT,41.894983,12.476957,"90",E,,"-179","-179",,"-2",,,,M,,god,Roman,,,,,Pleiades: Temple D,"39263",,,"6516",,,,,,,,,419125SLPe,,
 "1000075",Temple of Luna,Luna,temple,Aventine Hill,Rome,Rome,"423025",IT,,,,,,-292-219,"-292","-219","-3",,,,F,March 31,nature,Roman,,,,,,,,,,,,,,,,,,,,
 "1000076",Temple of Mars,Mars,temple,Circus Flaminius,Rome,Rome,"423025",IT,,,,,,"-138","-138",,"-2",,,,M,,god,Roman,,,,,,,,,,,Temple_of_Mars,,,,,,,,,
 "1000077",Temple of Mars,Mars,temple,North Via Appia,Rome,Rome,"423025",IT,,,,,"-390","-388","-388",,"-4",,,,M,June 1,god,Roman,,,,,,,,,,,,,,,,,,,,
@@ -226,7 +226,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,Tarracina,"433143",IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,Q30524229,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,Tarracina,"433143",IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompei,Pompeii,"433032",IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
-"1000230",Temple of Bellona,Bellona,temple,,,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
+"1000230",Temple of Bellona,Bellona,temple,,Ostia Antica,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,,"472032",IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
 "1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,,"471971",IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
@@ -236,7 +236,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000237",Temple B,,temple,,Pietrabbondante,,"433025",IT,41.73999,14.386793,"118",SE,,2nd half 2nd c. BCE,"-149","-100","-2",1st. c. CE,,,,,,Samnite,,yes,Vici.org,,,"10919",,,,,,,,,,,,,,yes
 "1000238",Temple of Hera Lacinia,Hera,temple,Capo Colonna,,,"452356",IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966","452332",,,,,,,,,,,,,no
 "1000239",Temple Complex,,temple,,Pantanello,Metapontum,"442658",IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,no
-"1000240",Temple of Venus Erycina,Venus,temple,,,Segesta,"462487",IT,37.941475,12.832296,,,,,,,,,,,F,,god,,,,Vici.org,,,"11596",,,,place/segesta/segesta-temple,,,,,,,,,,no
+"1000240",Temple of Venus Erycina,Venus,temple,,,Segesta,"462487",IT,37.941475,12.832296,"84",E,,,,,,,,,F,,god,,,,Vici.org,,,"11596","963441586",,,place/segesta/segesta-temple,it=Tempio_di_Segesta,,,,,,,,,no
 "1000241",Temple of Diana,,temple,,Ariccia,Aricia,"422844",IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
 "1000242",Western forum temple,,temple,,,Carsulae,"413065",IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
 "1000243",Acropolis,,temple,,Populonia,Populonium,"403212",IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
@@ -294,7 +294,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000295",Montemignaio,,temple,,La Pieve-molino,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,Poseidonia,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
 "1000297",Temple of Diana,,temple,,Cefalú,Cephaloedium,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
-"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894",,,,,,,,,,,,,,no
+"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
 "1000299",Temple of Hercules,,temple,,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,Faesulae,"413124",IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
 "1000301",Asclepieion,,temple,,,Heloros,"462234",IT,36.841862,15.105948,,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,no
