@@ -229,12 +229,12 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000230",Temple of Bellona,Bellona,temple,,Ostia Antica,Ostia,"422995",IT,41.752632,12.291518,"292",W,,117-138,"117","138","2",,,,F,,god,Roman,,,Vici.org,,,"4380",,,,,"Temple_of_Bellona,_Ostia",Q3983235,,,,,,,https://www.ostia-antica.org/regio4/1/1-4.htm,yes
 "1000231",Tharros,,temple,,San Giovanni di Sinis,,"472032",IT,39.873825,8.440263,,,,,,,,,,,,,,,,,Vici.org,,,"7846",,,,,,,,,,,,,,no
 "1000232",Temple of Juno,Juno,temple,,,Gabii,"422932",IT,41.887016,12.71593,"154",SE,,,,,,,,,F,,god,Roman,,yes,Vici.org,,,"7912","377820068",,,,,,,,,,,,,no
-"1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,,"471971",IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
+"1000233",Temple of Antas (Punic),Sid Addir,temple,,Fluminimaggiore,Metalla,"471971",IT,39.393952,8.500437,"113",SE,,Late 5th c. BCE,"-450","-401","-5",,"1000781",,M,,god,Punic,,yes,Vici.org,,,"8129",,,,,Tempio_di_Antas,Q689104,,,,,,394085SAdd,,yes
 "1000234",Punico-Roman Temple,,temple,,Cagliari,Caralis,"471899",IT,39.222012,9.106047,,,,,,,,,,,,,,,,,Vici.org,,,"8476",,,,,,,,,,,,,,no
 "1000235",Capitolium,"Jupiter, Juno, Minerva",temple,,Brescia,Brixia,"383603",IT,45.539905,10.225802,"187",S,,,,,,,,,,,god,,,,Vici.org,,Built by Vespasian in AD 73,"8480","444468888",,,,Capitolium_of_Brixia,Q3657072,,,,,,,,no
 "1000236",Temple of Jupiter,Jupiter,temple,,Bidoni,,,IT,40.121441,8.94209,,,,,,,,,,,,,god,,,,Vici.org,,,"8492",,,,,,,,,,,,,,no
 "1000237",Temple B,,temple,,Pietrabbondante,,"433025",IT,41.73999,14.386793,"118",SE,,2nd half 2nd c. BCE,"-149","-100","-2",1st. c. CE,,,,,,Samnite,,yes,Vici.org,,,"10919",,,,,,,,,,,,,,yes
-"1000238",Temple of Hera Lacinia,Hera,temple,Capo Colonna,,,"452356",IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966","452332",,,,,,,,,,,,,no
+"1000238",Temple of Hera Lacinia,Hera,temple,,Capo Colonna,,"452356",IT,39.02651,17.204949,,,,,,,,,,,,,god,,,,Vici.org,,,"10966","452332",,,,,,,,,,,,,no
 "1000239",Temple Complex,,temple,,Pantanello,Metapontum,"442658",IT,40.383694,16.823549,,,,,,,,,,,,,,,,,Vici.org,,,"11201",,,,,,,,,,,,,,no
 "1000240",Temple of Venus Erycina,Venus,temple,,,Segesta,"462487",IT,37.941475,12.832296,"84",E,,,,,,,,,F,,god,,,,Vici.org,,,"11596","963441586",,,place/segesta/segesta-temple,it=Tempio_di_Segesta,,,,,,,,,no
 "1000241",Temple of Diana,,temple,,Ariccia,Aricia,"422844",IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
@@ -273,7 +273,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000274",Sanctuary of Demeter Malophorus,Demeter,temple,,Selinunte,Selinus,"462489",IT,37.586945,12.817137,,,,,,,,,,,,,god,,,,Vici.org,,,"17980",,,,,,,,,,,,,,no
 "1000275",Greek temple,,temple,,Taranto,Tarentum,"442810",IT,40.473709,17.233036,,,,,,,,,,,,,,,,,Vici.org,,,"17981",,,,,,,,,,,,,,no
 "1000276",Temple of Venus,Venus,temple,,Tivoli,Tibur,"423081",IT,41.944672,12.774768,,,,,,,,,,,F,,god,,,,Vici.org,,,"17984",,,,,,,,,,,,,,no
-"1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,,,IT,37.057495,14.89367,,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,no
+"1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,Acrae,,IT,37.057495,14.89367,,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,no
 "1000278",Sanctuary,Hera,temple,,Locri,Locri Epizephiri,"452369",IT,38.211281,16.238371,,,,,,,,,,,,,,,,,Vici.org,,,"17993","629225363",,,,,,,,,,,,,no
 "1000279",Tavole Palatine,Hera,temple,,Tavole Palatine,Metapontum,"442658",IT,40.416199,16.816666,,,,,,,,,,,F,,god,Greek,,,Vici.org,,,"17996","442611","21308",,,Tavole_Palatine,Q3981620,,,,,,404168SHer,,no
 "1000280",Temple 'A',,temple,,Santa Severa,Pyrgi,"433061",IT,42.015289,11.963535,,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
@@ -281,17 +281,17 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000282",Sanctuary of Apollo,,temple,,Santa Severa,Pyrgi,"433061",IT,42.014652,11.964618,,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,no
 "1000283",Temple of Venus Erycina,,temple,,Erice,Eryx,"462201",IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
 "1000284",Talamonaccio,,temple,Poggio Talamonaccio,Telamone,Telamon,"403280",IT,42.551804,11.169796,,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371","254082752",,,,,,,,,,,426112STal,,no
-"1000285",Cult Site,,temple,,Monte S. Martino,,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758",,,,,,,,,,,,,,no
+"1000285",Cult Site,,temple,,Monte S. Martino,,,IT,45.917473,10.817933,,,,,,,,,,,,,,,,,Vici.org,,Luogo die culto preromano e romano,"18758","383713",,,,,,,,,,,,,no
 "1000286",Temple of Clitumnus,,temple,,Pissignano,,,IT,42.842201,12.7569,,,,,,,,,,,,,,,,,Vici.org,,,"19791","413140",,,,Temple_of_Clitumnus,Q3983167,,,,,,,,no
 "1000287",Temple of Flora,,temple,,Madonna della Libera,,,IT,41.305756,14.562722,,,,,,,,,,,F,,concept,,,,Vici.org,,,"19792",,,,,it=Tempio_di_Flora_(Cerreto_Sannita),Q3983249,,,,,,,,no
 "1000288",Temple of the Dioscuri,,temple,,Napoli,Neapolis,"433014",IT,40.85144,14.25683,,,,,,,,,,,,,hero,,,,Vici.org,,,"19793",,,,,,,,,,,,,,no
 "1000289",Temple of Diana Tifatina,Diana,temple,,Sant'Angelo In Formis,,,IT,41.118251,14.260432,"256",W,,,"-399","-300","-4",,,,F,,god,,,,Vici.org,,,"19794","432813","22559",,,,,,,,,,,,yes
 "1000290",Temple,,temple,,Bevagna,Mevania,"413200",IT,42.934608,12.609744,,,,,,,,,,,,,,,,,Vici.org,,,"19799",,,,,,,,,,,,,,no
 "1000291",Temple,,temple,,,Peltuinum,"413247",IT,42.28349,13.623889,"19",N,,,,,,,,,,,,,,,Vici.org,,,"20380",,,,,,,,,,,,,,no
-"1000292",Casentino - Chiesa di Pieve a Socano,,temple,,Castel Focognano,,,IT,43.652519,11.787855,,,,,,,,,,,,,,,,,Vici.org,,Etruscan sanctuary,"20522",,,,,,,,,,,,,,no
+"1000292",Temple,,temple,Castel Focognano,Pieve a Socano,,"413254",IT,43.652519,11.787855,,,,,,,,,,,,,,,,,Vici.org,,Etruscan sanctuary,"20522",,,,,,,,,,,,,,no
 "1000293",Large Temple,,temple,,Luni,Luna,"403235",IT,44.065861,10.01729,"205",SW,,,,,,,,,,,,,,,Vici.org,,,"22164",,,,,,,,,,,,,,
 "1000294",Sanctuary of the Lake of the Idols,,temple,,,,,IT,43.866669,11.683333,,,,,,,,,,,,,,Etruscan,,,Vici.org,,Lago degli Idoli,"22684",,,,,,,,,,,,,,no
-"1000295",Montemignaio,,temple,,La Pieve-molino,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
+"1000295",Temple,,temple,La Pieve-Molino,Montemignaio,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,Poseidonia,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
 "1000297",Temple of Diana,,temple,,Cefalú,Cephaloedium,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
 "1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
@@ -619,7 +619,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,Thugga,"315223",TU,36.422891,9.218169,,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
 "1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,Thugga,"315223",TU,36.422903,9.215682,,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
 "1000623",Temple of Ares,Ares,temple,Agora,Athens,Athens,"579885",GR,37.975546,23.722745,,,,,,,,,,,,,god,,,,topostext,,,,,"46858",,,Temple_of_Ares,Q2405583,,,,,,380237SAre,,
-"1000624",Temple of Jupiter,Jupiter,temple,,Ocriticum,,,IT,42.002993,13.990224,,,,,,,,,,,,,god,,,,topostext,,,,"432886","22897",,,,,,,,,,420140SIov,,
+"1000624",Temple of Jupiter,Jupiter,temple,,Cansano,Ocriticum,,IT,42.002993,13.990224,,,,,,,,,,,,,god,,,,topostext,,,,"432886","22897",,,,,,,,,,420140SIov,,
 "1000625",Temple of Zeus,Jupiter,temple,,,Olympia,"570531",GR,37.63794,21.63042,"83",E,,,,,,,,,M,,god,Greek,,yes,topostext,,,,"316294900","46666",,,"Temple_of_Zeus,_Olympia",Q197019,,,,,,376216SOZe,,yes
 "1000626",Temple of Olympian Zeus,Jupiter,temple,,Athens,Athens,"579885",GR,37.969429,23.733084,"90",E,,,,,,,,,M,,god,Greek,,yes,wikipedia,,,,,,,,"Temple_of_Olympian_Zeus,_Athens",Q1123019,,,,,,380237SOly,,
 "1000627",Temple of Apollo,Apollo,temple,,,Delphi,"540726",GR,38.48225,22.5011,,,,,,,,,,,M,,god,Greek,Doric,yes,topostext,,,,"464482219","46667",,,Temple_of_Apollo_(Delphi),Q10751359,,,,,,385225SApo,,yes
@@ -770,7 +770,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000778",Forum Temple,,temple,,Pratica di Mare,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000779",Temple of Mercury,Mercury,temple,,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
 "1000780",Temple of Genna Cantonis,,temple,,Matzanni,,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
-"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,,"471971",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,Metalla,"471971",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000782",Temple A,,temple,,Pietrabbondante,,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
 "1000783",Temple of Hera,Hera,temple,,Olympia,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
 "1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,Glanum,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
