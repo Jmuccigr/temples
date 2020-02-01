@@ -260,9 +260,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000261",Oratorio di Falaride,,temple,,Agrigento,Akragas,"462086",IT,37.296696,13.58861,,,,,,,,,,,,,,,,,Vici.org,,,"17664",,,,,,,,,,,,,,no
 "1000262",Temple of Demeter,Demeter,temple,,Terraseo,,,IT,39.20137,8.635581,"100",E,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,no
 "1000263",Temple of Victory,Victory,temple,,Imera,Himera,"462244",IT,37.973946,13.82408,,,,,,,,,,,,,concept,,,,Vici.org,,,"17910","37484455",,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,no
-"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,,Ostia,"422995",IT,41.754478,12.28806,"150",SE,,,,,,,,,M/F,,god,Roman,,,Vici.org,,,"17919",,,,,,,,,,,,,,no
-"1000265",Nymphaeum,Nymphs,temple,,,Ostia,"422995",IT,41.757095,12.295577,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"17927",,,,,,,,,,,,,,no
-"1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,,Ostia,"422995",IT,41.753574,12.288665,"329",NW,,Tiberius,"14","37","1",,,,M/F,,"city,emperor",Roman,,yes,Vici.org,,,"17928",,,,,,,,,,,,,https://www.ostia-antica.org/regio1/forum/temprom.htm,yes
+"1000264",Capitolium,"Jupiter, Juno, Minerva",temple,,Ostia Antica,Ostia,"422995",IT,41.754478,12.28806,"150",SE,,,,,,,,,M/F,,god,Roman,,,Vici.org,,,"17919",,,,,,,,,,,,,,no
+"1000265",Nymphaeum,Nymphs,temple,,Ostia Antica,Ostia,"422995",IT,41.757095,12.295577,,,,,,,,,,,F,,god,Roman,,,Vici.org,,,"17927",,,,,,,,,,,,,,no
+"1000266",Temple of Rome and Augustus,"Rome, Augustus",temple,,Ostia Antica,Ostia,"422995",IT,41.753574,12.288665,"329",NW,,Tiberius,"14","37","1",,,,M/F,,"city,emperor",Roman,,yes,Vici.org,,,"17928",,,,,,,,,,,,,https://www.ostia-antica.org/regio1/forum/temprom.htm,yes
 "1000267",Temple 'C',,temple,,Selinunte,Selinus,"462489",IT,37.583237,12.825288,,,,,,,,,,,,,,,,,Vici.org,,,"17972",,,,,,,,,,,,,,no
 "1000268",Temple 'A',,temple,,Selinunte,Selinus,"462489",IT,37.582607,12.825358,,,,,,,,,,,,,,,,,Vici.org,,,"17974",,,,,,,,,,,,,,no
 "1000269",Temple 'B',,temple,,Selinunte,Selinus,"462489",IT,37.58292,12.825808,,,,,,,,,,,,,,,,,Vici.org,,,"17975",,,,,,,,,,,,,,no
