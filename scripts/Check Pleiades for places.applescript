@@ -7,6 +7,7 @@
 set max to 0
 set counter to 0
 set place to ""
+set alreadyDone to {}
 set stopscript to false
 
 if (the clipboard) is not "" then
@@ -35,12 +36,19 @@ if not stopscript then
 		set cleanPlace to (do shell script "echo " & quoted form of cleanPlace & " | xargs")
 		-- Escape the remaining (internal) space characters
 		set cleanPlace to replace(cleanPlace, " ", "%20")
-		if cleanPlace is not "" then
+		-- Keep track of and don't repeat places
+		if (cleanPlace is not "") and (alreadyDone does not contain cleanPlace) then
+			set alreadyDone to alreadyDone & cleanPlace
 			try
 				set testURL to "https://pleiades.stoa.org/places/" & cleanPlace
-				set reply to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
-				-- Result is an error if the URL doesn't give Pleiades' "no idea" response.
-				-- Lots of other reasons for errors, but assuming all is working well, this is the only one we need to worry about.
+				-- Just load places that are only numbers, assuming them to be valid
+				if (do shell script "echo " & cleanPlace & " | perl -pe 's/[0-9]+//g' ") = "" then
+					error 9999
+				else
+					set reply to (do shell script "curl -s '" & testURL & "' 2>/dev/null | grep 'New landing page for places'")
+					-- Result is an error if the URL doesn't give Pleiades' "no idea" response.
+					-- Lots of other reasons for errors, but assuming all is working well, this is the only one we need to worry about.
+				end if
 			on error errMsg number errNum
 				set counter to counter + 1
 				tell application "Safari" -- open a new window if this is the first URL; otherwise use a new tab
