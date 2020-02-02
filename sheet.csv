@@ -290,7 +290,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000291",Temple,,temple,,,Peltuinum,"413247",IT,42.28349,13.623889,"19",N,,,,,,,,,,,,,,,Vici.org,,,"20380",,,,,,,,,,,,,,no
 "1000292",Temple,,temple,Castel Focognano,Pieve a Socano,,"413254",IT,43.652519,11.787855,,,,,,,,,,,,,,,,,Vici.org,,Etruscan sanctuary,"20522",,,,,,,,,,,,,,no
 "1000293",Large Temple,,temple,,Luni,Luna,"403235",IT,44.065861,10.01729,"205",SW,,,,,,,,,,,,,,,Vici.org,,,"22164",,,,,,,,,,,,,,
-"1000294",Sanctuary of the Lake of the Idols,,temple,,,,,IT,43.866669,11.683333,,,,,,,,,,,,,,Etruscan,,,Vici.org,,Lago degli Idoli,"22684",,,,,,,,,,,,,,no
+"1000294",Sanctuary,,temple,Lake of the Idols,,,,IT,43.866669,11.683333,,,,,,,,,,,,,,Etruscan,,,Vici.org,,Lago degli Idoli,"22684",,,,,,,,,,,,,,no
 "1000295",Temple,,temple,La Pieve-Molino,Montemignaio,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,Poseidonia,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
 "1000297",Temple of Diana,,temple,,Cefalú,Cephaloedium,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
@@ -614,8 +614,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,Spalatum,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
 "1000617",Temple of Bacchus,Bacchus,temple,,Heliopolis,,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
 "1000618",Temple of Venus,Venus,temple,,Heliopolis,,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
-"1000619",Temple of Artemis,Artemis,temple,,Gerasa,,"678158",JO,32.281952,35.890922,"116",SE,,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
-"1000620",Temple of Jupiter,Jupiter,temple,,Gerasa,,"678158",JO,32.276571,35.889929,"54",NE,,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
+"1000619",Temple of Artemis,Artemis,temple,,Jerash,Gerasa,"678158",JO,32.281952,35.890922,"116",SE,,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
+"1000620",Temple of Jupiter,Jupiter,temple,,Jerash,Gerasa,"678158",JO,32.276571,35.889929,"54",NE,,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,Thugga,"315223",TU,36.422891,9.218169,,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
 "1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,Thugga,"315223",TU,36.422903,9.215682,,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
 "1000623",Temple of Ares,Ares,temple,Agora,Athens,Athens,"579885",GR,37.975546,23.722745,,,,,,,,,,,,,god,,,,topostext,,,,,"46858",,,Temple_of_Ares,Q2405583,,,,,,380237SAre,,
@@ -685,20 +685,20 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000691",Central Temple,,temple,,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000692",Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000693",Temple,,temple,,,,"678439",JO,32.325681,36.36632,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000695",Cathedral Sanctuary Temple,,temple,,Gerasa,,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000696",Temple C,,temple,,Gerasa,,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000695",Cathedral Sanctuary Temple,,temple,,Jerash,Gerasa,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000696",Temple C,,temple,,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000698",Temple of Augustus,Augustus,temple,,Sebaste,,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000699",Temple of Kore,Kore,temple,,Sebaste,,"678370",PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000700",Temple of Zeus,Zeus,temple,,,,"678147",PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000701",Temple of Hercules,Hercules,temple,,,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000702",Nymphaeum,Nymphs,temple,,,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000701",Temple of Hercules,Hercules,temple,,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000702",Nymphaeum,Nymphs,temple,,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000703",Second Temple,,temple,,Jerusalem,Ierusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
-"1000704",Nabatean Temple,,temple,,,,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000704",Nabatean Temple,,temple,,Dhiban,Dibon,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000705",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000706",Little Temple,,temple,,Rabbat Moab,,"697632",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000706",Little Temple,,temple,,Rabbat Moab,Areopolis,"697632",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000707",Western Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000708",Central Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000709",Little Temple,,temple,,,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000709",Little Temple,,temple,,Dhat Ras,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000710",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000711",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000712",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
