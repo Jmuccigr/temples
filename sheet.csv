@@ -276,8 +276,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000277",Temple of Demeter,Demeter,temple,,Palazzolo Acreide,Acrae,,IT,37.057495,14.89367,,,,,,,,,,,,,god,,,,Vici.org,,"Temple of Demeter, Acrae","17988",,,,,,,,,,,,,,no
 "1000278",Sanctuary,Hera,temple,,Locri,Locri Epizephiri,"452369",IT,38.211281,16.238371,,,,,,,,,,,,,,,,,Vici.org,,,"17993","629225363",,,,,,,,,,,,,no
 "1000279",Tavole Palatine,Hera,temple,,Tavole Palatine,Metapontum,"442658",IT,40.416199,16.816666,,,,,,,,,,,F,,god,Greek,,,Vici.org,,,"17996","442611","21308",,,Tavole_Palatine,Q3981620,,,,,,404168SHer,,no
-"1000280",Temple A,,temple,,Santa Severa,Pyrgi,"433061",IT,42.015289,11.963535,,,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
-"1000281",Temple B,,temple,,Santa Severa,Pyrgi,"433061",IT,42.015129,11.963889,,,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,no
+"1000280",Temple A,,temple,,Santa Severa,Pyrgi,"433061",IT,42.015227,11.963455,"233",SW,,,,,,,,,,,,,,,Vici.org,,,"17997",,,,,,,,,,,,,,no
+"1000281",Temple B,,temple,,Santa Severa,Pyrgi,"433061",IT,42.015064,11.963823,"233",SW,,,,,,,,,,,,,,,Vici.org,,,"17998",,,,,,,,,,,,,,no
 "1000282",Sanctuary of Apollo,,temple,,Santa Severa,Pyrgi,"433061",IT,42.014652,11.964618,,,,,,,,,,,M,,god,,,,Vici.org,,,"17999",,,,,,,,,,,,,,no
 "1000283",Temple of Venus Erycina,,temple,,Erice,Eryx,"462201",IT,38.036556,12.583742,,,,,,,,,,,F,,god,,,,Vici.org,,,"18316",,,,place/eryx,,,,,,,,,,no
 "1000284",Talamonaccio,,temple,Poggio Talamonaccio,Telamone,Telamon,"403280",IT,42.551804,11.169796,,,,,,,,,,,,,,,,,Vici.org,,Etruscan/Roman temple,"18371","254082752",,,,,,,,,,,426112STal,,no
@@ -294,7 +294,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000295",Temple,,temple,La Pieve-Molino,Montemignaio,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,Poseidonia,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
 "1000297",Temple of Diana,,temple,,Cefalú,Cephaloedium,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
-"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419648,11.628294,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
+"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419648,11.628294,"194",S,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
 "1000299",Temple of Hercules,,temple,,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,Faesulae,"413124",IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
 "1000301",Asclepieion,,temple,,,Heloros,"462234",IT,36.841862,15.105948,,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,no
@@ -782,13 +782,13 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000790",Temple,,temple,Poggio Cassetta,Bolsena,Volsinii,"413389",IT,42.656053,11.991613,,,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
 "1000791",Tempietto,,temple,Poggio Moscini,Bolsena,Volsinii,"413389",IT,42.648916,11.984524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "1000792",Temple,,temple,La Civita,Bolsena,Volsinii,"413389",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"1000792",Sanctuary temple,,temple,Fontanile di Legnisina,,Vulci,"413393",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"1000793",Temple,,temple,Vigna Parrocchiale,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"1000794",Temple A,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"1000795",Temple B,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"1000796",Temple,,temple,Sassi Caduti,Civita Castellana,Falerii,"413126",IT,42.292356,12.419688,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
-"1000797",Temple of Apollo,Apollo,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,M,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
-"1000798",Temple of Juno Curritis,Juno,temple,Celle,Civita Castellana,Falerii,"413126",IT,42.296327,12.422116,,,,,,,,,,,F,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
-"1000799",Second Temple,,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
-"1000800",Temple of Apollo Soranus,Apollo,temple,Vignale,Civita Castellana,Falerii,"413126",IT,42.29461,12.425879,,,,Early 5th c. BCE,"-499","-475","-5",,,,M,,god,Faliscan,,no,,,,,,,,,,,,,,,,,,
-"1000801",Temple,,temple,Manganello,Cerveteri,Caere,"422859",IT,42.002596,12.103849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000793",Sanctuary temple,,temple,Fontanile di Legnisina,,Vulci,"413393",IT,,,,,,,,,,,,,,,,Etruscan,,,,,,,,,,,,,,,,,,,,
+"1000794",Temple,,temple,Vigna Parrocchiale,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000795",Temple A,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000796",Temple B,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000797",Temple,,temple,Sassi Caduti,Civita Castellana,Falerii,"413126",IT,42.292356,12.419688,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000798",Temple of Apollo,Apollo,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,M,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000799",Temple of Juno Curritis,Juno,temple,Celle,Civita Castellana,Falerii,"413126",IT,42.296327,12.422116,,,,,,,,,,,F,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000800",Second Temple,,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000801",Temple of Apollo Soranus,Apollo,temple,Vignale,Civita Castellana,Falerii,"413126",IT,42.29461,12.425879,,,,Early 5th c. BCE,"-499","-475","-5",,,,M,,god,Faliscan,,no,,,,,,,,,,,,,,,,,,
+"1000802",Temple,,temple,Manganello,Cerveteri,Caere,"422859",IT,42.002596,12.103849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
