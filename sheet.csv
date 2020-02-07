@@ -294,7 +294,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000295",Temple,,temple,La Pieve-Molino,Montemignaio,,,IT,43.740524,11.621438,,,,,,,,,,,,,,,,,Vici.org,,"Esp. beautifull are the capitals on the pillars, made by local and Lombard artrist - workers","22686",,,,,,,,,,,,,,no
 "1000296",Temple of Athena,Athena,temple,,Paestum,Poseidonia,"442733",IT,40.42453,15.005402,,,,,,,,,,,F,,god,,,,Vici.org,,,"23309",,,,,,,,,,,,,,yes
 "1000297",Temple of Diana,,temple,,Cefalú,Cephaloedium,"462154",IT,38.038563,14.02475,,,,,,,,,,,,,god,,,,Vici.org,,,"23670",,,,,,,,,,,,,,no
-"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419655,11.62843,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
+"1000298",Large Temple,,temple,,,Vulci,"413393",IT,42.419648,11.628294,,,,,,,,,,,,,,Etruscan,,,Vici.org,,,"23894","48210386",,,,,,,,,,,,,no
 "1000299",Temple of Hercules,,temple,,,Vulci,"413393",IT,42.418175,11.631992,,,,,,,,,,,,,hero,Etruscan,,,Vici.org,,Small temple (sacellum) dedicated to Hercules,"23895",,,,,,,,,,,,,,no
 "1000300",Etrusco-Roman temple complex,,temple,,Fiesole,Faesulae,"413124",IT,43.808475,11.292941,,,,,,,,,,,,,,,,,Vici.org,,,"24190",,,,,,,,,,,,,,no
 "1000301",Asclepieion,,temple,,,Heloros,"462234",IT,36.841862,15.105948,,,,,,,,,,,M,,hero,,,,Vici.org,,,"24464",,,,,,,,,,,,,,no
@@ -791,3 +791,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000798",Temple of Juno Curritis,Juno,temple,Celle,Civita Castellana,Falerii,"413126",IT,42.296327,12.422116,,,,,,,,,,,F,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
 "1000799",Second Temple,,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
 "1000800",Temple of Apollo Soranus,Apollo,temple,Vignale,Civita Castellana,Falerii,"413126",IT,42.29461,12.425879,,,,Early 5th c. BCE,"-499","-475","-5",,,,M,,god,Faliscan,,no,,,,,,,,,,,,,,,,,,
+"1000801",Temple,,temple,Manganello,Cerveteri,Caere,"422859",IT,42.002596,12.103849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
