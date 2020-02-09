@@ -642,19 +642,19 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000644",Temple of Nebu,Nebu,temple,,Palmyra,,"668331",SY,34.549753,38.270442,"198",S,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000645",Temple of Baal Shamin,Baal Shamin,temple,,Palmyra,,"668331",SY,34.553315,38.269899,"132",SE,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000646",Temple of Bel,Bel,temple,,Palmyra,,"668331",SY,34.547391,38.274073,"177",S,,1st c CE,,,"1",,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000647",Temple A,,temple,,,,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
-"1000648",Temple B,,temple,,,,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
-"1000649",Temple C,,temple,,,,,LB,34.401158,36.059573,"1",N,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
+"1000647",Temple A,,temple,,Sfireh,,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000648",Temple B,,temple,,Sfireh,,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000649",Temple C,,temple,,Sfireh,,,LB,34.401158,36.059573,"1",N,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000650",Temple,,temple,,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
 "1000651",Main Temple,,temple,,Faqra,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
 "1000652",Temple of Atargatis,Atargatis,temple,,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
-"1000656",Great Temple (A),,temple,,,,,LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
-"1000657",Small Temple (B),,temple,,,,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
-"1000658",Upper Great Temple (A),,temple,,,,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
-"1000659",Upper Small Temple (D),,temple,,,,,LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
+"1000656",Great Temple (A),,temple,,Niha Bekaa,Nihata,"678308",LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
+"1000657",Small Temple (B),,temple,,Niha Bekaa,Nihata,"678308",LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
+"1000658",Upper Great Temple (A),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
+"1000659",Upper Small Temple (D),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
 "1000660",Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,"29013","678349",,,,,,,,,,,,,
 "1000661",Temple for the Imperial Cult,Philip the Arab,temple,,Admedera/Thelsae,,,SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
-"1000663",Temple,,temple,,,,,LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
+"1000663",Temple,,temple,,Ain Harcha,,"678007",LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
 "1000664",Temple,,temple,,Phaena,,,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
 "1000665",Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,,Aere,,"678004",SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
@@ -718,7 +718,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000727",Temple of Mens,Mens,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
 "1000728",Qasr el Banat,,temple,,Chlifa,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
-"1000729",Temple of Apollo,Apollo,temple,,,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
+"1000729",Temple of Apollo,Apollo,temple,,Fourzol,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
 "1000730",Temple,,temple,Tell Qasr Labwe,Qasr Neba,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
 "1000731",Nymphaeum,Nymphs,temple,,,,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
 "1000732",Eastern forum temple,,temple,,,Carsulae,"413065",IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
@@ -792,3 +792,6 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000800",Second Temple,,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
 "1000801",Temple of Apollo Soranus,Apollo,temple,Vignale,Civita Castellana,Falerii,"413126",IT,42.29461,12.425879,,,,Early 5th c. BCE,"-499","-475","-5",,,,M,,god,Faliscan,,no,,,,,,,,,,,,,,,,,,
 "1000802",Temple,,temple,Manganello,Cerveteri,Caere,"422859",IT,42.002596,12.103849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000803",Temple D,,temple,,Sfireh,,,LB,34.402248,36.059261,,,,,,,,,,,,,,,,yes,vici.org,,,"55967",,,,,,,,,,,,,,
+"1000804",Temple E,,temple,,Sfireh,,,LB,34.403366,36.057362,,,,,,,,,,,,,,,,yes,vici.org,,,"27660",,,,,,,,,,,,,,
+"1000805",Temple F - Beit el-Kebir,,temple,,Sfireh,,,LB,34.400406,36.056118,,,,,,,,,,,,,,,,yes,vici.org,,,"27661",,,,,,,,,,,,,,
