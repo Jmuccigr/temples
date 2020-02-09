@@ -612,8 +612,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,Amarynthos,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
 "1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,"609292",TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,"442858431",,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,Spalatum,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
-"1000617",Temple of Bacchus,Bacchus,temple,,Heliopolis,,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
-"1000618",Temple of Venus,Venus,temple,,Heliopolis,,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
+"1000617",Temple of Bacchus,Bacchus,temple,,Baalbek,Heliopolis,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
+"1000618",Temple of Venus,Venus,temple,,Baalbek,Heliopolis,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
 "1000619",Temple of Artemis,Artemis,temple,,Jerash,Gerasa,"678158",JO,32.281952,35.890922,"116",SE,,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
 "1000620",Temple of Jupiter,Jupiter,temple,,Jerash,Gerasa,"678158",JO,32.276571,35.889929,"54",NE,,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
 "1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,Thugga,"315223",TU,36.422891,9.218169,,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
@@ -645,9 +645,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000647",Temple A,,temple,,,,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000648",Temple B,,temple,,,,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
 "1000649",Temple C,,temple,,,,,LB,34.401158,36.059573,"1",N,,,,,,,,,,,,,,yes,Segal2013,,,"27659",,,,,,,,,,,,,,
-"1000650",Temple,,temple,,,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
-"1000651",Main Temple,,temple,,,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
-"1000652",Temple of Atargatis,Atargatis,temple,,,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
+"1000650",Temple,,temple,,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
+"1000651",Main Temple,,temple,,Faqra,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
+"1000652",Temple of Atargatis,Atargatis,temple,,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
 "1000656",Great Temple (A),,temple,,,,,LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
 "1000657",Small Temple (B),,temple,,,,,LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
 "1000658",Upper Great Temple (A),,temple,,,,,LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
@@ -717,9 +717,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000725",Temple of Hora Quirini,Hora Quirini,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,F,,god,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000727",Temple of Mens,Mens,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
-"1000728",Temple,,temple,,Qasr el Banat,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
+"1000728",Qasr el Banat,,temple,,Chlifa,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
 "1000729",Temple of Apollo,Apollo,temple,,,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
-"1000730",Temple,,temple,,,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
+"1000730",Temple,,temple,Tell Qasr Labwe,Qasr Neba,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
 "1000731",Nymphaeum,Nymphs,temple,,,,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
 "1000732",Eastern forum temple,,temple,,,Carsulae,"413065",IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
 "1000733",Main forum temple,,temple,,,Carsulae,"413065",IT,42.639936,12.556755,"89",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
