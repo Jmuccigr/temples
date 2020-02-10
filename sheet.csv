@@ -240,7 +240,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000241",Temple of Diana,,temple,,Ariccia,Aricia,"422844",IT,41.723934,12.710217,,,,,,,,,,,,,god,,,,Vici.org,,,"11609",,,,place/aricia,,,,,,,,417127SDiN,,no
 "1000242",Western forum temple,,temple,,,Carsulae,"413065",IT,42.639541,12.557359,"5",N,,,,,,,,,,,,Roman,,Yes,,,,"11625","721328707",,,,,,,,,,,,,yes
 "1000243",Acropolis,,temple,,Populonia,Populonium,"403212",IT,42.988754,10.5092,,,,,,,,,,,,,,,,,Vici.org,,,"11649",,,,,,,,,,,,,,no
-"1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,Praeneste,"423013",IT,41.838009,12.89152,"195",S,,,,,,,,,,,concept,Italic,,Yes,Vici.org,,,"11650","7963799",,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,Q3949669,,,,,,,,yes
+"1000244",Temple of Fortuna,Fortuna,temple,,Palestrina,Praeneste,"423013",IT,41.840709,12.892591,"195",S,,,,,,,,,,,concept,Italic,,Yes,Vici.org,,,"11650","7963799",,,,Palestrina#Sanctuary_of_Fortuna_Primigenia,Q3949669,,,,,,,,yes
 "1000245",Temple of Minerva,Minerva,temple,,Assisi,Assisium,"413037",IT,43.071224,12.614974,"211",SW,,,,,,,,,F,,god,Roman,,Yes,Vici.org,,,"11658",,,,,"Temple_of_Minerva,_Assisi",Q11836,,,,,,,,yes
 "1000246",Temple of Athena,Athena,temple,,Siracusa,Syracuse,"462503",IT,37.05965,15.29354,,,,,,,,,,,,,god,Greek,,,Vici.org,,Part of the structure is incorporated in Siracusa Cathedral,"11869",,,,,,,,,,,,,,no
 "1000247",Temple of Apollo,Apollo,temple,,Siracusa,Syracuse,"462503",IT,37.063938,15.29297,,,,,,,,,,,M,,god,Greek,,,Vici.org,,,"11870",,,,,,,,,,,,,,no
@@ -795,3 +795,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000803",Temple D,,temple,,Sfireh,,,LB,34.402206,36.059316,,,,,,,,,,,,,,,,yes,vici.org,,,"55967",,,,,,,,,,,,,,
 "1000804",Temple E,,temple,,Sfireh,,,LB,34.403366,36.057362,,,,,,,,,,,,,,,,yes,vici.org,,,"27660",,,,,,,,,,,,,,
 "1000805",Temple F - Beit el-Kebir,,temple,,Sfireh,,,LB,34.400406,36.056118,,,,,,,,,,,,,,,,yes,vici.org,,,"27661",,,,,,,,,,,,,,
+"1000806",Temple of Church of S. Agapito,,temple,,Palestrina,Praeneste,"423013",IT,41.839043,12.892034,,,,,,,,,,,,,,Italic,,yes,,,,,,,,,,,,,,,,,,yes
