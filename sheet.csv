@@ -49,7 +49,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000049",Temple of Jupiter,Jupiter,temple,,Rome,Rome,"423025",IT,41.840026,12.536854,,,,,,,,,,,M,,god,Roman,,,,,DARE,,,"37156",,,,,,,,,,,,
 "1000050",Capitolium,"Jupiter, Juno, Minerva",temple,,Jerusalem,Ierusalem,"687928",IL,31.776306,35.235619,"349",N,,"130","130",,"2",,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000051",Temple of Jupiter Damascenus,Jupiter,temple,,Damascus,Damascus,"678106",SY,33.510833,36.300833,,,,"14","14",,"1",,,,M,,god,Roman,,yes,Segal2013,,,,"245122016",,,,,,,,,,,,,
-"1000052",Temple of Jupiter,Jupiter,temple,,Yarbrud,,,SY,33.966667,36.666667,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000052",Temple of Jupiter,Jupiter,temple,,Yabrud,Iabrouda,"678196",SY,33.966667,36.666667,,,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000053",Temple of Jupiter Heliopolitanus,Jupiter,temple,,Baalbek,Heliopolis,"678179",LB,34.006839,36.203397,"76",E,,"135","135",,"2",,,,M,,god,Roman,,yes,,,,"16415",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-jupiter/,Temple_of_Jupiter_(Roman_Heliopolis),Q21079381,,,,,,,,yes
 "1000054",Temple of Jupiter Anxur,Jupiter,temple,,Terracina,Tarracina,"433143",IT,41.290817,13.260113,"175",S,,,,,,,,,M,,god,Roman,,,,,Coord from Google maps,"10868","433143","42343",,,,Q3983252,,,,,,413133SJAn,,
 "1000055",Temple of Jupiter Conservator,Jupiter,temple,Capitoline Hill,Rome,Rome,"423025",IT,,,,,,,,,,,,,M,,god,Roman,,,Stamper,,,,,,,,,,,,,,,,,
@@ -653,9 +653,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000658",Upper Great Temple (A),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
 "1000659",Upper Small Temple (D),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
 "1000660",Temple,,temple,,Qasr Nemrud,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,"29013","678349",,,,,,,,,,,,,
-"1000661",Temple for the Imperial Cult,Philip the Arab,temple,,Admedera/Thelsae,,,SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
+"1000661",Temple for the Imperial Cult,Philip the Arab,temple,,Ad Dumayr,Thelseai,"678427",SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
 "1000663",Temple,,temple,,Ain Harcha,,"678007",LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
-"1000664",Temple,,temple,,Phaena,,,SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
+"1000664",Temple,,temple,,Elmismya,Phaine,"678328",SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
 "1000665",Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000666",Temple of Tyche,Tyche,temple,,As Sanamayn,Aere,"678004",SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000667",Temple,Baal Shamin,temple,,,,"678215",IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
@@ -676,7 +676,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000682",Temple of Dushara,Dushara,temple,,,Seeia,"678381",SY,,,,,,1st c. BCE,,,"-1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000683",Temple of Baal Shamin,Baal Shamin,temple,,,Seeia,"678381",SY,32.736603,36.624829,"139",SE,,1st c. CE,,,"1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000684",Temple of Zeus and Athena,"Zeus, Athena",temple,,Al-Mushannaf,Nelkomia,"678305",SY,32.742352,36.777199,"94",E,,,,,,,,,M/F,,god,,distylos in antis,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000685",Peripteral Temple,,temple,,Dionysias Soada,,"678119",SY,,,,,,1st c. BCE - 1st c. CE,,,,,,,,,,Nabatean,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000685",Peripteral Temple,,temple,,As Suwayda,Dionysias/Soada,"678119",SY,,,,,,1st c. BCE - 1st c. CE,,,,,,,,,,Nabatean,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000686",West Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000687",East Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000688",Temple,,temple,,,,,SY,,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -796,3 +796,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000804",Temple E,,temple,,Sfireh,,,LB,34.403366,36.057362,,,,,,,,,,,,,,,,yes,vici.org,,,"27660",,,,,,,,,,,,,,
 "1000805",Temple F - Beit el-Kebir,,temple,,Sfireh,,,LB,34.400406,36.056118,,,,,,,,,,,,,,,,yes,vici.org,,,"27661",,,,,,,,,,,,,,
 "1000806",Temple of Church of S. Agapito,,temple,,Palestrina,Praeneste,"423013",IT,41.839043,12.892034,,,,,,,,,,,,,,Italic,,yes,,,,,,,,,,,,,,,,,,yes
+"1000807",Temple,,temple,,Marzabotto,,"393448",IT,44.336366,11.202443,"177",S,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,yes
