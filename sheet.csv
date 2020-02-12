@@ -662,7 +662,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000668",Temple,,temple,,Saura,Saura,"678377",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000669",Kalybe Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000670",Kalybe Temple,,temple,,,,,SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
-"1000671",Kalybe Temple,,temple,,,Maximianopolis,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
+"1000671",Kalybe Temple,,temple,,Sakkaia,Maximianopolis,"678366",SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
 "1000672",Temple,,temple,,,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000673",Hexastyle Temple,,temple,,Shahba,Philippopolis,"678332",SY,32.854603,36.627829,"162",S,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000674",Temple of the Imperial Cult,,temple,,Shahba,Philippopolis,"678332",SY,32.853853,36.626389,"88",E,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -796,4 +796,4 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000804",Temple E,,temple,,Sfireh,,,LB,34.403366,36.057362,,,,,,,,,,,,,,,,yes,vici.org,,,"27660",,,,,,,,,,,,,,
 "1000805",Temple F - Beit el-Kebir,,temple,,Sfireh,,,LB,34.400406,36.056118,,,,,,,,,,,,,,,,yes,vici.org,,,"27661",,,,,,,,,,,,,,
 "1000806",Temple of Church of S. Agapito,,temple,,Palestrina,Praeneste,"423013",IT,41.839043,12.892034,,,,,,,,,,,,,,Italic,,yes,,,,,,,,,,,,,,,,,,yes
-"1000807",Temple,,temple,,Marzabotto,,"393448",IT,44.336366,11.202443,"177",S,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,yes
+"1000807",Temple of Tina,Tina,temple,,Marzabotto,,"393448",IT,44.336366,11.202443,"177",S,,,,,,,,,M,,god,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
