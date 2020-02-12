@@ -137,14 +137,14 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000138",Capitolium,"Jupiter, Juno, Minerva",temple,,Cuma,Cumae,"432808",IT,40.848488,14.057007,"105",E,,"26",,,,,,,M/F,,god,Roman,,yes,,,,"14783",,,,,,,,,,,,,,
 "1000139",Capitolium,"Jupiter, Juno, Minerva",temple,,Verona,Verona,"383816",IT,45.443872,10.996195,"144",SE,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000140",Capitolium,"Jupiter, Juno, Minerva",temple,,Sopron,Scarbantia,"197501",HU,47.68489,16.58305,"208",SW,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
-"1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,,Constantinople,"520998",TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
+"1000141",Capitolium,"Jupiter, Juno, Minerva",temple,,Istanbul,Constantinople,"520998",TR,41.013342,28.956067,,,,"330","330",,,,,,M/F,,god,Roman,,no,,,,,,,,,,,,,,,,,,
 "1000142",Temple of Augustus,"Augustus, Rome",temple,,Pula,Pola,"197448",HR,44.870213,13.841842,"156",SE,,,"-2","14","1",,,,M/F,,"emperor, city",Roman,,yes,,,,,"391553443",,,,"Temple_of_Augustus,_Pula",Q770030,,,,,,,,
 "1000143",Temple of Augustus,,temple,,Barcelona,Colonia Barcino,"246343",ES,41.383351,2.177103,"314",NW,,1st c. BCE,,,"-1",,,,M,,emperor,Roman,,yes,,,,,"592223249",,,,"Temple_of_Augustus,_Barcelona",Q3819019,,,,,,,,
 "1000144",Temple of Augustus,Augustus,temple,,Pozzuoli,Puteoli,"432815",IT,40.821276,14.120447,"178",S,,,,,"1",,,,M,,emperor,Roman,,yes,,,,,"390040629",,,,,,,,,,,,,
-"1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000146",Unknown,,temple,,,Althiburos,"324664",TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000145",Capitolium,"Jupiter, Juno, Minerva",temple,,Dahmani,Althiburos,"324664",TN,35.873886,8.785101,"43",NE,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000146",Unknown,,temple,,Dahmani,Althiburos,"324664",TN,35.874468,8.785616,"224",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000147",Temple of Minerva,Minerva,temple,,Tebessa,Theveste,"324831",DZ,35.404638,8.122492,"121",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
-"1000148",Temple A,"Apollo, Artemis, Aphrodite",temple,,,Laodicea on the Lycus,"638955",TR,37.836269,29.109676,"27",NE,,2nd c. CE,,,"2",,,,M/F,,god,Roman,,yes,,,,"18182",,,,,,,,,,,,,,
+"1000148",Temple A,"Apollo, Artemis, Aphrodite",temple,,Goncalı,Laodicea on the Lycus,"638955",TR,37.836269,29.109676,"27",NE,,2nd c. CE,,,"2",,,,M/F,,god,Roman,,yes,,,,"18182",,,,,,,,,,,,,,
 "1000149",Temple of Trajan,Trajan,temple,,Bergama,Pergamum,"550812",TR,39.132812,27.183256,"201",S,,2nd c. CE,,,"2",,,,M,,emperor,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000150",Temple of Dionysus,Dionysus,temple,,Bergama,Pergamum,"550812",TR,39.132283,27.182573,"166",S,,early 3rd c. CE,,,"3",,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000151",Temple of Consus,Consus,temple,Aventine,Rome,Rome,"423025",IT,,,,,"-272","-272","-272","-218","-3",,,,M,December 12,god,Roman,,no,Ziolkowski,,,,,,,,,,,,,,,,,
@@ -220,9 +220,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000221",Temple L,,temple,,Agrigento,Akragas,"462086",IT,37.291043,13.581401,"77",E,,late 5th c. BCE,,,"-5",,,,,,,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000222",Temple of Demeter,,temple,,Agrigento,Akragas,"462086",IT,37.299241,13.603379,"123",SE,,ca. 480-470 BCE,,,"-5",,,,,,god,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000223",Temple of Isis,,temple,,Agrigento,Akragas,"462086",IT,37.298272,13.589222,"167",S,,late 1st c. BCE,,,"-1",,,,,,god,Roman,,Yes,,,,,,,,,,,,,,,,,,
-"1000224",Temple of Poseidon,Neptune,temple,,,Sounion,"580107",GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
-"1000225",Temple of Athena,Minerva,temple,,,Sounion,"580107",GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
-"1000226",Heroon of Phrontis,Phrontis,temple,,,Sounion,"580107",GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
+"1000224",Temple of Poseidon,Neptune,temple,,Sounio,Sounion,"580107",GR,37.650153,24.024573,"103",E,,444-440 BCE,,,"-5",,,,M,,god,Greek,,Yes,Wikipedia,,,,,,,,Temple_of_Poseidon_at_Sounion,Q49819204,,,,,,377240SSou,,
+"1000225",Temple of Athena,Minerva,temple,,Sounio,Sounion,"580107",GR,37.652933,24.027015,"98",E,,470 BCE,,,"-5",1st c. CE,,,F,,god,Greek,,Yes,,,,,,,,,,Q24204542,,,,,,377240SAth,,
+"1000226",Heroon of Phrontis,Phrontis,temple,,Sounio,Sounion,"580107",GR,37.653068,24.02716,"102",E,,5th c. BCE,,,"-5",,,,M,,hero,Greek,,Yes,,,,,,,,,,,,,,,,,,
 "1000227",Capitolium,"Jupiter, Juno, Minerva",temple,,Terracina,Tarracina,"433143",IT,41.29215,13.248628,"224",SW,,,,,,,,,M/F,,god,Roman,,Yes,Wikipedia,,,"19795",,,,,,Q30524229,,,,,,,,
 "1000228",Church of San Cesareo,,temple,,Terracina,Tarracina,"433143",IT,41.291923,13.248411,"132",SE,,,,,,,,,,,,Roman,,Yes,PECS,,,"19797",,,,,,,,,,,,,,
 "1000229",Temple of Apollo,Apollo,temple,,Pompei,Pompeii,"433032",IT,40.749257,14.484377,"155",SE,,,,,,,,,M,,god,,,yes,Vici.org,,,"4349","780913480",,,,Temple_of_Apollo_(Pompeii),Q2699249,,,,,,,,
@@ -492,9 +492,9 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000494",Temples,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
 "1000495",Temple of the Matrons,,temple,Görresburg,Nettersheim,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
 "1000496",Temple,,temple,Görresburg,Nettersheim,,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
-"1000497",Weihetempel,,temple,,,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
+"1000497",Weihetempel,,temple,,Ernzen,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
 "1000498",Juddekirchhof,,temple,Sarresdorf,Gerolstein,,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
-"1000499",Temple of Sirona,Sirona,temple,,,,,DE,49.864198,7.232936,,,,,,,,,,,,,,Gallo-Roman,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697","109046",,,,,,,,,,,,,yes
+"1000499",Temple of Sirona,Sirona,temple,,Hochscheid,,,DE,49.864198,7.232936,,,,,,,,,,,,,,Gallo-Roman,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697","109046",,,,,,,,,,,,,yes
 "1000500",Roman temple building Auf Borstadt - Schleidweiler,,temple,,,,,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,no
 "1000501",Temple,,temple,Otzenhausen,Hermeskeil,,"109042",DE,49.642498,6.925347,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Gusenburg -point imported from roscheiderhof.de,"5700",,,,,,,,,,,,,,no
 "1000502",Roman temple building,,temple,,,,,DE,50.151859,6.843915,,,,,,,,,,,,,,,,,,,Römische Tempelanlage - Schalkenmehren -point imported from roscheiderhof.de,"5701",,,,,,,,,,,,,,no
@@ -683,8 +683,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000689",Temple for the Imperial Cult,,temple,,Bosra,Bostra,"678073",SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
 "1000690",Temple on the Tel,,temple,,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000691",Central Temple,,temple,,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000692",Temple,,temple,,Il-Umta'iyeh,,,JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000693",Temple,,temple,,,,"678439",JO,32.325681,36.36632,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000692",Temple,,temple,,Elemtaih,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,Segal: Il-Umta'iyeh in JO,,,,,,,,,,,,,,,
+"1000693",Temple,,temple,,Umm El-Jimal,,"678439",JO,32.325681,36.36632,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000695",Cathedral Sanctuary Temple,,temple,,Jerash,Gerasa,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000696",Temple C,,temple,,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000698",Temple of Augustus,Augustus,temple,,Sabastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
@@ -694,14 +694,14 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000702",Nymphaeum,Nymphs,temple,,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000703",Second Temple,,temple,,Jerusalem,Ierusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
 "1000704",Nabatean Temple,,temple,,Dhiban,Dibon,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000705",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000705",Nabatean Temple,,temple,,Qasr Raba,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000706",Little Temple,,temple,,Rabbat Moab,Areopolis,"697632",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000707",Western Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000708",Central Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000707",Western Temple,,temple,,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000708",Central Temple,,temple,,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000709",Little Temple,,temple,,Dhat Ras,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000710",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000711",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
-"1000712",Nabatean Temple,,temple,,,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000710",Nabatean Temple,,temple,,Mahaiy,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000711",Nabatean Temple,,temple,,Khirbet edh-Dharih,,"697683",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000712",Nabatean Temple,,temple,,Tawaneh,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000713",Temple of the Winged Lions,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000714",Nabatean Temple,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000715",Great Temple,,temple,Great Temple Sanctuary,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
