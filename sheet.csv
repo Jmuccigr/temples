@@ -513,18 +513,18 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000515",Temple area,,temple,,Heckenmünster,,,DE,49.89975,6.787938,,,,,,,,,,,,,,,,,,,Tempelbezirk - Heckenmünster -point imported from roscheiderhof.de,"5715","109034",,,,,,,,,,,,,no
 "1000516",Temple area,,temple,Hinzerath,Morbach,Belginum,"108802",DE,49.855228,7.165844,,,,,,,,,,,,,,,,,,,Tempelbezirk - Hinzerath -point imported from roscheiderhof.de,"5716",,,,,,,,,,,,,,no
 "1000517",Temple Sanctuary,,temple,Butzweiler,Newel,,"109203",DE,49.809135,6.606158,,,,,,,,,,,,,,,,,,,Tempelheiligtum - Butzweiler -point imported from roscheiderhof.de,"5717",,,,,,,,,,,,,,no
-"1000518",Presumed temple area,,temple,,,,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
-"1000519",Presumed temple area,,temple,,,,,DE,49.888115,6.518048,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de,"5720",,,,,,,,,,,,,,no
-"1000520",Presumed temple area,,temple,,,,,DE,49.948616,6.576705,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Röhl -point imported from roscheiderhof.de,"5721",,,,,,,,,,,,,,no
-"1000521",Vermutete Tempelbauten,,temple,,,,,DE,50.032089,6.695539,,,,,,,,,,,,,,,,,,,Vermutete Tempelbauten - Oberkail -point imported from roscheiderhof.de,"5722",,,,,,,,,,,,,,no
-"1000522",Vermuteter Tempel,,temple,,,,,DE,50.040829,7.073928,,,,,,,,,,,,,,,,,,,Vermuteter Tempel - Bengel -point imported from roscheiderhof.de,"5723",,,,,,,,,,,,,,no
-"1000523",Vermutetes römisches Heiligtum - Tempelhof,,temple,,,,,DE,49.965935,6.390636,,,,,,,,,,,,,,,,,,,Vermutetes römisches Heiligtum - Tempelhof -point imported from roscheiderhof.de,"5724",,,,,,,,,,,,,,no
-"1000524",Überreste eines Tempels - Grindelborn,,temple,,,,,DE,50.141296,6.631656,,,,,,,,,,,,,,,,,,,Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de,"5725",,,,,,,,,,,,,,no
+"1000518",Presumed temple area,,temple,,Aach,,,DE,49.779331,6.582847,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Aach -point imported from roscheiderhof.de,"5719",,,,,,,,,,,,,,no
+"1000519",Presumed temple area,,temple,,Meckel,,,DE,49.888115,6.518048,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Meckel -point imported from roscheiderhof.de,"5720",,,,,,,,,,,,,,no
+"1000520",Presumed temple area,,temple,,Röhl,,,DE,49.948616,6.576705,,,,,,,,,,,,,,,,,,,Vermutete Tempelanlage - Röhl -point imported from roscheiderhof.de,"5721",,,,,,,,,,,,,,no
+"1000521",Presumed temple area,,temple,,Oberkail,,,DE,50.032089,6.695539,,,,,,,,,,,,,,,,,,,Vermutete Tempelbauten - Oberkail -point imported from roscheiderhof.de,"5722",,,,,,,,,,,,,,no
+"1000522",Presumed temple,,temple,,Bengel,,,DE,50.040829,7.073928,,,,,,,,,,,,,,,,,,,Vermuteter Tempel - Bengel -point imported from roscheiderhof.de,"5723",,,,,,,,,,,,,,no
+"1000523",Presumed Roman sanctuary,,temple,,Mülbach,,,DE,49.965935,6.390636,,,,,,,,,,,,,,,,,,,Vermutetes römisches Heiligtum - Tempelhof -point imported from roscheiderhof.de,"5724",,,,,,,,,,,,,,no
+"1000524",Temple remains,,temple,Grindelborn,Mürlenbach,,,DE,50.141296,6.631656,,,,,,,,,,,,,,,,,,,Überreste eines Tempels - Grindelborn -point imported from roscheiderhof.de,"5725",,,,,,,,,,,,,,no
 "1000525",Temple and burial precinct,,temple,Butzweiler,Newel,,"109203",DE,49.810493,6.60087,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel und Gräberbezirk - Newel -point imported from roscheiderhof.de,"6087",,,,,,,,,,,,,,no
-"1000526",Temple area,,temple,,,,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
+"1000526",Temple area,,temple,,Homburg,,,DE,49.297417,7.2925,,,,,,,,,,,,,,Gallo-Roman,,,,,,"6324",,,,,,Q1492512,,,,,,,,no
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,Confluentes,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
-"1000528",Temple area,Mars-Lenus,temple,,,,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
-"1000529",Sanctuary - Temple,,temple,,,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
+"1000528",Temple area,Mars-Lenus,temple,,Pommern,,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
+"1000529",Sanctuary - Temple,,temple,,Taunusstein,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
 "1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,,,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Bergheiligtum auf dem Calmont,,temple,,,,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
