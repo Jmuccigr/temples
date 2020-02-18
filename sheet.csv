@@ -206,7 +206,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000207",Temple,,temple,,Great Bulmore,,"972561590",UK,51.61875,-2.927248119,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"43021",,,,
 "1000208",Temple,,temple,,Caersws,,"79363",UK,52.5169,-3.428691514,,,,,,,,,,,,,,Romano-Celtic,,,The Rural Settlement of Roman Britain,,,,,,,,,,,,,"45019",,,,yes
 "1000209",Temple of Saturn,Saturn,temple,,Dougga,Thugga,"315223",TN,36.42555,9.22063,"109",E,,,,,,,,,M,,god,Roman,,,,,,"11588",,,,,,,,,,,,,,
-"1000210",Temple of Saturn,Saturn,temple,,,Thuburbo Majus,"315220",TN,36.400753,9.907412,"132",SE,,,,,,,,,M,,god,Roman,,,,,,"31251",,,,,,,,,,,,,,
+"1000210",Temple of Saturn,Saturn,temple,,El Fahs,Thuburbo Majus,"315220",TN,36.400753,9.907412,"132",SE,,,,,,,,,M,,god,Roman,,,,,,"31251",,,,,,,,,,,,,,
 "1000211",Temple of Saturn,Saturn,temple,,Tiddis,Tiddis,"305167",DZ,36.463333,6.483889,"75",E,,,,,,,,,M,,god,Roman,,,,,,,,,,,,,,,,,,,,
 "1000212",Temple of Hercules,Hercules,temple,,Amman,Philadelphia,"697728",JO,31.9538,35.9349,"76",E,,,"162",,"2","166",,,M,,hero,Roman,,,Wikipedia,,,,,,,,Temple_of_Hercules_(Amman),,,,,,,,,
 "1000213",Temple of Herakles,Hercules,temple,,Agrigento,Akragas,"462086",IT,37.290252,13.586221,"89",E,,,,,"-6",,,,M,,hero,Greek,,Yes,Wikipedia,,,,,,,,"Temple_of_Heracles,_Agrigento",,,,,,,,,
@@ -608,16 +608,16 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000610",Temple ruins,,temple,,Bonn,Bonna,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
 "1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,,DE,51.367516,6.611508,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple,,temple,,Regensburg,Reginum,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
-"1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,Abthugni,,"314843",TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,,Abthugni,"314843",TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,Amarynthos,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
-"1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,,"609292",TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,"442858431",,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
+"1000615",Temple of Zeus,Jupiter,temple,,Aizanoi,Aizanoi,"609292",TR,39.201218,29.609631,,,,,,,,,,,M,,god,Greek,,yes,,,,,"442858431",,,,Aizanoi#Temple_of_Zeus,,,,,,,,,
 "1000616",Temple of Jupiter,Jupiter,temple,,Split,Spalatum,"197524",HR,43.508341,16.439568,,,,,,,,,,,M,,god,Roman,,yes,,,,"18128",,,,,"Temple_of_Jupiter,_Split",Q4501094,,,,,,,,yes
 "1000617",Temple of Bacchus,Bacchus,temple,,Baalbek,Heliopolis,"678179",LB,34.006143,36.203873,"76",E,,,,,,,,,M,,god,Roman,,yes,,,,"7852",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-bacchus/,Temple_of_Bacchus,Q1991217,,,,,,,,yes
 "1000618",Temple of Venus,Venus,temple,,Baalbek,Heliopolis,"678179",LB,34.006021,36.20623,"319",NW,,3rd c. AD,,,"3",,,,F,,god,Roman,,yes,,,,"16416",,,,place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-the-venus/,,,,,,,,,,yes
 "1000619",Temple of Artemis,Artemis,temple,,Jerash,Gerasa,"678158",JO,32.281952,35.890922,"116",SE,,2nd c. AD,,,"2",,,,F,,god,Roman,,yes,wikipedia,,,"11889",,,,,"Temple_of_Artemis,_Jerash",Q2527347,,,,,,,,
 "1000620",Temple of Jupiter,Jupiter,temple,,Jerash,Gerasa,"678158",JO,32.276571,35.889929,"54",NE,,,,,,,,,M,,god,Roman,,yes,wikipedia,,,"11888",,,,,,,,,,,,,,
-"1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,Thugga,"315223",TU,36.422891,9.218169,,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
-"1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,Thugga,"315223",TU,36.422903,9.215682,,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
+"1000621",Capitolium,"Jupiter, Juno, Minerva",temple,,Dougga,Thugga,"315223",TN,36.422891,9.218169,,,,2nd c. AD,,,"2",,,,M/F,,god,Roman,,yes,wikipedia,,,"7877",,,,,,Q11680511,,,,,,,,
+"1000622",Temple of Juno Caelestis,Juno,temple,,Dougga,Thugga,"315223",TN,36.422903,9.215682,,,,,,,,,,,F,,god,Roman,,yes,vici,,,"11586",,,,,es=Templo_de_Juno_Caelestis,Q5397577,,,,,,,,
 "1000623",Temple of Ares,Ares,temple,Agora,Athens,Athens,"579885",GR,37.975546,23.722745,,,,,,,,,,,,,god,,,,topostext,,,,,"46858",,,Temple_of_Ares,Q2405583,,,,,,380237SAre,,
 "1000624",Temple of Jupiter,Jupiter,temple,,Cansano,Ocriticum,,IT,42.002993,13.990224,,,,,,,,,,,,,god,,,,topostext,,,,"432886","22897",,,,,,,,,,420140SIov,,
 "1000625",Temple of Zeus,Jupiter,temple,,,Olympia,"570531",GR,37.63794,21.63042,"83",E,,,,,,,,,M,,god,Greek,,yes,topostext,,,,"316294900","46666",,,"Temple_of_Zeus,_Olympia",Q197019,,,,,,376216SOZe,,yes
@@ -708,7 +708,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000716",Small Temple,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Roman,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000717",Nabatean Temple,Allat,temple,Er-Ram,Iram,,,JO,,,,,,,,,,,,,F,,god,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
 "1000718",Temple of Sol Indiges,Sol,temple,,Pratica di Mare,Lavinium,"422960",IT,41.647847,12.437675,"63",NE,,,,,,,,,M,,nature,Roman,,,Jaia2012,,,,,,,,,,,,,,,,,
-"1000719",Temple of Zeus Labrandeus,Zeus,temple,,Zabranda,,"599745",TR,37.419186,27.819413,"91",E,,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,yes
+"1000719",Temple of Zeus Labrandeus,Zeus,temple,,Labranda,Labraunda,"599745",TR,37.419186,27.819413,"91",E,,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,yes
 "1000720",Temple of Venus Verticordia,Venus,temple,,Rome,Rome,"423025",IT,,,,,,,"-113",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,,,,,,,,,,
 "1000721",Temple of Venus Erycina,Venus,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Capitoline_Hill),Q1888860,,,,,,,,
 "1000722",Temple of Venus Erycina,Venus,temple,Quirinal by the Colline Gate,Rome,Rome,"423025",IT,,,,,,"-181","-181",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Quirinal_Hill),Q3983285,,,,,,,,
