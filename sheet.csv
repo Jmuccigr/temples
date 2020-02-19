@@ -640,4 +640,160 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000642",Semicircular Temple,,temple,,Dwair Reslan,,,SY,34.932012,36.244786,"167",S,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000643",Temple of Allat,Allat,temple,,Palmyra,Palmyra,"668331",SY,34.555001,38.261628,"121",SE,,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
 "1000644",Temple of Nebu,Nebu,temple,,Palmyra,Palmyra,"668331",SY,34.549753,38.270442,"198",S,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
-"1000645",Temple of Baal Shamin,Baal Shamin,temple,,Palmyra,Palmyra,"668331",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000645",Temple of Baal Shamin,Baal Shamin,temple,,Palmyra,Palmyra,"668331",SY,34.553315,38.269899,"132",SE,,,,,,,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000646",Temple of Bel,Bel,temple,,Palmyra,Palmyra,"668331",SY,34.547391,38.274073,"177",S,,1st c CE,,,"1",,,,M,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000647",Temple A,,temple,,Sfireh,,,LB,34.401197,36.059296,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000648",Temple B,,temple,,Sfireh,,,LB,34.401389,36.059231,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000649",Temple C,The Mistress,temple,,Sfireh,,,LB,34.401158,36.059573,"1",N,,,,,,,,,F,,god,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000650",Temple,,temple,,Bziza,,,LB,34.269916,35.821538,"322",NW,,,,,,,,,,,,,,yes,Segal2013,,,"11958","668217","26182",,place/bziza,,,,,,,,,,
+"1000651",Main Temple,,temple,,Faqra,,,LB,33.998414,35.807516,"82",E,,,,,,,,,,,,,,yes,Segal2013,,,,,,,place/faqra/faqra-temple-of-adonis/,,,,,,,,,,
+"1000652",Temple of Atargatis,Atargatis,temple,,Faqra,,,LB,33.997414,35.807748,"69",E,,,,,,,,,F,,god,,,yes,Segal2013,,,,"678039",,,place/faqra/faqra-temple-of-atargatis,,,,,,,,,,
+"1000656",Great Temple (A),,temple,,Niha Bekaa,Nihata,"678308",LB,33.894704,35.962494,"73",E,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44503",,,,,,,,,,,,
+"1000657",Small Temple (B),,temple,,Niha Bekaa,Nihata,"678308",LB,33.895345,35.963265,"339",N,,,,,,,,,,,god,,,yes,Segal2013,,,,,"44504",,,,,,,,,,,,
+"1000658",Upper Great Temple (A),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907276,35.948335,"76",E,,,,,,,,,,,,,,yes,Segal2013,,,"11060",,,,place/nihata-niha/nihata-large-temple/,,,,,,,,,,
+"1000659",Upper Small Temple (D),,temple,,Niha Bekaa,Nihata,"678308",LB,33.907519,35.949082,"154",SE,,,,,,,,,,,,,,yes,Segal2013,,,"27656",,,,place/nihata-niha/nihata-smal-temple/,,,,,,,,,,
+"1000660",Qasr Nemrud,,temple,,Ain El Jaouzeh,,,LB,33.843412,36.303996,,,,,,,,,,,,,,,,yes,Segal2013,,,"29013","678349",,,,,,,,,,,,,
+"1000661",Temple for the Imperial Cult,Philip the Arab,temple,,Ad Dumayr,Thelseai,"678427",SY,33.639765,36.688863,"103",E,,,,,,,,,M/F,,"emperor, family",,,yes,Segal2013,,,,,,,,Temple_of_Zeus_Hypsistos,Q48727440,,,,,,,,
+"1000663",Temple,,temple,,Ain Harcha,,"678007",LB,33.453598,35.790661,"90",E,,,,,,,,,,,,,,yes,Segal2013,,,"27593",,,,,,,,,,,,,,
+"1000664",Temple,,temple,,Elmismya,Phaine,"678328",SY,,,,,,,,,,,,,,,,,,no,Segal2013,,,,,,,,,,,,,,,,,yes
+"1000665",Temple,,temple,,Sahr,,,SY,,,,,,,,,,,,,,,,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000666",Temple of Tyche,Tyche,temple,,As Sanamayn,Aere,"678004",SY,,,,,,2nd c. CE,"191",,"2",,,,F,,concept,,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000667",Temple,Baal Shamin,temple,,Kedesh,,"678215",IL,33.112992,35.533772,"72",E,,,,,,,,,M,,god,,,yes,Segal2013,,,"27505",,,,,,,,,,,,,,
+"1000668",Temple,,temple,,Saura,Saura,"678377",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000669",Kalybe Temple,,temple,,Il-Haiyat,,,SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
+"1000670",Kalybe Temple,,temple,,Umm Iz-Zetun,,"678442",SY,,,,,,3rd c. CE,"282",,"3",,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
+"1000671",Kalybe Temple,,temple,,Sakkaia,Maximianopolis,"678366",SY,,,,,,,,,,,,,,,,,Kalybe,,Segal2013,,,,,,,,,,,,,,,,,
+"1000672",Temple,,temple,,Bourajka,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000673",Hexastyle Temple,,temple,,Shahba,Philippopolis,"678332",SY,32.854603,36.627829,"162",S,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000674",Temple of the Imperial Cult,,temple,,Shahba,Philippopolis,"678332",SY,32.853853,36.626389,"88",E,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000675",Temple,,temple,,Slim,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000676",Temple of Zeus,Zeus,temple,,Qanawat,Kanatha,"678082",SY,32.753587,36.616972,"8",N,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000677",Temple of Rabbos,Rabbos,temple,,Qanawat,Kanatha,"678082",SY,32.757202,36.613803,"107",E,,,,,,,,,M,,god,,,,Segal2013,,,"34905",,,,,,,,,,,,,,
+"1000678",Temple C (The Seraya Temple),,temple,,Qanawat,Kanatha,"678082",SY,32.75422,36.618044,"5",N,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000679",Northern Temple,,temple,,Atil,Atheila,"678040",SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000680",Southern Temple,,temple,,Atil,Atheila,"678040",SY,32.760855,36.582823,"103",E,,2nd c. CE,"151",,"2",,,,,,,,,yes,Segal2013,,,"31055",,,,,,,,,,,,,,
+"1000681",South Temple,,temple,,Sia,Seeia,"678381",SY,,,,,,33 BCE - 55 CE,"-33","55","-1",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000682",Temple of Dushara,Dushara,temple,,Sia,Seeia,"678381",SY,,,,,,1st c. BCE,,,"-1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000683",Temple of Baal Shamin,Baal Shamin,temple,,Sia,Seeia,"678381",SY,32.736603,36.624829,"139",SE,,1st c. CE,,,"1",,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000684",Temple of Zeus and Athena,"Zeus, Athena",temple,,Al-Mushannaf,Nelkomia,"678305",SY,32.742352,36.777199,"94",E,,,,,,,,,M/F,,god,,distylos in antis,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000685",Peripteral Temple,,temple,,As Suwayda,Dionysias/Soada,"678119",SY,,,,,,1st c. BCE - 1st c. CE,,,,,,,,,,Nabatean,,yes,Segal2013,,,,,,,,,,,,,,,,,
+"1000686",West Temple,,temple,,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000687",East Temple,,temple,,Mayamas,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000688",Temple,,temple,,Hobran,,,SY,,,,,,2nd c. CE,"155",,"2",,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000689",Temple for the Imperial Cult,,temple,,Bosra,Bostra,"678073",SY,32.519595,36.482971,"278",W,,3rd c. CE,,,"3",,,,M,,emperor,,,,Segal2013,,,"24495",,,,,,,,,,,,,,
+"1000690",Temple on the Tel,,temple,,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000691",Central Temple,,temple,,Beit She'an,Scythopolis,"678378",IL,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000692",Temple,,temple,,Elemtaih,,,SY,,,,,,,,,,,,,,,,,,,Segal2013,,Segal: Il-Umta'iyeh in JO,,,,,,,,,,,,,,,
+"1000693",Temple,,temple,,Umm El-Jimal,,"678439",JO,32.325681,36.36632,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000695",Cathedral Sanctuary Temple,,temple,,Jerash,Gerasa,"678158",JO,32.280587,35.891607,"115",SE,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000696",Temple C,,temple,,Jerash,Gerasa,"678158",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000698",Temple of Augustus,Augustus,temple,,Sabastia,Sebaste,"678370",PS,,,,,,,,,,,,,M,,emperor,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000699",Temple of Kore,Kore,temple,,Sabastia,Sebaste,"678370",PS,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000700",Temple of Zeus,Zeus,temple,,Mount Gerizim,Gerizein Mons,"678147",PS,,,,,,,,,,,,,M,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000701",Temple of Hercules,Hercules,temple,,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,M,,hero,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000702",Nymphaeum,Nymphs,temple,,Amman,Philadelphia,"697728",JO,,,,,,,,,,,,,F,,god,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000703",Second Temple,,temple,,Jerusalem,Ierusalem,"687928",IL,31.778163,35.235402,,,,,,,,70 CE,,,M,,,Jewish,,,Segal2013,,,,"973646718",,,,Second_Temple,Q728428,,,,,,,,
+"1000704",Nabatean Temple,,temple,,Dhiban,Dibon,"697654",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000705",Nabatean Temple,,temple,,Qasr Raba,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000706",Little Temple,,temple,,Rabbat Moab,Areopolis,"697632",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000707",Western Temple,,temple,,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000708",Central Temple,,temple,,Qasrawet,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000709",Little Temple,,temple,,Dhat Ras,,"697653",JO,,,,,,,,,,,,,,,,,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000710",Nabatean Temple,,temple,,Mahaiy,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000711",Nabatean Temple,,temple,,Khirbet edh-Dharih,,"697683",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000712",Nabatean Temple,,temple,,Tawaneh,,,JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000713",Temple of the Winged Lions,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000714",Nabatean Temple,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000715",Great Temple,,temple,Great Temple Sanctuary,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000716",Small Temple,,temple,,Batra,Petra,"697725",JO,,,,,,,,,,,,,,,,Roman,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000717",Nabatean Temple,Allat,temple,Er-Ram,Iram,,,JO,,,,,,,,,,,,,F,,god,Nabatean,,,Segal2013,,,,,,,,,,,,,,,,,
+"1000718",Temple of Sol Indiges,Sol,temple,,Pratica di Mare,Lavinium,"422960",IT,41.647847,12.437675,"63",NE,,,,,,,,,M,,nature,Roman,,,Jaia2012,,,,,,,,,,,,,,,,,
+"1000719",Temple of Zeus Labrandeus,Zeus,temple,,Labranda,Labraunda,"599745",TR,37.419186,27.819413,"91",E,,,,,,,,,M,,god,Carian,,,,,,,,,,,,,,,,,,,http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html,yes
+"1000720",Temple of Venus Verticordia,Venus,temple,,Rome,Rome,"423025",IT,,,,,,,"-113",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,,,,,,,,,,
+"1000721",Temple of Venus Erycina,Venus,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Capitoline_Hill),Q1888860,,,,,,,,
+"1000722",Temple of Venus Erycina,Venus,temple,Quirinal by the Colline Gate,Rome,Rome,"423025",IT,,,,,,"-181","-181",,"-2",,,,F,,god,Roman,,,Ziolkowski1992,,,,,,,,Temple_of_Venus_Erycina_(Quirinal_Hill),Q3983285,,,,,,,,
+"1000723",Temple of Fortuna Publica,Fortuna,temple,Quirinal inside the Colline Gate,Rome,Rome,"423025",IT,,,,,"-241",-241-219,"-241","-219","-3",,,,F,,concept,Roman,,,Ziolkowski1992,,,,,,,,,,,,,,,,,
+"1000724",Temple of Fortuna Publica citerior,Fortuna,temple,Quirinal inside the Colline Gate,Rome,Rome,"423025",IT,,,,,"-241",-241-219,"-241","-219","-3",,,,F,,concept,Roman,,,Ziolkowski1992,,,,,,,,,,,,,,,,,
+"1000725",Temple of Hora Quirini,Hora Quirini,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,F,,god,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
+"1000726",Temple of Sol Indiges,Sol,temple,Quirinal,Rome,Rome,"423025",IT,,,,,,-292-219,"-292",,"-3",,,,M,,nature,Roman,,no,Ziolkowski1992,,,,,,,,,,,,,,,,,
+"1000727",Temple of Mens,Mens,temple,Capitoline,Rome,Rome,"423025",IT,,,,,,"-215","-215",,"-3",,,,F,June 8,concept,Roman,,no,Platner1929,,,,,,,,,,,,,,,,,
+"1000728",Qasr el Banat,,temple,,Chlifa,,,LB,34.087366,36.118085,,,,,,,,,,,,,,,,,Wikipedia,,,,"668344",,,,"Qasr_el_Banat,_Lebanon",Q7267046,,,,,,,,yes
+"1000729",Temple of Apollo,Apollo,temple,,Fourzol,,,LB,,,,,,,,,,,,,M,,god,Roman,,yes,,,,"27637",,,,,,,,,,,,,,no
+"1000730",Temple,,temple,Tell Qasr Labwe,Qasr Neba,,,LB,33.913388,35.990542,"79",E,,,,,,,,,,,,Roman,,yes,,,,,"678348",,,place/qsarnaba/,,,,,,,,,,yes
+"1000731",Nymphaeum,Nymphs,temple,,Bosra,Bostra,"678073",SY,32.519653,36.482699,"142",SE,,,,,,,,,F,,god,Roman,,yes,,,,"24496",,,,,,,,,,,,,,
+"1000732",Eastern forum temple,,temple,,,Carsulae,"413065",IT,42.639538,12.5575,"5",N,,,,,,,,,,,,Roman,,yes,,,,"11625","721328707",,,,,,,,,,,,,
+"1000733",Main forum temple,,temple,,,Carsulae,"413065",IT,42.639936,12.556755,"89",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000734",Republican Temple,,temple,,Ostia Antica,Ostia,"422995",IT,41.75472,12.289539,"148",SE,,,"-80","-50","-1",,,,,,,,,,,,,,,,,,,,,,,,,,,yes
+"1000735",Temple II of Four Small Temples,Fortuna,temple,,Ostia Antica,Ostia,"422995",IT,41.755696,12.290623,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,yes
+"1000736",Temple III of Four Small Temples,Ceres,temple,,Ostia Antica,Ostia,"422995",IT,41.755648,12.290521,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,god,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,yes
+"1000737",Temple IV of Four Small Temples,Spes,temple,,Ostia Antica,Ostia,"422995",IT,41.755609,12.290436,"149",SE,,early 2nd c. BCE,"-199","-150","-2",,,,F,,concept,Roman,,yes,Vici.org,,Quatro Tempietti,"27361",,,,,,,,,,,,,http://www.ostia-antica.org/regio2/8/8-2.htm,yes
+"1000738",Collegial Temple,,temple,,Ostia Antica,Ostia,"422995",IT,41.753161,12.287807,"60",NE,,Alexander Severus,"222","235","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/10/10-4.htm,yes
+"1000739",Temple of the Forum Baths,,temple,,Ostia Antica,Ostia,"422995",IT,41.753354,12.289632,"139",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/12/12-6.htm,yes
+"1000740",Tetrastyle Temple,,temple,,Ostia Antica,Ostia,"422995",IT,41.753965,12.286321,"151",SE,,late 2nd c. BCE,"-125","-101","-2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-2.htm,yes
+"1000741",Temple of the Round Altar,,temple,,Ostia Antica,Ostia,"422995",IT,41.753646,12.286058,"89",E,,Republican,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio1/15/15-6.htm,yes
+"1000742",Temple of the Magna Mater,Magna Mater,temple,,Ostia Antica,Ostia,"422995",IT,41.752114,12.2903,"52",NE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio4/1/1-1.htm,yes
+"1000743",Temple of Bona Dea,Bona Dea,temple,,Ostia Antica,Ostia,"422995",IT,41.754603,12.291503,"158",S,,2nd c. BCE,"-199","-100","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/10/10-2.htm,yes
+"1000744",Temple of L. Hortensius Heraclida,,temple,,Ostia Antica,Ostia,"422995",IT,41.755478,12.292198,"145",SE,,3rd qu. 3rd c. CE,"251","275","3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,https://www.ostia-antica.org/regio5/12/12-1.htm,yes
+"1000745",Temple of Juno Sospita,Juno Sospita,temple,,Lanuvio,Lanuvium,"422956",IT,,,,,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000746",Temple of S. Pietro,,temple,,Albe,Alba Fucens,"413005",IT,42.07709,13.410732,"70",E,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000747",Temple on the Pettorino Hill,,temple,,Albe,Alba Fucens,"413005",IT,42.080027,13.414105,"232",SW,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000748",Temple,Mihr,temple,,Garni,Gorneae,"863795",AM,40.112555,44.730136,"345",N,,77 CE,"77",,"1",,,,M,,god,Armenian,Ionic,yes,,,,,"976360689","7873",,,Temple_of_Garni,Q684072,,,,,,,,yes
+"1000749",Temple of Spes Vetus,Spes,temple,Esquiine,Rome,Rome,"423025",IT,,,,,,477 BCE,"477",,"5",,,,F,,god,Roman,,no,,,,,,,,,Temple_of_Spes,Q3983282,,,,,,,,
+"1000750",Temple of Jupiter,Jupiter,temple,,Alitlia,Saepinum,"433073",IT,41.433011,14.617842,"218",SW,,,,,,,,,M,,god,Roman,,yes,,,,,"949315840",,,,,,,,,,,,,
+"1000751",Temple,,temple,,Altilia,Saepinum,"433073",IT,41.433276,14.616969,"144",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000752",North Temple of the Antinoeion,,temple,,Tivoli,Tibur,"423081",IT,41.941024,12.773639,"157",SE,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000753",South Temple of the Antinoeion,,temple,,Tivoli,Tibur,"423081",IT,41.940718,12.773825,"337",NW,,,"130","138","2",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000754",Tempietto,,temple,,Terracina,Tarracina,"433143",IT,41.291178,13.260001,"150",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000755",Tempio di Via Pertinace,,temple,,Terracina,Tarracina,"433143",IT,41.2916,13.2497,"224",SW,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000756",Temple of the Divine Julius,Julius Caesar,temple,,Minturno,Minturnae,"432940",IT,41.241967,13.768918,"197",S,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000757",Capitolium,"Jupiter, Juno, Minerva",temple,,Minturno,Minturnae,"432940",IT,41.242033,13.768104,"201",S,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,it=Capitolium_di_Minturnae,Q3657074,,,,,,,,yes
+"1000758",Temple of Augustus and Rome,"Augustus, Rome",temple,,Minturno,Minturnae,"432940",IT,41.241958,13.768308,"201",S,,,,,,,,,M/F,,"emperor, city",Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000759",Temple of the Divine Julius Caesar,Julius Caesar,temple,,Minturno,Minturnae,"432940",IT,41.241955,13.76892,"199",S,,,,,,,,,M,,hero,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000760",Doric Temple,Athena,temple,,Pompei,Pompeii,"433032",IT,40.748285,14.488007,"116",SE,,6th c. BCE,"-599","-550","-6",,,,F,,god,Etruscan,,yes,,,,,"81187433",,,,it=Tempio_Dorico_(Pompei),Q3983179,,,,,,,,yes
+"1000761",Temple of Venus,Venus,temple,,Pompei,Pompeii,"433032",IT,40.748435,14.483741,"160",S,,,,,,,,,F,,god,Roman,,yes,,,,,"663121962",,,,it=Tempio_di_Venere_(Pompei),Q3983283,,,,,,,,yes
+"1000762",Temple of Isis,Isis,temple,,Pompei,Pompeii,"433032",IT,40.749178,14.48827,"60",NE,,,,,,,,,F,,god,Roman,,yes,,,,,"793723815",,,,Temple_of_Isis_(Pompeii),Q3517528,,,,,,,,yes
+"1000763",Temple of Asclepius,Asclepius,temple,,Pompei,Pompeii,"433032",IT,40.7493,14.488524,"50",NE,,,,,,,,,M,,hero,Roman,,yes,,,,,"83544252",,,,,,,,,,,,,yes
+"1000764",Temple of the Genius of Augustus,Genius of Augustus,temple,,Pompei,Pompeii,"433032",IT,40.749619,14.485245,"250",W,,,,,,,,,M,,emperor,Roman,,yes,,,,,"95873554",,,,,,,,,,,,,yes
+"1000765",Temple of Fortuna Augusta,Fortuna Augusta,temple,,Pompei,Pompeii,"433032",IT,40.75073,14.484442,"241",SW,,,,,,,,,F,,concept,Roman,,yes,,,,,"100249112",,,,it=tempio_della_Fortuna_Augusta,Q3983204,,,,,,,,yes
+"1000766",Capitolium,"Jupiter, Juno, Minerva",temple,,Santa Maria Capua Vetere,Capua,"432754",IT,41.080728,14.253573,,,,,,,,,,,M/F,,god,Roman,,,,,,,,,,,,,,,,,,,,
+"1000767",Temple of Feronia,Feronia,temple,,,Lucus Feroniae,"413184",IT,42.130265,12.597068,"158",S,,late 2nd c. BCE,"-130","-110","-2",,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000768",Temple of Salus,Salus,temple,,,Lucus Feroniae,"413184",IT,42.13035,12.59671,"158",S,,,,,,,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000769",Sanctuary of Fondo Patterelli,,temple,,Santa Maria Capua Vetere,Capua,"432754",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000770",Temple of Fortuna Redux,Fortuna,temple,Campus Martius,Rome,Rome,"423025",IT,,,,,,Domitianic,"81","96","1",,,,F,,concept,Roman,,no,,,,,,,,,,,,,,,,,,
+"1000771",Temple of Juno Moneta,Juno,temple,,Segni,Signia,"423072",IT,41.696927,13.024674,"154",SE,,,,,,,,,F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000772",Temple C,,temple,Campo della Fiera,Orvieto,Fanum Voltumnae,"416806",IT,42.712117,12.09628,"50",NE,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000773",Temple A,,temple,Campo della Fiera,Orvieto,Fanum Voltumnae,"416806",IT,42.712455,12.095583,"104",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000774",Temple B,,temple,Campo della Fiera,Orvieto,Fanum Voltumnae,"416806",IT,42.711072,12.09631,"92",E,,,,,,,,,,,,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
+"1000775",Temple of Castor and Pollux,"Castor, Pollux",temple,,Cori,Cora,"422909",IT,41.641621,12.913103,"220",SW,,,"-99","-50","-1",,,,M,,hero,Roman,,yes,,,,,"426309852",,,,,,,,,,,,,yes
+"1000776",Temple of Hercules,Hercules,temple,,Cori,Cora,"422909",IT,41.642578,12.915771,"174",S,,,"-99","-1","-1",,,,M,,hero,Roman,,yes,,,,,"692947274",,,,,,,,,,,,,yes
+"1000777",Temple under S. Oliva,,temple,,Cori,Cora,"422909",IT,41.643438,12.912941,"187",S,,3rd c. BCE,"-299","-300","-3",,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000778",Forum Temple,,temple,,Pratica di Mare,Lavinium,"422960",IT,41.661239,12.479949,"124",SE,,,,,,,,,,,,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000779",Temple of Mercury,Mercury,temple,,,Tusculum,"423108",IT,41.798197,12.709233,"0",N,,,,,,,,,M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000780",Temple of Genna Cantonis,,temple,,Matzanni,,"93478895",IT,39.37514,8.699043,"100",E,,,,,,,,,,,,Nuraghic,,yes,,,,,,,,,,,,,,,,,,yes
+"1000781",Temple of Antas (Roman),Sardus Pater Babai,temple,,Fluminimaggiore,Metalla,"471971",IT,39.394007,8.500267,"113",SE,,Augustan,,,"-1",,,"1000233",M,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
+"1000782",Temple A,,temple,,Pietrabbondante,,"433025",IT,41.740481,14.387969,"118",SE,,1st half of 2nd c. BCE,"-199","-150","-2",,,,,,,Samnite,,yes,,,,,,,,,,,,,,,,,,yes
+"1000783",Temple of Hera,Hera,temple,,Olympia,Olympia,"570531",GR,37.638858,21.62988,"86",E,,,,,,,,,F,,god,Greek,,yes,,,,,"584889481",,,,"Temple_of_Hera,_Olympia",Q633572,,,,,,376216SOHe,,yes
+"1000784",Large Twin Temple,,temple,,Saint-Rémy-de-Provence,Glanum,"148093",FR,43.773201,4.832722,"80",E,,end 1st c. BCE,"-15","-10","-1",Last quarter 3rd c. CE,,,,,,,,yes,Vici.org,,,,,,,,,,,,,,,,,yes
+"1000785",Temple of Valetudo,Valetudo,temple,,Saint-Rémy-de-Provence,Glanum,"148093",FR,43.772627,4.833131,"253",W,,19 BCE,"-19",,"-1",Last quarter 3rd c. CE,,,F,,concept,Roman,,yes,,,,,,,,,,,,,,,,,,yes
+"1000786",Temple,,temple,,Neung-sur-Beuvron,,,FR,47.514506,1.813998,"282",W,,,,,,,,,,,,Gallo-Roman,,no,,,,,,,,,,,,,,,,,,yes
+"1000787",South temple,,temple,Pied de Bourges,,Clion,"138299",FR,46.946785,1.229261,"90",E,,,,,,,,,,,,Gallo-Roman,,no,Vici.org,,,"16874",,"20503",,,,,,,,,,,,yes
+"1000788",Ionic Temple,,temple,,Vibo Valentia,Vibo Valentia,"452337",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000789",Temple A,,temple,,Altilia,Saepinum,"433073",IT,41.43229,14.617611,"31",NE,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000790",Temple,,temple,Poggio Cassetta,Bolsena,Volsinii,"413389",IT,42.656053,11.991613,,,,,,,,,,,,,,Roman,,,,,,,,,,,,,,,,,,,,yes
+"1000791",Tempietto,,temple,Poggio Moscini,Bolsena,Volsinii,"413389",IT,42.648916,11.984524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000792",Temple,,temple,La Civita,Bolsena,Volsinii,"413389",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000793",Sanctuary temple,,temple,Fontanile di Legnisina,,Vulci,"413393",IT,,,,,,,,,,,,,,,,Etruscan,,,,,,,,,,,,,,,,,,,,
+"1000794",Temple,,temple,Vigna Parrocchiale,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000795",Temple A,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000796",Temple B,,temple,Località Sant'Antonio,Cerveteri,Caere,"422859",IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000797",Temple,,temple,Sassi Caduti,Civita Castellana,Falerii,"413126",IT,42.292356,12.419688,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000798",Temple of Apollo,Apollo,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,M,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000799",Temple of Juno Curritis,Juno,temple,Celle,Civita Castellana,Falerii,"413126",IT,42.296327,12.422116,,,,,,,,,,,F,,god,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000800",Second Temple,,temple,Scasato,Civita Castellana,Falerii,"413126",IT,,,,,,,,,,,,,,,,Faliscan,,,,,,,,,,,,,,,,,,,,
+"1000801",Temple of Apollo Soranus,Apollo,temple,Vignale,Civita Castellana,Falerii,"413126",IT,42.29461,12.425879,,,,Early 5th c. BCE,"-499","-475","-5",,,,M,,god,Faliscan,,no,,,,,,,,,,,,,,,,,,
+"1000802",Temple,,temple,Manganello,Cerveteri,Caere,"422859",IT,42.002596,12.103849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1000803",Temple D,,temple,,Sfireh,,,LB,34.402206,36.059316,,,,,,,,,,,,,,,,yes,vici.org,,,"55967",,,,,,,,,,,,,,
+"1000804",Temple E,,temple,,Sfireh,,,LB,34.403366,36.057362,,,,,,,,,,,,,,,,yes,vici.org,,,"27660",,,,,,,,,,,,,,
+"1000805",Temple F - Beit el-Kebir,,temple,,Sfireh,,,LB,34.400406,36.056118,,,,,,,,,,,,,,,,yes,vici.org,,,"27661",,,,,,,,,,,,,,
+"1000806",Temple of Church of S. Agapito,,temple,,Palestrina,Praeneste,"423013",IT,41.839043,12.892034,,,,,,,,,,,,,,Italic,,yes,,,,,,,,,,,,,,,,,,yes
+"1000807",Temple of Tina,Tina,temple,,Marzabotto,,"393448",IT,44.336366,11.202443,"177",S,,,,,,,,,M,,god,Etruscan,,yes,,,,,,,,,,,,,,,,,,yes
