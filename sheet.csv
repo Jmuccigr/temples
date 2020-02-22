@@ -525,11 +525,11 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,Confluentes,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
 "1000528",Temple area,Mars-Lenus,temple,,Pommern,,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
-"1000530",Temple of Apollo-Grannus,Apollo-Grannus,temple,,Lauingen,Phoebiana,,DE,48.561719,10.409079,"178",S,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
-"1000531",Bergheiligtum auf dem Calmont,,temple,,,,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
+"1000530",Temple of Apollo-Grannus,Apollo-Grannus,temple,,Lauingen,Phoebiana,"118904",DE,48.561719,10.409079,"178",S,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
+"1000531",Mountain Sanctuary,,temple,Calmont,Ediger-Eller,,,DE,50.109138,7.12365,,,,,,,,,,,,,,Gallo-Roman,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205","109214",,,,,Q1408110,,,,,,,,no
-"1000534","Sanctuary of the Matrons ""Vor Hirschberg""",,temple,,Nettersheim,,"109013",DE,50.502647,6.651904,,,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
+"1000534",Sanctuary of the Matrons,,temple,Vor Hirschberg,Nettersheim,,"109013",DE,50.502647,6.651904,"215",SW,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,"109298",DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220","925825061",,,,,Q26706748,,,,,,,,no
 "1000536",Temple,,temple,,,,,DE,47.57542,7.761292,,,,,,,,,,,,,,,,,,,Tempel (Rheinfelden (Baden)),"8249",,,,,,,,,,,,,,no
 "1000537",Cult area,,temple,,Sontheim,,"118966",DE,48.548004,10.290641,,,,,,,,,,,,,,,,,,,,"8264",,,,,,,,,,,,,,no
@@ -539,7 +539,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000541",Lapidarium,,temple,,Steinheim,,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,,,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
 "1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
-"1000544","Wachtturm 10-37b ""Schneidershecke""",,temple,,,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
+"1000544",Wachtturm 10-37b,,temple,Schneidershecke,Mudau,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,,,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
 "1000546",Temple area,,temple,,Kempten,Cambodunum,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
 "1000547",Temple,,temple,,,,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
