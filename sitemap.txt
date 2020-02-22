@@ -794,3 +794,5 @@ http://romeresearchgroup.org/items/1000802
 http://romeresearchgroup.org/items/1000803
 http://romeresearchgroup.org/items/1000804
 http://romeresearchgroup.org/items/1000805
+http://romeresearchgroup.org/items/1000806
+http://romeresearchgroup.org/items/1000807
