@@ -492,7 +492,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000494",Temples,,temple,,Cologne,Colonia Claudia Ara Agrippinensium,"108751",DE,50.934933,6.94602,,,,,,,,,,,,,,Gallo-Roman,,,,,"Gallo-romeinse tempels, gelegen aan de stadmuur.","359",,,,,,,,,,,,,,no
 "1000495",Temple of the Matrons,,temple,Görresburg,Nettersheim,,"109013",DE,50.482342,6.618147,,,,,,,,,,,,,,,,,,,"Matronentempel Nettersheim, Kult für Fruchtbarkeits- und Muttergottheiten","4905",,,,,,,,,,,,,,no
 "1000496",Temple,,temple,Görresburg,Nettersheim,,"109013",DE,50.482292,6.618158,,,,,,,,,,,,,,Gallo-Roman,,,,,Gallorömischer Umgangstempel Görresburg,"4906",,,,,,,,,,,,,,no
-"1000497",Weihetempel,,temple,,Ernzen,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
+"1000497",Temple,Intarabus,temple,,Ernzen,,,DE,49.84346,6.42365,,,,,,,,,,,,,,,,,,,,"4907",,,,,,,,,,,,,,no
 "1000498",Juddekirchhof,,temple,Sarresdorf,Gerolstein,,"597847356",DE,50.230743,6.674787,"148",SE,,,,,,,,,,,,,,,,,Judenkirchhof - Römischer Tempelbezirk - Pelm -point imported from roscheiderhof.de,"5696",,,,,,,,,,,,,,no
 "1000499",Temple of Sirona,Sirona,temple,,Hochscheid,,,DE,49.864198,7.232936,,,,,,,,,,,,,,Gallo-Roman,,,,,Pilgerheiligtum von Hochscheid - Sirona-Tempel - Forsthaus Hochscheid -point imported from roscheiderhof.de,"5697","109046",,,,,,,,,,,,,yes
 "1000500",Roman temple,,temple,Borstadt - Schleidweiler,Zemmer,,,DE,49.885769,6.658008,,,,,,,,,,,,,,,,,,,Römische Tempelanlage Auf Borstadt - Schleidweiler -point imported from roscheiderhof.de,"5699",,,,,,,,,,,,,,no
@@ -525,7 +525,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000527",Temple of Mercury,,temple,Koblenzer Stadtwald,Koblenz,Confluentes,"108903",DE,50.293213,7.570019,,,,,,,,,,,,,god,,,,,,Merkurtempel Koblenz,"8140",,,,,,,,,,,,,,no
 "1000528",Temple area,Mars-Lenus,temple,,Pommern,,,DE,50.17915,7.286287,,,,,,,,,,,,,,,,,,,Tempelbezirk Mars/Lenus,"8141","109252",,,,,Q1234219,,,,,,,,no
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
-"1000530",Apollo-Grannus-Tempel (Faimingen),,temple,,,,,DE,48.561783,10.409117,,,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
+"1000530",Temple of Apollo-Grannus,Apollo-Grannus,temple,,Lauingen,Phoebiana,,DE,48.561719,10.409079,"178",S,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Bergheiligtum auf dem Calmont,,temple,,,,,DE,50.109138,7.12365,,,,,,,,,,,,,,,,,,,,"8182",,"40734",,,,,,,,,,,,no
 "1000532",Spring Sanctuary (Sudelfels),,temple,,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205","109214",,,,,Q1408110,,,,,,,,no
