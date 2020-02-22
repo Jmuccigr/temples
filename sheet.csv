@@ -527,7 +527,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000529",Sanctuary - Temple,,temple,,Taunusstein,,,DE,50.191593,8.204134,,,,,,,,,,,,,,,,,,,,"8144",,,,,,,,,,,,,,no
 "1000530",Temple of Apollo-Grannus,Apollo-Grannus,temple,,Lauingen,Phoebiana,"118904",DE,48.561719,10.409079,"178",S,,,,,,,,,M,,,,,,,,Apollo-Grannus-Tempel,"8179",,,,,,Q618934,,,,,,,,no
 "1000531",Mountain Sanctuary,,temple,Calmont,Ediger-Eller,,,DE,50.109138,7.12365,,,,,,,,,,,,,,Gallo-Roman,,,,,,"8182",,"40734",,,,,,,,,,,,no
-"1000532",Spring Sanctuary (Sudelfels),,temple,,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
+"1000532",Spring Sanctuary,,temple,Sudelfels,,,,DE,49.336136,6.606687,,,,,,,,,,,,,,,,,,,,"8203",,,,,,Q1533630,,,,,,,,no
 "1000533",Temple area,,temple,Pesch,Bad Münstereifel,,,DE,50.533657,6.703,,,,,,,,,,,,,,,,,,,Heidentempel,"8205","109214",,,,,Q1408110,,,,,,,,no
 "1000534",Sanctuary of the Matrons,,temple,Vor Hirschberg,Nettersheim,,"109013",DE,50.502647,6.651904,"215",SW,,,,,,,,,,,,,,,,,Matronenheiligtum,"8206",,,,,,,,,,,,,,no
 "1000535",Mithraeum,Mithras,mithraeum,Halberg,Saarbrücken,,"109298",DE,49.222488,7.02788,,,,,,,,,,,,,,,,,,,,"8220","925825061",,,,,Q26706748,,,,,,,,no
@@ -546,8 +546,8 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000548",Varnenum Temple Complex,,temple,,Aachen,Aquae Granni,"108749",DE,50.729584,6.193684,,,,,,,,,,,,,,,,,,,Tempelbezirk Varnenum,"10018","109411",,,,de=Varnenum,,,,,,,,,no
 "1000549",Mithraeum,Mithras,mithraeum,Gimmeldingen,Neustadt an der Weinstraße,,,DE,49.373943,8.157275,,,,,,,,,,,,,,,,,,,,"10019",,,,,,Q1313072,,,,,,,,no
 "1000550",Mithraeum,Mithras,mithraeum,Wachstein,Theilenhofen,,"118758",DE,49.073357,10.832198,,,,,,,,,,,,,,,,,,,,"10071",,,,,,,,,,,,,,no
-"1000551",Dolichenum,,temple,Pfünz,Walting,Vetoniana,"119020",DE,48.882706,11.263725,,,,,,,,,,,,,,,,,,,,"10087",,,,,,,,,,,,,,no
-"1000552",Bergheiligtum,,temple,,,,,DE,49.543842,7.561576,,,,,,,,,,,,,,,,,,,Bergheiligtum (Jettenbach),"10328",,,,,,,,,,,,,,no
+"1000551",Temple of Jupiter Dolichenum,Jupiter Dolichenum,temple,Pfünz,Walting,Vetoniana,"119020",DE,48.882706,11.263725,,,,,,,,,,,M,,god,,,,,,,"10087",,,,,,,,,,,,,,no
+"1000552",Mountain sanctuary,,temple,,,,,DE,49.543842,7.561576,,,,,,,,,,,,,,,,,,,Bergheiligtum (Jettenbach),"10328",,,,,,,,,,,,,,no
 "1000553",Mithraeum Pons Aeni,Mithras,mithraeum,,,,,DE,47.895569,12.146881,,,,,,,,,,,,,,,,,,,,"10422",,,,,,,,,,,,,,no
 "1000554",Mithraeum,Mithras,mithraeum,,,,,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,no
 "1000555",Temple of Cimbrian Mercury,Mercury,temple,,Heidelberg,,"118731",DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,no
