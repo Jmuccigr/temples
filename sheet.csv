@@ -588,7 +588,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000590",Mithraeum,Mithras,mithraeum,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.659077,6.462894,,,,,,,,,,,,,,,,,,,,"17413",,,,,,,,,,,,,,no
 "1000591",Temple,,temple,,Aachen,Aquae Granni,"108749",DE,50.775005,6.085007,,,,,,,,,,,,,,,,,,,,"18766",,,,,,,,,,,,,,no
 "1000592",Temple,,temple,Straß,Nersingen,,"118867",DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
-"1000593",(K)ein Mithrasheiligtum (Saalburg),Mithras,mithraeum,,,,,DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
+"1000593",Mithraeum,Mithras,mithraeum,,Saalburg,,"109297",DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
 "1000594",Mithraeum,Mithras,mithraeum,,Dieburg,,"118839",DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
 "1000595",Sanctuary,,temple,,Mainz,Mogontiacum,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
 "1000596",Brandopferplatz,,temple,,,,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
@@ -606,7 +606,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000608",Temple,,temple,,Billig,Belgica,"108801",DE,50.613701,6.79086,,,,,,,,,,,,,,,,,,,,"23244",,,,,,,,,,,,,,no
 "1000609",Sanctuary of Isis and Magna Mater,"Isis, Magna Mater",temple,,Mainz,Mogontiacum,"109169",DE,50.001255,8.268003,,,,,"-1",,,,,,F,,god,Roman,,Yes,,,,"23672",,,,pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/,,,,,,,,,,yes
 "1000610",Temple ruins,,temple,,Bonn,Bonna,"108818",DE,50.733246,7.100145,,,,,,,,,,,,,,,,,,,Matronentempel – Bonna – Bonn,"23674",,,,,,,,,,,,,,no
-"1000611",Temple Ulpia Noviomagus,,temple,,Kreis,,,DE,51.367516,6.611508,,,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
+"1000611",Temple Ulpia Noviomagus,,temple,,Elfrath,,,DE,51.367516,6.611508,"67",NE,,,,,,,,,,,,,,,,,Tempel – Gelduba – Gellep,"24560",,,,,,,,,,,,,,no
 "1000612",Temple,,temple,,Regensburg,Reginum,"118929",DE,48.99202,12.069141,,,,,,,,,,,,,,,,,,,Merkurtempel,"26487",,,,,,,,,,,,,,no
 "1000613",Capitolium,"Jupiter, Juno, Minerva",temple,,,Abthugni,"314843",TN,,,"90",E,,,,,,,,,M/F,,god,Roman,,yes,,,,,,,,,,,,,,,,,,
 "1000614",Temple of Artemis Amarysia,Artemis,temple,,Amarynthos,Amarynthos,"579859",GR,38.3871,23.9089,,,,,,,,,,,F,,god,Greek,,,,,,,,,,,,,,,,,,,,
