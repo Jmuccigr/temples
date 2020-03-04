@@ -538,7 +538,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000540",Temple of Diana,,temple,,,,,DE,47.986389,9.053611,,,,,,,,,,,,,god,,,,,,Dianatempel (Meßkirch),"8420",,,,,,,,,,,,,,no
 "1000541",Lapidarium,,temple,,Steinheim,,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,,,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
-"1000543",Bergheiligtum auf dem Beinter Kopf,,temple,,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
+"1000543",Mountain Sanctuary,,temple,Beinter Kopf,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
 "1000544",Wachtturm 10-37b,,temple,Schneidershecke,Mudau,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,,,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
 "1000546",Temple area,,temple,,Kempten,Cambodunum,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
@@ -552,10 +552,10 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000554",Mithraeum,Mithras,mithraeum,,,,,DE,48.150002,7.746531,,,,,,,,,,,,,,,,,,,Mithräum (Riegel am Kaiserstuhl),"10471",,,,,,,,,,,,,,no
 "1000555",Temple of Cimbrian Mercury,Mercury,temple,,Heidelberg,,"118731",DE,49.425861,8.706383,,,,,,,,,,,,,,,,,,,,"10493",,,,,,,,,,,,,,no
 "1000556",Fossa Sanguinis,,temple,,Neuss-Grimmlinghausen,,"109201",DE,51.183834,6.717542,,,,,,,,,,,,,,,,,,,Fossa Sanguinis (Kybele-Kultstätte),"12931",,,,,de=Fossa_Sanguinis,Q1794981,,,,,,,http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette,no
-"1000557","Maienbühl, Riehen",,temple,,,,,DE,47.594391,7.68094,,,,,,,,,,,,,,,,,,,,"13164",,"38834",,,,,,,,,,,,no
+"1000557",Temple,,temple,,"Maienbühl, Riehen",,,CH,47.594391,7.68094,,,,,,,,,,,,,,,,,,,,"13164",,"38834",,,,,,,,,,,,no
 "1000558",Mithraeum,Mithras,mithraeum,Mundelsheim,Besigheim,,,DE,49.008961,9.210657,,,,,,,,,,,,,,,,,,,,"13937",,,,,,,,,,,,,,no
 "1000559",Temple,,temple,,,,,DE,48.496727,10.119792,,,,,,,,,,,,,,,Umgangstempel,,,,Umgangstempel (Langenau),"14194",,,,,,,,,,,,,,no
-"1000560",Mithraeum Arnsburg,Mithras,mithraeum,,,,,DE,50.484314,8.78527,,,,,,,,,,,,,,,,,,,,"14208",,,,,,,,,,,,,,no
+"1000560",Mithraeum,Mithras,mithraeum,,Arnsburg,,"118575",DE,50.484314,8.78527,,,,,,,,,,,,,,,,,,,,"14208",,,,,,,,,,,,,,no
 "1000561",Temple,,temple,Michaelsberg,Cleebronn,,,DE,49.03854,9.04568,,,,,,,,,,,,,,,Umgangstempel,,,,,"14218",,,,,,,,,,,,,,no
 "1000562",Mountain Sanctuary,,temple,,,,,DE,48.407143,8.020556,,,,,,,,,,,,,,,,,,,Bergheiligtum (Gengenbach),"14246",,,,,,,,,,,,,,no
 "1000563",Mithraeum I,Mithras,mithraeum,,,,,DE,49.06266,9.00468,,,,,,,,,,,,,,,,,,,Mithräum I (Güglingen),"14249",,,,,,,,,,,,,,no
@@ -568,7 +568,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000570",Temple area I,,temple,,Rottweil,Arae Flaviae,"118572",DE,48.154785,8.64558,,,,,,,,,,,,,,,,,,,Tempelbezirk I (Rottweil),"14458",,,,,,,,,,,,,,no
 "1000571",Temple area II,,temple,,Rottweil,Arae Flaviae,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
 "1000572",Sanctuary,,temple,,,,,DE,48.814072,9.508077,,,,,,,,,,,,,,,,,,,Heiligtum (Schorndorf),"14465",,,,,,,,,,,,,,no
-"1000573",Merkurheiligtum (Sauhag),,temple,,,,,DE,48.673996,9.293082,,,,,,,,,,,,,,,,,,,,"14482",,,,,,,,,,,,,,no
+"1000573",Temple of Mercury,,temple,Wald Sauhag,Neuhausen auf den Fildern,,,DE,48.673996,9.293082,,,,,,,,,,,,,,,,,,,,"14482",,,,,,,,,,,,,,no
 "1000574",Tempel (Unterböbingen),,temple,,,,,DE,48.817959,9.92597,,,,,,,,,,,,,,,,,,,,"14492",,,,,,,,,,,,,,no
 "1000575",Sanctuary (St. Johann),,temple,,,,,DE,48.952354,8.365316,,,,,,,,,,,,,,,,,,,,"14534",,,,,,,,,,,,,,no
 "1000576",Temple,,temple,,,,,DE,49.013542,9.176175,,,,,,,,,,,,,,,,,,,Tempel (Gemmrigheim),"14596",,,,,,,,,,,,,,no
