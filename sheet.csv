@@ -539,7 +539,7 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000541",Lapidarium,,temple,,Steinheim,,"118974",DE,48.970776,9.286698,,,,,,,,,,,,,,,,,,,Lapidarium (Steinheim / Murr),"8426",,,,,,,,,,,,,,no
 "1000542",Spring Sanctuary,,temple,,,,,DE,49.890659,6.442838,,,,,,,,,,,,,,Roman,,,,,Römisches Quellheiligtum (Holsthum),"8448",,,,,,,,,,,,,,no
 "1000543",Mountain Sanctuary,,temple,Beinter Kopf,,,,DE,50.012611,7.178739,,,,,,,,,,,,,,,,,,,,"9636",,,,,,,,,,,,,,no
-"1000544",Wachtturm 10-37b,,temple,Schneidershecke,Mudau,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
+"1000544",Watchtower 10-37b,,temple,Schneidershecke,Mudau,,,DE,49.550064,9.128879,,,,,,,,,,,,,,,,,,,"Wachtturm 10-37b ""Schneidershecke"" umgebaut zum Tempel","9881",,,,,,,,,,,,,,no
 "1000545",Mithraeum,Mithras,mithraeum,,,,,DE,49.061623,9.005662,,,,,,,,,,,,,,,,,,,Mithräum (Güglingen),"9968",,,,,,,,,,,,,,no
 "1000546",Temple area,,temple,,Kempten,Cambodunum,"187335",DE,47.727634,10.322745,,,,,,,,,,,,,,,,,,,,"9969",,,,,,,,,,,,,,no
 "1000547",Temple,,temple,,,,,DE,47.801346,7.671381,,,,,,,,,,,,,,Roman,Podium,,,,Römischer Podiumstempel (Badenweiler),"9970",,,,,,,,,,,,,,no
@@ -569,29 +569,29 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000571",Temple area II,,temple,,Rottweil,Arae Flaviae,"118572",DE,48.15276,8.645009,,,,,,,,,,,,,,,,,,,Tempelbezirk II (Rottweil),"14459",,,,,,,,,,,,,,no
 "1000572",Sanctuary,,temple,,,,,DE,48.814072,9.508077,,,,,,,,,,,,,,,,,,,Heiligtum (Schorndorf),"14465",,,,,,,,,,,,,,no
 "1000573",Temple of Mercury,,temple,Wald Sauhag,Neuhausen auf den Fildern,,,DE,48.673996,9.293082,,,,,,,,,,,,,,,,,,,,"14482",,,,,,,,,,,,,,no
-"1000574",Tempel (Unterböbingen),,temple,,,,,DE,48.817959,9.92597,,,,,,,,,,,,,,,,,,,,"14492",,,,,,,,,,,,,,no
-"1000575",Sanctuary (St. Johann),,temple,,,,,DE,48.952354,8.365316,,,,,,,,,,,,,,,,,,,,"14534",,,,,,,,,,,,,,no
+"1000574",Temple,,temple,,Unterböbingen,,,DE,48.817959,9.92597,,,,,,,,,,,,,,,,,,,,"14492",,,,,,,,,,,,,,no
+"1000575",Sanctuary,,temple,St. Johann,Ettlingen,,"108971",DE,48.952354,8.365316,,,,,,,,,,,,,,,,,,,,"14534",,,,,,,,,,,,,,no
 "1000576",Temple,,temple,,,,,DE,49.013542,9.176175,,,,,,,,,,,,,,,,,,,Tempel (Gemmrigheim),"14596",,,,,,,,,,,,,,no
 "1000577",Temple on the Kalkarberg,,temple,,Kalkar,Burginatium,"108837",DE,51.728806,6.285232,,,,,,,,,,,,,,,,,,,Sanctuary of the local goddess Vagdavercustis,"14930",,,,,,,,,,,,,,no
 "1000578",Temple,,temple,Altstadt,Miltenberg,,"118845",DE,49.702648,9.236975,,,,,,,,,,,,,,,,,,,Tempel (Miltenberg),"14991",,,,,,,,,,,,,,no
-"1000579",Mithraeum (Ober-Florstadt),Mithras,mithraeum,,,,,DE,50.325161,8.875741,,,,,,,,,,,,,,,,,,,,"15079",,,,,,,,,,,,,,no
-"1000580",Sanctuary (Heidenpütz),,temple,,,,,DE,49.84407,7.072406,,,,,,,,,,,,,,,,,,,,"15092",,,,,,,,,,,,,,no
+"1000579",Mithraeum,Mithras,mithraeum,,Ober-Florstadt,,"118887",DE,50.325161,8.875741,,,,,,,,,,,,,,,,,,,,"15079",,,,,,,,,,,,,,no
+"1000580",Sanctuary,,temple,Heidenpütz,,,,DE,49.84407,7.072406,,,,,,,,,,,,,,,,,,,,"15092",,,,,,,,,,,,,,no
 "1000581",Temple,,temple,,,,,DE,50.356865,6.866581,,,,,,,,,,,,,,,,,,,Tempel (Barweiler),"15544",,,,,,,,,,,,,,no
-"1000582",Sanctuary of Mercury (Gangloff),,temple,,,,,DE,49.653168,7.706888,,,,,,,,,,,,,,,,,,,,"15553",,,,,,,,,,,,,,no
-"1000583",Temple of Mercury (Bingen),Mercury,temple,,,,,DE,49.966831,7.8924,,,,,,,,,,,,,,,,,,,,"15671",,,,,,,,,,,,,,no
+"1000582",Sanctuary of Mercury,,temple,,Gangloff,,,DE,49.653168,7.706888,,,,,,,,,,,,,,,,,,,,"15553",,,,,,,,,,,,,,no
+"1000583",Temple of Mercury,Mercury,temple,,Bingen,Bingium,"108809",DE,49.966831,7.8924,,,,,,,,,,,,,,,,,,,,"15671",,,,,,,,,,,,,,no
 "1000584",Sanctuary,,temple,,Bitburg,Beda,"108798",DE,49.977505,6.526544,,,,,,,,,,,,,,,,,,,Heiligtum (Bitburg),"15674",,,,,,,,,,,,,,no
 "1000585",Temple of the Matronae,Matronae,temple,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.664839,6.444823,"39",NE,,,,,,,,,F,,god,,,,,,Tempel voor de moedergodinnen,"15679",,,,,,,,,,,,,,yes
 "1000586",Temple area,,temple,Brachtendorf,Dünfus,,,DE,50.218475,7.2154,,,,,,,,,,,,,,Gallo-Roman,,,,,,"15681",,,,,,,,,,,,,,no
-"1000587",Temple (Heidenkopf),,temple,,,,,DE,49.434444,7.288409,,,,,,,,,,,,,,,,,,,,"15686",,,,,,,,,,,,,,no
-"1000588",Temple (Lohrsdorf),,temple,,,,,DE,50.552776,7.193636,,,,,,,,,,,,,,,,,,,,"16281",,,,,,,,,,,,,,no
-"1000589",Spring Sanctuary Kasbruch,,temple,,,,,DE,49.337135,7.213664,,,,,,,,,,,,,,Gallo-Roman,,,,,,"16336",,,,,,,,,,,,,,no
+"1000587",Temple,,temple,Heidenkopf,Breitenbach,,,DE,49.434444,7.288409,,,,,,,,,,,,,,,,,,,,"15686",,,,,,,,,,,,,,no
+"1000588",Temple,,temple,,Lohrsdorf,,,DE,50.552776,7.193636,,,,,,,,,,,,,,,,,,,,"16281",,,,,,,,,,,,,,no
+"1000589",Spring Sanctuary,,temple,,Kasbruch,,,DE,49.337135,7.213664,,,,,,,,,,,,,,Gallo-Roman,,,,,,"16336",,,,,,,,,,,,,,no
 "1000590",Mithraeum,Mithras,mithraeum,,Xanten,Colonia Ulpia Traiana,"108896",DE,51.659077,6.462894,,,,,,,,,,,,,,,,,,,,"17413",,,,,,,,,,,,,,no
 "1000591",Temple,,temple,,Aachen,Aquae Granni,"108749",DE,50.775005,6.085007,,,,,,,,,,,,,,,,,,,,"18766",,,,,,,,,,,,,,no
 "1000592",Temple,,temple,Straß,Nersingen,,"118867",DE,48.411995,10.137369,,,,,,,,,,,,,,Gallo-Roman,Umgangstempel,,,,,"18940",,,,,,,,,,,,,,no
 "1000593",Mithraeum,Mithras,mithraeum,,Saalburg,,"109297",DE,50.268448,8.568121,,,,,,,,,,,,,,,,,,,,"19406",,,,,,,,,,,,,,no
 "1000594",Mithraeum,Mithras,mithraeum,,Dieburg,,"118839",DE,49.90197,8.846936,,,,,,,,,,,,,,,,,,,Mithräum (Dieburg),"19431",,,,,,,,,,,,,,no
 "1000595",Sanctuary,,temple,,Mainz,Mogontiacum,"109169",DE,49.985161,8.180348,,,,,,,,,,,,,,Roman,,,,,,"20237",,,,,,,,,,,,,,no
-"1000596",Brandopferplatz,,temple,,,,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
+"1000596",Site of burnt sacrifices,,temple,,Dankelsried,,,DE,48.047626,10.373531,,,,,,,,,,,,,,,,,,,,"20289",,,,,,,,,,,,,,no
 "1000597",Rosmerta Temple,,temple,,Andernach,Antunnacum,"108746",DE,50.439079,7.389761,,,,,,,,,,,,,,,,,,,Rosmerta-Tempel (Andernach),"20349",,,,,,,,,,,,,,no
 "1000598",Temple,,temple,,Neumagen,Noviomagus Treverorum,"109223",DE,49.841267,6.899114,,,,,,,,,,,,,,,,,,,Tempel (Neumagen-Dhron),"20350",,,,,,,,,,,,,,no
 "1000599",Temple,,temple,,,,,DE,49.863735,6.923764,,,,,,,,,,,,,,,,,,,Tempel (Piesport),"20351",,,,,,,,,,,,,,no
