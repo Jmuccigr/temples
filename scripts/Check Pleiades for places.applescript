@@ -12,6 +12,7 @@ set stopscript to false
 
 if (the clipboard) is not "" then
 	set urlList to (do shell script "pbpaste | uniq")
+	set urlCount to number of paragraphs of urlList
 	set urlList to paragraphs of urlList
 else
 	display alert "Nothing to do!" message "There's nothing on the clipboard to work with."
@@ -20,13 +21,17 @@ end if
 
 if not stopscript then
 	repeat until max > 0
-		set reply to (display dialog "How many places do you want to check?" default answer 10)
-		try
-			set max to (the text returned of reply) as integer
-			if max < 1 then display alert "Bad number" message "You need to enter a positive number. Try again!"
-		on error
-			display alert "Bad choice" message "That doesn't appear to be a number. Try again!"
-		end try
+		if urlCount > 10 then
+			set reply to (display dialog "How many places do you want to check?" default answer 10)
+			try
+				set max to (the text returned of reply) as integer
+				if max < 1 then display alert "Bad number" message "You need to enter a positive number. Try again!"
+			on error
+				display alert "Bad choice" message "That doesn't appear to be a number. Try again!"
+			end try
+		else
+			set max to urlCount
+		end if
 	end repeat
 	
 	repeat with place in urlList
