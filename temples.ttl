@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-02-19"  ; 
+    dcterms:modified "2020-03-08"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -5244,7 +5244,7 @@ spatial:C <https://pleiades.stoa.org/places/109013#this> ;
 skos:exactMatch <http://vici.org/vici/4906> ;
 .
 <http://romeresearchgroup.org/items/1000497> a lawd:Place ;
-rdfs:label "Weihetempel (Ernzen)" ;
+rdfs:label "Temple (Ernzen)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.84346"^^xsd:double ; geo:long "6.42365"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5563,17 +5563,19 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/8144> ;
 .
 <http://romeresearchgroup.org/items/1000530> a lawd:Place ;
-rdfs:label "Apollo-Grannus-Tempel (Faimingen)" ;
+rdfs:label "Temple of Apollo-Grannus at Phoebiana" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "48.561783"^^xsd:double ; geo:long "10.409117"^^xsd:double ] ;
+geo:location [ geo:lat "48.561719"^^xsd:double ; geo:long "10.409079"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118904#this> ;
 skos:exactMatch <http://vici.org/vici/8179> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q618934> ;
 .
 <http://romeresearchgroup.org/items/1000531> a lawd:Place ;
-rdfs:label "Bergheiligtum auf dem Calmont" ;
+rdfs:label "Mountain Sanctuary (Ediger-Eller)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.109138"^^xsd:double ; geo:long "7.12365"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5583,7 +5585,7 @@ skos:exactMatch <http://vici.org/vici/8182> ;
 skos:exactMatch <http://dare.ht.lu.se/places/40734> ;
 .
 <http://romeresearchgroup.org/items/1000532> a lawd:Place ;
-rdfs:label "Spring Sanctuary (Sudelfels)" ;
+rdfs:label "Spring Sanctuary" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.336136"^^xsd:double ; geo:long "6.606687"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5604,9 +5606,10 @@ skos:exactMatch <http://pleiades.stoa.org/places/109214> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1408110> ;
 .
 <http://romeresearchgroup.org/items/1000534> a lawd:Place ;
-rdfs:label "Sanctuary of the Matrons \"Vor Hirschberg\" (Nettersheim)" ;
+rdfs:label "Sanctuary of the Matrons (Nettersheim)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.502647"^^xsd:double ; geo:long "6.651904"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -5694,7 +5697,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/8448> ;
 .
 <http://romeresearchgroup.org/items/1000543> a lawd:Place ;
-rdfs:label "Bergheiligtum auf dem Beinter Kopf" ;
+rdfs:label "Mountain Sanctuary" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.012611"^^xsd:double ; geo:long "7.178739"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5703,7 +5706,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/9636> ;
 .
 <http://romeresearchgroup.org/items/1000544> a lawd:Place ;
-rdfs:label "Wachtturm 10-37b \"Schneidershecke\"" ;
+rdfs:label "Watchtower 10-37b (Mudau)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.550064"^^xsd:double ; geo:long "9.128879"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5772,7 +5775,7 @@ spatial:C <https://pleiades.stoa.org/places/118758#this> ;
 skos:exactMatch <http://vici.org/vici/10071> ;
 .
 <http://romeresearchgroup.org/items/1000551> a lawd:Place ;
-rdfs:label "Dolichenum at Vetoniana" ;
+rdfs:label "Temple of Jupiter Dolichenum at Vetoniana" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.882706"^^xsd:double ; geo:long "11.263725"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5782,7 +5785,7 @@ spatial:C <https://pleiades.stoa.org/places/119020#this> ;
 skos:exactMatch <http://vici.org/vici/10087> ;
 .
 <http://romeresearchgroup.org/items/1000552> a lawd:Place ;
-rdfs:label "Bergheiligtum" ;
+rdfs:label "Mountain sanctuary" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.543842"^^xsd:double ; geo:long "7.561576"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5831,10 +5834,10 @@ skos:exactMatch <https://de.wikipedia.org/wiki/Fossa_Sanguinis> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1794981> ;
 .
 <http://romeresearchgroup.org/items/1000557> a lawd:Place ;
-rdfs:label "Maienbühl, Riehen" ;
+rdfs:label "Temple (Maienbühl, Riehen)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "47.594391"^^xsd:double ; geo:long "7.68094"^^xsd:double ] ;
-gn:countryCode "DE" ;
+gn:countryCode "CH" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 skos:exactMatch <http://vici.org/vici/13164> ;
@@ -5859,12 +5862,13 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/14194> ;
 .
 <http://romeresearchgroup.org/items/1000560> a lawd:Place ;
-rdfs:label "Mithraeum Arnsburg" ;
+rdfs:label "Mithraeum (Arnsburg)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.484314"^^xsd:double ; geo:long "8.78527"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118575#this> ;
 skos:exactMatch <http://vici.org/vici/14208> ;
 .
 <http://romeresearchgroup.org/items/1000561> a lawd:Place ;
@@ -5984,7 +5988,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/14465> ;
 .
 <http://romeresearchgroup.org/items/1000573> a lawd:Place ;
-rdfs:label "Merkurheiligtum (Sauhag)" ;
+rdfs:label "Temple of Mercury (Neuhausen auf den Fildern)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.673996"^^xsd:double ; geo:long "9.293082"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -5993,7 +5997,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/14482> ;
 .
 <http://romeresearchgroup.org/items/1000574> a lawd:Place ;
-rdfs:label "Tempel (Unterböbingen)" ;
+rdfs:label "Temple (Unterböbingen)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.817959"^^xsd:double ; geo:long "9.92597"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -6002,12 +6006,13 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/14492> ;
 .
 <http://romeresearchgroup.org/items/1000575> a lawd:Place ;
-rdfs:label "Sanctuary (St. Johann)" ;
+rdfs:label "Sanctuary (Ettlingen)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.952354"^^xsd:double ; geo:long "8.365316"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108971#this> ;
 skos:exactMatch <http://vici.org/vici/14534> ;
 .
 <http://romeresearchgroup.org/items/1000576> a lawd:Place ;
@@ -6046,10 +6051,11 @@ geo:location [ geo:lat "50.325161"^^xsd:double ; geo:long "8.875741"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118887#this> ;
 skos:exactMatch <http://vici.org/vici/15079> ;
 .
 <http://romeresearchgroup.org/items/1000580> a lawd:Place ;
-rdfs:label "Sanctuary (Heidenpütz)" ;
+rdfs:label "Sanctuary" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.84407"^^xsd:double ; geo:long "7.072406"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -6076,12 +6082,13 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/15553> ;
 .
 <http://romeresearchgroup.org/items/1000583> a lawd:Place ;
-rdfs:label "Temple of Mercury (Bingen)" ;
+rdfs:label "Temple of Mercury at Bingium" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.966831"^^xsd:double ; geo:long "7.8924"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108809#this> ;
 skos:exactMatch <http://vici.org/vici/15671> ;
 .
 <http://romeresearchgroup.org/items/1000584> a lawd:Place ;
@@ -6115,7 +6122,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/15681> ;
 .
 <http://romeresearchgroup.org/items/1000587> a lawd:Place ;
-rdfs:label "Temple (Heidenkopf)" ;
+rdfs:label "Temple (Breitenbach)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.434444"^^xsd:double ; geo:long "7.288409"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -6133,7 +6140,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 skos:exactMatch <http://vici.org/vici/16281> ;
 .
 <http://romeresearchgroup.org/items/1000589> a lawd:Place ;
-rdfs:label "Spring Sanctuary Kasbruch" ;
+rdfs:label "Spring Sanctuary (Kasbruch)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "49.337135"^^xsd:double ; geo:long "7.213664"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -6172,12 +6179,13 @@ spatial:C <https://pleiades.stoa.org/places/118867#this> ;
 skos:exactMatch <http://vici.org/vici/18940> ;
 .
 <http://romeresearchgroup.org/items/1000593> a lawd:Place ;
-rdfs:label "(K)ein Mithrasheiligtum (Saalburg)" ;
+rdfs:label "Mithraeum (Saalburg)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.268448"^^xsd:double ; geo:long "8.568121"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/109297#this> ;
 skos:exactMatch <http://vici.org/vici/19406> ;
 .
 <http://romeresearchgroup.org/items/1000594> a lawd:Place ;
@@ -6201,7 +6209,7 @@ spatial:C <https://pleiades.stoa.org/places/109169#this> ;
 skos:exactMatch <http://vici.org/vici/20237> ;
 .
 <http://romeresearchgroup.org/items/1000596> a lawd:Place ;
-rdfs:label "Brandopferplatz" ;
+rdfs:label "Site of burnt sacrifices (Dankelsried)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.047626"^^xsd:double ; geo:long "10.373531"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -6346,9 +6354,10 @@ spatial:C <https://pleiades.stoa.org/places/108818#this> ;
 skos:exactMatch <http://vici.org/vici/23674> ;
 .
 <http://romeresearchgroup.org/items/1000611> a lawd:Place ;
-rdfs:label "Temple Ulpia Noviomagus (Kreis)" ;
+rdfs:label "Temple Ulpia Noviomagus (Elfrath)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.367516"^^xsd:double ; geo:long "6.611508"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "DE" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
