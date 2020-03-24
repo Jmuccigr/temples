@@ -9803,8 +9803,8 @@ var temples =  {
         "ancientplace": "Grumentum",
         "pleiadesplace": "442603",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "311",
+        "compass": "NW",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -9841,8 +9841,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.905277,
-          40.283569
+          15.905447,
+          40.283588
         ]
       }
     },
@@ -9913,8 +9913,8 @@ var temples =  {
         "ancientplace": "Grumentum",
         "pleiadesplace": "442603",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "37",
+        "compass": "NE",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -9951,8 +9951,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.906856,
-          40.285255
+          15.906916,
+          40.285208
         ]
       }
     },
@@ -9968,8 +9968,8 @@ var temples =  {
         "ancientplace": "Grumentum",
         "pleiadesplace": "442603",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "218",
+        "compass": "SW",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -10006,8 +10006,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.907481,
-          40.285954
+          15.907416,
+          40.285797
         ]
       }
     },

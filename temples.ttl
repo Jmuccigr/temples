@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-03-08"  ; 
+    dcterms:modified "2020-03-24"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2702,7 +2702,8 @@ skos:exactMatch <http://vici.org/vici/17499> ;
 <http://romeresearchgroup.org/items/1000257> a lawd:Place ;
 rdfs:label "Temple A at Grumentum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.283569"^^xsd:double ; geo:long "15.905277"^^xsd:double ] ;
+geo:location [ geo:lat "40.283588"^^xsd:double ; geo:long "15.905447"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2722,7 +2723,8 @@ skos:exactMatch <http://vici.org/vici/17601> ;
 <http://romeresearchgroup.org/items/1000259> a lawd:Place ;
 rdfs:label "Temple C at Grumentum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.285255"^^xsd:double ; geo:long "15.906856"^^xsd:double ] ;
+geo:location [ geo:lat "40.285208"^^xsd:double ; geo:long "15.906916"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2732,7 +2734,8 @@ skos:exactMatch <http://vici.org/vici/17602> ;
 <http://romeresearchgroup.org/items/1000260> a lawd:Place ;
 rdfs:label "Temple D at Grumentum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.285954"^^xsd:double ; geo:long "15.907481"^^xsd:double ] ;
+geo:location [ geo:lat "40.285797"^^xsd:double ; geo:long "15.907416"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
