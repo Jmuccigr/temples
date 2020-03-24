@@ -253,10 +253,10 @@ id,name,dedicatee,type,location,modernplace,ancientplace,pleiadesplace,country,l
 "1000254",Temple of Hera,Hera,temple,,Paestum,Poseidonia,"442733",IT,40.419327,15.005457,,,,,,,,,,,F,,god,,,,Vici.org,,,"16774",,,,,,,,,,,,,,yes
 "1000255",Temple of Hera,Hera,temple,,Paestum,Poseidonia,"442733",IT,40.419971,15.005339,,,,,,,,,,,F,,god,,,,Vici.org,,,"16775",,,,,,,,,,,,,,yes
 "1000256",Sanctuary of Minerva,Minerva,temple,,Breno,,,IT,45.954277,10.284884,,,,,,,,,,,F,,god,,,,Vici.org,,,"17499",,,,,,,,,,,,,,no
-"1000257",Temple A,,temple,,Grumento Nova,Grumentum,"442603",IT,40.283569,15.905277,,,,,,,,,,,,,,,,,Vici.org,,,"17600",,,,,,,,,,,,,,no
+"1000257",Temple A,,temple,,Grumento Nova,Grumentum,"442603",IT,40.283588,15.905447,"311",NW,,,,,,,,,,,,,,,Vici.org,,,"17600",,,,,,,,,,,,,,no
 "1000258",Temple B,,temple,,Grumento Nova,Grumentum,"442603",IT,40.283955,15.906185,,,,,,,,,,,,,,,,,Vici.org,,,"17601",,,,,,,,,,,,,,no
-"1000259",Temple C,,temple,,Grumento Nova,Grumentum,"442603",IT,40.285255,15.906856,,,,,,,,,,,,,,,,,Vici.org,,,"17602",,,,,,,,,,,,,,no
-"1000260",Temple D,,temple,,Grumento Nova,Grumentum,"442603",IT,40.285954,15.907481,,,,,,,,,,,,,,,,,Vici.org,,,"17603",,,,,,,,,,,,,,no
+"1000259",Temple C,,temple,,Grumento Nova,Grumentum,"442603",IT,40.285208,15.906916,"37",NE,,,,,,,,,,,,,,,Vici.org,,,"17602",,,,,,,,,,,,,,no
+"1000260",Temple D,,temple,,Grumento Nova,Grumentum,"442603",IT,40.285797,15.907416,"218",SW,,,,,,,,,,,,,,,Vici.org,,,"17603",,,,,,,,,,,,,,no
 "1000261",Oratorio di Falaride,,temple,,Agrigento,Akragas,"462086",IT,37.296696,13.58861,,,,,,,,,,,,,,,,,Vici.org,,,"17664",,,,,,,,,,,,,,no
 "1000262",Temple of Demeter,Demeter,temple,,Terraseo,,,IT,39.20137,8.635581,"100",E,,,,,,,,,,,god,,,,Vici.org,,,"17725",,,,,,,,,,,,392863STer,,no
 "1000263",Temple of Victory,Victory,temple,,Imera,Himera,"462244",IT,37.973946,13.82408,,,,,,,,,,,,,concept,,,,Vici.org,,,"17910","37484455",,,battle/himera-480-bce,Temple_of_Victory_%28Himera%29,,,,,,,,,no
