@@ -48,20 +48,20 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
 #           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
 #			A few names have escaped quotation marks. This retains them.
             labelText = (record['properties']['name'])
-            if record['properties']['ancientplace'] != '':
+            if record['properties'].get('ancientplace') != '' and record['properties'].get('ancientplace') is not None:
                     labelText += ' at ' + record['properties']['ancientplace']
-            elif record['properties']['modernplace'] != '':
+            elif record['properties'].get('modernplace') != '' and record['properties'].get('modernplace') is not None:
                     labelText += ' (' + record['properties']['modernplace'] + ')'
 #           outputText += '"' + labelText + '" ;\n'
             outputText += u'rdfs:label "' + labelText.replace('"', '\\"') + '" ;\n'
 #           outputText += u'rdfs:label "' + (record['properties']['name']).replace('"', '\\"') + '" ;\n'
 #			These are overbroad dates, but better than nothing.
             outputText += u'dcterms:temporal "-750/640" ;\n'
-            if record['geometry']['coordinates'][0] != '':
+            if record['geometry']['coordinates'][0] != '' and record['geometry']['coordinates'][0] is not None:
                 prefLoc = record['geometry']
                 coords = prefLoc['coordinates']
                 outputText += u'geo:location [ geo:lat "' + str(coords[1]) + '"^^xsd:double ; geo:long "' + str(coords[0]) + '"^^xsd:double ] ;\n'
-            if record['properties']['compass'] != '':
+            if record['properties'].get('compass') != '' and record['properties'].get('compass') is not None:
                 dir = record['properties']['compass']
                 if dir == 'N':
                     compassText = '300078759'
@@ -80,40 +80,39 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 else:
                     compassText = '300078812'
                 outputText += 'ov:compassDirection <http://vocab.getty.edu/page/aat/' + compassText + '> ;\n'
-            if record['properties']['country'] != '':
+            if record['properties'].get('country') != '' and record['properties'].get('country') is not None:
                 outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
             outputText += u'dcterms:subject "temple"  ;\n'
             outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
-            if record['properties']['pleiadesplace'] != '':
+            if record['properties'].get('pleiadesplace') != '' and record['properties'].get('pleiadesplace') is not None:
                 outputText += u'spatial:C <https://pleiades.stoa.org/places/' + record['properties']['pleiadesplace'] + '#this> ;\n'
-            if record['properties']['vici'] != '':
-                outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties']['vici'] + '> ;\n'
-            if record['properties']['pleiades'] != '':
+            if record['properties'].get('vici') != '' and record['properties'].get('vici') is not None:
+                outputText += 'skos:exactMatch <http://vici.org/vici/' + record['properties'].get('vici') + '> ;\n'
+            if record['properties'].get('pleiades') != '' and record['properties'].get('pleiades') is not None:
                 outputText += 'skos:exactMatch <http://pleiades.stoa.org/places/' + record['properties']['pleiades'] + '> ;\n'
-            if record['properties']['dare'] != '':
+            if record['properties'].get('dare') != '' and record['properties'].get('dare') is not None:
                 outputText += 'skos:exactMatch <http://dare.ht.lu.se/places/' + record['properties']['dare'] + '> ;\n'
-            if record['properties']['arachne'] != '':
+            if record['properties'].get('arachne') != '' and record['properties'].get('arachne') is not None:
                 outputText += 'skos:exactMatch <https://arachne.dainst.org/entity/' + record['properties']['arachne'] + '> ;\n'
-            if record['properties']['livius'] != '':
+            if record['properties'].get('livius') != '' and record['properties'].get('livius') is not None:
                 outputText += 'skos:exactMatch <http://www.livius.org/articles/place/' + record['properties']['livius'] + '/> ;\n'
-            if record['properties']['digitalesforumromanum'] != '':
+            if record['properties'].get('digitalesforumromanum') != '' and record['properties'].get('digitalesforumromanum') is not None:
                 outputText += 'skos:exactMatch <http://www.digitales-forum-romanum.de/gebaeude/' + record['properties']['digitalesforumromanum'] + '/> ;\n'
-            if record['properties']['trismegistos'] != '':
+            if record['properties'].get('trismegistos') != '' and record['properties'].get('trismegistos') is not None:
                 outputText += 'skos:exactMatch <http://www.trismegistos.org/place/' + record['properties']['trismegistos'] + '> ;\n'
-            if record['properties']['wikipedia'] != '':
+            if record['properties'].get('wikipedia') != '' and record['properties'].get('wikipedia') is not None:
 #             	Some wikilinks from vici.org are to non-English wikipedias. This fixes the URL.
                 wikiText = 'skos:exactMatch <https://en.wikipedia.org/wiki/' + record['properties']['wikipedia'] + '> ;\n'
                 wikiText = re.sub(r"en(\.wikipedia\.org/wiki/)([a-z][a-z])=", r"\2\1", wikiText)
                 outputText += wikiText
-            if record['properties']['wikidata'] != '':
+            if record['properties'].get('wikidata') != '' and record['properties'].get('wikidata') is not None:
                 outputText += 'skos:exactMatch <https://www.wikidata.org/entity/' + record['properties']['wikidata'] + '> ;\n'
-            if record['properties']['ads'] != '':
+            if record['properties'].get('ads') != '' and record['properties'].get('ads') is not None:
                 outputText += 'skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=' + record['properties']['ads'] + '> ;\n'
-            if record['properties']['cona'] != '':
+            if record['properties'].get('cona') != '' and record['properties'].get('cona') is not None:
                 outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
-            if record['properties']['topostext'] != '':
+            if record['properties'].get('topostext') != '' and record['properties'].get('topostext') is not None:
                 outputText += 'skos:exactMatch <https://topostext.org/place/' + record['properties']['topostext'] + '> ;\n'
             outputText += u'.\n'
-
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")
 output.write(outputText)
