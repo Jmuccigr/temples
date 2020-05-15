@@ -61,7 +61,7 @@ These are a combo of shell scripts & AppleScripts with some embedded shell comma
 - The data on temples (and other structures) as well as citations for each structure are maintained in a Google sheet. This is mainly for convenience and will likely not be a long-term solution.
 - Periodically scripts run on my laptop to download the data and convert it to more useful forms than the XML it arrives as. Use `launchctl` to schedule these.
     - `ggl2geojson.sh` does this every hour:
-        1. Download the temples sheet of the spreadsheet as xml
+        1. Download the temples sheet of the spreadsheet as json
         1. Convert that to csv
         1. Save it if it differs from the last saved csv
         1. Also save a few json versions of the same data
