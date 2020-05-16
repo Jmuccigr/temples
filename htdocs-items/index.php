@@ -155,7 +155,7 @@
 			// Define the bounds for the zoomed out map to show all points
 			// Could make this a calculated value based on range of points
 			var
-				bounds = [[45,-10.05],[40.,39.5]];
+				bounds = [[55,-10.05],[30,39.5]];
 			var map = L.map('map', {
 			    minZoom: 3,
 			    zoomSnap: .5,
