@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-05-13"  ; 
+    dcterms:modified "2020-05-16"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8204,4 +8204,17 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/393448#this> ;
+.
+<http://romeresearchgroup.org/items/1000808> a lawd:Place ;
+rdfs:label "Temple of Aphaea at Aegina" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.754343"^^xsd:double ; geo:long "23.533271"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579844#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/579872> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Aphaea> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q596988> ;
 .
