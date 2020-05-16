@@ -39614,6 +39614,61 @@
           44.336366
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000808",
+        "name": "Temple of Aphaea",
+        "dedicatee": "Aphaea",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Egina",
+        "ancientplace": "Aegina",
+        "pleiadesplace": "579844",
+        "country": "GR",
+        "orientation": "70",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "579872",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Aphaea",
+        "wikidata": "Q596988",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.533271,
+          37.754343
+        ]
+      }
     }
   ]
 }
