@@ -10,8 +10,8 @@ apikey=$(cat "/Users/$me/Documents/Academic/Research/google_info/google_api_key.
 dest="/Users/$me/Documents/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
-# Path to include homebrew stuff like ogr2ogr for running via launchctl
-#export PATH="/usr/local/bin:/usr/local/opt/gdal2/bin:$PATH"
+# Path to include homebrew stuff like jq for running via launchctl
+export PATH="/usr/local/bin:$PATH"
 
 # Get google doc as json via the public feed & exit on failure to return any/enough data
 json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/citations!A:AS?key=$apikey")
@@ -27,7 +27,7 @@ if [ "$?" == 0 ]
 then
     json=`echo "$json" | jq -r '.values[][0:4] | @csv // "two"' | tail -n +2 | sort`
 else
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Invalid json received from google" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) Invalid citation json received from google" 1>&2
    exit 0
 fi
 
