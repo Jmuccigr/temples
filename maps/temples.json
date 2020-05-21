@@ -32621,6 +32621,61 @@
           37.754343
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000809",
+        "name": "Belvedere Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Orvieto",
+        "ancientplace": "",
+        "pleiadesplace": "413373",
+        "country": "IT",
+        "orientation": "136",
+        "compass": "SE",
+        "vowed": "",
+        "date": "5th c BCE",
+        "startdateearly": "-499",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "639959859",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "it=Tempio_del_Belvedere",
+        "wikidata": "Q3517663",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119812,
+          42.722573
+        ]
+      }
     }
   ]
 }

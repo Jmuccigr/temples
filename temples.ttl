@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-05-16"  ; 
+    dcterms:modified "2020-05-21"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8217,4 +8217,17 @@ spatial:C <https://pleiades.stoa.org/places/579844#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/579872> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Aphaea> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q596988> ;
+.
+<http://romeresearchgroup.org/items/1000809> a lawd:Place ;
+rdfs:label "Belvedere Temple (Orvieto)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.722573"^^xsd:double ; geo:long "12.119812"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413373#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/639959859> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_del_Belvedere> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3517663> ;
 .
