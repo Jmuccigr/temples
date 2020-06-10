@@ -8156,7 +8156,7 @@
         "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
-        "location": "",
+        "location": "Acropolis",
         "modernplace": "Cuma",
         "ancientplace": "Cumae",
         "pleiadesplace": "432808",
@@ -8203,7 +8203,7 @@
         "name": "Temple of Apollo",
         "dedicatee": "Apollo",
         "type": "temple",
-        "location": "",
+        "location": "Acropolis",
         "modernplace": "Cuma",
         "ancientplace": "Cumae",
         "pleiadesplace": "432808",
@@ -32674,6 +32674,135 @@
         "coordinates": [
           12.119812,
           42.722573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000810",
+        "name": "Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Arce",
+        "ancientplace": "Fregellae",
+        "pleiadesplace": "432846",
+        "country": "IT",
+        "orientation": "248",
+        "compass": "W",
+        "vowed": "",
+        "date": "Late 4th - early 3rd cBCE",
+        "startdateearly": "-380",
+        "startdatelate": "",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.539315,
+          41.536881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000811",
+        "name": "Suburban Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Arce",
+        "ancientplace": "Fregellae",
+        "pleiadesplace": "432846",
+        "country": "IT",
+        "orientation": "88",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53275,
+          41.542589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000813",
+        "name": "South Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "Known from geomag survey",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35767,
+          42.298277
         ]
       }
     }

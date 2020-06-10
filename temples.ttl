@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-05-21"  ; 
+    dcterms:modified "2020-06-10"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1786,7 +1786,7 @@ skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/mapre
 <http://romeresearchgroup.org/items/1000171> a lawd:Place ;
 rdfs:label "Temple-Mausoleum (Keston)" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.3505"^^xsd:double ; geo:long "0.029"^^xsd:double ] ;
+geo:location [ geo:lat "51.3505"^^xsd:double ; geo:long "0.028999999"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8230,4 +8230,41 @@ spatial:C <https://pleiades.stoa.org/places/413373#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/639959859> ;
 skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_del_Belvedere> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3517663> ;
+.
+<http://romeresearchgroup.org/items/1000810> a lawd:Place ;
+rdfs:label "Forum Temple at Fregellae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.536881"^^xsd:double ; geo:long "13.539315"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432846#this> ;
+.
+<http://romeresearchgroup.org/items/1000811> a lawd:Place ;
+rdfs:label "Suburban Temple at Fregellae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.542589"^^xsd:double ; geo:long "13.53275"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432846#this> ;
+.
+<http://romeresearchgroup.org/items/1000812> a lawd:Place ;
+rdfs:label "Temple at Sentinum" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413087#this> ;
+.
+<http://romeresearchgroup.org/items/1000813> a lawd:Place ;
+rdfs:label "South Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.298277"^^xsd:double ; geo:long "12.35767"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
 .
