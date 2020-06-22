@@ -7,7 +7,7 @@ me=$(whoami)
 sheet=$(cat "/Users/$me/Documents/Academic/Research/google_info/temples_sheet_ID.txt")
 apikey=$(cat "/Users/$me/Documents/Academic/Research/google_info/google_api_key.txt")
 #dest="/Users/$me/Documents/github/local/temples"
-dest="/Users/$me/Documents/temples"
+dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
