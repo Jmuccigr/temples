@@ -8263,6 +8263,7 @@ spatial:C <https://pleiades.stoa.org/places/413087#this> ;
 rdfs:label "South Temple at Falerii Novi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.298277"^^xsd:double ; geo:long "12.35767"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
