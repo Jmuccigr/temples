@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-06-10"  ; 
+    dcterms:modified "2020-06-25"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8268,4 +8268,12 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<http://romeresearchgroup.org/items/1000814> a lawd:Place ;
+rdfs:label "Temple of Aesculapius at Fregellae" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432846#this> ;
 .
