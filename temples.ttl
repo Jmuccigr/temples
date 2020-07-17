@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-06-25"  ; 
+    dcterms:modified "2020-07-17"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8276,4 +8276,44 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/432846#this> ;
+.
+<http://romeresearchgroup.org/items/1000815> a lawd:Place ;
+rdfs:label "Temple A at Fabrateria Nova" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.519199"^^xsd:double ; geo:long "13.556954"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432825#this> ;
+.
+<http://romeresearchgroup.org/items/1000816> a lawd:Place ;
+rdfs:label "Temple B at Fabrateria Nova" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.519193"^^xsd:double ; geo:long "13.55677"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432825#this> ;
+.
+<http://romeresearchgroup.org/items/1000817> a lawd:Place ;
+rdfs:label "Temple C at Fabrateria Nova" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.519202"^^xsd:double ; geo:long "13.556641"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432825#this> ;
+.
+<http://romeresearchgroup.org/items/1000818> a lawd:Place ;
+rdfs:label "Temple at Fabrateria Nova" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.517708"^^xsd:double ; geo:long "13.549651"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432825#this> ;
+skos:exactMatch <http://vici.org/vici/64597> ;
 .
