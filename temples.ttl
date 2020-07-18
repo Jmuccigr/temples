@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-07-17"  ; 
+    dcterms:modified "2020-07-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8316,4 +8316,25 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/432825#this> ;
 skos:exactMatch <http://vici.org/vici/64597> ;
+.
+<http://romeresearchgroup.org/items/1000819> a lawd:Place ;
+rdfs:label "Temple of Minerva at Canusium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.211323"^^xsd:double ; geo:long "16.070362"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442525#this> ;
+.
+<http://romeresearchgroup.org/items/1000820> a lawd:Place ;
+rdfs:label "Temple of Jupiter \"Toro\" at Canusium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.220538"^^xsd:double ; geo:long "16.065101"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442525#this> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983260> ;
 .

@@ -807,3 +807,5 @@ http://romeresearchgroup.org/items/1000815
 http://romeresearchgroup.org/items/1000816
 http://romeresearchgroup.org/items/1000817
 http://romeresearchgroup.org/items/1000818
+http://romeresearchgroup.org/items/1000819
+http://romeresearchgroup.org/items/1000820
