@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-07-18"  ; 
+    dcterms:modified "2020-08-17"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8337,4 +8337,39 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442525#this> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983260> ;
+.
+<http://romeresearchgroup.org/items/1000821> a lawd:Place ;
+rdfs:label "Temple of Minerva (Marano di Valpolicella)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000822> a lawd:Place ;
+rdfs:label "Tempietto Lepontico (Montecrestese)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.152604"^^xsd:double ; geo:long "8.324467"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<http://romeresearchgroup.org/items/1000823> a lawd:Place ;
+rdfs:label "Temple B at Ardea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.580039"^^xsd:double ; geo:long "12.511417"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422843#this> ;
+.
+<http://romeresearchgroup.org/items/1000824> a lawd:Place ;
+rdfs:label "Temple A at Ardea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.579843"^^xsd:double ; geo:long "12.510999"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422843#this> ;
 .

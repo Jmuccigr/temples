@@ -809,3 +809,7 @@ http://romeresearchgroup.org/items/1000817
 http://romeresearchgroup.org/items/1000818
 http://romeresearchgroup.org/items/1000819
 http://romeresearchgroup.org/items/1000820
+http://romeresearchgroup.org/items/1000821
+http://romeresearchgroup.org/items/1000822
+http://romeresearchgroup.org/items/1000823
+http://romeresearchgroup.org/items/1000824
