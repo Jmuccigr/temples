@@ -25,6 +25,7 @@ do
 	fi
 done
 
-if [ ${#counter} -ne 0 ]
-  echo "$(date +%Y-%m-%d\ %H:%M:%S) $counter total temple-db changes pushed to github." 1>&2
+if [ $counter -ne 0 ]
+  then
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) $counter total temple-db changes pushed to github." 1>&2
 fi
