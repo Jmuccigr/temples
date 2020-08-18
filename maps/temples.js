@@ -10473,8 +10473,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.01729,
-          44.065861
+          10.017376,
+          44.065837
         ]
       }
     },
@@ -33334,6 +33334,61 @@ var temples =  {
         "coordinates": [
           12.510999,
           41.579843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000825",
+        "name": "Capitolium",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Luni",
+        "ancientplace": "Luna",
+        "pleiadesplace": "403235",
+        "country": "IT",
+        "orientation": "205",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017403,
+          44.064341
         ]
       }
     }

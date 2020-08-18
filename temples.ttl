@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-08-17"  ; 
+    dcterms:modified "2020-08-18"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3087,7 +3087,7 @@ skos:exactMatch <http://vici.org/vici/20522> ;
 <http://romeresearchgroup.org/items/1000293> a lawd:Place ;
 rdfs:label "Large Temple at Luna" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "44.065861"^^xsd:double ; geo:long "10.01729"^^xsd:double ] ;
+geo:location [ geo:lat "44.065837"^^xsd:double ; geo:long "10.017376"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -8372,4 +8372,14 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/422843#this> ;
+.
+<http://romeresearchgroup.org/items/1000825> a lawd:Place ;
+rdfs:label "Capitolium at Luna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "44.064341"^^xsd:double ; geo:long "10.017403"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403235#this> ;
 .
