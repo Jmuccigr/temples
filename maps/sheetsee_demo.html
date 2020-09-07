@@ -31,7 +31,7 @@
 		  var URL = "1by5Xo90wcyYJBWkZs-dtqpkCnoKPlf6CJdEmyXJ4rZ4"
 		  Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
 		})
-		
+
 		function showInfo(data) {
 		  var optionsJSON = ["name"]
 		  var template = "<ul><li>{{name}}</li></ul>"
@@ -42,24 +42,26 @@
 		  map.addLayer(layer)
 		  map.doubleClickZoom.enable()
 		  map.scrollWheelZoom.enable()
-		
-		
+
+
 		// Adding layer from mapbox using their standard method:
-		        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+		        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/{z}/{x}/{y}?access_token={accessToken}', {
 		          attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-		          id: 'mapbox.streets',
+		          id: 'mapbox/streets-v11',
+				  tileSize: 512,
+                  zoomOffset: -1,
 		          accessToken: 'pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ'
 		}).addTo(map);
-		
-		
+
+
 		// Adding layer via Sheetsee's method, which expects a freely available mapbox tilelayer:
 		//        Sheetsee.addTileLayer(map, 'jllord.n7aml2bc', '')
 		//        Sheetsee.addTileLayer(map, 'mapbox.satellite', 'pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ')
 
 		  Sheetsee.addMarkerLayer(geoJSON, map, template)
 		}
-		
-		
+
+
 	</script>
 </div>
 </body>

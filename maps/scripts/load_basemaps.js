@@ -1,9 +1,7 @@
 ﻿var token = 'pk.eyJ1IjoibXVjY2lncm9zc28iLCJhIjoiY2lxanZ2d2luMDBlaGdoajl2YWJtZ3I2ZSJ9.MASxkbE98-h55S5W7oM0xQ';
 
-var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + token;
+var mbAttr = '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>',
+    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=' + token;
 
 var dareAttr = 'Powered by <a href="http://leafletjs.com/">Leaflet</a>. Map base: <a href="https://dh.gu.se/dare/" title="Digital Atlas of the Roman Empire, Centre for Digital Humanities, University of Gothenburg, Sweden">DARE</a> (CC BY 4.0).',
     dareUrl = 'https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png';
@@ -15,7 +13,9 @@ var osmAttr = 'OpenStreetMap',
     osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
 var grayscale = L.tileLayer(mbUrl, {
-        id: 'mapbox.light',
+        id: 'mapbox/light-v10',
+        tileSize: 512,
+        zoomOffset: -1,
         attribution: mbAttr
     }),
     // 	streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr}),
@@ -23,7 +23,9 @@ var grayscale = L.tileLayer(mbUrl, {
         attribution: osmAttr
     }),
     satellite = L.tileLayer(mbUrl, {
-        id: 'mapbox.satellite',
+        id: 'mapbox/satellite-v9',
+        tileSize: 512,
+        zoomOffset: -1,
         attribution: mbAttr
     }),
     watercolor = new L.StamenTileLayer("watercolor"),
