@@ -24,14 +24,14 @@ res = res[0];
 // 			document.title = res.properties.name + ' (' + res.properties.modernplace + ' ' + res.properties.country + ')';
 // 			var file = document.createElement('link');
 // 			file.setAttribute("rel", "canonical");
-// 			file.setAttribute("href", 'http://www.romeresearchgroup.org/items/' + res.properties.id);
+// 			file.setAttribute("href", 'www.romeresearchgroup.org/items/' + res.properties.id);
 // 			document.head.appendChild(file);
 // 		}
 		text = '<h2>' + res.properties.name + '</h2><span style="font-size:small"><ul>';
 		if (res.properties.id != '') {
 			text = text + '<li>ID: ' + res.properties.id + '</li>';
 		}
-		text = text + '<li title="Canonical URI for this temple.">' + 'URI: <a href="http://' + window.location.host + '/items/' + res.properties.id + '" target="_blank">http://RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
+		text = text + '<li title="Canonical URI for this temple.">' + 'URI: <a href="' + window.location.protocol + '//' + window.location.host + '/items/' + res.properties.id + '" target="_blank">' + window.location.protocol + '//RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
 		if (res.geometry.coordinates[0] != '') {
 		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] ;
 		text = text + '<a href="#" onclick="map.flyTo([' + res.geometry.coordinates[1] + ',' + res.geometry.coordinates[0] + '], map.getMaxZoom()); return true;" style="text-decoration: none" title="Center and zoom to location on the map at its highest supported resolution">&nbsp;🔍</a></li>';
