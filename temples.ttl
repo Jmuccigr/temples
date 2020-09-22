@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-08-18"  ; 
+    dcterms:modified "2020-09-20"  ; 
     .  
 
 <http://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2691,13 +2691,16 @@ spatial:C <https://pleiades.stoa.org/places/442733#this> ;
 skos:exactMatch <http://vici.org/vici/16775> ;
 .
 <http://romeresearchgroup.org/items/1000256> a lawd:Place ;
-rdfs:label "Sanctuary of Minerva (Breno)" ;
+rdfs:label "Sanctuary of Minerva at Civitas Cammunorum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "45.954277"^^xsd:double ; geo:long "10.284884"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/383617#this> ;
 skos:exactMatch <http://vici.org/vici/17499> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Sanctuary_of_Minerva> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3949899> ;
 .
 <http://romeresearchgroup.org/items/1000257> a lawd:Place ;
 rdfs:label "Temple A at Grumentum" ;
@@ -8382,4 +8385,32 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/403235#this> ;
+.
+<http://romeresearchgroup.org/items/1000826> a lawd:Place ;
+rdfs:label "Temple (Travo)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "44.843884"^^xsd:double ; geo:long "9.518121"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/38597> ;
+skos:exactMatch <http://pleiades.stoa.org/places/383709> ;
+skos:exactMatch <http://dare.ht.lu.se/places/17219> ;
+.
+<http://romeresearchgroup.org/items/1000827> a lawd:Place ;
+rdfs:label "Temple of Minerva Capta at Rome" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<http://romeresearchgroup.org/items/1000828> a lawd:Place ;
+rdfs:label "Temple of Colle della Noce at Ardea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.608159"^^xsd:double ; geo:long "12.548294"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422843#this> ;
 .
