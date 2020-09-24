@@ -51,12 +51,16 @@
 					</form>
 					<br>
 					<p align="center" style="font-size:small">
-						<a id="rome" href="javascript:rome();">
-							Zoom to Rome
+						Zoom to: <a id="rome" href="javascript:rome();">
+							Rome
 						</a>
 						or
 						<a id="all" href="javascript:showAll();">
-							Zoom out
+							the world
+						</a>
+						or
+						<a id="all" href="javascript:showVisible();">
+							visible sites
 						</a>
 					</p>
 					<hr width="80%">
@@ -160,6 +164,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/function_get_item_data.js">
 		</script>
+		<script type="text/javascript" src="scripts/relocate_map.js">
+		</script>
 
 		<!-- php script that loads a variable 'biblio' into js -->
 		<?php include 'scripts/get_biblio.php' ?>
@@ -227,23 +233,23 @@
 			// Load navigation instructions
 			loadNavigation();
 
-			// Center map on Rome at decent zoom
-			function rome() {
-				mapZoom = Math.min(map.getMaxZoom(), 14);
-				map.flyTo([41.893, 12.48], mapZoom)
-			};
-
-			// Zoom out at start
-			function all() {
-				map.fitBounds(bounds);
-			};
-
-			// Zoom out
-			function showAll() {
-				map.flyToBounds(bounds, {
-					animate: true, duration: 3
-				});
-			};
+// 			Center map on Rome at decent zoom
+// 			function rome() {
+// 				mapZoom = Math.min(map.getMaxZoom(), 14);
+// 				map.flyTo([41.893, 12.48], mapZoom)
+// 			};
+//
+// 			Zoom out at start
+// 			function all() {
+// 				map.fitBounds(bounds);
+// 			};
+//
+// 			Zoom out
+// 			function showAll() {
+// 				map.flyToBounds(bounds, {
+// 					animate: true, duration: 3
+// 				});
+// 			};
 
 			// Read the inputted search
 			function readInput() {
