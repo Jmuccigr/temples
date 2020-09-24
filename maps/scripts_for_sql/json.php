@@ -12,12 +12,12 @@ $dbname = "romerese_temples";
 $password = trim(file_get_contents("../../forbidden/pw.txt"));
 
 # Connect to SQLite database
-$conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
+$conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET group_concat_max_len = 10000'));
+// Keep the next line as an alternative in case the UTF-8 setting isn't working
+// $conn->exec("SET group_concat_max_len = 2048");
 
 # Build SQL SELECT statement and return the geometry as a GeoJSON element
 $queryStart = 'select temples.*, IFNULL(cite,"") as cite from temples left join (select templeID, GROUP_CONCAT(CONCAT(UCASE(LEFT(loci, 1)), SUBSTRING(loci, 2), IF(loci = "", "", ", "), biblio.citation_html) SEPARATOR "</li>\n<li>") AS cite from citations left join biblio on citations.refKey = biblio.refKey group by templeID) cites on id = templeID WHERE ';
-#CONCAT(UCASE(LEFT(CompanyIndustry, 1)), SUBSTRING(CompanyIndustry, 2))
-                             // $queryStart = 'select * from temples WHERE ';
 
 # Check for cookies
 # First determine whether request is for one item (info) or for a set (mapping)
@@ -33,6 +33,8 @@ if ($_COOKIE["sqlquery"] != '') {
      $sql = $queryStart . 'id != ""' . $queryEnd;
 }
 # Try query or error
+// Keep the next line as an alternative in case the PDO isn't the best place to set this variable
+// $rs = $conn->query('set group_concat_max_len = 2048');
 $rs = $conn->query($sql);
 if (!$rs) {
     echo 'An SQL error occured.\n';
