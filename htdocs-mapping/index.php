@@ -314,7 +314,7 @@
 			// Clean up the inputted string
 			function test_input(data) {
 			    data = data.trim();
-			    data=data.replace(/[^a-z\d '"%=-]+/ig,'')
+			    data=data.replace(/[^a-z\d '"%=-]+/ig,'');
 			    return data;
 			};
 
