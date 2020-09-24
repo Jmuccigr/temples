@@ -40720,7 +40720,7 @@
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "",
@@ -40747,6 +40747,61 @@
         "coordinates": [
           12.548294,
           41.608159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000829",
+        "name": "Roman temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Nora",
+        "ancientplace": "Nora",
+        "pleiadesplace": "471979",
+        "country": "IT",
+        "orientation": "193",
+        "compass": "S",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://nora.beniculturali.unipd.it/gli-edifici/edifici-religiosi/tempio-romano/",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.01677,
+          38.984624
         ]
       }
     }
