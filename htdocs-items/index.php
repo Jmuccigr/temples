@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
-		<?php echo '<link rel="canonical" href="http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].'" />'.PHP_EOL;
+		<?php echo '<link rel="canonical" href="https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].'" />'.PHP_EOL;
 		?>
 	</head>
 	<body>
@@ -36,7 +36,7 @@
      {
         "@type":"DataDownload",
         "encodingFormat":"CSV",
-        "contentUrl":"http://RomeResearchGroup.org/search"
+        "contentUrl":"https://RomeResearchGroup.org/search"
      },
   "temporalCoverage":"-750/640",
   "spatialCoverage":{

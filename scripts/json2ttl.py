@@ -29,7 +29,7 @@ outputText += u'@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .\n'
 outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n'
 outputText += u'@prefix ov: <http://open.vocab.org/terms/> .\n\n'
 
-outputText += u'<http://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
+outputText += u'<https://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
 outputText += u'    dcterms:title "Database of Temples of the Classical World" ;  \n'
 outputText += u'    dcterms:creator viaf:309849093 ;  \n'
 outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
@@ -43,7 +43,7 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
     for line in f.readlines():
         record = json.loads(line)
         if 'properties' in record.keys():
-            outputText += u'<http://romeresearchgroup.org/items/' + record['properties']['id'] + '> a lawd:Place ;\n'
+            outputText += u'<https://romeresearchgroup.org/items/' + record['properties']['id'] + '> a lawd:Place ;\n'
 #           Only one name for now, which needs rdfs, not lawd:hasName
 #           outputText += u'lawd:hasName [ lawd:primaryForm "' + (record['properties']['name']).replace('"', '\\"') + '" ] ;\n'
 #			A few names have escaped quotation marks. This retains them.
