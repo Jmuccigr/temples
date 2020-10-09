@@ -8442,3 +8442,111 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413036#this> ;
 .
+<https://romeresearchgroup.org/items/1000832> a lawd:Place ;
+rdfs:label "Temple at the Church of San Silvestro (Cascia)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.650692"^^xsd:double ; geo:long "13.055021"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_romano_di_Villa_San_Silvestro> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q16612742> ;
+.
+<https://romeresearchgroup.org/items/1000833> a lawd:Place ;
+rdfs:label "Temple with Double Cella (Cascia)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.649412"^^xsd:double ; geo:long "13.056421"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000834> a lawd:Place ;
+rdfs:label "Temple with Double Cella" ;
+dcterms:temporal "-750/640" ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000835> a lawd:Place ;
+rdfs:label "Temple of Hercules (Montorio al Vomano)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.578458"^^xsd:double ; geo:long "13.594268"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_di_Ercole_(Montorio_al_Vomano)> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q26220411> ;
+.
+<https://romeresearchgroup.org/items/1000836> a lawd:Place ;
+rdfs:label "Temple of Jupiter (Cortino)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000837> a lawd:Place ;
+rdfs:label "Italic Temple (Ieri)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.102117"^^xsd:double ; geo:long "13.755884"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/431684924> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_italico_di_Castel_di_Ieri> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983297> ;
+.
+<https://romeresearchgroup.org/items/1000838> a lawd:Place ;
+rdfs:label "Temple (Basciano)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.599112"^^xsd:double ; geo:long "13.713173"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413102#this> ;
+.
+<https://romeresearchgroup.org/items/1000839> a lawd:Place ;
+rdfs:label "Temple (Crognaleto)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000840> a lawd:Place ;
+rdfs:label " at Anxa" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000841> a lawd:Place ;
+rdfs:label "Italic Temple (Castiglione Messer Raimondo)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.506952"^^xsd:double ; geo:long "13.864075"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000842> a lawd:Place ;
+rdfs:label "Temple of Athena at Karthaia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.561084"^^xsd:double ; geo:long "24.330384"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "EL" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570333#this> ;
+.
+<https://romeresearchgroup.org/items/1000843> a lawd:Place ;
+rdfs:label "Temple of Apollo at Karthaia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.560076"^^xsd:double ; geo:long "24.330818"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "EL" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570333#this> ;
+.
