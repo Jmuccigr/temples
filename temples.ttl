@@ -8539,6 +8539,7 @@ gn:countryCode "EL" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
+skos:exactMatch <http://vici.org/vici/26382> ;
 .
 <https://romeresearchgroup.org/items/1000843> a lawd:Place ;
 rdfs:label "Temple of Apollo at Karthaia" ;
@@ -8549,4 +8550,5 @@ gn:countryCode "EL" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
+skos:exactMatch <http://vici.org/vici/26381> ;
 .
