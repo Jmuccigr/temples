@@ -8517,7 +8517,7 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <https://romeresearchgroup.org/items/1000840> a lawd:Place ;
-rdfs:label " at Anxa" ;
+rdfs:label "Temple at Anxa" ;
 dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
