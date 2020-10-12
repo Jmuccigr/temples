@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-10-09"  ; 
+    dcterms:modified "2020-10-13"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8503,6 +8503,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q3983297> ;
 rdfs:label "Temple (Basciano)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.599112"^^xsd:double ; geo:long "13.713173"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8551,4 +8552,31 @@ dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
 skos:exactMatch <http://vici.org/vici/26381> ;
+.
+<https://romeresearchgroup.org/items/1000844> a lawd:Place ;
+rdfs:label "Temple of Hercules Curinus/Quirinus at Sulmo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.088524"^^xsd:double ; geo:long "13.934864"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413165#this> ;
+.
+<https://romeresearchgroup.org/items/1000845> a lawd:Place ;
+rdfs:label "Temple at Hatri" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413163#this> ;
+.
+<https://romeresearchgroup.org/items/1000846> a lawd:Place ;
+rdfs:label "Temple on the Via Sacra at Interamnia Praetuttiorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.644942"^^xsd:double ; geo:long "13.674085"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413179#this> ;
 .

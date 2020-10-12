@@ -41257,8 +41257,8 @@
         "ancientplace": "",
         "pleiadesplace": "413102",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "249",
+        "compass": "W",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -41504,6 +41504,135 @@
         "coordinates": [
           24.330818,
           37.560076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000844",
+        "name": "Temple of Hercules Curinus/Quirinus",
+        "dedicatee": "Hercules",
+        "type": "temple",
+        "location": "",
+        "modernplace": "Sulmona",
+        "ancientplace": "Sulmo",
+        "pleiadesplace": "413165",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "https://www.sabap-abruzzo.beniculturali.it/santuario-di-ercole-curino/",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.934864,
+          42.088524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000845",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "Colle Maralto",
+        "modernplace": "Atri",
+        "ancientplace": "Hatri",
+        "pleiadesplace": "413163",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000846",
+        "name": "Temple on the Via Sacra",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "Madonna della Cona",
+        "modernplace": "Teramo",
+        "ancientplace": "Interamnia Praetuttiorum",
+        "pleiadesplace": "413179",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.674085,
+          42.644942
         ]
       }
     }
