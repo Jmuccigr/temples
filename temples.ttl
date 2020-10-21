@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-10-13"  ; 
+    dcterms:modified "2020-10-21"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8536,7 +8536,7 @@ rdfs:label "Temple of Athena at Karthaia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.561084"^^xsd:double ; geo:long "24.330384"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
-gn:countryCode "EL" ;
+gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
@@ -8547,7 +8547,7 @@ rdfs:label "Temple of Apollo at Karthaia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.560076"^^xsd:double ; geo:long "24.330818"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
-gn:countryCode "EL" ;
+gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
@@ -8579,4 +8579,88 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413179#this> ;
+.
+<https://romeresearchgroup.org/items/1000847> a lawd:Place ;
+rdfs:label "Hekatompedon (Mid-6th Century Temple of Athena) at Athens" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+.
+<https://romeresearchgroup.org/items/1000848> a lawd:Place ;
+rdfs:label "Hekatompedon (Old Temple of Athena) at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9719"^^xsd:double ; geo:long "23.72628"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <https://topostext.org/place/380237SOTA> ;
+.
+<https://romeresearchgroup.org/items/1000849> a lawd:Place ;
+rdfs:label "Temple at Athens" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+.
+<https://romeresearchgroup.org/items/1000850> a lawd:Place ;
+rdfs:label "Temple of Wingless Victory (Athena Nike) at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.97154"^^xsd:double ; geo:long "23.72487"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <https://topostext.org/place/380237SANi> ;
+.
+<https://romeresearchgroup.org/items/1000851> a lawd:Place ;
+rdfs:label "Rome and Augustus Temple at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.97162"^^xsd:double ; geo:long "23.72731"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <https://topostext.org/place/380237SRAu> ;
+.
+<https://romeresearchgroup.org/items/1000852> a lawd:Place ;
+rdfs:label "Nikias Monument at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9703"^^xsd:double ; geo:long "23.7269"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <https://topostext.org/place/380237BNic> ;
+.
+<https://romeresearchgroup.org/items/1000853> a lawd:Place ;
+rdfs:label "Temple of Isis at Athens" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+.
+<https://romeresearchgroup.org/items/1000854> a lawd:Place ;
+rdfs:label "Temple of Apollo Delphinios at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9686"^^xsd:double ; geo:long "23.7329"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <https://topostext.org/place/380237SDel> ;
+.
+<https://romeresearchgroup.org/items/1000855> a lawd:Place ;
+rdfs:label "Cathedral Temple at Sora" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.723488"^^xsd:double ; geo:long "13.61544"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433126#this> ;
 .
