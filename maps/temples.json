@@ -34114,7 +34114,7 @@
         "name": "Temple of Hercules Curinus/Quirinus",
         "dedicatee": "Hercules",
         "type": "temple",
-        "location": "",
+        "location": "Monte Morrone",
         "modernplace": "Sulmona",
         "ancientplace": "Sulmo",
         "pleiadesplace": "413165",
@@ -34526,6 +34526,61 @@
         "coordinates": [
           13.61544,
           41.723488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000856",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "location": "La Cuma",
+        "modernplace": "Monte Rinaldo",
+        "ancientplace": "",
+        "pleiadesplace": "413109",
+        "country": "IT",
+        "orientation": "148",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-175",
+        "startdatelate": "",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "",
+        "checked": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.581395,
+          43.020135
         ]
       }
     }
