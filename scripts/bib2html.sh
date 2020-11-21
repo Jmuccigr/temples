@@ -35,7 +35,7 @@ nocite: |
 " | pandoc --citeproc -s -o "$dest/temple_bib.html"
 
 # Also generate a simple csv file with key and citation strings in plain text and html
-csv=$(grep 'id:' $temp/refs.txt | sed 's/^- id\: //' | sort)
+csv=$(grep 'id:' $temp/refs.txt | sed 's/^- id\: //')
 #First create file with refs only
 echo $csv | perl -pe 's/ /\n\n/g' | perl -pe 's/(.+)/@\1/g' > $temp/refs_bare.txt
 # Then create file with refs duplicated for the two types of formats we need
@@ -47,7 +47,7 @@ echo $csv | perl -pe 's/ /\n\n/g' | perl -pe 's/(.+)/\1, @\1/g' > $temp/csv.txt
 # Plain text
 cat $temp/csv.txt | pandoc --citeproc --wrap=none --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t plain | awk NF | perl -pe 's/^([^\s]+? )/"\1"/' | perl -pe 's/(.)\.$/\1"/g' | perl -pe 's/,\s/",/' > $temp/plain.csv
 # HTML
-cat $temp/refs_bare.txt | pandoc --citeproc --wrap=none --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t html | awk NF | perl -pe 's/<span class="citation">//g' | perl -pe 's/"/\\"/g' | perl -pe 's/<\/span><\/p>/\n/g' | perl -pe 's/^<p>/"/g' | perl -pe 's/(.)$/\1"/g' | perl -pe 's/\."$/"/g' | awk NF > $temp/html.csv
+cat $temp/refs_bare.txt | pandoc --citeproc --wrap=none --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t html | awk NF | perl -pe 's/<span class=.*?>//g' | perl -pe 's/"/\\"/g' | perl -pe 's/<\/span><\/p>/\n/g' | perl -pe 's/^<p>/"/g' | perl -pe 's/(.)$/\1"/g' | perl -pe 's/\."$/"/g' | awk NF > $temp/html.csv
 
 # Combine two formats into final output file
 paste -d , $temp/plain.csv $temp/html.csv > $dest/bibliography.csv
