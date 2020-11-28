@@ -37901,13 +37901,105 @@
         "modernplace": "Cisterna di Latina",
         "ancientplace": "",
         "pleiadesplace": "",
-        "country": "IT"
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.826305,
+          41.613647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000878",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Campochiaro",
+        "ancientplace": "",
+        "pleiadesplace": "432746",
+        "country": "IT",
+        "orientation": "105",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.508281,
+          41.439294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000879",
+        "name": "Temple P",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Cività di Tricarico",
+        "ancientplace": "",
+        "pleiadesplace": "442546",
+        "country": "IT",
+        "orientation": "123",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.058716,
+          40.637509
         ]
       }
     }

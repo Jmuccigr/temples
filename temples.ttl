@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-11-18"  ; 
+    dcterms:modified "2020-11-28"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8874,7 +8874,28 @@ skos:exactMatch <http://pleiades.stoa.org/places/297163719> ;
 <https://romeresearchgroup.org/items/1000877> a lawd:Place ;
 rdfs:label "Temple (Cisterna di Latina)" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.613647"^^xsd:double ; geo:long "12.826305"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000878> a lawd:Place ;
+rdfs:label "Temple (Campochiaro)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.439294"^^xsd:double ; geo:long "14.508281"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432746#this> ;
+.
+<https://romeresearchgroup.org/items/1000879> a lawd:Place ;
+rdfs:label "Temple P (Cività di Tricarico)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.637509"^^xsd:double ; geo:long "16.058716"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442546#this> ;
 .
