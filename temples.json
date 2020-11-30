@@ -27779,8 +27779,8 @@
         "ancientplace": "Ocriticum",
         "pleiadesplace": "",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "128",
+        "compass": "SE",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -38000,6 +38000,72 @@
         "coordinates": [
           16.058716,
           40.637509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000880",
+        "name": "Italic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Cansano",
+        "ancientplace": "Ocriticum",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "29919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.989939,
+          42.002701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000881",
+        "name": "Small Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Cansano",
+        "ancientplace": "Ocriticum",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.989423,
+          42.002665
         ]
       }
     }
