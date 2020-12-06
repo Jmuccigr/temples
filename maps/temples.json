@@ -27125,7 +27125,12 @@
         "deitytype": "god",
         "culture": "Roman",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "866779647"
       },
       "geometry": {
         "type": "Point",
@@ -30355,9 +30360,9 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "Roman",
         "style": "",
         "extant": "yes",
@@ -30634,6 +30639,50 @@
         "coordinates": [
           13.989423,
           42.002665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000883",
+        "name": "Acropolis Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Alatri",
+        "ancientplace": "Aletrium",
+        "pleiadesplace": "432664",
+        "country": "IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344402,
+          41.724251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000884",
+        "name": "Cathedral Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Alatri",
+        "ancientplace": "Aletrium",
+        "pleiadesplace": "432664",
+        "country": "IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.344182,
+          41.724872
         ]
       }
     }
