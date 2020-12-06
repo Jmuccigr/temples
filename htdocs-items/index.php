@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
 		<title><?php include 'scripts/title.php' ?></title>
+		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
@@ -122,12 +122,7 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
-<!--
-		<script type="text/javascript" src="https://stamen-maps.{S}.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0">
-		</script>
- -->
-<!-- Using local version to avoid ssl problem -->
-		<script type="text/javascript" src="scripts/tile.stamen.js">
+		<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0">
 		</script>
 		<script type="text/javascript" src="scripts/load_basemaps.js">
 		</script>
