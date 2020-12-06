@@ -37,7 +37,7 @@ res = res[0];
 		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] ;
 		text = text + '<a href="#" onclick="map.flyTo([' + res.geometry.coordinates[1] + ',' + res.geometry.coordinates[0] + '], map.getMaxZoom()); return true;" style="text-decoration: none" title="Center and zoom to location on the map at its highest supported resolution">&nbsp;🔍</a></li>';
 		} else {
-		text = text + '<li>Precise location unknown!</li>'
+		text = text + '<li><span <span style="color: red;"> Precise location unknown!</span></li>'
 		}
 		if (res.properties.culture != '') {
 			text = text + '<li>' + res.properties.culture + '</li>';
