@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-11-30"  ; 
+    dcterms:modified "2020-12-06"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -7869,6 +7869,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423072#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/866779647> ;
 .
 <https://romeresearchgroup.org/items/1000772> a lawd:Place ;
 rdfs:label "Temple C at Fanum Voltumnae" ;
@@ -8918,4 +8919,47 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000882> a lawd:Place ;
+rdfs:label "Temple at Aletrium" ;
+dcterms:temporal "-750/640" ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432664#this> ;
+.
+<https://romeresearchgroup.org/items/1000883> a lawd:Place ;
+rdfs:label "Acropolis Temple at Aletrium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.724251"^^xsd:double ; geo:long "13.344402"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432664#this> ;
+.
+<https://romeresearchgroup.org/items/1000884> a lawd:Place ;
+rdfs:label "Cathedral Temple at Aletrium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.724872"^^xsd:double ; geo:long "13.344182"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432664#this> ;
+.
+<https://romeresearchgroup.org/items/1000885> a lawd:Place ;
+rdfs:label "Temple of Hercules at Signia" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423072#this> ;
+.
+<https://romeresearchgroup.org/items/1000886> a lawd:Place ;
+rdfs:label "Temple of Bona Dea at Signia" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423072#this> ;
 .
