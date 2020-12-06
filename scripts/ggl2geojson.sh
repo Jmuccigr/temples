@@ -98,7 +98,7 @@ then
 	# Get rid of last bit of extra stuff from the download
 	jq '{type: .type, features: .features}' "$temp/temples.json" > "$dest/temples.json"
 
-    # Save a subset as a copy for Pelagios
+    # Save a subset as a copy for Pelagios & easy retrieval of json
 	jq -c '.features[]' "$temp/temples.json" > "$dest/pelagios.json"
 
     # For mapping, save a second copy with only entries including coordinates
