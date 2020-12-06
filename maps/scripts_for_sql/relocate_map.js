@@ -24,7 +24,8 @@ function showVisible() {
 		map.flyToBounds(vis.getBounds(), {
 			animate: true,
 			duration: 3,
-			padding: L.point(20, 20)
+			paddingTopLeft: [0, 20],
+			paddingBottomRight: [0, 0]
 		});
 	}
 };
