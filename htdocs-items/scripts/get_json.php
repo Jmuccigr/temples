@@ -1,0 +1,1 @@
+../../maps/scripts_for_sql/get_json.php
