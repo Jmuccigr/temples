@@ -140,7 +140,7 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
-		<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0">
+		<script type="text/javascript" src="scripts/tile.stamen.js">
 		</script>
 		<script type="text/javascript" src="scripts/load_basemaps.js">
 		</script>
