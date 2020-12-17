@@ -877,3 +877,7 @@
 "1000885","Temple of Hercules","","temple","","","Segni","Signia","423072","IT","","","","","","","","","","","","","M","","god","Roman","","no"
 "1000886","Temple of Bona Dea","","temple","","","Segni","Signia","423072","IT","","","","","","","","","","","","","F","","hero","Roman","","no"
 "1000887","Cathedral Temple","","temple","acropolis","","Anagni","Anagnia","422833","IT","41.742962","13.161927"
+"1000888","Large Temple","","temple","acropolis","","Norma","Norba","422987","IT","41.589744","12.963078","301","NW","","","","","","","","","","","","Roman","","yes"
+"1000889","Small Temple","","temple","acropolis","","Norma","Norba","422987","IT","41.590066","12.962967","213","SW","","","","","","","","","","","","Roman","","yes"
+"1000890","Temple of Juno","Juno","temple","","","Norma","Norba","422987","IT","41.590443","12.957628","123","SE","","","","","","","","","F","","god","Roman","","yes"
+"1000891","Temple of Diana","Diana","temple","acropolis","","Norma","Norba","422987","IT","41.593149","12.962213","209","SW","","","","","","","","","F","","god","Roman","","yes","","","Orientation hard to determine"
