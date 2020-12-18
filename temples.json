@@ -35527,7 +35527,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "Basilica of San Leucio",
         "modernplace": "Canosa",
         "ancientplace": "Canusium",
         "pleiadesplace": "442525",
@@ -35565,7 +35565,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Canusium",
+        "location": "",
         "modernplace": "Canosa",
         "ancientplace": "Canusium",
         "pleiadesplace": "442525",
@@ -38215,6 +38215,183 @@
         "coordinates": [
           "",
           ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000887",
+        "name": "Cathedral Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Anagni",
+        "ancientplace": "Anagnia",
+        "pleiadesplace": "422833",
+        "country": "IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.161927,
+          41.742962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000888",
+        "name": "Large Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Norma",
+        "ancientplace": "Norba",
+        "pleiadesplace": "422987",
+        "country": "IT",
+        "orientation": "301",
+        "compass": "NW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.963078,
+          41.589744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000889",
+        "name": "Small Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Norma",
+        "ancientplace": "Norba",
+        "pleiadesplace": "422987",
+        "country": "IT",
+        "orientation": "213",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.962967,
+          41.590066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000890",
+        "name": "Temple of Juno",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Norma",
+        "ancientplace": "Norba",
+        "pleiadesplace": "422987",
+        "country": "IT",
+        "orientation": "123",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.957628,
+          41.590443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000891",
+        "name": "Temple of Diana",
+        "dedicatee": "Diana",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Norma",
+        "ancientplace": "Norba",
+        "pleiadesplace": "422987",
+        "country": "IT",
+        "orientation": "209",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation hard to determine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.962213,
+          41.593149
         ]
       }
     }
