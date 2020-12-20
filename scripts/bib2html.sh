@@ -39,3 +39,16 @@ html=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/templ
 
 # Combine two formats into final output file
 paste -d , <(printf %s "$plain") <(printf %s "$html") > $dest/bibliography.csv
+
+# Check the output to make sure all items in Zotero are appearing
+
+# Search it all & generate list in one go
+result=`for i in $(csvcut -c 3 "$dest/citations.csv"); do echo -en "$i\t"; grep -c "$i" "$dest/temple_bib.json"; done | grep "\t0" | sort | uniq | perl -pe 's/\t0$//' | perl -pe 's/\n/, /' | sed 's/, $//'`
+
+if [ $result != '' ]
+then
+  err="$(date +%Y-%m-%d\ %H:%M:%S) The following citations appear in the citations.csv, but not in the bibliography outputted from Zotero:"
+  echo $err "$result" 1>&2
+else
+  echo "$(date +%Y-%m-%d\ %H:%M:%S) No missing citations" 1>&2
+fi
