@@ -30862,6 +30862,44 @@
           41.593149
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000892",
+        "name": "Temple near Forum",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Larino",
+        "ancientplace": "Larinum",
+        "pleiadesplace": "442629",
+        "country": "IT",
+        "orientation": "97",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.915977,
+          41.808344
+        ]
+      }
     }
   ]
 }
