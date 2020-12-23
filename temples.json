@@ -38432,6 +38432,44 @@
           41.808344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000893",
+        "name": "Temple at Casarinaccio",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Casarinaccio",
+        "modernplace": "Ardea",
+        "ancientplace": "Ardea",
+        "pleiadesplace": "422843",
+        "country": "IT",
+        "orientation": "220",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549695,
+          41.610932
+        ]
+      }
     }
   ]
 }
