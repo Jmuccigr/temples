@@ -6,18 +6,16 @@ me=$(whoami)
 src="/Users/$me/Documents/github/local/temples"
 
 # Update sitemap file
-grep romeresearchgroup.org/items/[0-9] $src/temples.ttl | perl -pe 's/<(.*)>.*/\1/' > $src/sitemap2.txt
-
-if [ -s "$src/sitemap2.txt" ]
+sitelist=$(grep romeresearchgroup.org/items/[0-9] $src/temples.ttl | perl -pe 's/<(.*)>.*/\1/')
+if [ ${#sitelist} != 0 ]
 then
-	csvdiff=$(diff "$src/sitemap.txt" "$src/sitemap2.txt")
+	csvdiff=$(diff "$src/sitemap.txt" <(echo "$sitelist"))
 	if [ ${#csvdiff} -eq 0 ]
-	   then
-	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to sitemap." 1>&2
-	   rm $src/sitemap2.txt
-	   exit 0
+	then
+	  echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to sitemap." 1>&2
+	  exit 0
 	else
-	   mv $src/sitemap2.txt $src/sitemap.txt
+	  echo "$sitelist" > $src/sitemap.txt
 	fi
 else
     echo "$(date +%Y-%m-%d\ %H:%M:%S) Error making csv file." 1>&2
