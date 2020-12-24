@@ -27425,7 +27425,7 @@
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Tuscolo",
         "ancientplace": "Tusculum",
         "pleiadesplace": "423108",
         "country": "IT",
@@ -30936,6 +30936,44 @@
         "coordinates": [
           12.549695,
           41.610932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000894",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tuscolo",
+        "ancientplace": "Tusculum",
+        "pleiadesplace": "423108",
+        "country": "IT",
+        "orientation": "8",
+        "compass": "N",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.709342,
+          41.798188
         ]
       }
     }

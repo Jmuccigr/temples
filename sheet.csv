@@ -768,7 +768,7 @@
 "1000776","Temple of Hercules","Hercules","temple","","","Cori","Cora","422909","IT","41.642578","12.915771","174","S","","","-99","-1","-1","","","","M","","hero","Roman","","yes","","","","","692947274"
 "1000777","Temple under S. Oliva","","temple","","","Cori","Cora","422909","IT","41.643438","12.912941","187","S","","3rd c. BCE","-299","-300","-3","","","","","","","Roman","","yes"
 "1000778","Forum Temple","","temple","forum","","Pratica di Mare","Lavinium","422960","IT","41.661239","12.479949","124","SE","","","","","","","","","","","","Roman","","yes"
-"1000779","Temple of Mercury","Mercury","temple","","","","Tusculum","423108","IT","41.798197","12.709233","0","N","","","","","","","","","M","","god","Roman","","yes"
+"1000779","Temple of Mercury","Mercury","temple","","","Tuscolo","Tusculum","423108","IT","41.798197","12.709233","0","N","","","","","","","","","M","","god","Roman","","yes"
 "1000780","Temple of Genna Cantonis","","temple","","","Matzanni","","93478895","IT","39.37514","8.699043","100","E","","","","","","","","","","","","Nuraghic","","yes"
 "1000781","Temple of Antas (Roman)","Sardus Pater Babai","temple","","","Fluminimaggiore","Metalla","471971","IT","39.394007","8.500267","113","SE","","Augustan","","","-1","","","1000233","M","","god","Roman","","yes"
 "1000782","Temple A","","temple","","","Pietrabbondante","","433025","IT","41.740481","14.387969","118","SE","","1st half of 2nd c. BCE","-199","-150","-2","","","","","","","Samnite","","yes"
@@ -883,3 +883,4 @@
 "1000891","Temple of Diana","Diana","temple","acropolis","","Norma","Norba","422987","IT","41.593149","12.962213","209","SW","","","","","","","","","F","","god","Roman","","yes","","","Orientation hard to determine"
 "1000892","Temple near Forum","","temple","","","Larino","Larinum","442629","IT","41.808344","14.915977","97","E","","","","","","","","","","","","Roman","","yes"
 "1000893","Temple at Casarinaccio","","temple","","Loc. Casarinaccio","Ardea","Ardea","422843","IT","41.610932","12.549695","220","SW","","","","","","","","","","","","Roman","","yes"
+"1000894","Archaic Temple","","temple","","","Tuscolo","Tusculum","423108","IT","41.798188","12.709342","8","N","","","","","","","","","","","","Italic","","yes"
