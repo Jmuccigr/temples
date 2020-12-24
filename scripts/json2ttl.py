@@ -5,9 +5,11 @@ import json
 import io
 import re
 import os
-import datetime
+from datetime import datetime
+import sys
 
 me = os.getenv("USER")
+dateTimeObj = datetime.now()
 
 labelText = u''
 outputText = u''
@@ -35,10 +37,12 @@ outputText += u'    dcterms:creator viaf:309849093 ;  \n'
 outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
 outputText += u'    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  \n'
 outputText += u'    dcterms:temporal "2016-2018" ;   \n'
-outputText += u'    dcterms:modified "' + str(datetime.date.today()) + '"  ; \n'
+outputText += u'    dcterms:modified "' + dateTimeObj.strftime("%Y-%m-%d") + '"  ; \n'
 outputText += u'    .  \n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
+if os.stat(basedir + 'pelagios.json').st_size < 1000:
+	sys.exit(dateTimeObj.strftime("%Y-%m-%d %H:%M:%S") + ": temples pelagios json file is too small to process into turtle.")
 with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
     for line in f.readlines():
         record = json.loads(line)
@@ -61,6 +65,17 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 prefLoc = record['geometry']
                 coords = prefLoc['coordinates']
                 outputText += u'geo:location [ geo:lat "' + str(coords[1]) + '"^^xsd:double ; geo:long "' + str(coords[0]) + '"^^xsd:double ] ;\n'
+#             if record['properties'].get('settings') != '' and record['properties'].get('settings') is not None:
+#                 setting = record['properties']['settings']
+#                 if setting == 'forum':
+#                     settingText = '300008085'
+#                 elif setting == 'agora':
+#                     settingText = '300008074'
+#                 elif setting == 'acropolis':
+#                     settingText = '300000700'
+#                 else: # hill
+#                     settingText = '300008777'
+#                 outputText += 'ov:compassDirection <http://vocab.getty.edu/page/aat/' + settingText + '> ;\n'
             if record['properties'].get('compass') != '' and record['properties'].get('compass') is not None:
                 dir = record['properties']['compass']
                 if dir == 'N':
