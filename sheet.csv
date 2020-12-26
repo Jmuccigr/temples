@@ -233,7 +233,7 @@
 "1000234","Punico-Roman Temple","","temple","","","Cagliari","Caralis","471899","IT","39.222012","9.106047","","","","","","","","","","","","","","","","","Vici.org","","","8476"
 "1000235","Capitolium","Jupiter, Juno, Minerva","temple","","","Brescia","Brixia","383603","IT","45.539905","10.225802","187","S","","","","","","","","","","","god","","","","Vici.org","","Built by Vespasian in AD 73","8480","444468888","","","","Capitolium_of_Brixia","Q3657072"
 "1000236","Temple of Jupiter","Jupiter","temple","","","Bidoni","","","IT","40.121441","8.94209","","","","","","","","","","","","","god","","","","Vici.org","","","8492"
-"1000237","Temple B","","temple","","","Pietrabbondante","","433025","IT","41.73999","14.386793","118","SE","","2nd half 2nd c. BCE","-149","-100","-2","1st. c. CE","","","","","","Samnite","","yes","Vici.org","","","10919"
+"1000237","Temple B","","temple","","","Pietrabbondante","","433025","IT","41.740016","14.386879","118","SE","","2nd half 2nd c. BCE","-149","-100","-2","1st. c. CE","","","","","","Samnite","","yes","Vici.org","","","10919"
 "1000238","Temple of Hera Lacinia","Hera","temple","","","Capo Colonna","","452356","IT","39.02651","17.204949","","","","","","","","","","","","","god","","","","Vici.org","","","10966","452332"
 "1000239","Temple Complex","","temple","","","Pantanello","Metapontum","442658","IT","40.383694","16.823549","","","","","","","","","","","","","","","","","Vici.org","","","11201"
 "1000240","Temple of Venus Erycina","Venus","temple","","","","Segesta","462487","IT","37.941475","12.832296","84","E","","","","","","","","","F","","god","","","","Vici.org","","","11596","963441586","","","place/segesta/segesta-temple","it=Tempio_di_Segesta"
@@ -885,3 +885,4 @@
 "1000893","Temple at Casarinaccio","","temple","","Loc. Casarinaccio","Ardea","Ardea","422843","IT","41.610932","12.549695","220","SW","","","","","","","","","","","","Roman","","yes"
 "1000894","Archaic Temple","","temple","","","Tuscolo","Tusculum","423108","IT","41.798188","12.709342","8","N","","","","","","","","","","","","Italic","","yes"
 "1000895","Temple of SS. Stimmate","","temple","","","Velletri","Velitrae","423117","IT","41.68542256","12.77418558","125","SE","","","","","","","","","","","","Italic","","yes"
+"1000896","Temple L","","temple","","","Pietrabbondante","","433025","IT","41.739874","14.388928","127","SE","","","","","","","","","","","","Samnite","","yes"
