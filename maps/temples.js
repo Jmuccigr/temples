@@ -7476,8 +7476,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.386793,
-          41.73999
+          14.386879,
+          41.740016
         ]
       }
     },
@@ -10228,8 +10228,8 @@ var temples =  {
         "ancientplace": "Faesulae",
         "pleiadesplace": "413124",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "111",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -10252,8 +10252,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.292941,
-          43.808475
+          11.292974,
+          43.808659
         ]
       }
     },
@@ -27425,7 +27425,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Tuscolo",
         "ancientplace": "Tusculum",
         "pleiadesplace": "423108",
         "country": "IT",
@@ -30898,6 +30898,158 @@ var temples =  {
         "coordinates": [
           14.915977,
           41.808344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000893",
+        "name": "Temple at Casarinaccio",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Casarinaccio",
+        "modernplace": "Ardea",
+        "ancientplace": "Ardea",
+        "pleiadesplace": "422843",
+        "country": "IT",
+        "orientation": "220",
+        "compass": "SW",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549695,
+          41.610932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000894",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tuscolo",
+        "ancientplace": "Tusculum",
+        "pleiadesplace": "423108",
+        "country": "IT",
+        "orientation": "8",
+        "compass": "N",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.709342,
+          41.798188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000895",
+        "name": "Temple of SS. Stimmate",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Velletri",
+        "ancientplace": "Velitrae",
+        "pleiadesplace": "423117",
+        "country": "IT",
+        "orientation": "125",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.77418558,
+          41.68542256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000896",
+        "name": "Temple L",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Pietrabbondante",
+        "ancientplace": "",
+        "pleiadesplace": "433025",
+        "country": "IT",
+        "orientation": "127",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.388928,
+          41.739874
         ]
       }
     }

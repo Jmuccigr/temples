@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2020-12-24"  ; 
+    dcterms:modified "2020-12-25"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2479,7 +2479,7 @@ skos:exactMatch <http://vici.org/vici/8492> ;
 <https://romeresearchgroup.org/items/1000237> a lawd:Place ;
 rdfs:label "Temple B (Pietrabbondante)" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.73999"^^xsd:double ; geo:long "14.386793"^^xsd:double ] ;
+geo:location [ geo:lat "41.740016"^^xsd:double ; geo:long "14.386879"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
@@ -9041,4 +9041,24 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423108#this> ;
+.
+<https://romeresearchgroup.org/items/1000895> a lawd:Place ;
+rdfs:label "Temple of SS. Stimmate at Velitrae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.68542256"^^xsd:double ; geo:long "12.77418558"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423117#this> ;
+.
+<https://romeresearchgroup.org/items/1000896> a lawd:Place ;
+rdfs:label "Temple L (Pietrabbondante)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.739874"^^xsd:double ; geo:long "14.388928"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433025#this> ;
 .
