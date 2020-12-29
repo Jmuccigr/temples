@@ -888,3 +888,6 @@
 "1000896","Temple L","","temple","","","Pietrabbondante","","433025","IT","41.739874","14.388928","127","SE","","","","","","","","","","","","Samnite","","yes"
 "1000897","Temple of Juno Popluna","Juno","temple","","Loc. Loreto","Teano","Teanum Sidicinum","433146","IT"
 "1000898","Theater-Temple of San Nicola","","temple","","","Pietravairano","","","IT","41.336209","14.169259","128","SE","","","","","","","","","","","","","","yes"
+"1000899","Temple of Mercury","Mercury","temple","","","Vazi Sarra (Henchir Bez)","Vazitana Sarra Civitas","324848","TN","36.006354","9.547177","171","S","","","","","","","","","M","","god","","","yes","","","Orientation based on precinct wall"
+"1000900","Temple of Mercury","Mercury","temple","","","Ouergech","Thuburnica","315221","TN","36.528925","8.465505","86","E","","","","","","","","","M","","god","","","yes","","","Orientation based on precinct wall"
+"1000901","Temple of Mercury","Mercury","temple","","","","","314933","TN","","","","","","","","","","","","","","","","","","no"
