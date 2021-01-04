@@ -7356,7 +7356,7 @@
         "name": "Capitolium",
         "dedicatee": "Jupiter, Juno, Minerva",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
         "modernplace": "Brescia",
         "ancientplace": "Brixia",
@@ -7365,19 +7365,19 @@
         "orientation": "187",
         "compass": "S",
         "vowed": "",
-        "date": "",
+        "date": "73 CE",
         "startdateearly": "",
         "startdatelate": "",
         "century": "",
-        "enddate": "",
+        "enddate": "4th c. CE",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "Built by Vespasian in AD 73",
@@ -31050,6 +31050,278 @@
         "coordinates": [
           14.388928,
           41.739874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000898",
+        "name": "Theater-Temple of San Nicola",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Pietravairano",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.169259,
+          41.336209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000899",
+        "name": "Temple of Mercury",
+        "dedicatee": "Mercury",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Vazi Sarra (Henchir Bez)",
+        "ancientplace": "Vazitana Sarra Civitas",
+        "pleiadesplace": "324848",
+        "country": "TN",
+        "orientation": "171",
+        "compass": "S",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on precinct wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.547177,
+          36.006354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000900",
+        "name": "Temple of Mercury",
+        "dedicatee": "Mercury",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Ouergech",
+        "ancientplace": "Thuburnica",
+        "pleiadesplace": "315221",
+        "country": "TN",
+        "orientation": "86",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on precinct wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465505,
+          36.528925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000902",
+        "name": "Italic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "S. Maria in Canale",
+        "modernplace": "Collicello di Amelia",
+        "ancientplace": "Trebula",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "158",
+        "compass": "S",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.429529,
+          42.616871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000903",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Madonna dello Spineto",
+        "modernplace": "Quadri",
+        "ancientplace": "Trebula",
+        "pleiadesplace": "433163",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.283075,
+          41.913733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000904",
+        "name": "Temple of Zeus Lepsynos",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "extraurban",
+        "location": "",
+        "modernplace": "Kızılcakuyu",
+        "ancientplace": "Euromos",
+        "pleiadesplace": "599616",
+        "country": "TR",
+        "orientation": "65",
+        "compass": "NE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.675272,
+          37.374076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000905",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Orta",
+        "modernplace": "Karpuzlu",
+        "ancientplace": "Alinda",
+        "pleiadesplace": "599480",
+        "country": "TR",
+        "orientation": "88",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82549,
+          37.559123
         ]
       }
     }
