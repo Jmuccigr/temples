@@ -237,7 +237,7 @@
 "1000238","Temple of Hera Lacinia","Hera","temple","","","Capo Colonna","","452356","IT","39.02651","17.204949","","","","","","","","","","","","","god","","","","Vici.org","","","10966","452332"
 "1000239","Temple Complex","","temple","","","Pantanello","Metapontum","442658","IT","40.383694","16.823549","","","","","","","","","","","","","","","","","Vici.org","","","11201"
 "1000240","Temple of Venus Erycina","Venus","temple","","","","Segesta","462487","IT","37.941475","12.832296","84","E","","","","","","","","","F","","god","","","","Vici.org","","","11596","963441586","","","place/segesta/segesta-temple","it=Tempio_di_Segesta"
-"1000241","Temple of Diana","","temple","","","Ariccia","Aricia","422844","IT","41.723934","12.710217","","","","","","","","","","","","","god","","","","Vici.org","","","11609","","","","place/aricia","","","","","","","","417127SDiN"
+"1000241","Temple of Diana","","temple","","Lake Nemi","Ariccia","Aricia","422844","IT","41.723934","12.710217","","","","","","","","","","","","","god","","","","Vici.org","","","11609","422917","","","place/aricia","it=Tempio_di_Diana_(Nemi)","Q18590113","","","","","","417127SDiN"
 "1000242","Western forum temple","","temple","forum","","","Carsulae","413065","IT","42.639541","12.557359","5","N","","","","","","","","","","","","Roman","","Yes","","","","11625","721328707"
 "1000243","Acropolis","","temple","acropolis","","Populonia","Populonium","403212","IT","42.988754","10.5092","","","","","","","","","","","","","","","","","Vici.org","","","11649"
 "1000244","Temple of Fortuna","Fortuna","temple","","","Palestrina","Praeneste","423013","IT","41.840709","12.892591","195","S","","","","","","","","","","","concept","Italic","","Yes","Vici.org","","","11650","7963799","","","","Palestrina#Sanctuary_of_Fortuna_Primigenia","Q3949669"
@@ -902,3 +902,4 @@
 "1000910","Temple C","","temple","","Loc. Loreto","Teano","Teanum Sidicinum","433146","IT","41.250291","14.078416","75","E","","","","","","","","","","","","","","yes","","","Orientation based on survey plan"
 "1000911","Temple D","","temple","","Loc. Loreto","Teano","Teanum Sidicinum","433146","IT","41.250383","14.078377","75","E","","","","","","","","","F","","god","","","yes","","","Orientation based on survey plan"
 "1000912","Acropolis Temple","","temple","","","Ariccia","Aricia","422844","IT","","","","","","","","","","","","","","","","","","yes"
+"1000913","Temple","","temple","","Vallericcia","Ariccia","Aricia","422844","IT","41.718001","12.670065","","","","","","","","","","","","","","","","yes"
