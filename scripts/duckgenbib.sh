@@ -15,5 +15,5 @@ then
 	echo "$(date +%Y-%m-%d\ %H:%M:%S) general temple bibliography file is too small" 1>&2
 	exit 0
 else
-	duck -r 4 -y -e upload --synchronize ftps://romerese@ftp.romeresearchgroup.org/public_html/temples/temple_bib_general.html "$src/gen_temple_bib.html"; if [ $? -eq 0 ]; then echo "$(date +%Y-%m-%d\ %H:%M:%S) general temple bibliography updated." 1>&2; else echo "$(date +%Y-%m-%d\ %H:%M:%S) general temple bibliography update failed!" 1>&2; fi
+	duck -r -y -e upload --synchronize ftps://romerese@ftp.romeresearchgroup.org/public_html/temples/temple_bib_general.html "$src/temple_bib_general.html"; if [ $? -eq 0 ]; then echo "$(date +%Y-%m-%d\ %H:%M:%S) general temple bibliography FTPed to site." 1>&2; else echo "$(date +%Y-%m-%d\ %H:%M:%S) general temple bibliography FTP update failed!" 1>&2; fi
 fi
