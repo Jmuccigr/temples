@@ -7621,7 +7621,7 @@ var temples =  {
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "Lake Nemi",
         "modernplace": "Ariccia",
         "ancientplace": "Aricia",
         "pleiadesplace": "422844",
@@ -7646,12 +7646,12 @@ var temples =  {
         "meetings": "",
         "note": "",
         "vici": "11609",
-        "pleiades": "",
+        "pleiades": "422917",
         "dare": "",
         "arachne": "",
         "livius": "place/aricia",
-        "wikipedia": "",
-        "wikidata": "",
+        "wikipedia": "it=Tempio_di_Diana_(Nemi)",
+        "wikidata": "Q18590113",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
@@ -8788,41 +8788,47 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000267",
-        "name": "Temple 'C'",
+        "name": "Temple C",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Selinunte",
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "94",
+        "compass": "E",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
+        "date": "540 BCE",
+        "startdateearly": "-540",
         "startdatelate": "",
-        "century": "",
+        "century": "-6",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17972"
+        "vici": "17972",
+        "pleiades": "795363785",
+        "dare": "",
+        "arachne": "2100098",
+        "livius": "",
+        "wikipedia": "Temple_C_(Selinus)",
+        "wikidata": "Q3983175"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825288,
-          37.583237
+          12.825287,
+          37.583158
         ]
       }
     },
@@ -8830,17 +8836,17 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000268",
-        "name": "Temple 'A'",
+        "name": "Temple A",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Selinunte",
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "97",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -8852,19 +8858,22 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17974"
+        "vici": "17974",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2100342"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825358,
-          37.582607
+          12.825308,
+          37.582333
         ]
       }
     },
@@ -8872,17 +8881,17 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000269",
-        "name": "Temple 'B'",
+        "name": "Temple B",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Selinunte",
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "94",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -8894,9 +8903,9 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -8905,8 +8914,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825808,
-          37.58292
+          12.825719,
+          37.582959
         ]
       }
     },
@@ -8914,17 +8923,17 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000270",
-        "name": "Temple 'D'",
+        "name": "Temple D",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Selinunte",
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "95",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -8936,13 +8945,16 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17976"
+        "vici": "17976",
+        "pleiades": "502577471",
+        "dare": "",
+        "arachne": "2112368"
       },
       "geometry": {
         "type": "Point",
@@ -8956,7 +8968,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000271",
-        "name": "Temple 'E'",
+        "name": "Temple E",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -8965,8 +8977,8 @@ var temples =  {
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "95",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -8978,19 +8990,25 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17977"
+        "vici": "17977",
+        "pleiades": "502577470",
+        "dare": "",
+        "arachne": "2100097",
+        "livius": "",
+        "wikipedia": "Temple_E_(Selinus)",
+        "wikidata": "Q3983181"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.834885,
-          37.586716
+          12.834819,
+          37.58662
         ]
       }
     },
@@ -8998,7 +9016,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000272",
-        "name": "Temple 'F'",
+        "name": "Temple F",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -9007,8 +9025,8 @@ var temples =  {
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "95",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -9020,19 +9038,25 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17978"
+        "vici": "17978",
+        "pleiades": "71706222",
+        "dare": "",
+        "arachne": "2109328",
+        "livius": "",
+        "wikipedia": "Temple_F_(Selinus)",
+        "wikidata": "Q3983186"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.834879,
-          37.587337
+          12.834955,
+          37.587279
         ]
       }
     },
@@ -9040,7 +9064,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000273",
-        "name": "Temple 'G'",
+        "name": "Temple G",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -9049,8 +9073,8 @@ var temples =  {
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "94",
+        "compass": "E",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -9062,19 +9086,22 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17979"
+        "vici": "17979",
+        "pleiades": "283133307",
+        "dare": "",
+        "arachne": "2108310"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.834987,
-          37.588314
+          12.834944,
+          37.588183
         ]
       }
     },
@@ -9091,8 +9118,8 @@ var temples =  {
         "ancientplace": "Selinus",
         "pleiadesplace": "462489",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "65",
+        "compass": "NE",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -9104,9 +9131,9 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -9115,8 +9142,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.817137,
-          37.586945
+          12.816947,
+          37.586776
         ]
       }
     },
@@ -31056,6 +31083,30 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000897",
+        "name": "Temple of Juno Popluna",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Loreto",
+        "modernplace": "Teano",
+        "ancientplace": "Teanum Sidicinum",
+        "pleiadesplace": "433146",
+        "country": "IT",
+        "orientation": "172",
+        "compass": "S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.077791,
+          41.249558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000898",
         "name": "Theater-Temple of San Nicola",
         "dedicatee": "",
@@ -31081,7 +31132,10 @@ var temples =  {
         "deitytype": "",
         "culture": "",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on survey plan"
       },
       "geometry": {
         "type": "Point",
@@ -31322,6 +31376,387 @@ var temples =  {
         "coordinates": [
           27.82549,
           37.559123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000906",
+        "name": "Temple R",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Selinunte",
+        "ancientplace": "Selinus",
+        "pleiadesplace": "462489",
+        "country": "IT",
+        "orientation": "95",
+        "compass": "E",
+        "vowed": "",
+        "date": "580 BCE",
+        "startdateearly": "-580",
+        "startdatelate": "",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825508,
+          37.582983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000907",
+        "name": "Temple O",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Selinunte",
+        "ancientplace": "Selinus",
+        "pleiadesplace": "462489",
+        "country": "IT",
+        "orientation": "97",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825334,
+          37.582567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000908",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Loreto",
+        "modernplace": "Teano",
+        "ancientplace": "Teanum Sidicinum",
+        "pleiadesplace": "433146",
+        "country": "IT",
+        "orientation": "75",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on survey plan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.078464,
+          41.250066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000909",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Loreto",
+        "modernplace": "Teano",
+        "ancientplace": "Teanum Sidicinum",
+        "pleiadesplace": "433146",
+        "country": "IT",
+        "orientation": "75",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on survey plan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.078442,
+          41.25017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000910",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Loreto",
+        "modernplace": "Teano",
+        "ancientplace": "Teanum Sidicinum",
+        "pleiadesplace": "433146",
+        "country": "IT",
+        "orientation": "75",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on survey plan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.078416,
+          41.250291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000911",
+        "name": "Temple D",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Loreto",
+        "modernplace": "Teano",
+        "ancientplace": "Teanum Sidicinum",
+        "pleiadesplace": "433146",
+        "country": "IT",
+        "orientation": "75",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation based on survey plan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.078377,
+          41.250383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000913",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Vallericcia",
+        "modernplace": "Ariccia",
+        "ancientplace": "Aricia",
+        "pleiadesplace": "422844",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.670065,
+          41.718001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000915",
+        "name": "Temple of Piazza della Liberazione",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Palestrina",
+        "ancientplace": "Praeneste",
+        "pleiadesplace": "423013",
+        "country": "IT",
+        "orientation": "177",
+        "compass": "S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8904999,
+          41.83893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000917",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Le Bandite",
+        "modernplace": "Seggiano",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "Position from @Nannini2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571429,
+          42.942901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000919",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Zagara",
+        "modernplace": "Andros",
+        "ancientplace": "",
+        "pleiadesplace": "590097",
+        "country": "GR",
+        "orientation": "159",
+        "compass": "S",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-570",
+        "startdatelate": "-550",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.865125,
+          37.773813
         ]
       }
     }
