@@ -1,5 +1,5 @@
 ﻿function layer_by_type() {
-<!--  My datafile -->
+    // My datafile
 	$.getJSON("scripts/json.php", function (data) {
         temples.addData(data);
         mithrae.addData(data);
