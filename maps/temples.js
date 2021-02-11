@@ -31927,7 +31927,7 @@ var temples =  {
         "id": "1000923",
         "name": "Metroön",
         "dedicatee": "Cybele",
-        "type": "temples",
+        "type": "temple",
         "setting": "",
         "location": "",
         "modernplace": "Olympia",
