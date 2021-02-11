@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="/css/map.css" />
 	</head>
 	<body>
-	<div  id='mask'>
+	<div id='mask'>
 	<table>
 			<tr>
 				<td colspan=2>
@@ -227,24 +227,6 @@
 
 			// Load navigation instructions
 			loadNavigation();
-
-// 			Center map on Rome at decent zoom
-// 			function rome() {
-// 				mapZoom = Math.min(map.getMaxZoom(), 14);
-// 				map.flyTo([41.893, 12.48], mapZoom)
-// 			};
-//
-// 			Zoom out at start
-// 			function all() {
-// 				map.fitBounds(bounds);
-// 			};
-//
-// 			Zoom out
-// 			function showAll() {
-// 				map.flyToBounds(bounds, {
-// 					animate: true, duration: 3
-// 				});
-// 			};
 
 			// Read the inputted search
 			function readInput() {
