@@ -9822,7 +9822,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000216",
-        "name": "Temple of Asclepius",
+        "name": "",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -16942,8 +16942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.573152,
-          43.029804
+          0.572945,
+          43.029742
         ]
       }
     },
@@ -27856,7 +27856,7 @@
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Olympia",
         "ancientplace": "Olympia",
         "pleiadesplace": "570531",
         "country": "GR",
@@ -39483,6 +39483,192 @@
         "coordinates": [
           24.865125,
           37.773813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000920",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Vastogirardi",
+        "ancientplace": "",
+        "pleiadesplace": "433182",
+        "country": "IT",
+        "orientation": "157",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-130",
+        "startdatelate": "-120",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "Doric",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "59154",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "url": "http://www.sanniti.info/vastogir.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.262162,
+          41.785418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000921",
+        "name": "Temple of Hera",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Heraion",
+        "modernplace": "Samos",
+        "ancientplace": "Samos",
+        "pleiadesplace": "599641",
+        "country": "GR",
+        "orientation": "78",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.885502,
+          37.671948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000922",
+        "name": "Temple of Asclepius",
+        "dedicatee": "Asclepius",
+        "type": "temple",
+        "setting": "",
+        "location": "Asclepeion",
+        "modernplace": "Epidafro",
+        "ancientplace": "Epidauros",
+        "pleiadesplace": "570127",
+        "country": "GR",
+        "orientation": "79",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "17777",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Asclepius,_Epidaurus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.074455,
+          37.59863562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000923",
+        "name": "Metroön",
+        "dedicatee": "Cybele",
+        "type": "temples",
+        "setting": "",
+        "location": "",
+        "modernplace": "Olympia",
+        "ancientplace": "Olympia",
+        "pleiadesplace": "570531",
+        "country": "GR",
+        "orientation": "280",
+        "compass": "W",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "17793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.630835,
+          37.638816
         ]
       }
     }

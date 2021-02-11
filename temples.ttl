@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-01-25"  ; 
+    dcterms:modified "2021-02-11"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2238,7 +2238,7 @@ spatial:C <https://pleiades.stoa.org/places/462086#this> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento> ;
 .
 <https://romeresearchgroup.org/items/1000216> a lawd:Place ;
-rdfs:label "Temple of Asclepius at Akragas" ;
+rdfs:label " at Akragas" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.282531"^^xsd:double ; geo:long "13.589582"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -3978,7 +3978,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q1272940> ;
 <https://romeresearchgroup.org/items/1000372> a lawd:Place ;
 rdfs:label "Forum Temple at Lugdunum Convenarum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "43.029804"^^xsd:double ; geo:long "0.573152"^^xsd:double ] ;
+geo:location [ geo:lat "43.029742"^^xsd:double ; geo:long "0.572945"^^xsd:double ] ;
 gn:countryCode "FR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9304,4 +9304,49 @@ gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/590097#this> ;
+.
+<https://romeresearchgroup.org/items/1000920> a lawd:Place ;
+rdfs:label "Temple (Vastogirardi)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.785418"^^xsd:double ; geo:long "14.262162"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433182#this> ;
+skos:exactMatch <http://vici.org/vici/59154> ;
+.
+<https://romeresearchgroup.org/items/1000921> a lawd:Place ;
+rdfs:label "Temple of Hera at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.671948"^^xsd:double ; geo:long "26.885502"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+skos:exactMatch <http://vici.org/vici/11096> ;
+.
+<https://romeresearchgroup.org/items/1000922> a lawd:Place ;
+rdfs:label "Temple of Asclepius at Epidauros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.59863562"^^xsd:double ; geo:long "23.074455"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570127#this> ;
+skos:exactMatch <http://vici.org/vici/17777> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Asclepius,_Epidaurus> ;
+.
+<https://romeresearchgroup.org/items/1000923> a lawd:Place ;
+rdfs:label "Metroön at Olympia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.638816"^^xsd:double ; geo:long "21.630835"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570531#this> ;
+skos:exactMatch <http://vici.org/vici/17793> ;
 .

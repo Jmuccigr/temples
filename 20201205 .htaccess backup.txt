@@ -1,0 +1,79 @@
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+RewriteRule .* - [E=Cache-Control:no-autoflush]
+RewriteRule ^min/\w+\.(css|js) - [E=cache-control:no-vary]
+
+### marker CACHE RESOURCE start ###
+RewriteRule wp-content/.*/[^/]*(responsive|css|js|dynamic|loader|fonts)\.php - [E=cache-control:max-age=3600]
+### marker CACHE RESOURCE end ###
+
+### marker FAVICON start ###
+RewriteRule favicon\.ico$ - [E=cache-control:max-age=86400]
+### marker FAVICON end ###
+
+</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+### marker MINIFY start ###
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} ^(.*)/min/(\w+)\.(css|js)$
+RewriteCond %1/wp-content/cache/$2/$1.$2 -f
+RewriteRule min/(\w+)\.(css|js) wp-content/cache/$2/$1.$2 [L]
+</IfModule>
+### marker MINIFY end ###
+
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+### BEGIN my changes
+Options FollowSymLinks
+Options -Multiviews
+
+# For single-item queries: only a number string will work, so remove everything else
+RewriteRule items/(100[0-9]{4})/ items/$1 [R]
+RewriteRule items/(100[0-9]{4})$ items/index.php?$1 [L]
+#
+# For single-item json queries: redirect number to the script
+RewriteRule "items/(100[0-9]{4})/json/$" "items/scripts/get_json.php?$1" [L]
+#
+# Make the csv result work the same way as json, using existing search function
+RewriteRule "items/(100[0-9]{4})/csv/$" "search?id=$1" [L]
+#
+# Add php extension when missing
+RewriteRule "^([a-z0-9_\-]+)$" "$1.php" [L]
+RewriteRule "^([a-z]+)/([a-z\-]+)$" "$1/$2.php" [L]
+### END my changes
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/items/
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php7_module>
+   php_value output_buffering Off
+   php_value default_mimetype "text/html"
+</IfModule>
+<IfModule lsapi_module>
+   php_value output_buffering Off
+   php_value default_mimetype "text/html"
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
