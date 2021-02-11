@@ -200,5 +200,17 @@
 			var filename = url.substring(url.lastIndexOf('/')+1);
 			setCookie('sqlquery', 'ID=' + filename, '1');
 		</script>
+
+		<script>
+		    // Set the cookie back to maps mode. Not perfect, but at least keeps the no-position
+		    // sites from showing after the window is closed.
+			window.onbeforeunload = closingCode;
+			function closingCode(){
+			   document.cookie = "querytype=map; path=/";
+			   return null;
+			}
+		</script>
+
+
 	</body>
 </html>
