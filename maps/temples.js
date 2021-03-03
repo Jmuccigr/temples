@@ -4945,6 +4945,7 @@ var temples =  {
         "ads": "4031",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=389015"
       },
       "geometry": {
@@ -5156,6 +5157,7 @@ var temples =  {
         "ads": "14072",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=327595"
       },
       "geometry": {
@@ -5263,6 +5265,7 @@ var temples =  {
         "ads": "14103",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=205240"
       },
       "geometry": {
@@ -5422,6 +5425,7 @@ var temples =  {
         "ads": "16099",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=234025"
       },
       "geometry": {
@@ -5477,6 +5481,7 @@ var temples =  {
         "ads": "17001",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=208294"
       },
       "geometry": {
@@ -5532,6 +5537,7 @@ var temples =  {
         "ads": "20014",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=209560"
       },
       "geometry": {
@@ -5743,6 +5749,7 @@ var temples =  {
         "ads": "21004",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=191317"
       },
       "geometry": {
@@ -5902,6 +5909,7 @@ var temples =  {
         "ads": "21127",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=199898"
       },
       "geometry": {
@@ -7158,6 +7166,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio4/1/1-4.htm"
       },
       "geometry": {
@@ -8774,6 +8783,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio1/forum/temprom.htm"
       },
       "geometry": {
@@ -10845,6 +10855,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-5.htm"
       },
       "geometry": {
@@ -10900,6 +10911,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio3/17/17-4.htm"
       },
       "geometry": {
@@ -10955,6 +10967,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-5.htm"
       },
       "geometry": {
@@ -11010,6 +11023,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -11065,6 +11079,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-3.htm"
       },
       "geometry": {
@@ -11120,6 +11135,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-4.htm"
       },
       "geometry": {
@@ -11175,6 +11191,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio1/19/19-2.htm"
       },
       "geometry": {
@@ -11230,6 +11247,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio4/8/8-3.htm"
       },
       "geometry": {
@@ -11285,6 +11303,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio3/2/2-1.htm"
       },
       "geometry": {
@@ -11340,6 +11359,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/portus/s009.htm"
       },
       "geometry": {
@@ -11395,6 +11415,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/portus/t021.htm"
       },
       "geometry": {
@@ -11450,6 +11471,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio1/11/11-1.htm"
       },
       "geometry": {
@@ -11505,6 +11527,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-6.htm"
       },
       "geometry": {
@@ -13368,6 +13391,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.chateaubas.com/en/pages/history/temple.html"
       },
       "geometry": {
@@ -20434,6 +20458,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette"
       },
       "geometry": {
@@ -25411,6 +25436,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html"
       },
       "geometry": {
@@ -25712,6 +25738,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -25767,6 +25794,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -25822,6 +25850,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -25877,6 +25906,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio1/10/10-4.htm"
       },
       "geometry": {
@@ -25932,6 +25962,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio1/12/12-6.htm"
       },
       "geometry": {
@@ -25987,6 +26018,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio1/15/15-2.htm"
       },
       "geometry": {
@@ -26042,6 +26074,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio1/15/15-6.htm"
       },
       "geometry": {
@@ -26097,6 +26130,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio4/1/1-1.htm"
       },
       "geometry": {
@@ -26152,6 +26186,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio5/10/10-2.htm"
       },
       "geometry": {
@@ -26207,6 +26242,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.ostia-antica.org/regio5/12/12-1.htm"
       },
       "geometry": {
@@ -28684,6 +28720,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.itc.cnr.it/ba/sc/CNS/CNS0099.html"
       },
       "geometry": {
@@ -28965,6 +29002,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://nora.beniculturali.unipd.it/gli-edifici/edifici-religiosi/tempio-romano/"
       },
       "geometry": {
@@ -29422,6 +29460,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://www.sabap-abruzzo.beniculturali.it/santuario-di-ercole-curino/"
       },
       "geometry": {
@@ -31767,6 +31806,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "https://circe-antique.huma-num.fr/notice.php?ID_site=2438"
       },
       "geometry": {
@@ -31822,6 +31862,7 @@ var temples =  {
         "ads": "",
         "cona": "",
         "topostext": "",
+        "sls": "",
         "url": "http://www.sanniti.info/vastogir.html"
       },
       "geometry": {
@@ -31960,6 +32001,244 @@ var temples =  {
         "coordinates": [
           21.630835,
           37.638816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000924",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Imbelli",
+        "modernplace": "Campora S. Giovanni",
+        "ancientplace": "Temesa",
+        "pleiadesplace": "452469",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "Position from Google - check"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1111078,
+          39.07564596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000925",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Contrada Marasà",
+        "modernplace": "Mandorleto",
+        "ancientplace": "Locri Epizephyri",
+        "pleiadesplace": "452369",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "17993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.238451,
+          38.211181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000926",
+        "name": "Doric Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Punta Stilo",
+        "modernplace": "Monasterace",
+        "ancientplace": "Caulonia",
+        "pleiadesplace": "452352",
+        "country": "IT",
+        "orientation": "90",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "29940",
+        "pleiades": "66028350",
+        "dare": "",
+        "arachne": "2117711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.578723,
+          38.445443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000927",
+        "name": "Temple of Zeus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Shahat",
+        "ancientplace": "Cyrene",
+        "pleiadesplace": "373778",
+        "country": "LY",
+        "orientation": "95",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric octostyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11538",
+        "pleiades": "103565779",
+        "dare": "",
+        "arachne": "2107124",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "Q12243758",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "1066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.862595,
+          32.822288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000928",
+        "name": "Temple of Demeter",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Shahat",
+        "ancientplace": "Cyrene",
+        "pleiadesplace": "373778",
+        "country": "LY",
+        "orientation": "85",
+        "compass": "E",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "61561",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "1209312",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "1475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.856934,
+          32.814256
         ]
       }
     }

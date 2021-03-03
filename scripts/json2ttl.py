@@ -128,6 +128,8 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'skos:exactMatch <http://vocab.getty.edu/page/cona/' + record['properties']['cona'] + '> ;\n'
             if record['properties'].get('topostext') != '' and record['properties'].get('topostext') is not None:
                 outputText += 'skos:exactMatch <https://topostext.org/place/' + record['properties']['topostext'] + '> ;\n'
+            if record['properties'].get('sls') != '' and record['properties'].get('sls') is not None:
+                outputText += 'skos:exactMatch <http://www.slsgazetteer.org/' + record['properties']['sls'] + '> ;\n'
             outputText += u'.\n'
 output = io.open(basedir + 'temples.ttl', 'w', encoding="utf-8")
 output.write(outputText)

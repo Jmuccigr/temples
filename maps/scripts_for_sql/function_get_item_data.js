@@ -162,6 +162,12 @@ res = res[0];
 			};
 			otherDB = otherDB + '<a target="_blank" href="https://topostext.org/place/' + res.properties.topostext + '">ToposText</a>';
 		}
+		if (res.properties.sls != '') {
+			if (otherDB.length > 4) {
+				otherDB = otherDB + ', '
+			};
+			otherDB = otherDB + '<a target="_blank" href="https://www.slsgazetteer.org/' + res.properties.sls + '">Heritage Gazetteer of Lybia</a>';
+		}
 		if (otherDB.length == 4) {
 			otherDB = ''
 		} else {
