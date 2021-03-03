@@ -166,7 +166,7 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="https://www.slsgazetteer.org/' + res.properties.sls + '">Heritage Gazetteer of Lybia</a>';
+			otherDB = otherDB + '<a target="_blank" href="https://www.slsgazetteer.org/' + res.properties.sls + '">Heritage Gazetteer of Libya</a>';
 		}
 		if (otherDB.length == 4) {
 			otherDB = ''
