@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-03-02"  ; 
+    dcterms:modified "2021-03-06"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9409,4 +9409,21 @@ spatial:C <https://pleiades.stoa.org/places/373778#this> ;
 skos:exactMatch <http://vici.org/vici/61561> ;
 skos:exactMatch <https://arachne.dainst.org/entity/1209312> ;
 skos:exactMatch <http://www.slsgazetteer.org/1475> ;
+.
+<https://romeresearchgroup.org/items/1000929> a lawd:Place ;
+rdfs:label "Temple (Canale di Monterano)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000930> a lawd:Place ;
+rdfs:label "Forum Temple at Altinum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "45.550029"^^xsd:double ; geo:long "12.391763"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/393374#this> ;
 .

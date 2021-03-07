@@ -32241,6 +32241,47 @@ var temples =  {
           32.814256
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000930",
+        "name": "Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Altino",
+        "ancientplace": "Altinum",
+        "pleiadesplace": "393374",
+        "country": "IT",
+        "orientation": "117",
+        "compass": "SE",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Info from survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.391763,
+          45.550029
+        ]
+      }
     }
   ]
 }
