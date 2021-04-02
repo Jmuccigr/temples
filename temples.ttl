@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-03-06"  ; 
+    dcterms:modified "2021-03-18"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9426,4 +9426,45 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/393374#this> ;
+.
+<https://romeresearchgroup.org/items/1000931> a lawd:Place ;
+rdfs:label "Temple of Aphrodite at Ancona" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.6253452"^^xsd:double ; geo:long "13.5102418"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413014#this> ;
+.
+<https://romeresearchgroup.org/items/1000932> a lawd:Place ;
+rdfs:label "South Temple (Kalapodi)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.636619"^^xsd:double ; geo:long "22.895672"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/540665> ;
+.
+<https://romeresearchgroup.org/items/1000933> a lawd:Place ;
+rdfs:label "Forum Temple at Compsa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.87016"^^xsd:double ; geo:long "15.330445"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442550#this> ;
+.
+<https://romeresearchgroup.org/items/1000934> a lawd:Place ;
+rdfs:label "Temple of Apollo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.559732"^^xsd:double ; geo:long "21.668077"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/541139#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/728329645> ;
+skos:exactMatch <https://es.wikipedia.org/wiki/Templo_de_Apolo_(Termo)> ;
 .
