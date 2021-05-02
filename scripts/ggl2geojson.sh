@@ -22,7 +22,7 @@ fi
 
 # Get google doc as json via the v4 API & exit on failure to return any/enough data
 # Be sure to grab all the needed columns
-json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AT?key=$apikey")
+json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AU?key=$apikey")
 if [ ${#json} -lt 100 ]
    then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no temple data from Google spreadsheet server" 1>&2

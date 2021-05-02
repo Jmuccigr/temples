@@ -1,7 +1,7 @@
 ---
 author: John D. Muccigrosso
 title: Field Definitions
-date: Sunday, 5 January 2020
+date: Monday, 26 April 2021
 ---
 
 ## Introduction
@@ -16,6 +16,7 @@ The following is a list of the fields found in the database and how they are def
 | name | Common name of the temple, if any, typically in English. |
 | dedicatee | Divinity/-ies to whom the temple was dedicated, typically in English, using Roman (not Greek) version. |
 | type | Type of structure (temple, mithraeum, etc). Almost all are temples.
+| setting | context for the structure, e.g., forum, acropolis |
 | location | Name of locale in which the temple is found, whether ancient or modern, smaller than a city or whatever is listed in ancient/modern place. For example, *Campus Martius* in Rome.
 | modernplace | Modern name for the place in which the temple was found. |
 | ancientplace | Ancient name for the place in which the temple was found. |
@@ -25,6 +26,7 @@ The following is a list of the fields found in the database and how they are def
 | longitude | Longitude of the location of the temple. Right now these all presume the exact location is known, that is, there's no indication of accuracy. |
 | orientation | Orientation in degrees (1-360°) of the temple, where 0/360° is north. These were mostly obtained from Google maps, though some are taken from published plans. |
 | compass | Conversion of orientation into one of eight directions (N, NE, E, etc).
+| geocertainty | Currently a course indication of how precise the geo coordinates are: 0 = exact; 1 = 1km |
 | vowed | Year of vow for the building of the temple. Mainly applies to ones in the city of Rome. Negative numbers for BCE. |
 | date | Date (often descriptive, e.g., "early 1st c. BCE") of the dedication/start of the temple.
 | startdateearly | Date for the early side of the start-date range. |
