@@ -16,15 +16,15 @@ The following is a list of the fields found in the database and how they are def
 | name | Common name of the temple, if any, typically in English. |
 | dedicatee | Divinity/-ies to whom the temple was dedicated, typically in English, using Roman (not Greek) version. |
 | type | Type of structure (temple, mithraeum, etc). Almost all are temples.
-| setting | context for the structure, e.g., forum, acropolis |
+| setting | Geographical context for the structure, e.g., forum, acropolis |
 | location | Name of locale in which the temple is found, whether ancient or modern, smaller than a city or whatever is listed in ancient/modern place. For example, *Campus Martius* in Rome.
 | modernplace | Modern name for the place in which the temple was found. |
 | ancientplace | Ancient name for the place in which the temple was found. |
-| pleiadesplace | Pleiades ID for the place in which the temple was found. Not to be confused with field "pleiades" which is the Pleiades entry that is the same as the database entry. |
-| country | Modern country in which the temple was found. |
-| latitude | Latitude of the location of the temple. Right now these all presume the exact location is known, that is, there's no indication of accuracy. |
-| longitude | Longitude of the location of the temple. Right now these all presume the exact location is known, that is, there's no indication of accuracy. |
-| orientation | Orientation in degrees (1-360°) of the temple, where 0/360° is north. These were mostly obtained from Google maps, though some are taken from published plans. |
+| pleiadesplace | Pleiades ID for the place in which the temple was found. Not to be confused with field "pleiades" below which is the Pleiades entry that is the same as the database entry. |
+| country | Modern country in which the temple was found, entered as the 2-letter ISO 3166-1 alpha-2 code. |
+| latitude | Latitude of the location of the temple. Accuracy is (crudely) indicated by the "geocertainty" field below. |
+| longitude | Longitude of the location of the temple. Accuracy is (crudely) indicated by the "geocertainty" field below. |
+| orientation | Orientation in degrees (0-359°) of the temple, where 0/360° is north. These were mostly obtained from Google maps, though some are taken from published plans. |
 | compass | Conversion of orientation into one of eight directions (N, NE, E, etc).
 | geocertainty | Currently a course indication of how precise the geo coordinates are: 0 = exact; 1 = 1km |
 | vowed | Year of vow for the building of the temple. Mainly applies to ones in the city of Rome. Negative numbers for BCE. |
@@ -42,7 +42,7 @@ The following is a list of the fields found in the database and how they are def
 | style |  Architectural type of the temple. |
 | extant | Is the temple still in existence, even if fragmentary?
 | source | Other database or project that was the original source for this entry.
-| meetings | Did the Roman senate meet in the temple. Only applies to ones in the city of Rome. |
+| meetings | Did the Roman senate meet in the temple. Only applies to ones in and near the city of Rome. |
 | note | Pertinent note. |
 | vici | Vici.org ID for the temple. |
 | pleiades | Pleiades ID for the temple. |
@@ -52,7 +52,7 @@ The following is a list of the fields found in the database and how they are def
 | wikipedia | Wikipedia article for the temple. |
 | wikidata | Wikidata ID for the temple. |
 | digitalromanforum | Digital Roman Forum ID for the temple. |
-| digitalesforumromanum | Digitales Forum Romanam ID for the temple. |
+| digitalesforumromanum | Digitales Forum Romanum ID for the temple. |
 | trismegistos | Trismegistos ID for the temple. |
 | ads | Archeological Data Service ID for the temple (British). |
 | cona | Getty Cultural Objects Names Authority ID for the temple. |
