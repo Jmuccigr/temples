@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-05-02"  ; 
+    dcterms:modified "2021-05-05"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -7877,7 +7877,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/413184#this> ;
 .
 <https://romeresearchgroup.org/items/1000769> a lawd:Place ;
-rdfs:label "Sanctuary of Fondo Patterelli at Capua" ;
+rdfs:label "Sanctuary of Fondo Patturelli at Capua" ;
 dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
