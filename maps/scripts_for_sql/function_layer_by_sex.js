@@ -36,11 +36,19 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: blackCircleIcon,
+                riseOnHover: true
+            })
+            } else {
             return L.marker(latlng,
             {
                 icon: blackIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer)
         {
@@ -53,11 +61,19 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: whiteCircleIcon,
+                riseOnHover: true
+            })
+            } else {
             return L.marker(latlng,
             {
                 icon: whiteIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer)
         {
@@ -70,11 +86,19 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: BandWCircleIcon,
+                riseOnHover: true
+            })
+            } else {
             return L.marker(latlng,
             {
                 icon: BandWIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer)
         {
@@ -87,11 +111,19 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng)
         {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: greyCircleIcon,
+                riseOnHover: true
+            })
+            } else {
             return L.marker(latlng,
             {
                 icon: greyIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer)
         {

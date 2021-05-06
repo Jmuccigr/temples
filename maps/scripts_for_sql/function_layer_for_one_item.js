@@ -24,13 +24,24 @@
 
     temples = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
+        pointToLayer: function (feature, latlng)
+        {
             // Single item might not have a location, in which case don't add a point for it
             if (latlng != "LatLng(0, 0)") {
-            return L.marker(latlng, {
-                icon: redIcon
-            });
-            }
+				if (feature.properties.geocertainty == "1") {
+					return L.marker(latlng,
+					{
+						icon: redCircleIcon,
+						riseOnHover: true
+					})
+				} else {
+					return L.marker(latlng,
+					{
+						icon: redIcon,
+						riseOnHover: true
+					})
+				};
+			};
         },
     }).addTo(items);
 

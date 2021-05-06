@@ -32,11 +32,21 @@
 
    temples1 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: blackCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: blackIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.century == "-1");
@@ -45,11 +55,21 @@
 
    temples2 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: greenCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: greenIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.century == "-2");
@@ -58,11 +78,21 @@
 
    temples3 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: greyCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: greyIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.century == "-3");
@@ -71,11 +101,21 @@
 
    temples4 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: blueCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: blueIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.century == "-4");
@@ -84,11 +124,21 @@
 
    temples5 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: redCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: redIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.century == "-5");

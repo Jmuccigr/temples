@@ -38,11 +38,21 @@
 
     temples1 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: greyCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: greyIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("city"));
@@ -51,11 +61,21 @@
 
     temples2 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: blackCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: blackIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("concept"));
@@ -64,11 +84,21 @@
 
     temples3 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: orangeCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: orangeIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("emperor"));
@@ -77,11 +107,21 @@
 
     temples4 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: yellowCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: yellowIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("family"));
@@ -90,11 +130,21 @@
 
     temples5 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: redCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: redIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("god"));
@@ -103,11 +153,21 @@
 
     temples6 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: blueCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: blueIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("hero"));
@@ -116,11 +176,21 @@
 
     temples7 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: greenCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: greenIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype.includes("nature"));
@@ -129,11 +199,21 @@
 
     temples8 = new L.geoJson(null, {
         onEachFeature: onEachFeature,
-        pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, {
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: whiteCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
                 icon: whiteIcon,
                 riseOnHover: true
-            });
+            })
+            };
         },
         filter: function (feature, layer) {
             return (feature.properties.deitytype == "");
