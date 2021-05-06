@@ -21,21 +21,22 @@ function getPleiadesPlace(id) {
             // Grab Latin and Greek names for the Roman period. Use Latin first, or else the first name in the group if neither is present
             if (data.names == '') {
                 document.getElementById("pleiades").innerHTML = "[Name unknown]"
-
             } else {
                 for (i = 0; i < data.names.length; i++) {
-                    for (j = 0; j < data.names[i].attestations.length; j++) {
-                        if (data.names[i].attestations[j].timePeriod == 'roman') {
-                            if (data.names[i].language == 'la') {
-                                latinName = data.names[i].romanized;
-                            } else {
-                                if (data.names[i].language == 'grc') {
-                                    greekName = data.names[i].romanized;
-                                }
-                            }
-                        }
-                    }
-                }
+                    if (data.names[i].nameType == 'geographic') {
+						for (j = 0; j < data.names[i].attestations.length; j++) {
+							if (data.names[i].attestations[j].timePeriod == 'roman') {
+								if (data.names[i].language == 'la') {
+									latinName = data.names[i].romanized;
+								} else {
+									if (data.names[i].language == 'grc') {
+										greekName = data.names[i].romanized;
+									}
+								}
+							}
+						}
+					}
+				}
                 if (latinName + greekName == '') {
                     place = data.names[0].romanized
                     if (data.names[0].language != '') {
