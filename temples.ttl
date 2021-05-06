@@ -9671,3 +9671,25 @@ gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
+<https://romeresearchgroup.org/items/1000953> a lawd:Place ;
+rdfs:label "Tempietto at Rusellae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.826741"^^xsd:double ; geo:long "11.15898"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413288#this> ;
+skos:exactMatch <http://vici.org/vici/55558> ;
+.
+<https://romeresearchgroup.org/items/1000954> a lawd:Place ;
+rdfs:label "Temple at Rusellae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.827366"^^xsd:double ; geo:long "11.158912"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413288#this> ;
+skos:exactMatch <http://vici.org/vici/55561> ;
+.

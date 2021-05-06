@@ -41976,6 +41976,92 @@
           42.18113913
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000953",
+        "name": "Tempietto",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Roselle",
+        "ancientplace": "Rusellae",
+        "pleiadesplace": "413288",
+        "country": "IT",
+        "orientation": "85",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "55558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15898,
+          42.826741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000954",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Roselle",
+        "ancientplace": "Rusellae",
+        "pleiadesplace": "413288",
+        "country": "IT",
+        "orientation": "203",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "55561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.158912,
+          42.827366
+        ]
+      }
     }
   ]
 }
