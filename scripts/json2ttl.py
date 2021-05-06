@@ -42,7 +42,7 @@ outputText += u'    .  \n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
 if os.stat(basedir + 'pelagios.json').st_size < 10000:
-	sys.exit(dateTimeObj.strftime("%Y-%m-%d %H:%M:%S") + ": temples pelagios json file is too small to process into turtle.")
+	sys.exit(dateTimeObj.strftime("%Y-%m-%d %H:%M:%S") + " temples pelagios json file is too small to process into turtle.")
 with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
     for line in f.readlines():
         record = json.loads(line)
