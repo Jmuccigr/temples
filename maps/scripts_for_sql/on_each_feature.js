@@ -1,7 +1,10 @@
 // Show a tooltip on hover and load data on click
 function onEachFeature(feature, layer) {
-    if (typeof oset == "undefined") {
+    // Move the tooltip offset depending on which of the icons is being used
+    if (feature.properties.geocertainty == "1") {
         oset = 0;
+    } else {
+        oset = -28;
     }
     layer.bindTooltip(getTooltipText(feature, layer), {
             offset: [0, oset]
