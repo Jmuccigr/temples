@@ -94,7 +94,7 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="http://dare.ht.lu.se/places/' + res.properties.dare + '">DARE</a>';
+			otherDB = otherDB + '<a target="_blank" href="http://imperium.ahlfeldt.se/places/' + res.properties.dare + '">DARE</a>';
 		}
 		if (res.properties.digitalromanforum != '') {
 			if (otherDB.length > 4) {
