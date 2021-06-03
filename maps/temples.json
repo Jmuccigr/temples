@@ -251,7 +251,16 @@
         "culture": "Roman",
         "style": "",
         "extant": "",
-        "source": "Blake/Ziolkowski"
+        "source": "Blake/Ziolkowski",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Bona_Dea",
+        "wikidata": "Q541336"
       },
       "geometry": {
         "type": "Point",
@@ -490,7 +499,7 @@
         "arachne": "6228",
         "livius": "",
         "wikipedia": "Temple_of_Claudius",
-        "wikidata": "",
+        "wikidata": "Q523765",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
@@ -624,7 +633,7 @@
         "dedicatee": "Dea Dia",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "Magliana",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
@@ -656,8 +665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.44195,
-          41.83614
+          12.432137,
+          41.83462
         ]
       }
     },
@@ -951,7 +960,13 @@
         "source": "",
         "meetings": "",
         "note": "Vici.org",
-        "vici": "11503"
+        "vici": "11503",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Elagabalium",
+        "wikidata": "Q969344"
       },
       "geometry": {
         "type": "Point",
@@ -4163,7 +4178,7 @@
         "arachne": "8407",
         "livius": "",
         "wikipedia": "Temple_of_Vesta",
-        "wikidata": "",
+        "wikidata": "Q753791",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
@@ -5974,7 +5989,7 @@
         "arachne": "",
         "livius": "",
         "wikipedia": "Pagans_Hill_Roman_temple",
-        "wikidata": "",
+        "wikidata": "Q7124196",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
         "trismegistos": "",
@@ -6471,7 +6486,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Hercules_(Amman)"
+        "wikipedia": "Temple_of_Hercules_(Amman)",
+        "wikidata": "Q20423672"
       },
       "geometry": {
         "type": "Point",
@@ -6519,7 +6535,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Heracles,_Agrigento"
+        "wikipedia": "Temple_of_Heracles,_Agrigento",
+        "wikidata": "Q3983242"
       },
       "geometry": {
         "type": "Point",
@@ -6567,7 +6584,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Juno,_Agrigento"
+        "wikipedia": "Temple_of_Hera_Lacinia",
+        "wikidata": "Q3983262"
       },
       "geometry": {
         "type": "Point",
@@ -6615,7 +6633,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Concordia,_Agrigento"
+        "wikipedia": "Temple_of_Concordia,_Agrigento",
+        "wikidata": "Q3983202"
       },
       "geometry": {
         "type": "Point",
@@ -6629,7 +6648,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000216",
-        "name": "",
+        "name": "Temple of Asclepius",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -6655,15 +6674,7 @@
         "culture": "Greek",
         "style": "",
         "extant": "Yes",
-        "source": "Wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Valle_dei_Templi"
+        "source": "Wikipedia"
       },
       "geometry": {
         "type": "Point",
@@ -6711,7 +6722,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Olympian_Zeus,_Agrigento"
+        "wikipedia": "Temple_of_Olympian_Zeus,_Agrigento",
+        "wikidata": "Q2000309"
       },
       "geometry": {
         "type": "Point",
@@ -6751,15 +6763,7 @@
         "culture": "Greek",
         "style": "",
         "extant": "Yes",
-        "source": "Wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Valle_dei_Templi"
+        "source": "Wikipedia"
       },
       "geometry": {
         "type": "Point",
@@ -6799,15 +6803,7 @@
         "culture": "Greek",
         "style": "",
         "extant": "Yes",
-        "source": "Wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Valle_dei_Templi"
+        "source": "Wikipedia"
       },
       "geometry": {
         "type": "Point",
@@ -6847,15 +6843,7 @@
         "culture": "Greek",
         "style": "",
         "extant": "Yes",
-        "source": "Wikipedia",
-        "meetings": "",
-        "note": "",
-        "vici": "",
-        "pleiades": "",
-        "dare": "",
-        "arachne": "",
-        "livius": "",
-        "wikipedia": "Valle_dei_Templi"
+        "source": "Wikipedia"
       },
       "geometry": {
         "type": "Point",
@@ -7774,7 +7762,8 @@
         "dare": "",
         "arachne": "",
         "livius": "place/segesta/segesta-temple",
-        "wikipedia": "it=Tempio_di_Segesta"
+        "wikipedia": "it=Tempio_di_Segesta",
+        "wikidata": "Q3983280"
       },
       "geometry": {
         "type": "Point",
@@ -7795,7 +7784,7 @@
         "location": "Lake Nemi",
         "modernplace": "Ariccia",
         "ancientplace": "Aricia",
-        "pleiadesplace": "422844",
+        "pleiadesplace": "422984",
         "country": "IT",
         "orientation": "",
         "compass": "",
@@ -8121,7 +8110,7 @@
         "location": "",
         "modernplace": "Alberese",
         "ancientplace": "",
-        "pleiadesplace": "422917",
+        "pleiadesplace": "",
         "country": "IT",
         "orientation": "",
         "compass": "",
@@ -8831,7 +8820,8 @@
         "dare": "",
         "arachne": "",
         "livius": "battle/himera-480-bce",
-        "wikipedia": "Temple_of_Victory_%28Himera%29"
+        "wikipedia": "Temple_of_Victory_%28Himera%29",
+        "wikidata": "Q3983217"
       },
       "geometry": {
         "type": "Point",
@@ -13871,7 +13861,8 @@
         "dare": "20763",
         "arachne": "",
         "livius": "",
-        "wikipedia": "fr=Temple_de_Mars_(Corseul)"
+        "wikipedia": "fr=Temple_de_Mars_(Corseul)",
+        "wikidata": "Q14628539"
       },
       "geometry": {
         "type": "Point",
@@ -28684,7 +28675,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000802",
-        "name": "Temple",
+        "name": "Temple \"del Manganello\"",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -31184,7 +31175,7 @@
         "name": "Temple of Augustus",
         "dedicatee": "",
         "type": "temple",
-        "setting": "hill",
+        "setting": "hilltop",
         "location": "",
         "modernplace": "Tarragona",
         "ancientplace": "Tarraco",
@@ -32731,7 +32722,8 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Temple_of_Asclepius,_Epidaurus"
+        "wikipedia": "Temple_of_Asclepius,_Epidaurus",
+        "wikidata": "Q7698713"
       },
       "geometry": {
         "type": "Point",
@@ -34134,6 +34126,275 @@
         "coordinates": [
           11.158912,
           42.827366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000955",
+        "name": "Temple of Isis and Serapis",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Taormina",
+        "ancientplace": "Tauromenium",
+        "pleiadesplace": "462506",
+        "country": "IT",
+        "orientation": "109",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "Doric distyle in antis",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2108052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28971,
+          37.855558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000956",
+        "name": "Temple under S. Caterina",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Taormina",
+        "ancientplace": "Tauromenium",
+        "pleiadesplace": "462506",
+        "country": "IT",
+        "orientation": "118",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd half 3rd c. BCE",
+        "startdateearly": "-250",
+        "startdatelate": "-200",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Peripteral",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.288131,
+          37.85404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000957",
+        "name": "Collegial Temple",
+        "dedicatee": "Pertinax",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Ostia Antica",
+        "ancientplace": "Ostia",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "321",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "end 2nd c. CE",
+        "startdateearly": "194",
+        "startdatelate": "194",
+        "century": "2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29114,
+          41.755019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000958",
+        "name": "Temple on Monte Landro",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "hilltop",
+        "location": "Monte Landro",
+        "modernplace": "San Lorenzo Nuovo",
+        "ancientplace": "",
+        "pleiadesplace": "56738064",
+        "country": "IT",
+        "orientation": "188",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933201,
+          42.679067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000959",
+        "name": "Tempio Italico",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Casalbore",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "146",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "442531",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "",
+        "url": "http://musei.beniculturali.it/musei?mid=815&nome=area-archeologica-del-tempio-italico-di-casalbore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.003951,
+          41.234068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000960",
+        "name": "Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Susa",
+        "ancientplace": "Segusio",
+        "pleiadesplace": "167919",
+        "country": "IT",
+        "orientation": "189",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "it=Tempio_del_foro_di_Susa",
+        "wikidata": "Q84562587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04468,
+          45.13794
         ]
       }
     }

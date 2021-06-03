@@ -791,7 +791,7 @@
 "1000799","Temple of Juno Curritis","Juno","temple","","Celle","Civita Castellana","Falerii","413126","IT","42.296327","12.422116","","","0","","","","","","","","","F","","god","Faliscan"
 "1000800","Second Temple","","temple","","Scasato","Civita Castellana","Falerii","413126","IT","","","","","","","","","","","","","","","","","Faliscan"
 "1000801","Temple of Apollo Soranus","Apollo","temple","","Vignale","Civita Castellana","Falerii","413126","IT","42.29461","12.425879","","","0","","Early 5th c. BCE","-499","-475","-5","","","","M","","god","Faliscan","","no"
-"1000802","Temple","","temple","","Manganello","Cerveteri","Caere","422859","IT","42.002596","12.103849","","","0"
+"1000802","Temple ""del Manganello""","","temple","","Manganello","Cerveteri","Caere","422859","IT","42.002596","12.103849","","","0"
 "1000803","Temple D","","temple","","","Sfireh","","","LB","34.402206","36.059316","","","0","","","","","","","","","","","","","","yes","vici.org","","","55967"
 "1000804","Temple E","","temple","","","Sfireh","","","LB","34.403366","36.057362","","","0","","","","","","","","","","","","","","yes","vici.org","","","27660"
 "1000805","Temple F - Beit el-Kebir","","temple","","","Sfireh","","","LB","34.400406","36.056118","","","0","","","","","","","","","","","","","","yes","vici.org","","","27661"
@@ -949,3 +949,4 @@
 "1000957","Collegial Temple","Pertinax","temple","urban","","Ostia Antica","Ostia","","IT","41.755019","12.29114","321","NW","0","","end 2nd c. CE","194","194","2","","","","M","","emperor","Roman","","yes"
 "1000958","Temple on Monte Landro","","temple","hilltop","Monte Landro","San Lorenzo Nuovo","","56738064","IT","42.679067","11.933201","188","S","0","","","","","","","","","","","","Etruscan","","yes"
 "1000959","Tempio Italico","","temple","","","Casalbore","","","IT","41.234068","15.003951","146","SE","0","","","","","","","","","","","","Samnite","","yes","","","","","442531","","","","","","","","","","","","","http://musei.beniculturali.it/musei?mid=815&nome=area-archeologica-del-tempio-italico-di-casalbore"
+"1000960","Forum Temple","","temple","forum","","Susa","Segusio","167919","IT","45.13794","7.04468","189","S","0","","","","","","","","","","","","","","yes","","","","","","","","","it=Tempio_del_foro_di_Susa","Q84562587"
