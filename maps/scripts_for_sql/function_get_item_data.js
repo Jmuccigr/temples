@@ -34,10 +34,15 @@ res = res[0];
 		text = text + '<li title="Canonical URI for this temple.">' + 'URI: <a href="' + window.location.protocol + '//' + window.location.host + '/items/' + res.properties.id + '" target="_blank">' + window.location.protocol + '//RomeResearchGroup.org/items/' + res.properties.id + '</a></li>';
 		text = text + '<li title="Other representations for this temple:">Other representations: ' + '<a href="/items/' + res.properties.id + '/json/" target="_blank">JSON</a> or <a href="/items/' + res.properties.id + '/csv/" target="_blank">CSV</a></li>';
 		if (res.geometry.coordinates[0] != '') {
-		text = text + '<li>Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] ;
+			if (res.properties.geocertainty == '1') {
+				text = text + '<li>Estimated location: '
+			} else {
+				text = text + '<li>'
+		}
+		text = text + 'Lat, Long: ' + res.geometry.coordinates[1] + ', ' + res.geometry.coordinates[0] ;
 		text = text + '<a href="#" onclick="map.flyTo([' + res.geometry.coordinates[1] + ',' + res.geometry.coordinates[0] + '], map.getMaxZoom()); return true;" style="text-decoration: none" title="Center and zoom to location on the map at its highest supported resolution">&nbsp;🔍</a></li>';
 		} else {
-		text = text + '<li><span <span style="color: red;"> Precise location unknown!</span></li>'
+		text = text + '<li><span <span style="color: red;"> Location unknown!</span></li>'
 		}
 		if (res.properties.culture != '') {
 			text = text + '<li>' + res.properties.culture + '</li>';
