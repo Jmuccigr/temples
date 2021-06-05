@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-06-03"  ; 
+    dcterms:modified "2021-06-05"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8505,6 +8505,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/413384> ;
 skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_romano_di_Villa_San_Silvestro> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q16612742> ;
 .
@@ -9509,6 +9510,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q2654754> ;
 rdfs:label "Temple of Apollo Epicurius  at Bassae" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.429621"^^xsd:double ; geo:long "21.900202"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9656,6 +9658,7 @@ skos:exactMatch <https://topostext.org/place/405150SHer> ;
 <https://romeresearchgroup.org/items/1000949> a lawd:Place ;
 rdfs:label "Temple of Cupra at Cupra Maritima" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.0225465"^^xsd:double ; geo:long "13.85713"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9773,4 +9776,22 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/167919#this> ;
 skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_del_foro_di_Susa> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q84562587> ;
+.
+<https://romeresearchgroup.org/items/1000961> a lawd:Place ;
+rdfs:label "Temple at Ligures Baebiani" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.319417"^^xsd:double ; geo:long "14.811255"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432907#this> ;
+.
+<https://romeresearchgroup.org/items/1000962> a lawd:Place ;
+rdfs:label "Temple (Petacciato)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.011669"^^xsd:double ; geo:long "14.893068"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .

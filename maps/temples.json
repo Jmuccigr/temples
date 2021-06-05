@@ -10084,9 +10084,9 @@
         "name": "Temple",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Prata d'Ansidonia",
         "ancientplace": "Peltuinum",
         "pleiadesplace": "413247",
         "country": "IT",
@@ -10106,7 +10106,7 @@
         "deitytype": "",
         "culture": "",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "Vici.org",
         "meetings": "",
         "note": "",
@@ -29814,7 +29814,7 @@
         "meetings": "",
         "note": "",
         "vici": "",
-        "pleiades": "",
+        "pleiades": "413384",
         "dare": "",
         "arachne": "",
         "livius": "",
@@ -33293,8 +33293,8 @@
         "ancientplace": "Bassae",
         "pleiadesplace": "",
         "country": "GR",
-        "orientation": "",
-        "compass": "",
+        "orientation": "0",
+        "compass": "N",
         "geocertainty": "0",
         "vowed": "",
         "date": "450 BC",
@@ -33312,7 +33312,7 @@
         "extant": "yes",
         "source": "",
         "meetings": "",
-        "note": "",
+        "note": "orientation in @Penrose1894",
         "vici": "",
         "pleiades": "570148",
         "dare": "",
@@ -33929,6 +33929,48 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000949",
+        "name": "Temple of Cupra",
+        "dedicatee": "Cupra",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Cupra Marittima",
+        "ancientplace": "Cupra Maritima",
+        "pleiadesplace": "413112",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Known from lit & inscr refs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.85713,
+          43.0225465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000950",
         "name": "Capitolium",
         "dedicatee": "Jupiter, Juno, Minerva",
@@ -34395,6 +34437,87 @@
         "coordinates": [
           7.04468,
           45.13794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000961",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Macchia di Circello",
+        "ancientplace": "Ligures Baebiani",
+        "pleiadesplace": "432907",
+        "country": "IT",
+        "orientation": "133",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 2nd c BCE",
+        "startdateearly": "-125",
+        "startdatelate": "-100",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.811255,
+          41.319417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000962",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Valle San Giovanni",
+        "modernplace": "Petacciato",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "IDed from terracotta decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.893068,
+          42.011669
         ]
       }
     }
