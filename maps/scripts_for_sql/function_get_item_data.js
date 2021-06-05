@@ -35,7 +35,7 @@ res = res[0];
 		text = text + '<li title="Other representations for this temple:">Other representations: ' + '<a href="/items/' + res.properties.id + '/json/" target="_blank">JSON</a> or <a href="/items/' + res.properties.id + '/csv/" target="_blank">CSV</a></li>';
 		if (res.geometry.coordinates[0] != '') {
 			if (res.properties.geocertainty == '1') {
-				text = text + '<li>Estimated location: '
+				text = text + '<li>Estimated '
 			} else {
 				text = text + '<li>'
 		}
