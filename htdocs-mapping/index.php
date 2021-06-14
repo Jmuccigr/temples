@@ -75,6 +75,7 @@
 			</tr>
 			<tr id='bottom'>
 				<td colspan=2>
+                    Filter the sites shown on the map:
                     <?php
                             include 'scripts/make_menues.php';
                             makeMenu('first', '1');
