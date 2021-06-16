@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  
     dcterms:temporal "2016-2018" ;   
-    dcterms:modified "2021-06-05"  ; 
+    dcterms:modified "2021-06-14"  ; 
     .  
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1131,6 +1131,7 @@ skos:exactMatch <https://topostext.org/place/419125SPax> ;
 <https://romeresearchgroup.org/items/1000105> a lawd:Place ;
 rdfs:label "Temple of the Penates at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.892546"^^xsd:double ; geo:long "12.488707"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -1246,6 +1247,7 @@ spatial:C <https://pleiades.stoa.org/places/423081#this> ;
 <https://romeresearchgroup.org/items/1000116> a lawd:Place ;
 rdfs:label "Temple of Tellus at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.89238"^^xsd:double ; geo:long "12.490058"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8276,7 +8278,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Aphaea> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q596988> ;
 .
 <https://romeresearchgroup.org/items/1000809> a lawd:Place ;
-rdfs:label "Belvedere Temple (Orvieto)" ;
+rdfs:label "Belvedere Temple at Volsinii Veteres" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.722573"^^xsd:double ; geo:long "12.119812"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -9794,4 +9796,14 @@ geo:location [ geo:lat "42.011669"^^xsd:double ; geo:long "14.893068"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple"  ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000963> a lawd:Place ;
+rdfs:label "Temple on the Via Appia at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.867149"^^xsd:double ; geo:long "12.503559"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple"  ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .

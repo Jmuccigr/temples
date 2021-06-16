@@ -3550,6 +3550,52 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000105",
+        "name": "Temple of the Penates",
+        "dedicatee": "Penates",
+        "type": "temple",
+        "setting": "",
+        "location": "Velian Hill",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "-292-219",
+        "startdateearly": "-292",
+        "startdatelate": "-219",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Location following Ziolkowski1992",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "10557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488707,
+          41.892546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000106",
         "name": "Temple of Portunus",
         "dedicatee": "Portunus",
@@ -3796,6 +3842,61 @@
         "coordinates": [
           12.800843,
           41.966809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000116",
+        "name": "Temple of Tellus",
+        "dedicatee": "Tellus",
+        "type": "temple",
+        "setting": "",
+        "location": "Carinae (Esquiline Hill)",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "-268",
+        "date": "-268-219",
+        "startdateearly": "-268",
+        "startdatelate": "-219",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "December 13",
+        "deitytype": "nature",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "senate",
+        "note": "Location following Ziolkowski1992",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Tellus",
+        "wikidata": "Q16612739",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "419125STel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490058,
+          41.89238
         ]
       }
     },
@@ -28962,7 +29063,7 @@
         "setting": "",
         "location": "",
         "modernplace": "Orvieto",
-        "ancientplace": "",
+        "ancientplace": "Volsinii Veteres",
         "pleiadesplace": "413373",
         "country": "IT",
         "orientation": "136",
@@ -34518,6 +34619,31 @@
         "coordinates": [
           14.893068,
           42.011669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000963",
+        "name": "Temple on the Via Appia",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural",
+        "location": "Via Appia",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "162",
+        "compass": "S",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.503559,
+          41.867149
         ]
       }
     }

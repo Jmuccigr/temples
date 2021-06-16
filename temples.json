@@ -4724,7 +4724,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-292-219",
         "startdateearly": "-292",
@@ -4738,10 +4738,10 @@
         "deitytype": "god",
         "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "no",
         "source": "",
         "meetings": "",
-        "note": "",
+        "note": "Location following Ziolkowski1992",
         "vici": "",
         "pleiades": "",
         "dare": "",
@@ -4750,8 +4750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.488707,
+          41.892546
         ]
       }
     },
@@ -5200,14 +5200,14 @@
         "dedicatee": "Tellus",
         "type": "temple",
         "setting": "",
-        "location": "Esquiline Hill",
+        "location": "Carinae (Esquiline Hill)",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "-268",
         "date": "-268-219",
         "startdateearly": "-268",
@@ -5221,10 +5221,10 @@
         "deitytype": "nature",
         "culture": "Roman",
         "style": "",
-        "extant": "",
+        "extant": "no",
         "source": "",
         "meetings": "senate",
-        "note": "",
+        "note": "Location following Ziolkowski1992",
         "vici": "",
         "pleiades": "",
         "dare": "",
@@ -5242,8 +5242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.490058,
+          41.89238
         ]
       }
     },
@@ -36018,7 +36018,7 @@
         "setting": "",
         "location": "",
         "modernplace": "Orvieto",
-        "ancientplace": "",
+        "ancientplace": "Volsinii Veteres",
         "pleiadesplace": "413373",
         "country": "IT",
         "orientation": "136",
@@ -42433,6 +42433,31 @@
         "coordinates": [
           14.893068,
           42.011669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000963",
+        "name": "Temple on the Via Appia",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural",
+        "location": "Via Appia",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "162",
+        "compass": "S",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.503559,
+          41.867149
         ]
       }
     }
