@@ -31,14 +31,14 @@ outputText += u'@prefix pleiades: <https://pleiades.stoa.org/places/vocab#> .\n'
 outputText += u'@prefix aat: <http://vocab.getty.edu/aat/> .\n'
 outputText += u'@prefix ov: <http://open.vocab.org/terms/> .\n\n'
 
-outputText += u'<https://romeresearchgroup.org/items/temples.ttl> a void:dataDump ; \n'
-outputText += u'    dcterms:title "Database of Temples of the Classical World" ;  \n'
-outputText += u'    dcterms:creator viaf:309849093 ;  \n'
-outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;   \n'
-outputText += u'    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;  \n'
-outputText += u'    dcterms:temporal "2016-2018" ;   \n'
-outputText += u'    dcterms:modified "' + dateTimeObj.strftime("%Y-%m-%d") + '"  ; \n'
-outputText += u'    .  \n\n'
+outputText += u'<https://romeresearchgroup.org/items/temples.ttl> a void:dataDump ;\n'
+outputText += u'    dcterms:title "Database of Temples of the Classical World" ;\n'
+outputText += u'    dcterms:creator viaf:309849093 ;\n'
+outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;\n'
+outputText += u'    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;\n'
+outputText += u'    dcterms:temporal "2016-2018" ;\n'
+outputText += u'    dcterms:modified "' + dateTimeObj.strftime("%Y-%m-%d") + '" ;\n'
+outputText += u'    .\n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
 if os.stat(basedir + 'pelagios.json').st_size < 10000:
@@ -97,7 +97,7 @@ with io.open(basedir + 'pelagios.json', encoding="utf-8") as f:
                 outputText += 'ov:compassDirection <http://vocab.getty.edu/page/aat/' + compassText + '> ;\n'
             if record['properties'].get('country') != '' and record['properties'].get('country') is not None:
                 outputText += 'gn:countryCode "' + record['properties']['country'] + '" ;\n'
-            outputText += u'dcterms:subject "temple"  ;\n'
+            outputText += u'dcterms:subject "temple" ;\n'
             outputText += u'pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;\n'
             if record['properties'].get('pleiadesplace') != '' and record['properties'].get('pleiadesplace') is not None:
                 outputText += u'spatial:C <https://pleiades.stoa.org/places/' + record['properties']['pleiadesplace'] + '#this> ;\n'
