@@ -57,6 +57,6 @@ The following is a list of the fields found in the database and how they are def
 | ads | Archeological Data Service ID for the temple (British). |
 | cona | Getty Cultural Objects Names Authority ID for the temple. |
 | topostext | ID for the temple. |
-| sls | Heritage Gazetteer ID for the of Libya. |
+| sls | Heritage Gazetteer of Libya ID for the temple. |
 | url | External URL for the temple. |
 | checked | Whether I looked at the evidence for the the temple to confirm its existence. |
