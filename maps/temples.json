@@ -28605,7 +28605,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Poggio Cassetta",
+        "location": "Poggio Casetta",
         "modernplace": "Bolsena",
         "ancientplace": "Volsinii",
         "pleiadesplace": "413389",
@@ -32890,8 +32890,8 @@
         "ancientplace": "Temesa",
         "pleiadesplace": "452469",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "183",
+        "compass": "S",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -32906,7 +32906,7 @@
         "deitytype": "",
         "culture": "Greek",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "",
         "meetings": "",
         "note": "Position from Google - check"
@@ -34644,6 +34644,49 @@
         "coordinates": [
           12.503559,
           41.867149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000964",
+        "name": "Quirinal Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "Quirinal Hill",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "92",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 2nd - mid 3rd c CE",
+        "startdateearly": "180",
+        "startdatelate": "250",
+        "century": "2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "51954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486109,
+          41.898728
         ]
       }
     }
