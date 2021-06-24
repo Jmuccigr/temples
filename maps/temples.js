@@ -3651,6 +3651,55 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000107",
+        "name": "Temple of Quirinus",
+        "dedicatee": "Quirinus",
+        "type": "temple",
+        "setting": "",
+        "location": "Quirinal Hill",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "-325",
+        "date": "-293",
+        "startdateearly": "-293",
+        "startdatelate": "",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "February 17",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Location following Ziolkowski1992",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Quirinus",
+        "wikidata": "Q3983278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4889,
+          41.902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000108",
         "name": "Temple of Robigo",
         "dedicatee": "Robigo",

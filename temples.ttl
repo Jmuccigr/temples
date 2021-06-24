@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2018" ;
-    dcterms:modified "2021-06-22" ;
+    dcterms:modified "2021-06-23" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1159,10 +1159,13 @@ skos:exactMatch <https://topostext.org/place/419125SFoV> ;
 <https://romeresearchgroup.org/items/1000107> a lawd:Place ;
 rdfs:label "Temple of Quirinus at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.902"^^xsd:double ; geo:long "12.4889"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Quirinus> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983278> ;
 .
 <https://romeresearchgroup.org/items/1000108> a lawd:Place ;
 rdfs:label "Temple of Robigo at Rome" ;
