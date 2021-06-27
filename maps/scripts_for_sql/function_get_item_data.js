@@ -147,7 +147,9 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="https://en.wikipedia.org/wiki/' + res.properties.wikipedia + '">Wikipedia</a>';
+			wikitext = 'en.wikipedia.org/wiki/' + res.properties.wikipedia;
+			newwikitext = wikitext.replace(/en(\.wikipedia\.org\/wiki\/)([a-z][a-z])=/, '$2$1');
+			otherDB = otherDB + '<a target="_blank" href="https://' + newwikitext + '">Wikipedia</a>';
 		}
 		if (res.properties.ads != '') {
 			if (otherDB.length > 4) {
