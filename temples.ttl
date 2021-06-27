@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2018" ;
-    dcterms:modified "2021-06-23" ;
+    dcterms:modified "2021-06-26" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9821,4 +9821,48 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/51954> ;
+.
+<https://romeresearchgroup.org/items/1000965> a lawd:Place ;
+rdfs:label "Temple of Trajan at Italica" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.44024"^^xsd:double ; geo:long "-6.044604"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256231#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/627230788> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2106411> ;
+skos:exactMatch <https://es.wikipedia.org/wiki/Templo_de_Trajano_de_Itálica> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q6141053> ;
+.
+<https://romeresearchgroup.org/items/1000966> a lawd:Place ;
+rdfs:label "Temple A at Capera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.167122"^^xsd:double ; geo:long "-6.101346"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/236405#this> ;
+.
+<https://romeresearchgroup.org/items/1000967> a lawd:Place ;
+rdfs:label "Temple B at Capera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.167065"^^xsd:double ; geo:long "-6.101456"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/236405#this> ;
+.
+<https://romeresearchgroup.org/items/1000968> a lawd:Place ;
+rdfs:label "Temple C at Capera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.167021"^^xsd:double ; geo:long "-6.101546"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/236405#this> ;
 .

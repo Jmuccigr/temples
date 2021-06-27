@@ -34738,6 +34738,130 @@
           41.898728
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000965",
+        "name": "Temple of Trajan",
+        "dedicatee": "Trajan",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Santiponce",
+        "ancientplace": "Italica",
+        "pleiadesplace": "256231",
+        "country": "ES",
+        "orientation": "58",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "627230788",
+        "dare": "",
+        "arachne": "2106411",
+        "livius": "",
+        "wikipedia": "es=Templo_de_Trajano_de_Itálica",
+        "wikidata": "Q6141053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.044604,
+          37.44024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000966",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Cáparra",
+        "ancientplace": "Capera",
+        "pleiadesplace": "236405",
+        "country": "ES",
+        "orientation": "143",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.101346,
+          40.167122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000967",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Cáparra",
+        "ancientplace": "Capera",
+        "pleiadesplace": "236405",
+        "country": "ES",
+        "orientation": "143",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.101456,
+          40.167065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000968",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Cáparra",
+        "ancientplace": "Capera",
+        "pleiadesplace": "236405",
+        "country": "ES",
+        "orientation": "143",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.101546,
+          40.167021
+        ]
+      }
     }
   ]
 }
