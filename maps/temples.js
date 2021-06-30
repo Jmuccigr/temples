@@ -34862,6 +34862,49 @@ var temples =  {
           40.167021
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000969",
+        "name": "Kothon Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Kothon",
+        "modernplace": "Mozia",
+        "ancientplace": "Motya",
+        "pleiadesplace": "462373",
+        "country": "IT",
+        "orientation": "296",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Punic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "40668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.466301,
+          37.864578
+        ]
+      }
     }
   ]
 }
