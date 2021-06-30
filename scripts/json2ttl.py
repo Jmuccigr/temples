@@ -36,7 +36,7 @@ outputText += u'    dcterms:title "Database of Temples of the Classical World" ;
 outputText += u'    dcterms:creator viaf:309849093 ;\n'
 outputText += u'    foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;\n'
 outputText += u'    dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;\n'
-outputText += u'    dcterms:temporal "2016-2018" ;\n'
+outputText += u'    dcterms:temporal "2016-2021" ;\n'
 outputText += u'    dcterms:modified "' + dateTimeObj.strftime("%Y-%m-%d") + '" ;\n'
 outputText += u'    .\n\n'
 
