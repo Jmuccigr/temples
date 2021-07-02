@@ -21,8 +21,8 @@
     dcterms:creator viaf:309849093 ;
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
-    dcterms:temporal "2016-2018" ;
-    dcterms:modified "2021-06-29" ;
+    dcterms:temporal "2016-2021" ;
+    dcterms:modified "2021-07-02" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9876,4 +9876,44 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/462373#this> ;
 skos:exactMatch <http://vici.org/vici/40668> ;
+.
+<https://romeresearchgroup.org/items/1000970> a lawd:Place ;
+rdfs:label "Cathedral Temple at Aesernia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.589998"^^xsd:double ; geo:long "14.226641"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432652#this> ;
+.
+<https://romeresearchgroup.org/items/1000971> a lawd:Place ;
+rdfs:label "Vescovile Temple at Aesernia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.590054"^^xsd:double ; geo:long "14.226561"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432652#this> ;
+.
+<https://romeresearchgroup.org/items/1000972> a lawd:Place ;
+rdfs:label "Larger Temple (Schiavi D'Abrizzuo)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.806743"^^xsd:double ; geo:long "14.480875"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433112#this> ;
+.
+<https://romeresearchgroup.org/items/1000973> a lawd:Place ;
+rdfs:label "Smaller Temple (Schiavi D'Abrizzuo)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.806796"^^xsd:double ; geo:long "14.481013"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433112#this> ;
 .

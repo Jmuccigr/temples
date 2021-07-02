@@ -42682,6 +42682,159 @@
           37.864578
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000970",
+        "name": "Cathedral Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Isernia",
+        "ancientplace": "Aesernia",
+        "pleiadesplace": "432652",
+        "country": "IT",
+        "orientation": "209",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "mid 3rd c BCE",
+        "startdateearly": "-263",
+        "startdatelate": "-225",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "peripteros sine postico",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.226641,
+          41.589998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000971",
+        "name": "Vescovile Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Isernia",
+        "ancientplace": "Aesernia",
+        "pleiadesplace": "432652",
+        "country": "IT",
+        "orientation": "209",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c. BCE",
+        "startdateearly": "-50",
+        "startdatelate": "0",
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation matched to other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.226561,
+          41.590054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000972",
+        "name": "Larger Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Schiavi D'Abrizzuo",
+        "ancientplace": "",
+        "pleiadesplace": "433112",
+        "country": "IT",
+        "orientation": "143",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 2nd c. BCE",
+        "startdateearly": "-199",
+        "startdatelate": "-175",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation matched to other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.480875,
+          41.806743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000973",
+        "name": "Smaller Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Schiavi D'Abrizzuo",
+        "ancientplace": "",
+        "pleiadesplace": "433112",
+        "country": "IT",
+        "orientation": "143",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 1st c. BCE",
+        "startdateearly": "-99",
+        "startdatelate": "",
+        "century": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.481013,
+          41.806796
+        ]
+      }
     }
   ]
 }
