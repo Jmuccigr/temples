@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-07-02" ;
+    dcterms:modified "2021-07-03" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -154,6 +154,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/422892> ;
 rdfs:label "Temple of the Divine Claudius at Rome" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.887594"^^xsd:double ; geo:long "12.493367"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;

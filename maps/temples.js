@@ -473,8 +473,8 @@ var temples =  {
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "247",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
         "date": "40-60",
@@ -35033,32 +35033,5 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000973",
-        "name": "Smaller Temple",
-        "dedicatee": "",
-        "type": "temple",
-        "setting": "",
-        "location": "",
-        "modernplace": "Schiavi D'Abrizzuo",
-        "ancientplace": "",
-        "pleiadesplace": "433112",
-        "country": "IT",
-        "orientation": "143",
-        "compass": "SE",
-        "geocertainty": "0",
-        "vowed": "",
-        "date": "early 1st c. BCE",
-        "startdateearly": "-99",
-        "startdatelate": "",
-        "century": "-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.481013,
-          41.806796
-        ]
-      }
-    }
-  ]
-}
+      
 ;
