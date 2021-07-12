@@ -11141,42 +11141,24 @@
       "type": "Feature",
       "properties": {
         "id": "1000239",
-        "name": "Temple Complex",
-        "dedicatee": "",
+        "name": "Temple A",
+        "dedicatee": "Apollo",
         "type": "temple",
-        "setting": "",
+        "setting": "urban sanctuary",
         "location": "",
         "modernplace": "Pantanello",
         "ancientplace": "Metapontum",
         "pleiadesplace": "442658",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
-        "geocertainty": "0",
-        "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
-        "enddate": "",
-        "preceded": "",
-        "succeeded": "",
-        "sex": "",
-        "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
-        "style": "",
-        "extant": "",
-        "source": "Vici.org",
-        "meetings": "",
-        "note": "",
-        "vici": "11201"
+        "orientation": "126",
+        "compass": "SE",
+        "geocertainty": "0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.823549,
-          40.383694
+          16.82361,
+          40.383713
         ]
       }
     },
@@ -12981,14 +12963,14 @@
         "name": "Tavole Palatine",
         "dedicatee": "Hera",
         "type": "temple",
-        "setting": "",
+        "setting": "rural sanctuary",
         "location": "",
         "modernplace": "Tavole Palatine",
         "ancientplace": "Metapontum",
         "pleiadesplace": "442658",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "97",
+        "compass": "E",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -13024,8 +13006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.816666,
-          40.416199
+          16.816765,
+          40.416053
         ]
       }
     },
@@ -14016,13 +13998,13 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "extra-urban",
         "modernplace": "Tuscolo",
         "ancientplace": "Tusculum",
         "pleiadesplace": "423108",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "222",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -36607,31 +36589,33 @@
         "type": "temple",
         "setting": "",
         "location": "Loc. Le Salzare",
-        "modernplace": "Ardea",
-        "ancientplace": "Ardea",
-        "pleiadesplace": "422843",
+        "modernplace": "Foce del Fosso dell’Incastro",
+        "ancientplace": "Castrum Inui",
+        "pleiadesplace": "438710",
         "country": "IT",
-        "orientation": "236",
+        "orientation": "237",
         "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "6th c BCE",
+        "startdateearly": "-599",
+        "startdatelate": "-500",
+        "century": "-6",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "Roman"
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.511417,
-          41.580039
+          12.511371,
+          41.580014
         ]
       }
     },
@@ -36644,9 +36628,9 @@
         "type": "temple",
         "setting": "",
         "location": "Loc. Le Salzare",
-        "modernplace": "Ardea",
-        "ancientplace": "Ardea",
-        "pleiadesplace": "422843",
+        "modernplace": "Foce del Fosso dell’Incastro",
+        "ancientplace": "Castrum Inui",
+        "pleiadesplace": "438710",
         "country": "IT",
         "orientation": "46",
         "compass": "NE",
@@ -36662,13 +36646,15 @@
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "Roman"
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.510999,
-          41.579843
+          12.510987,
+          41.579833
         ]
       }
     },
@@ -42793,7 +42779,7 @@
         "deitytype": "",
         "culture": "",
         "style": "",
-        "extant": "",
+        "extant": "yes",
         "source": "",
         "meetings": "",
         "note": "Orientation matched to other"
@@ -42826,13 +42812,337 @@
         "date": "early 1st c. BCE",
         "startdateearly": "-99",
         "startdatelate": "",
-        "century": "-1"
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           14.481013,
           41.806796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000974",
+        "name": "Temple C",
+        "dedicatee": "Aesculapius",
+        "type": "temple",
+        "setting": "",
+        "location": "Loc. Le Salzare",
+        "modernplace": "Foce del Fosso dell’Incastro",
+        "ancientplace": "Castrum Inui",
+        "pleiadesplace": "438710",
+        "country": "IT",
+        "orientation": "237",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Augustan",
+        "startdateearly": "-31",
+        "startdatelate": "0",
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.511341,
+          41.579889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000975",
+        "name": "Temple of Diana",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Monteleto",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.509051,
+          43.380767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000976",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural",
+        "location": "Loc. Caipicchi",
+        "modernplace": "Nogna",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "179",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd 1/2 2nd c. BCE",
+        "startdateearly": "-150",
+        "startdatelate": "-100",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.44716,
+          43.401557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000977",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Luco dei Marsi",
+        "ancientplace": "Lucus Angitiae",
+        "pleiadesplace": "432676",
+        "country": "IT",
+        "orientation": "77",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460521,
+          41.970967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000978",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Luco dei Marsi",
+        "ancientplace": "Lucus Angitiae",
+        "pleiadesplace": "432676",
+        "country": "IT",
+        "orientation": "73",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation from shed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460735,
+          41.970548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000979",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Luco dei Marsi",
+        "ancientplace": "Lucus Angitiae",
+        "pleiadesplace": "432676",
+        "country": "IT",
+        "orientation": "66",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation from shed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46084,
+          41.97044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000980",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban sanctuary",
+        "location": "",
+        "modernplace": "Pantanello",
+        "ancientplace": "Metapontum",
+        "pleiadesplace": "442658",
+        "country": "IT",
+        "orientation": "126",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.823881,
+          40.383887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000981",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban sanctuary",
+        "location": "",
+        "modernplace": "Pantanello",
+        "ancientplace": "Metapontum",
+        "pleiadesplace": "442658",
+        "country": "IT",
+        "orientation": "115",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.823339,
+          40.38356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000982",
+        "name": "Temple D",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban sanctuary",
+        "location": "",
+        "modernplace": "Pantanello",
+        "ancientplace": "Metapontum",
+        "pleiadesplace": "442658",
+        "country": "IT",
+        "orientation": "110",
+        "compass": "E",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.824029,
+          40.384256
         ]
       }
     }

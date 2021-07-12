@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-07-03" ;
+    dcterms:modified "2021-07-12" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2521,14 +2521,14 @@ skos:exactMatch <http://vici.org/vici/10966> ;
 skos:exactMatch <http://pleiades.stoa.org/places/452332> ;
 .
 <https://romeresearchgroup.org/items/1000239> a lawd:Place ;
-rdfs:label "Temple Complex at Metapontum" ;
+rdfs:label "Temple A at Metapontum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.383694"^^xsd:double ; geo:long "16.823549"^^xsd:double ] ;
+geo:location [ geo:lat "40.383713"^^xsd:double ; geo:long "16.82361"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442658#this> ;
-skos:exactMatch <http://vici.org/vici/11201> ;
 .
 <https://romeresearchgroup.org/items/1000240> a lawd:Place ;
 rdfs:label "Temple of Venus Erycina at Segesta" ;
@@ -2989,7 +2989,8 @@ skos:exactMatch <http://pleiades.stoa.org/places/629225363> ;
 <https://romeresearchgroup.org/items/1000279> a lawd:Place ;
 rdfs:label "Tavole Palatine at Metapontum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.416199"^^xsd:double ; geo:long "16.816666"^^xsd:double ] ;
+geo:location [ geo:lat "40.416053"^^xsd:double ; geo:long "16.816765"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -3239,6 +3240,7 @@ skos:exactMatch <http://vici.org/vici/24464> ;
 rdfs:label "Temple of Jupiter at Tusculum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.798317"^^xsd:double ; geo:long "12.704335"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8418,24 +8420,24 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <https://romeresearchgroup.org/items/1000823> a lawd:Place ;
-rdfs:label "Temple B at Ardea" ;
+rdfs:label "Temple B at Castrum Inui" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.580039"^^xsd:double ; geo:long "12.511417"^^xsd:double ] ;
+geo:location [ geo:lat "41.580014"^^xsd:double ; geo:long "12.511371"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-spatial:C <https://pleiades.stoa.org/places/422843#this> ;
+spatial:C <https://pleiades.stoa.org/places/438710#this> ;
 .
 <https://romeresearchgroup.org/items/1000824> a lawd:Place ;
-rdfs:label "Temple A at Ardea" ;
+rdfs:label "Temple A at Castrum Inui" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.579843"^^xsd:double ; geo:long "12.510999"^^xsd:double ] ;
+geo:location [ geo:lat "41.579833"^^xsd:double ; geo:long "12.510987"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-spatial:C <https://pleiades.stoa.org/places/422843#this> ;
+spatial:C <https://pleiades.stoa.org/places/438710#this> ;
 .
 <https://romeresearchgroup.org/items/1000825> a lawd:Place ;
 rdfs:label "Capitolium at Luna" ;
@@ -9917,4 +9919,91 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/433112#this> ;
+.
+<https://romeresearchgroup.org/items/1000974> a lawd:Place ;
+rdfs:label "Temple C at Castrum Inui" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.579889"^^xsd:double ; geo:long "12.511341"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/438710#this> ;
+.
+<https://romeresearchgroup.org/items/1000975> a lawd:Place ;
+rdfs:label "Temple of Diana (Monteleto)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.380767"^^xsd:double ; geo:long "12.509051"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000976> a lawd:Place ;
+rdfs:label "Temple (Nogna)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.401557"^^xsd:double ; geo:long "12.44716"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000977> a lawd:Place ;
+rdfs:label "Temple A at Lucus Angitiae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.970967"^^xsd:double ; geo:long "13.460521"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432676#this> ;
+.
+<https://romeresearchgroup.org/items/1000978> a lawd:Place ;
+rdfs:label "Temple B at Lucus Angitiae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.970548"^^xsd:double ; geo:long "13.460735"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432676#this> ;
+.
+<https://romeresearchgroup.org/items/1000979> a lawd:Place ;
+rdfs:label "Temple C at Lucus Angitiae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.97044"^^xsd:double ; geo:long "13.46084"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432676#this> ;
+.
+<https://romeresearchgroup.org/items/1000980> a lawd:Place ;
+rdfs:label "Temple B at Metapontum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.383887"^^xsd:double ; geo:long "16.823881"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442658#this> ;
+.
+<https://romeresearchgroup.org/items/1000981> a lawd:Place ;
+rdfs:label "Temple C at Metapontum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.38356"^^xsd:double ; geo:long "16.823339"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442658#this> ;
+.
+<https://romeresearchgroup.org/items/1000982> a lawd:Place ;
+rdfs:label "Temple D at Metapontum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.384256"^^xsd:double ; geo:long "16.824029"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442658#this> ;
 .
