@@ -54,7 +54,7 @@
 			<tr>
 				<td colspan=2>
 					<h1>
-						Sacred Buildings of the Classical World
+						Temples of the Classical World
 					</h1>
 				</td>
 			</tr>
