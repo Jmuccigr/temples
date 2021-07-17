@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-07-12" ;
+    dcterms:modified "2021-07-17" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9901,7 +9901,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/432652#this> ;
 .
 <https://romeresearchgroup.org/items/1000972> a lawd:Place ;
-rdfs:label "Larger Temple (Schiavi D'Abrizzuo)" ;
+rdfs:label "Larger Temple (Schiavi D'Abruzzo)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.806743"^^xsd:double ; geo:long "14.480875"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -9911,7 +9911,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/433112#this> ;
 .
 <https://romeresearchgroup.org/items/1000973> a lawd:Place ;
-rdfs:label "Smaller Temple (Schiavi D'Abrizzuo)" ;
+rdfs:label "Smaller Temple (Schiavi D'Abruzzo)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.806796"^^xsd:double ; geo:long "14.481013"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -10006,4 +10006,21 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442658#this> ;
+.
+<https://romeresearchgroup.org/items/1000983> a lawd:Place ;
+rdfs:label "Temple of Aphrodite (Urla)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000984> a lawd:Place ;
+rdfs:label "Temple at Colle Rimontato at San Giovanni in Galdo" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.598522"^^xsd:double ; geo:long "14.755232"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433086#this> ;
 .
