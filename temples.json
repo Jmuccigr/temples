@@ -431,7 +431,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-493",
         "startdateearly": "-493",
@@ -466,8 +466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.482435,
+          41.885303
         ]
       }
     },
@@ -922,8 +922,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486246,
-          41.891943
+          12.486128,
+          41.892019
         ]
       }
     },
@@ -2328,8 +2328,20 @@
         "meetings": "",
         "note": "DARE",
         "vici": "",
-        "pleiades": "",
-        "dare": "37156"
+        "pleiades": "422950",
+        "dare": "37156",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "",
+        "url": "https://www.parcoarcheologicoappiaantica.it/luoghi/via-appia-antica/tempio-di-giove/"
       },
       "geometry": {
         "type": "Point",
@@ -13162,7 +13174,7 @@
       "properties": {
         "id": "1000283",
         "name": "Temple of Venus Erycina",
-        "dedicatee": "",
+        "dedicatee": "Venus",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -33707,7 +33719,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "477 BCE",
         "startdateearly": "477",
@@ -33736,8 +33748,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.514098,
+          41.891896
         ]
       }
     },

@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-07-17" ;
+    dcterms:modified "2021-07-18" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -132,6 +132,7 @@ skos:exactMatch <http://dare.ht.lu.se/places/22917> ;
 <https://romeresearchgroup.org/items/1000010> a lawd:Place ;
 rdfs:label "Temple of Ceres, Liber, and Libera at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.885303"^^xsd:double ; geo:long "12.482435"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -242,7 +243,7 @@ skos:exactMatch <https://topostext.org/place/419125SDAT> ;
 <https://romeresearchgroup.org/items/1000019> a lawd:Place ;
 rdfs:label "Temple of the Divine Julius at Rome" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.891943"^^xsd:double ; geo:long "12.486246"^^xsd:double ] ;
+geo:location [ geo:lat "41.892019"^^xsd:double ; geo:long "12.486128"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -582,6 +583,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/422950> ;
 skos:exactMatch <http://dare.ht.lu.se/places/37156> ;
 .
 <https://romeresearchgroup.org/items/1000050> a lawd:Place ;
@@ -7689,6 +7691,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q684072> ;
 <https://romeresearchgroup.org/items/1000749> a lawd:Place ;
 rdfs:label "Temple of Spes Vetus at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.891896"^^xsd:double ; geo:long "12.514098"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;

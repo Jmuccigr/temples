@@ -419,6 +419,61 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000010",
+        "name": "Temple of Ceres, Liber, and Libera",
+        "dedicatee": "Ceres, Liber, Libera",
+        "type": "temple",
+        "setting": "",
+        "location": "Aventine",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "-493",
+        "startdateearly": "-493",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Sanctuary_of_Ceres,_Liber_and_Libera",
+        "wikidata": "Q3949870",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "419125SCer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482435,
+          41.885303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000011",
         "name": "Temple",
         "dedicatee": "",
@@ -867,8 +922,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486246,
-          41.891943
+          12.486128,
+          41.892019
         ]
       }
     },
@@ -1882,8 +1937,20 @@ var temples =  {
         "meetings": "",
         "note": "DARE",
         "vici": "",
-        "pleiades": "",
-        "dare": "37156"
+        "pleiades": "422950",
+        "dare": "37156",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "",
+        "url": "https://www.parcoarcheologicoappiaantica.it/luoghi/via-appia-antica/tempio-di-giove/"
       },
       "geometry": {
         "type": "Point",
@@ -9856,7 +9923,7 @@ var temples =  {
       "properties": {
         "id": "1000283",
         "name": "Temple of Venus Erycina",
-        "dedicatee": "",
+        "dedicatee": "Venus",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -27102,6 +27169,55 @@ var temples =  {
         "coordinates": [
           44.730136,
           40.112555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000749",
+        "name": "Temple of Spes Vetus",
+        "dedicatee": "Spes",
+        "type": "temple",
+        "setting": "",
+        "location": "Esquiline",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "477 BCE",
+        "startdateearly": "477",
+        "startdatelate": "",
+        "century": "5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Spes",
+        "wikidata": "Q3983282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514098,
+          41.891896
         ]
       }
     },
