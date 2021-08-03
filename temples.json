@@ -36617,7 +36617,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Le Salzare",
+        "location": "Località Le Salzare",
         "modernplace": "Foce del Fosso dell’Incastro",
         "ancientplace": "Castrum Inui",
         "pleiadesplace": "438710",
@@ -36656,7 +36656,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Le Salzare",
+        "location": "Località Le Salzare",
         "modernplace": "Foce del Fosso dell’Incastro",
         "ancientplace": "Castrum Inui",
         "pleiadesplace": "438710",
@@ -36816,7 +36816,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Colle della Noce",
+        "location": "Località Colle della Noce",
         "modernplace": "Ardea",
         "ancientplace": "Ardea",
         "pleiadesplace": "422843",
@@ -37074,7 +37074,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Nocette di Palo",
+        "location": "Località Nocette di Palo",
         "modernplace": "",
         "ancientplace": "",
         "pleiadesplace": "",
@@ -37201,7 +37201,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Pié di Francia",
+        "location": "Località Pié di Francia",
         "modernplace": "Ieri",
         "ancientplace": "",
         "pleiadesplace": "",
@@ -39442,7 +39442,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Casarinaccio",
+        "location": "Località Casarinaccio",
         "modernplace": "Ardea",
         "ancientplace": "Ardea",
         "pleiadesplace": "422843",
@@ -39598,7 +39598,7 @@
         "dedicatee": "Juno",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Loreto",
+        "location": "Località Loreto",
         "modernplace": "Teano",
         "ancientplace": "Teanum Sidicinum",
         "pleiadesplace": "433146",
@@ -40022,7 +40022,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Loreto",
+        "location": "Località Loreto",
         "modernplace": "Teano",
         "ancientplace": "Teanum Sidicinum",
         "pleiadesplace": "433146",
@@ -40064,7 +40064,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Loreto",
+        "location": "Località Loreto",
         "modernplace": "Teano",
         "ancientplace": "Teanum Sidicinum",
         "pleiadesplace": "433146",
@@ -40106,7 +40106,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Loreto",
+        "location": "Località Loreto",
         "modernplace": "Teano",
         "ancientplace": "Teanum Sidicinum",
         "pleiadesplace": "433146",
@@ -40148,7 +40148,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Loreto",
+        "location": "Località Loreto",
         "modernplace": "Teano",
         "ancientplace": "Teanum Sidicinum",
         "pleiadesplace": "433146",
@@ -40225,7 +40225,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000913",
-        "name": "Temple",
+        "name": "Temple of Diana",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -40234,8 +40234,8 @@
         "ancientplace": "Aricia",
         "pleiadesplace": "422844",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "190",
+        "compass": "S",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -40250,7 +40250,10 @@
         "deitytype": "",
         "culture": "",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation from Lilli"
       },
       "geometry": {
         "type": "Point",
@@ -40268,7 +40271,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Casaletto",
+        "location": "Località Casaletto",
         "modernplace": "Ariccia",
         "ancientplace": "Aricia",
         "pleiadesplace": "422844",
@@ -42868,7 +42871,7 @@
         "dedicatee": "Aesculapius",
         "type": "temple",
         "setting": "",
-        "location": "Loc. Le Salzare",
+        "location": "Località Le Salzare",
         "modernplace": "Foce del Fosso dell’Incastro",
         "ancientplace": "Castrum Inui",
         "pleiadesplace": "438710",
@@ -42946,7 +42949,7 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "rural",
-        "location": "Loc. Caipicchi",
+        "location": "Località Caipicchi",
         "modernplace": "Nogna",
         "ancientplace": "",
         "pleiadesplace": "",
@@ -43329,7 +43332,8 @@
         "dedicationday": "",
         "deitytype": "hero",
         "culture": "",
-        "style": "Doric"
+        "style": "Doric",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -43420,6 +43424,147 @@
         "coordinates": [
           15,
           40.4235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000988",
+        "name": "Temple of Vacuna",
+        "dedicatee": "Vacuna",
+        "type": "temple",
+        "setting": "rural",
+        "location": "Località Leone",
+        "modernplace": "Montenero Sabino",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "83",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.804933,
+          42.277113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000989",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Ordona",
+        "ancientplace": "Herdonia",
+        "pleiadesplace": "442613",
+        "country": "IT",
+        "orientation": "316",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "1st c. CE",
+        "startdateearly": "1",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.622379,
+          41.310025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000990",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Ordona",
+        "ancientplace": "Herdonia",
+        "pleiadesplace": "442613",
+        "country": "IT",
+        "orientation": "53",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 2nd c. BCE",
+        "startdateearly": "-125",
+        "startdatelate": "-100",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.621526,
+          41.310267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000991",
+        "name": "Italic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "mountain",
+        "location": "Lago del Morrone",
+        "modernplace": "Pescosansonesco",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "83",
+        "compass": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
         ]
       }
     }

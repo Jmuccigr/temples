@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-07-25" ;
+    dcterms:modified "2021-08-03" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9284,9 +9284,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/422844#this> ;
 .
 <https://romeresearchgroup.org/items/1000913> a lawd:Place ;
-rdfs:label "Temple at Aricia" ;
+rdfs:label "Temple of Diana at Aricia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.718001"^^xsd:double ; geo:long "12.670065"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10059,4 +10060,41 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1000988> a lawd:Place ;
+rdfs:label "Temple of Vacuna (Montenero Sabino)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.277113"^^xsd:double ; geo:long "12.804933"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000989> a lawd:Place ;
+rdfs:label "Temple A at Herdonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.310025"^^xsd:double ; geo:long "15.622379"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442613#this> ;
+.
+<https://romeresearchgroup.org/items/1000990> a lawd:Place ;
+rdfs:label "Temple B at Herdonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.310267"^^xsd:double ; geo:long "15.621526"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442613#this> ;
+.
+<https://romeresearchgroup.org/items/1000991> a lawd:Place ;
+rdfs:label "Italic Temple (Pescosansonesco)" ;
+dcterms:temporal "-750/640" ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
