@@ -35828,6 +35828,90 @@
           41.310267
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000992",
+        "name": "Republican Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Coppa Mengoni",
+        "modernplace": "S. Paolo di Civitate",
+        "ancientplace": "Teanum Apulum",
+        "pleiadesplace": "442815",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Location from AntonacciSanpaolo2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2341,
+          41.76065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000993",
+        "name": "Republican Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Pezze della Chiesa",
+        "modernplace": "S. Paolo di Civitate",
+        "ancientplace": "Teanum Apulum",
+        "pleiadesplace": "442815",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Location from AntonacciSanpaolo2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.244148,
+          41.772098
+        ]
+      }
     }
   ]
 }
