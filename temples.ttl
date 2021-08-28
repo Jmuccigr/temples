@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-08-17" ;
+    dcterms:modified "2021-08-28" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10115,4 +10115,14 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442815#this> ;
+.
+<https://romeresearchgroup.org/items/1000994> a lawd:Place ;
+rdfs:label "Capitolium at Tolosa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.600638"^^xsd:double ; geo:long "1.444406"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/246694#this> ;
 .

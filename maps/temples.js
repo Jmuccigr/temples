@@ -35912,6 +35912,45 @@ var temples =  {
           41.772098
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000994",
+        "name": "Capitolium",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Toulouse",
+        "ancientplace": "Tolosa",
+        "pleiadesplace": "246694",
+        "country": "FR",
+        "orientation": "85",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd half 1st c. CE",
+        "startdateearly": "50",
+        "startdatelate": "",
+        "century": "1",
+        "enddate": "400",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444406,
+          43.600638
+        ]
+      }
     }
   ]
 }
