@@ -105,7 +105,7 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="https://www.wikidata.org/wiki/' + res.properties.digitalromanforum + '">Digital Roman Forum</a>';
+			otherDB = otherDB + '<a target="_blank" href="http://wayback.archive-it.org/7877/20160919154207/http://dlib.etc.ucla.edu/projects/Forum/reconstructions/' + res.properties.digitalromanforum + '">Digital Roman Forum</a> via Archive.org';
 		}
 		if (res.properties.digitalesforumromanum != '') {
 			if (otherDB.length > 4) {

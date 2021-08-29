@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-08-28" ;
+    dcterms:modified "2021-08-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -280,11 +280,13 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 rdfs:label "Temple of Elagabal at Rome" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.889603"^^xsd:double ; geo:long "12.488894"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/11503> ;
+skos:exactMatch <http://www.livius.org/articles/place/rome-temple-of-elagabal/> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Elagabalium> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q969344> ;
 .
