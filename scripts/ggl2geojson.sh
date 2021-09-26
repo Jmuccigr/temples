@@ -17,7 +17,7 @@ check=$(which ogr2ogr)
 if [ ${#check} = 0 ]
     then
       echo "$(date +%Y-%m-%d\ %H:%M:%S) ogr2ogr not found." 1>&2
-      exit 0
+      exit 1
 fi
 
 # Get google doc as json via the v4 API & exit on failure to return any/enough data
@@ -26,7 +26,7 @@ json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/val
 if [ ${#json} -lt 100 ]
    then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no temple data from Google spreadsheet server" 1>&2
-   exit 0
+   exit 1
 fi
 
 # Make sure response is also valid json and convert it to csv
@@ -36,7 +36,7 @@ then
     json=`echo "$json" | jq -r '.values[] | @csv'`
 else
    echo "$(date +%Y-%m-%d\ %H:%M:%S) Invalid temple json received from google" 1>&2
-   exit 0
+   exit 1
 fi
 
 # Fix headers so that they're like the old method:
@@ -64,7 +64,7 @@ echo "$json" > "$dest/sheet.csv"
 if [ ! $? ]
 then
   echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem saving the temple csv file." 1>&2
-  exit 0
+  exit 1
 fi
 
 # Convert to bad geojson
