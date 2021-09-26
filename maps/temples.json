@@ -10687,7 +10687,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000300",
-        "name": "Etrusco-Roman temple complex",
+        "name": "Etrusco-Roman temple",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -35833,6 +35833,30 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000991",
+        "name": "Italic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "mountain",
+        "location": "Lago del Morrone",
+        "modernplace": "Pescosansonesco",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "83",
+        "compass": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.876073,
+          42.250387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000992",
         "name": "Republican Temple",
         "dedicatee": "",
@@ -35950,6 +35974,175 @@
         "coordinates": [
           1.444406,
           43.600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000995",
+        "name": "Temple of Jupiter Apenninus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "rural",
+        "location": "Piaggia de' Bagni",
+        "modernplace": "Scheggia",
+        "ancientplace": "Ad Ensem",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Location from Pleiades",
+        "vici": "",
+        "pleiades": "857433537",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Jupiter_Apenninus",
+        "wikidata": "Q3983254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7042737,
+          43.4610632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000996",
+        "name": "Temple at Trapeza",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "Trapeza",
+        "modernplace": "Aigion",
+        "ancientplace": "Rhypes",
+        "pleiadesplace": "570647",
+        "country": "GR",
+        "orientation": "88",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "520-510 BCE",
+        "startdateearly": "520",
+        "startdatelate": "510",
+        "century": "6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "382220URhy",
+        "sls": "",
+        "url": "https://chronique.efa.gr/?kroute=report&id=1595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0299,
+          38.2197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000997",
+        "name": "Tempietto",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "mountain",
+        "location": "Lago del Morrone",
+        "modernplace": "Pescosansonesco",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "83",
+        "compass": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.876073,
+          42.250308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000998",
+        "name": "Tempio",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Località \"Le Rote\"",
+        "modernplace": "Mazzano Romano",
+        "ancientplace": "Fescennium",
+        "pleiadesplace": "413133",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Faliscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.415593,
+          42.208627
         ]
       }
     }

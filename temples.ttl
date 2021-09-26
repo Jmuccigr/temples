@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-08-29" ;
+    dcterms:modified "2021-09-18" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3223,7 +3223,7 @@ spatial:C <https://pleiades.stoa.org/places/413393#this> ;
 skos:exactMatch <http://vici.org/vici/23895> ;
 .
 <https://romeresearchgroup.org/items/1000300> a lawd:Place ;
-rdfs:label "Etrusco-Roman temple complex at Faesulae" ;
+rdfs:label "Etrusco-Roman temple at Faesulae" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "43.808659"^^xsd:double ; geo:long "11.292974"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -10095,6 +10095,7 @@ spatial:C <https://pleiades.stoa.org/places/442613#this> ;
 <https://romeresearchgroup.org/items/1000991> a lawd:Place ;
 rdfs:label "Italic Temple (Pescosansonesco)" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.250387"^^xsd:double ; geo:long "13.876073"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -10127,4 +10128,35 @@ gn:countryCode "FR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/246694#this> ;
+.
+<https://romeresearchgroup.org/items/1000995> a lawd:Place ;
+rdfs:label "Temple of Jupiter Apenninus at Ad Ensem" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.4610632"^^xsd:double ; geo:long "12.7042737"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/857433537> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Jupiter_Apenninus> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983254> ;
+.
+<https://romeresearchgroup.org/items/1000996> a lawd:Place ;
+rdfs:label "Temple at Trapeza at Rhypes" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.2197"^^xsd:double ; geo:long "22.0299"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570647#this> ;
+skos:exactMatch <https://topostext.org/place/382220URhy> ;
+.
+<https://romeresearchgroup.org/items/1000997> a lawd:Place ;
+rdfs:label "Tempietto (Pescosansonesco)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.250308"^^xsd:double ; geo:long "13.876073"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
