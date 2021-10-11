@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-09-18" ;
+    dcterms:modified "2021-10-04" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8145,6 +8145,7 @@ spatial:C <https://pleiades.stoa.org/places/413389#this> ;
 <https://romeresearchgroup.org/items/1000792> a lawd:Place ;
 rdfs:label "Temple at Volsinii" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.603103"^^xsd:double ; geo:long "12.009591"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10159,4 +10160,23 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1000998> a lawd:Place ;
+rdfs:label "Tempio at Fescennium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.208627"^^xsd:double ; geo:long "12.415593"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413133#this> ;
+.
+<https://romeresearchgroup.org/items/1000999> a lawd:Place ;
+rdfs:label "Temple at Sant'Abbondio at Pompeii" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.744815"^^xsd:double ; geo:long "14.499025"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/433032#this> ;
 .

@@ -35447,17 +35447,37 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "La Civita",
+        "location": "La Cività",
         "modernplace": "Bolsena",
         "ancientplace": "Volsinii",
         "pleiadesplace": "413389",
-        "country": "IT"
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Location from wikiloc"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.009591,
+          42.603103
         ]
       }
     },
@@ -43812,7 +43832,22 @@
         "pleiadesplace": "",
         "country": "IT",
         "orientation": "83",
-        "compass": "E"
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -43864,13 +43899,39 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1000999"
+        "id": "1000999",
+        "name": "Temple at Sant'Abbondio",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Pompeii",
+        "ancientplace": "Pompeii",
+        "pleiadesplace": "433032",
+        "country": "IT",
+        "orientation": "271",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          14.499025,
+          40.744815
         ]
       }
     }
