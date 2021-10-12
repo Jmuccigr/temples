@@ -3749,7 +3749,7 @@ var temples =  {
         "meetings": "",
         "note": "Location following Ziolkowski1992",
         "vici": "",
-        "pleiades": "",
+        "pleiades": "524616090",
         "dare": "",
         "arachne": "",
         "livius": "",
@@ -32237,7 +32237,9 @@ var temples =  {
         "extant": "yes",
         "source": "",
         "meetings": "",
-        "note": "Orientation based on survey plan"
+        "note": "Orientation based on survey plan",
+        "vici": "",
+        "pleiades": "251442732"
       },
       "geometry": {
         "type": "Point",
@@ -36239,6 +36241,45 @@ var temples =  {
         "coordinates": [
           14.499025,
           40.744815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001000",
+        "name": "Temple of Sulis Minerva",
+        "dedicatee": "Sulis Minerva",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Bath",
+        "ancientplace": "Aquae Sulis",
+        "pleiadesplace": "79299",
+        "country": "UK",
+        "orientation": "85",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c. CE",
+        "startdateearly": "50",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "400",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Romano-Celtic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.360229,
+          51.381089
         ]
       }
     }

@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-10-04" ;
+    dcterms:modified "2021-10-12" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1169,6 +1169,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/524616090> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Quirinus> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983278> ;
 .
@@ -1683,7 +1684,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-skos:exactMatch <http://pleiades.stoa.org/places/79502> ;
+spatial:C <https://pleiades.stoa.org/places/79502#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=1045> ;
 .
 <https://romeresearchgroup.org/items/1000158> a lawd:Place ;
@@ -9151,6 +9152,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://pleiades.stoa.org/places/251442732> ;
 .
 <https://romeresearchgroup.org/items/1000899> a lawd:Place ;
 rdfs:label "Temple of Mercury at Vazitana Sarra Civitas" ;
@@ -10179,4 +10181,14 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/433032#this> ;
+.
+<https://romeresearchgroup.org/items/1001000> a lawd:Place ;
+rdfs:label "Temple of Sulis Minerva at Aquae Sulis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "51.381089"^^xsd:double ; geo:long "-2.360229"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79299#this> ;
 .
