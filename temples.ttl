@@ -10192,3 +10192,13 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/79299#this> ;
 .
+<https://romeresearchgroup.org/items/1001001> a lawd:Place ;
+rdfs:label "Podium Temple at Alexandria Troas" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.751677"^^xsd:double ; geo:long "26.158405"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550434#this> ;
+.

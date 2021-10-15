@@ -43944,7 +43944,7 @@
         "name": "Temple of Sulis Minerva",
         "dedicatee": "Sulis Minerva",
         "type": "temple",
-        "setting": "",
+        "setting": "sanctuary",
         "location": "",
         "modernplace": "Bath",
         "ancientplace": "Aquae Sulis",
@@ -43973,6 +43973,45 @@
         "coordinates": [
           -2.360229,
           51.381089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001001",
+        "name": "Podium Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Çanakkale",
+        "ancientplace": "Alexandria Troas",
+        "pleiadesplace": "550434",
+        "country": "TR",
+        "orientation": "285",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "Ionic",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.158405,
+          39.751677
         ]
       }
     }
