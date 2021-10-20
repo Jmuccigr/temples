@@ -752,7 +752,27 @@
         "sex": "F",
         "dedicationday": "August 13",
         "deitytype": "god",
-        "culture": "Roman"
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "",
+        "patrimonium": "57364"
       },
       "geometry": {
         "type": "Point",
@@ -2341,6 +2361,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.parcoarcheologicoappiaantica.it/luoghi/via-appia-antica/tempio-di-giove/"
       },
       "geometry": {
@@ -7033,6 +7054,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=370088"
       },
       "geometry": {
@@ -7090,6 +7112,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=384017"
       },
       "geometry": {
@@ -7465,6 +7488,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=389015"
       },
       "geometry": {
@@ -8158,6 +8182,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=250569"
       },
       "geometry": {
@@ -8427,6 +8452,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=248004"
       },
       "geometry": {
@@ -8590,6 +8616,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=327595"
       },
       "geometry": {
@@ -8700,6 +8727,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=205240"
       },
       "geometry": {
@@ -8757,6 +8785,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=242295"
       },
       "geometry": {
@@ -8920,6 +8949,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=234025"
       },
       "geometry": {
@@ -8977,6 +9007,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=208294"
       },
       "geometry": {
@@ -9034,6 +9065,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=209560"
       },
       "geometry": {
@@ -9250,6 +9282,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.pastscape.org.uk/hob.aspx?hob_id=191317"
       },
       "geometry": {
@@ -9413,6 +9446,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.pastscape.org.uk/hob.aspx?hob_id=199898"
       },
       "geometry": {
@@ -10776,6 +10810,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio4/1/1-4.htm"
       },
       "geometry": {
@@ -12432,6 +12467,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio1/forum/temprom.htm"
       },
       "geometry": {
@@ -14552,6 +14588,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-5.htm"
       },
       "geometry": {
@@ -14609,6 +14646,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio3/17/17-4.htm"
       },
       "geometry": {
@@ -14666,6 +14704,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-5.htm"
       },
       "geometry": {
@@ -14723,6 +14762,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -14780,6 +14820,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/7/7-3.htm"
       },
       "geometry": {
@@ -14837,6 +14878,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-4.htm"
       },
       "geometry": {
@@ -14894,6 +14936,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio1/19/19-2.htm"
       },
       "geometry": {
@@ -14951,6 +14994,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio4/8/8-3.htm"
       },
       "geometry": {
@@ -15008,6 +15052,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio3/2/2-1.htm"
       },
       "geometry": {
@@ -15065,6 +15110,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/portus/s009.htm"
       },
       "geometry": {
@@ -15122,6 +15168,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/portus/t021.htm"
       },
       "geometry": {
@@ -15179,6 +15226,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio1/11/11-1.htm"
       },
       "geometry": {
@@ -15236,6 +15284,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio1/15/15-6.htm"
       },
       "geometry": {
@@ -16469,6 +16518,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.tourisme-vienne.com/en/activite/291/site-gallo-romain-de-sanxay"
       },
       "geometry": {
@@ -17287,6 +17337,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.chateaubas.com/en/pages/history/temple.html"
       },
       "geometry": {
@@ -25548,6 +25599,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.neuss.de/tourismus/stadtportrait/sehenswertes/kybele-kultstaette"
       },
       "geometry": {
@@ -28087,7 +28139,16 @@
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "Aizanoi#Temple_of_Zeus"
+        "wikipedia": "Aizanoi#Temple_of_Zeus",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "",
+        "sls": "",
+        "patrimonium": "52873"
       },
       "geometry": {
         "type": "Point",
@@ -32326,6 +32387,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.labraunda.org/Labraunda.org/Temple_of_Zeus_eng.html"
       },
       "geometry": {
@@ -33016,6 +33078,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -33073,6 +33136,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -33130,6 +33194,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.ostia-antica.org/regio2/8/8-2.htm"
       },
       "geometry": {
@@ -33187,6 +33252,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio1/10/10-4.htm"
       },
       "geometry": {
@@ -33244,6 +33310,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio1/12/12-6.htm"
       },
       "geometry": {
@@ -33301,6 +33368,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio1/15/15-2.htm"
       },
       "geometry": {
@@ -33358,6 +33426,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio1/15/15-6.htm"
       },
       "geometry": {
@@ -33415,6 +33484,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio4/1/1-1.htm"
       },
       "geometry": {
@@ -33472,6 +33542,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio5/10/10-2.htm"
       },
       "geometry": {
@@ -33529,6 +33600,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.ostia-antica.org/regio5/12/12-1.htm"
       },
       "geometry": {
@@ -36544,6 +36616,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.itc.cnr.it/ba/sc/CNS/CNS0099.html"
       },
       "geometry": {
@@ -36913,6 +36986,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://nora.beniculturali.unipd.it/gli-edifici/edifici-religiosi/tempio-romano/"
       },
       "geometry": {
@@ -37504,6 +37578,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://www.sabap-abruzzo.beniculturali.it/santuario-di-ercole-curino/"
       },
       "geometry": {
@@ -40503,6 +40578,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "https://circe-antique.huma-num.fr/notice.php?ID_site=2438"
       },
       "geometry": {
@@ -40560,6 +40636,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://www.sanniti.info/vastogir.html"
       },
       "geometry": {
@@ -42349,6 +42426,7 @@
         "cona": "",
         "topostext": "",
         "sls": "",
+        "patrimonium": "",
         "url": "http://musei.beniculturali.it/musei?mid=815&nome=area-archeologica-del-tempio-italico-di-casalbore"
       },
       "geometry": {
@@ -43810,6 +43888,7 @@
         "cona": "",
         "topostext": "382220URhy",
         "sls": "",
+        "patrimonium": "",
         "url": "https://chronique.efa.gr/?kroute=report&id=1595"
       },
       "geometry": {

@@ -173,7 +173,13 @@ res = res[0];
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
 			};
-			otherDB = otherDB + '<a target="_blank" href="https://www.slsgazetteer.org/' + res.properties.sls + '">Heritage Gazetteer of Libya</a>';
+			otherDB = otherDB + '<a target="_blank" href="http://slsgazetteer.org/' + res.properties.sls + '">Heritage Gazetteer of Libya</a>';
+		}
+		if (res.properties.patrimonium != '') {
+			if (otherDB.length > 4) {
+				otherDB = otherDB + ', '
+			};
+			otherDB = otherDB + '<a target="_blank" href="https://patrimonium.huma-num.fr/places/' + res.properties.patrimonium + '">Atlas Patrimonii Caesaris</a>';
 		}
 		if (otherDB.length == 4) {
 			otherDB = ''

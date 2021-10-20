@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-10-12" ;
+    dcterms:modified "2021-10-20" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -211,6 +211,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <https://patrimonium.huma-num.fr/places/57364> ;
 .
 <https://romeresearchgroup.org/items/1000017> a lawd:Place ;
 rdfs:label "Temple of the Divine Antoninus and the Divine Faustina at Rome" ;
@@ -6477,6 +6478,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/609292#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/442858431> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Aizanoi#Temple_of_Zeus> ;
+skos:exactMatch <https://patrimonium.huma-num.fr/places/52873> ;
 .
 <https://romeresearchgroup.org/items/1000616> a lawd:Place ;
 rdfs:label "Temple of Jupiter at Spalatum" ;
