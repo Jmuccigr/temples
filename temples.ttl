@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-10-20" ;
+    dcterms:modified "2021-10-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10203,4 +10203,24 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/550434#this> ;
+.
+<https://romeresearchgroup.org/items/1001002> a lawd:Place ;
+rdfs:label "Temple of Apollo at Claros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.005037"^^xsd:double ; geo:long "27.193058"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599719#this> ;
+.
+<https://romeresearchgroup.org/items/1001003> a lawd:Place ;
+rdfs:label "Temple of Artemis  at Claros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.005237"^^xsd:double ; geo:long "27.193117"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599719#this> ;
 .

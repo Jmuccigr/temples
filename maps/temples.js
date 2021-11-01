@@ -36394,6 +36394,84 @@ var temples =  {
           39.751677
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001002",
+        "name": "Temple of Apollo",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Ahmetbeyli",
+        "ancientplace": "Claros",
+        "pleiadesplace": "599719",
+        "country": "TR",
+        "orientation": "108",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.193058,
+          38.005037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001003",
+        "name": "Temple of Artemis ",
+        "dedicatee": "Artemis ",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Ahmetbeyli",
+        "ancientplace": "Claros",
+        "pleiadesplace": "599719",
+        "country": "TR",
+        "orientation": "107",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 4th - early 3rd c. BCE",
+        "startdateearly": "-325",
+        "startdatelate": "-275",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.193117,
+          38.005237
+        ]
+      }
     }
   ]
 }
