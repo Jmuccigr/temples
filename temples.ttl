@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-10-29" ;
+    dcterms:modified "2021-11-21" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10223,4 +10223,54 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599719#this> ;
+.
+<https://romeresearchgroup.org/items/1001004> a lawd:Place ;
+rdfs:label "Geometric Temple at Helike" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.208139"^^xsd:double ; geo:long "22.142451"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570281#this> ;
+.
+<https://romeresearchgroup.org/items/1001005> a lawd:Place ;
+rdfs:label "Archaic Temple at Helike" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.208139"^^xsd:double ; geo:long "22.142451"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570281#this> ;
+.
+<https://romeresearchgroup.org/items/1001006> a lawd:Place ;
+rdfs:label "Roman temple at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.74514"^^xsd:double ; geo:long "20.028869"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+.
+<https://romeresearchgroup.org/items/1001007> a lawd:Place ;
+rdfs:label "Temple of Asklepios at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.745764"^^xsd:double ; geo:long "20.020064"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+skos:exactMatch <http://vici.org/vici/11763> ;
+.
+<https://romeresearchgroup.org/items/1001008> a lawd:Place ;
+rdfs:label "Acropolis Temple at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.746923"^^xsd:double ; geo:long "20.021807"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
 .

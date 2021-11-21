@@ -36472,6 +36472,204 @@ var temples =  {
           38.005237
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001004",
+        "name": "Geometric Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural",
+        "location": "",
+        "modernplace": "Nikoleika",
+        "ancientplace": "Helike",
+        "pleiadesplace": "570281",
+        "country": "GR",
+        "orientation": "113",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "1st half 8th c. BCE",
+        "startdateearly": "-799",
+        "startdatelate": "-750",
+        "century": "-8",
+        "enddate": "-550",
+        "preceded": "1001005",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "apsidal",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.142451,
+          38.208139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001005",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural",
+        "location": "",
+        "modernplace": "Nikoleika",
+        "ancientplace": "Helike",
+        "pleiadesplace": "570281",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "mid 6th c BCE",
+        "startdateearly": "-560",
+        "startdatelate": "-550",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1001004",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Doric"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.142451,
+          38.208139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001006",
+        "name": "Roman temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "suburb",
+        "location": "Vrina Plain",
+        "modernplace": "Butrint",
+        "ancientplace": "Bouthroton",
+        "pleiadesplace": "530824",
+        "country": "AL",
+        "orientation": "234",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c. CE",
+        "startdateearly": "50",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "Italic",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.028869,
+          39.74514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001007",
+        "name": "Temple of Asklepios",
+        "dedicatee": "Asklepios",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Butrint",
+        "ancientplace": "Bouthroton",
+        "pleiadesplace": "530824",
+        "country": "AL",
+        "orientation": "138",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.020064,
+          39.745764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001008",
+        "name": "Acropolis Temple",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Butrint",
+        "ancientplace": "Bouthroton",
+        "pleiadesplace": "530824",
+        "country": "AL",
+        "orientation": "128",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "last q. 6th c. BCE",
+        "startdateearly": "-525",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.021807,
+          39.746923
+        ]
+      }
     }
   ]
 }

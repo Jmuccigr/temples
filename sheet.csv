@@ -995,5 +995,6 @@
 "1001003","Temple of Artemis ","Artemis ","temple","sanctuary","","Ahmetbeyli","Claros","599719","TR","38.005237","27.193117","107","E","0","","late 4th - early 3rd c. BCE","-325","-275","-4","","","","F","","god","Greek","","yes"
 "1001004","Geometric Temple","","temple","rural","","Nikoleika","Helike","570281","GR","38.208139","22.142451","113","SE","0","","1st half 8th c. BCE","-799","-750","-8","-550","1001005","","","","","Greek","apsidal","yes"
 "1001005","Archaic Temple","","temple","rural","","Nikoleika","Helike","570281","GR","38.208139","22.142451","","","0","","mid 6th c BCE","-560","-550","-6","","","1001004","","","","Greek","Doric"
-"1001006","","","temple","","Vrina Plain","Butrint","Bouthroton","530824","AL","","","","","0"
-"1001007","Temple of Asklepios","Asklepios","temple","urban","","Butrint","Bouthroton","530824","AL","39.745764","20.020064","","","0"
+"1001006","Roman temple","","temple","suburb","Vrina Plain","Butrint","Bouthroton","530824","AL","39.74514","20.028869","234","SW","0","","late 1st c. CE","50","100","1","","","","","","","Roman","Italic","yes"
+"1001007","Temple of Asklepios","Asklepios","temple","urban","","Butrint","Bouthroton","530824","AL","39.745764","20.020064","138","SE","0","","","","","","","","","M","","hero","Greek","","yes","","","","11763"
+"1001008","Acropolis Temple","Athena","temple","acropolis","","Butrint","Bouthroton","530824","AL","39.746923","20.021807","128","SE","0","","last q. 6th c. BCE","-525","-500","-6","","","","F","","god","Greek","","yes"
