@@ -143,6 +143,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/tile.stamen.js">
 		</script>
+		<script type="text/javascript" src="scripts/aurelian_wall.js">
+		</script>
 		<script type="text/javascript" src="scripts/load_basemaps.js">
 		</script>
 <!-- Load jQuery library using plain JavaScript -->
@@ -219,6 +221,11 @@
 
 			L.control.scale({
 			    position: 'bottomright'
+			}).addTo(map);
+
+			// Add control for wall.
+			wallCtl = L.control.layers(null, wallOverlay, {
+				collapsed: false
 			}).addTo(map);
 
 			// Clear the cookie on startup

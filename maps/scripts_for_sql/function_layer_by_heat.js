@@ -6,7 +6,7 @@ function layer_by_heat() {
         allPoints = data.features;
     });
 
-    // Save the currently visible basemap
+    // Save the currently visible basemap & walls
     // but switch to osm if it can't be seen at high zoom
     for (i in baseLayers) {
         if (map.hasLayer(baseLayers[i]) == true) {
@@ -17,6 +17,11 @@ function layer_by_heat() {
             }
         }
     }
+	if (map.hasLayer(aurelian) == true) {
+		hasWalls = true;
+	} else {
+		hasWalls = false;
+	}
 
     // Remove existing layers & controls
     clearLayers();
@@ -56,4 +61,9 @@ function layer_by_heat() {
     // First restore the map currently in use
     map.addLayer(currentMap)
 
+	// Add back the wall, if needed
+	if (hasWalls) {
+		map.addLayer(walls);
+	}
+	;
 }

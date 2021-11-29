@@ -8,7 +8,7 @@
         allPoints = data.features;
     });
 
-    // Save the currently visible basemap
+    // Save the currently visible basemap & walls
     for (i in baseLayers)
     {
         if (map.hasLayer(baseLayers[i]) == true)
@@ -16,6 +16,11 @@
             currentMap = baseLayers[i]
         };
     }
+	if (map.hasLayer(aurelian) == true) {
+		hasWalls = true;
+	} else {
+		hasWalls = false;
+	}
 
     // Remove existing layers & controls
     clearLayers();
@@ -120,4 +125,10 @@
     map.addLayer(s);
     map.addLayer(t);
     map.addLayer(tb);
+
+	// Add back the wall, if needed
+	if (hasWalls) {
+		map.addLayer(walls);
+	}
+	;
 }
