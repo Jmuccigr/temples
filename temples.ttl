@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-11-21" ;
+    dcterms:modified "2021-11-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1678,7 +1678,7 @@ spatial:C <https://pleiades.stoa.org/places/79488#this> ;
 skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/maprecord.cfm?id=1002> ;
 .
 <https://romeresearchgroup.org/items/1000157> a lawd:Place ;
-rdfs:label "Temple (Harlow)" ;
+rdfs:label "Harlow Roman Temple (Harlow)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.790161"^^xsd:double ; geo:long "0.127094"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -10273,4 +10273,12 @@ gn:countryCode "AL" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+.
+<https://romeresearchgroup.org/items/1001009> a lawd:Place ;
+rdfs:label "South Wiltshire Temple (Wiltshire)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "51.041814"^^xsd:double ; geo:long "-2.112825"^^xsd:double ] ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .

@@ -7011,7 +7011,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000157",
-        "name": "Temple",
+        "name": "Harlow Roman Temple",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -44367,6 +44367,45 @@
         "coordinates": [
           20.021807,
           39.746923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001009",
+        "name": "South Wiltshire Temple",
+        "dedicatee": "Bregneus",
+        "type": "temple",
+        "setting": "rural",
+        "location": "",
+        "modernplace": "Wiltshire",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "UK",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "mid-3rd c. CE",
+        "startdateearly": "225",
+        "startdatelate": "275",
+        "century": "3",
+        "enddate": "390",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Romano-Celtic",
+        "style": "ambulatory",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.112825,
+          51.041814
         ]
       }
     }
