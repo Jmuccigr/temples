@@ -1,5 +1,5 @@
 ---
-title: Project Contributers
+title: Project Contributors
 author: John D. Muccigrosso
 date: Friday, 4 June 2021
 ---
