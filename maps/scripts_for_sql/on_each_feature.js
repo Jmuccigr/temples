@@ -2,12 +2,12 @@
 function onEachFeature(feature, layer) {
     // Move the tooltip offset depending on which of the icons is being used
     if (feature.properties.geocertainty == "1") {
-        oset = 0;
+        markerOffset = 0;
     } else {
-        oset = -28;
+        markerOffset = oset;
     }
     layer.bindTooltip(getTooltipText(feature, layer), {
-            offset: [0, oset]
+            offset: [0, markerOffset]
         }).openTooltip(),
 	layer.on({
 		'click': function (e) {
