@@ -3429,7 +3429,7 @@ var aurelian_geojson = {
 ;
 
 var wallStyle = {
-    "color": "black",
+    "color": "red",
     "weight": 5,
     "opacity": 0.5
 }
