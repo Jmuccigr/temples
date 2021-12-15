@@ -6,9 +6,9 @@
  * Contact: bryanmcbride.com
  * GitHub:  https://github.com/bmcbride/PHP-Database-GeoJSON
  */
- 
+
  // Returns an array as variable 'biblio', consisting of all the bibliography.
- 
+
 $servername = "localhost";
 $username = "romerese_temples";
 $dbname = "romerese_temples";

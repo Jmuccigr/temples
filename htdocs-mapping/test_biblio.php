@@ -15,8 +15,8 @@ function getCitations(array, id) {
             citations = citations + array[i].citation_html + "\n";
         }
     }
-    if (citations == '') { 
-        citations = '<em>No citations in the database.</em>'; 
+    if (citations == '') {
+        citations = '<em>No citations in the database.</em>';
     }
     return citations;
 }
