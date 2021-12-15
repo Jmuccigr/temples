@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-11-30" ;
+    dcterms:modified "2021-12-12" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1212,10 +1212,14 @@ skos:exactMatch <https://topostext.org/place/419125SSat> ;
 <https://romeresearchgroup.org/items/1000111> a lawd:Place ;
 rdfs:label "Temple of Sol at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.9017"^^xsd:double ; geo:long "12.483152"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/217100040> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_the_Sun_(Rome)> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q4536138> ;
 .
 <https://romeresearchgroup.org/items/1000112> a lawd:Place ;
 rdfs:label "Temple of Sol and Luna at Rome" ;
@@ -9664,6 +9668,7 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/530834#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/545970870> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Hera,_Mon_Repos> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q64355226> ;
 .
@@ -10281,4 +10286,116 @@ geo:location [ geo:lat "51.041814"^^xsd:double ; geo:long "-2.112825"^^xsd:doubl
 gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001010> a lawd:Place ;
+rdfs:label "Temple of Athena at Assos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.490749"^^xsd:double ; geo:long "26.336906"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550463#this> ;
+skos:exactMatch <http://vici.org/vici/11522> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2103891> ;
+.
+<https://romeresearchgroup.org/items/1001011> a lawd:Place ;
+rdfs:label "Agora Temple at Assos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.488949"^^xsd:double ; geo:long "26.336409"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550463#this> ;
+skos:exactMatch <http://vici.org/vici/31080> ;
+.
+<https://romeresearchgroup.org/items/1001012> a lawd:Place ;
+rdfs:label "Temple of Jupiter Propugnator at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.88969"^^xsd:double ; geo:long "12.487423"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001013> a lawd:Place ;
+rdfs:label "Temple of Artemis Agrotera at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9675616"^^xsd:double ; geo:long "23.7354158"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/277534797> ;
+skos:exactMatch <https://topostext.org/place/380237SArt> ;
+.
+<https://romeresearchgroup.org/items/1001014> a lawd:Place ;
+rdfs:label "Temple of Nemesis  at Mytilene" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.110094"^^xsd:double ; geo:long "26.547001"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550763#this> ;
+.
+<https://romeresearchgroup.org/items/1001015> a lawd:Place ;
+rdfs:label "Temple of Astarte at Melita" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.845917"^^xsd:double ; geo:long "14.552083"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "MT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/601235773#this> ;
+.
+<https://romeresearchgroup.org/items/1001016> a lawd:Place ;
+rdfs:label "Temple of Juno at Melita" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.845917"^^xsd:double ; geo:long "14.552083"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "MT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/601235773#this> ;
+.
+<https://romeresearchgroup.org/items/1001017> a lawd:Place ;
+rdfs:label "Temple of Vespasian at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.896595"^^xsd:double ; geo:long "12.480498"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001018> a lawd:Place ;
+rdfs:label "Temple of Titus at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.896595"^^xsd:double ; geo:long "12.480498"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001019> a lawd:Place ;
+rdfs:label "Large Temple at Felix Romuliana" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.8990104"^^xsd:double ; geo:long "22.186256"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "RS" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/207395#this> ;
+skos:exactMatch <http://vici.org/vici/36035> ;
+.
+<https://romeresearchgroup.org/items/1001020> a lawd:Place ;
+rdfs:label "Temple of Cybele at Felix Romuliana" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.89989"^^xsd:double ; geo:long "22.186365"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "RS" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/207395#this> ;
+skos:exactMatch <http://vici.org/vici/36025> ;
 .
