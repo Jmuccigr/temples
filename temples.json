@@ -39175,19 +39175,20 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "Località la Stazza",
         "modernplace": "Alatri",
         "ancientplace": "Aletrium",
         "pleiadesplace": "432664",
         "country": "IT",
         "orientation": "194",
-        "compass": "S"
+        "compass": "S",
+        "geocertainty": "0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          13.343801,
+          41.736941
         ]
       }
     },

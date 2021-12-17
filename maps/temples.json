@@ -31872,6 +31872,31 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000882",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Località la Stazza",
+        "modernplace": "Alatri",
+        "ancientplace": "Aletrium",
+        "pleiadesplace": "432664",
+        "country": "IT",
+        "orientation": "194",
+        "compass": "S",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343801,
+          41.736941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000883",
         "name": "Acropolis Temple",
         "dedicatee": "",
