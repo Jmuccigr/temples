@@ -37188,5 +37188,105 @@ var temples =  {
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-    
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "36035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.186256,
+          43.8990104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001020",
+        "name": "Temple of Cybele",
+        "dedicatee": "Cybele",
+        "type": "temple",
+        "setting": "palace complex",
+        "location": "",
+        "modernplace": "Gamzigrad",
+        "ancientplace": "Felix Romuliana",
+        "pleiadesplace": "207395",
+        "country": "RS",
+        "orientation": "96",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 4th c. CE",
+        "startdateearly": "301",
+        "startdatelate": "311",
+        "century": "4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "36025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.186365,
+          43.89989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001021",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "Santa Maria Maggiore",
+        "modernplace": "Alatri",
+        "ancientplace": "Aletrium",
+        "pleiadesplace": "432664",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342319,
+          41.726193
+        ]
+      }
+    }
+  ]
+}
 ;

@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-12-17" ;
+    dcterms:modified "2021-12-18" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10399,4 +10399,13 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/207395#this> ;
 skos:exactMatch <http://vici.org/vici/36025> ;
+.
+<https://romeresearchgroup.org/items/1001021> a lawd:Place ;
+rdfs:label "Temple at Aletrium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.726193"^^xsd:double ; geo:long "13.342319"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432664#this> ;
 .
