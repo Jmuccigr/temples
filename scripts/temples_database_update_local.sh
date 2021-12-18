@@ -4,7 +4,7 @@
 # Make sure the database is running by checking for mysql
 test=`ps -x | grep mysqld | grep -v grep`
 
-if [[ $test == '' ]]
+if [[ $local && $test == '' ]]
 then
     echo "The database doesn't seem to be open. Quitting."
     exit 1
@@ -12,9 +12,11 @@ fi
 
 # Set up some variables
 delete=false
-doComparison=true
 compareTables=true
 checkSize=true
+dryRun=false
+local=true
+cmdStr=''
 me=$(whoami)
 declare -a dbList
 declare -a fileList
@@ -40,9 +42,12 @@ while test $# -gt 0; do
       echo "-c, --citations  force updating of the citations table"
       echo "-t, --temples    force updating of the temples table"
       echo "-a, --all        force updating of all three tables"
-      echo "-d, --delete     remove all entries from the table before updating"
+      echo "-d, --delete     remove all entries from the table before updating (truncate)"
+      echo "-y, --dryrun     don't change any files"
       echo "-i, --ignore     ignore csv file size and just do the update"
       echo "-m, --manual     only update tables indicated in the command"
+      echo ""
+      echo "-r, --remote     update remote tables instead of the default local ones"
       exit 0
       ;;
     -b|--biblio)
@@ -63,7 +68,7 @@ while test $# -gt 0; do
     -a|--all)
       dbList=("biblio" "citations" "temples")
       fileList=("bibliography" "citations" "temples")
-      doComparison=false
+      compareTables=false
       shift
       ;;
     -d|--delete)
@@ -74,8 +79,16 @@ while test $# -gt 0; do
       checkSize=false
       shift
       ;;
+    -y|--dryrun)
+      dryRun=true
+      shift
+      ;;
     -m|--manual)
       compareTables=false
+      shift
+      ;;
+    -r|--remote)
+      local=false
       shift
       ;;
    *)
@@ -83,6 +96,14 @@ while test $# -gt 0; do
       ;;
   esac
 done
+
+# Get the database to update. Default is local.
+if ! $local
+then
+    pwd=$(dirname "$0")
+    pwd=$(dirname "$pwd")
+    cmdStr=--defaults-extra-file="$pwd"/forbidden/sql_remote_config.cnf
+fi
 
 # Now count the rows in the local csv files
 # Could really make this depend on the switches, but it's probably good to confirm files exist
@@ -104,10 +125,10 @@ fileCounts=($biblioCount $citationCount $templeCount)
 
 # Now count the rows in the database tables unless we're forcing all of them regardless
 # or we're only doing the indicated ones
-if $doComparison && $compareTables
+if [ "$compareTables" = true ] || [ "$dryRun" = true ]
 then
-    sqloutput=`
-mysql << EOF
+sqloutput=`
+mysql $cmdStr << EOF
 USE romerese_temples
 SELECT count(*) FROM biblio;
 SELECT count(*) FROM citations;
@@ -123,7 +144,11 @@ EOF
     do
         if [ ${fileCounts[$i]} != ${sqlCount[$i]} ]
         then
-            echo ${tableList[$i]}" table needs to be updated."
+            echo ${tableList[$i]}" table needs to be updated"
+            if (( "${sqlCount[$i]}" > "${fileCounts[$i]}" ))
+            then
+                echo "    NB More rows on server than locally ("${sqlCount[$i]}" vs "${fileCounts[$i]}"). You may want to delete the server rows."
+            fi
             dbList+=(${tableList[$i]})
             fileList+=(${filenameList[$i]})
         fi
@@ -139,7 +164,8 @@ ct=${#dbList[@]}
 if (( $ct == 0 ))
 then
     echo "Nothing to update!"
-else
+elif ! $dryRun
+then
     unique=($(printf "%s\n" "${dbList[@]}" | sort -u ))
     fileList=($(printf "%s\n" "${fileList[@]}" | sort -u ))
     ct=$((ct-1))
@@ -151,18 +177,20 @@ else
         if $delete
         then
             echo -n "deleting the entries in table "$db"..."
-mysql << EOF
+mysql $cmdStr << EOF
 USE romerese_temples
 truncate table ${db};
 EOF
         fi
-mysql << EOF
+mysql $cmdStr << EOF
 USE romerese_temples
-load data local infile '/Users/${me}/Documents/github/local/temples/${filename}.csv' replace into table ${db} fields terminated by ',' enclosed by '"';
+load data local infile '/Users/${me}/Documents/github/local/temples/${filename}.csv' replace into table ${db} character set utf8 fields terminated by ',' enclosed by '"';
 EOF
         echo "done."
         echo ""
     done
     echo "Database updated!"
+else
+    echo "No action taken because this is a dry run."
 fi
 echo ""
