@@ -4,6 +4,7 @@
 # Set up some variables
 delete=false
 doComparison=true
+compareTables=true
 checkSize=true
 me=$(whoami)
 declare -a dbList
@@ -32,6 +33,7 @@ while test $# -gt 0; do
       echo "-a, --all        force updating of all three tables"
       echo "-d, --delete     remove all entries from the table before updating"
       echo "-i, --ignore     ignore csv file size and just do the update"
+      echo "-m, --manual     only update tables indicated in the command"
       exit 0
       ;;
     -b|--biblio)
@@ -63,6 +65,10 @@ while test $# -gt 0; do
       checkSize=false
       shift
       ;;
+    -m|--manual)
+      compareTables=false
+      shift
+      ;;
    *)
       break
       ;;
@@ -88,7 +94,8 @@ fi
 fileCounts=($biblioCount $citationCount $templeCount)
 
 # Now count the rows in the database tables unless we're forcing all of them regardless
-if $doComparison
+# or we're only doing the indicated ones
+if $doComparison && $compareTables
 then
     sqloutput=`
 mysql --defaults-extra-file="../forbidden/sql_remote_config.cnf" << EOF
