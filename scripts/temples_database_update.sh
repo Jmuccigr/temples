@@ -1,15 +1,6 @@
 #!/bin/bash
 # Script to push updates from csv to local mysql database
 
-# Make sure the database is running by checking for mysql
-test=`ps -x | grep mysqld | grep -v grep`
-
-if [[ $local && $test == '' ]]
-then
-    echo "The database doesn't seem to be open. Quitting."
-    exit 1
-fi
-
 # Set up some variables
 delete=false
 compareTables=true
@@ -24,6 +15,51 @@ tableList="biblio citations temples" # Shouldn't have used biblio. More work!
 tableList=($tableList)
 filenameList="bibliography citations temples"
 filenameList=($filenameList)
+
+# Check whether the database is running by checking for mysql
+test=`ps -x | grep mysqld | grep -v grep`
+MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
+
+if [[ $local && $test == '' ]]
+then
+    echo "The database doesn't seem to be open. Start it? (y/n)"
+    read reply
+    if [[ $reply == "y" ]]
+    then
+        if [[ $MAMP == '' ]]
+        then
+            open '/Applications/MAMP/MAMP.app'
+            osascript -e 'tell application "iTerm2" to activate'
+            echo "MAMP is not running. Let me try to start it..."
+            sleep 5
+            # Make sure the database is running by checking for mysql
+            test=`ps -x | grep mysqld | grep -v grep`
+            if [[ $test = '' ]]
+            then
+                echo "That didn't work. Check it out."
+                exit 0
+            fi
+        else
+            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events" to keystroke "l" using command down' -e 'end tell'
+            sleep 1
+            osascript -e 'tell application "iTerm2" to activate'
+            echo "MAMP is running. Let me try to start the databases..."
+            sleep 4
+            test=`ps -x | grep mysqld | grep -v grep`
+            if [[ $test == '' ]]
+            then
+                echo "That didn't work. Check it out."
+                exit 0
+            fi
+        fi
+    else
+        echo "OK!"
+        exit 1
+    fi
+fi
+
+echo
+echo "OK, that seemed to work, let's go..."
 
 # Add tables based on switches
 
