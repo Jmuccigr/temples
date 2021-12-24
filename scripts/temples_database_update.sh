@@ -22,7 +22,7 @@ MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
 if [[ $local && $test == '' ]]
 then
-    echo "The database doesn't seem to be open. Start it? (y/n)"
+    echo -n "The database doesn't seem to be open. Start it? (y/n) "
     read reply
     if [[ $reply == "y" ]]
     then
@@ -230,3 +230,10 @@ else
     echo "No action taken because this is a dry run."
 fi
 echo ""
+
+echo -n 'Quit MAMP? '
+read reply
+if [[ $reply == "y" ]]
+then
+    osascript -e 'tell application "MAMP" to quit' &
+fi
