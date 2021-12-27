@@ -7,6 +7,7 @@ compareTables=true
 checkSize=true
 dryRun=false
 local=true
+bigger=false
 cmdStr=''
 me=$(whoami)
 declare -a dbList
@@ -16,20 +17,23 @@ tableList=($tableList)
 filenameList="bibliography citations temples"
 filenameList=($filenameList)
 
+PROGNAME=$(basename $0)
+
 # Check whether the database is running by checking for mysql
 test=`ps -x | grep mysqld | grep -v grep`
 MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
 if [[ $local && $test == '' ]]
 then
+    echo ""
     echo -n "The database doesn't seem to be open. Start it? (y/n) "
     read reply
     if [[ $reply == "y" ]]
     then
         if [[ $MAMP == '' ]]
         then
-            open '/Applications/MAMP/MAMP.app'
-            osascript -e 'tell application "iTerm2" to activate'
+            open -j '/Applications/MAMP/MAMP.app'
+            echo ""
             echo "MAMP is not running. Let me try to start it..."
             sleep 5
             # Make sure the database is running by checking for mysql
@@ -40,7 +44,7 @@ then
                 exit 0
             fi
         else
-            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events" to keystroke "l" using command down' -e 'end tell'
+            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
             sleep 1
             osascript -e 'tell application "iTerm2" to activate'
             echo "MAMP is running. Let me try to start the databases..."
@@ -52,6 +56,8 @@ then
                 exit 0
             fi
         fi
+    echo ""
+    echo "OK, that seemed to work, let's go..."
     else
         echo "OK!"
         exit 1
@@ -59,7 +65,6 @@ then
 fi
 
 echo
-echo "OK, that seemed to work, let's go..."
 
 # Add tables based on switches
 
@@ -70,15 +75,15 @@ while test $# -gt 0; do
     -h|--help)
       echo "$PROGNAME [options]"
       echo ""
-      echo "Load csv files into local temples database."
+      echo "Load csv files into the temples databases. Defaults to local database."
       echo ""
       echo "options:"
-      echo "-h, --help       Show this brief help."
+      echo "-h, --help       Show this brief help"
       echo "-b, --biblio     force updating of the bibliography table"
       echo "-c, --citations  force updating of the citations table"
       echo "-t, --temples    force updating of the temples table"
       echo "-a, --all        force updating of all three tables"
-      echo "-d, --delete     remove all entries from the table before updating (truncate)"
+      echo "-d, --delete     remove all entries from the table before updating (SQL 'truncate')"
       echo "-y, --dryrun     don't change any files"
       echo "-i, --ignore     ignore csv file size and just do the update"
       echo "-m, --manual     only update tables indicated in the command"
@@ -181,17 +186,22 @@ EOF
         if [ ${fileCounts[$i]} != ${sqlCount[$i]} ]
         then
             echo ${tableList[$i]}" table needs to be updated"
-            if (( "${sqlCount[$i]}" > "${fileCounts[$i]}" ))
+            (("${sqlCount[$i]}" > "${fileCounts[$i]}")) && bigger=true
+            if [[ $bigger == "true" && !$delete=="true" ]]
             then
-                echo "    NB More rows on server than locally ("${sqlCount[$i]}" vs "${fileCounts[$i]}"). You may want to delete the server rows."
+                echo "    NB More rows on server than locally ("${sqlCount[$i]}" vs "${fileCounts[$i]}")."
+                echo "    Do you want to delete the server rows? (y/n) "
+                read reply
+                if [[ $reply == "y" ]]
+                then
+                    delete=true
+                fi
             fi
             dbList+=(${tableList[$i]})
             fileList+=(${filenameList[$i]})
         fi
     done
 fi
-
-echo ""
 
 # Push the updates to the database
 # Could use a sanity check
@@ -231,7 +241,7 @@ else
 fi
 echo ""
 
-echo -n 'Quit MAMP? '
+echo -n 'Quit MAMP? (y/n)'
 read reply
 if [[ $reply == "y" ]]
 then
