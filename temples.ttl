@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-12-18" ;
+    dcterms:modified "2021-12-27" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10408,4 +10408,64 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/432664#this> ;
+.
+<https://romeresearchgroup.org/items/1001022> a lawd:Place ;
+rdfs:label "Temple at Anagnia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.742568"^^xsd:double ; geo:long "13.160021"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422833#this> ;
+.
+<https://romeresearchgroup.org/items/1001023> a lawd:Place ;
+rdfs:label "Temple at Porta S. Agata at Ferentinum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.692311"^^xsd:double ; geo:long "13.25241"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432830#this> ;
+.
+<https://romeresearchgroup.org/items/1001024> a lawd:Place ;
+rdfs:label "Temple of Mercury at Ferentinum" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432830#this> ;
+.
+<https://romeresearchgroup.org/items/1001025> a lawd:Place ;
+rdfs:label "Temple of Hercules at Abella" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432617#this> ;
+.
+<https://romeresearchgroup.org/items/1001026> a lawd:Place ;
+rdfs:label "Temple of Hercules (Giffoni Valle Piana)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.71507"^^xsd:double ; geo:long "14.941567"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442600#this> ;
+.
+<https://romeresearchgroup.org/items/1001027> a lawd:Place ;
+rdfs:label "Temple (Salerno)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.691883"^^xsd:double ; geo:long "14.776579"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432845#this> ;
+.
+<https://romeresearchgroup.org/items/1001028> a lawd:Place ;
+rdfs:label "Temple (Scala)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.6463673"^^xsd:double ; geo:long "14.6038184"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
