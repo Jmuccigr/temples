@@ -23,49 +23,6 @@ PROGNAME=$(basename $0)
 test=`ps -x | grep mysqld | grep -v grep`
 MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
-if [[ $local && $test == '' ]]
-then
-    echo ""
-    echo -n "The database doesn't seem to be open. Start it? (y/n) "
-    read reply
-    if [[ $reply == "y" ]]
-    then
-        if [[ $MAMP == '' ]]
-        then
-            open -j '/Applications/MAMP/MAMP.app'
-            echo ""
-            echo "MAMP is not running. Let me try to start it..."
-            sleep 5
-            # Make sure the database is running by checking for mysql
-            test=`ps -x | grep mysqld | grep -v grep`
-            if [[ $test = '' ]]
-            then
-                echo "That didn't work. Check it out."
-                exit 0
-            fi
-        else
-            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
-            sleep 1
-            osascript -e 'tell application "iTerm2" to activate'
-            echo "MAMP is running. Let me try to start the databases..."
-            sleep 4
-            test=`ps -x | grep mysqld | grep -v grep`
-            if [[ $test == '' ]]
-            then
-                echo "That didn't work. Check it out."
-                exit 0
-            fi
-        fi
-    echo ""
-    echo "OK, that seemed to work, let's go..."
-    else
-        echo "OK!"
-        exit 1
-    fi
-fi
-
-echo
-
 # Add tables based on switches
 
 # Read flags
@@ -138,6 +95,49 @@ while test $# -gt 0; do
   esac
 done
 
+if [[ "$local" == "true" && $test == '' ]]
+then
+    echo ""
+    echo -n "The database doesn't seem to be open. Start it? (y/n) "
+    read reply
+    if [[ $reply == "y" ]]
+    then
+        if [[ $MAMP == '' ]]
+        then
+            open -j '/Applications/MAMP/MAMP.app'
+            echo ""
+            echo "MAMP is not running. Let me try to start it..."
+            sleep 5
+            # Make sure the database is running by checking for mysql
+            test=`ps -x | grep mysqld | grep -v grep`
+            if [[ $test = '' ]]
+            then
+                echo "That didn't work. Check it out."
+                exit 0
+            fi
+        else
+            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
+            sleep 1
+            osascript -e 'tell application "iTerm2" to activate'
+            echo "MAMP is running. Let me try to start the databases..."
+            sleep 4
+            test=`ps -x | grep mysqld | grep -v grep`
+            if [[ $test == '' ]]
+            then
+                echo "That didn't work. Check it out."
+                exit 0
+            fi
+        fi
+    echo ""
+    echo "OK, that seemed to work, let's go..."
+    else
+        echo "OK!"
+        exit 1
+    fi
+fi
+
+echo
+
 # Get the database to update. Default is local.
 if ! $local
 then
@@ -166,7 +166,7 @@ fileCounts=($biblioCount $citationCount $templeCount)
 
 # Now count the rows in the database tables unless we're forcing all of them regardless
 # or we're only doing the indicated ones
-if [ "$compareTables" = true ] || [ "$dryRun" = true ]
+if [ "$compareTables" == true ] || [ "$dryRun" == true ]
 then
 sqloutput=`
 mysql $cmdStr << EOF
@@ -202,6 +202,8 @@ EOF
         fi
     done
 fi
+
+echo ""
 
 # Push the updates to the database
 # Could use a sanity check
@@ -240,10 +242,13 @@ else
     echo "No action taken because this is a dry run."
 fi
 echo ""
-
-echo -n 'Quit MAMP? (y/n)'
-read reply
-if [[ $reply == "y" ]]
+echo $MAMP
+if [[ $MAMP != '' ]]
 then
-    osascript -e 'tell application "MAMP" to quit' &
+    echo -n 'Quit MAMP? (y/n)'
+    read reply
+    if [[ $reply == "y" ]]
+    then
+        osascript -e 'tell application "MAMP" to quit' &
+    fi
 fi
