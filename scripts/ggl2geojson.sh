@@ -16,7 +16,7 @@ export PATH="/usr/local/bin:$PATH"
 check=$(which ogr2ogr)
 if [ ${#check} = 0 ]
     then
-      echo "$(date +%Y-%m-%d\ %H:%M:%S) ogr2ogr not found." 1>&2
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: ogr2ogr not found." 1>&2
       exit 1
 fi
 
@@ -35,7 +35,7 @@ if [ "$?" == 0 ]
 then
     json=`echo "$json" | jq -r '.values[] | @csv'`
 else
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Invalid temple json received from google" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: Invalid temple json received from google" 1>&2
    exit 1
 fi
 
@@ -63,7 +63,7 @@ fi
 echo "$json" > "$dest/sheet.csv"
 if [ ! $? ]
 then
-  echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem saving the temple csv file." 1>&2
+  echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: There was a problem saving the temple csv file." 1>&2
   exit 1
 fi
 
@@ -109,6 +109,6 @@ then
 	echo $(echo $text | sed 's/, \]\}/\]\}/') >> "$temp/temples.json"
 	jq '.' "$temp/temples.json" > "$dest/maps/temples.json"
 else
-  echo "$(date +%Y-%m-%d\ %H:%M:%S) There was a problem creating the json file." 1>&2
+  echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: there was a problem creating the json file." 1>&2
   exit 1
 fi

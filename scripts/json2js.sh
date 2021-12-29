@@ -1,10 +1,15 @@
 #!/bin/bash
+
 # Convert the temple json file to a simple javascript "script" for use by leaflet
+# Set up some variables
+me=$(whoami)
+dest="$HOME/Documents/github/local/temples"
+temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Don't re-generate the new file unless the json exists & is non-zero length
-if [ -s $HOME/Documents/github/local/temples/maps/temples.json ]
-  then echo "var temples =  $(cat $HOME/Documents/github/local/temples/maps/temples.json)
-;" > "$HOME/Documents/github/local/temples/maps/temples.js"
+if [ -s $dest/maps/temples.json ]
+  then echo "var temples =  $(cat $dest/maps/temples.json)
+;" > "$dest/maps/temples.js"
   else
-    echo "$(date +%Y-%m-%d\ %H:%M:%S) The temples json file was empty or non-existent." 1>&2
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) json2js: the temples json file was empty or non-existent." 1>&2
 fi

@@ -18,6 +18,6 @@ then
 	  echo "$sitelist" > $src/sitemap.txt
 	fi
 else
-    echo "$(date +%Y-%m-%d\ %H:%M:%S) Error making csv file." 1>&2
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) sitemap_update: Error making csv file." 1>&2
 fi
 

@@ -12,7 +12,7 @@ export PATH="/usr/local/bin:$PATH"
 fsize=`stat -f%z "$src/temples.ttl"`
 if [ $fsize -lt 10000 ]
 then
-	echo "$(date +%Y-%m-%d\ %H:%M:%S) temples turtle file is too small" 1>&2
+	echo "$(date +%Y-%m-%d\ %H:%M:%S) duckttl: temples turtle file is too small" 1>&2
 	exit 0
 else
 	duck -r -y -e upload --synchronize ftps://romerese@ftp.romeresearchgroup.org/public_html/items/temples.ttl "$src/temples.ttl"; if [ $? -eq 0 ]; then echo "$(date +%Y-%m-%d\ %H:%M:%S) temples turtle FTPed to server." 1>&2; else echo "$(date +%Y-%m-%d\ %H:%M:%S) temples turtle FTP update failed!" 1>&2; fi

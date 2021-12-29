@@ -26,7 +26,7 @@ if [ "$?" == 0 ]
 then
     json=`echo "$json" | jq -r '.values[][0:4] | @csv // "two"' | tail -n +2 | sort`
 else
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Invalid citation json received from google" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2cites: Invalid citation json received from google" 1>&2
    exit 0
 fi
 
