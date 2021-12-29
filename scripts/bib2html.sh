@@ -37,8 +37,23 @@ plain=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/temp
 # HTML
 html=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t html | perl -pe 's/<(p|\/p)>//' | perl -pe 's/<span class=.*?>//g' | perl -pe 's/"/\\\"/g' | perl -pe 's/^.+?,\s/"/' | perl -pe 's/<\/span>$/"/'`
 
-# Combine two formats into final output file
-paste -d , <(printf %s "$plain") <(printf %s "$html") > $dest/bibliography.csv
+# Combine two formats into final output format
+bib=$(paste -d , <(printf %s "$plain") <(printf %s "$html"))
+
+# Make sure something has changed or else exit
+if [ -s "$dest/bibliography.csv" ]
+then
+	csvsum=`echo "$bib" | md5`
+	filesum=`md5 -q "$dest/bibliography.csv"`
+	if [ $csvsum = $filesum ]
+	then
+	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple bibliography." 1>&2
+	   exit 0
+	fi
+fi
+
+# Save to file
+echo "$bib" > $dest/bibliography.csv
 
 # Check the output to make sure all items in Zotero are appearing
 
