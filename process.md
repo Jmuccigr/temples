@@ -16,7 +16,7 @@ Handling the reference works for specific temples.
 4. `bib2html.sh` also checks for and logs any entries in the citations file `citations.csv` that are not in `temple_bib.json`.
 5. Updated `bibliography.csv`, `temple_bib.html`, and `temple_bib.json` are pushed to GitHub by `gitcommit.sh`.
 
-## General bibliography
+## Bibliography (general)
 
 Handling the reference works for temples in general.
 
