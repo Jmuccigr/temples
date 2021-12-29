@@ -242,8 +242,9 @@ else
     echo "No action taken because this is a dry run."
 fi
 echo ""
-echo $MAMP
-if [[ $MAMP != '' ]]
+
+# Ask to quit MAMP if we're running local
+if [[ $MAMP != '' ]]  &&  [[ "$local" == "true" ]]
 then
     echo -n 'Quit MAMP? (y/n)'
     read reply
