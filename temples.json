@@ -39025,29 +39025,29 @@
       "type": "Feature",
       "properties": {
         "id": "1000878",
-        "name": "Temple",
-        "dedicatee": "",
+        "name": "Temple of Hercules",
+        "dedicatee": "Hercules",
         "type": "temple",
-        "setting": "",
-        "location": "",
+        "setting": "sanctuary",
+        "location": "Località Civitella",
         "modernplace": "Campochiaro",
         "ancientplace": "",
-        "pleiadesplace": "432746",
+        "pleiadesplace": "432875",
         "country": "IT",
         "orientation": "105",
         "compass": "E",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "2nd half 2nd c BCE",
+        "startdateearly": "-149",
+        "startdatelate": "-100",
+        "century": "-2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "hero",
         "culture": "Roman",
         "style": "",
         "extant": "yes"
@@ -45213,6 +45213,87 @@
         "coordinates": [
           14.6038184,
           40.6463673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001029",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "",
+        "location": "Roccaspromonte",
+        "modernplace": "Castropignano",
+        "ancientplace": "",
+        "pleiadesplace": "432771",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Known from altar & inscription"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5586524,
+          41.602066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001030",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "località Colle S. Martino",
+        "modernplace": "Frosolone",
+        "ancientplace": "",
+        "pleiadesplace": "432851",
+        "country": "IT",
+        "orientation": "80",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437673,
+          41.585381
         ]
       }
     }

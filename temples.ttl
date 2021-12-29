@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-12-27" ;
+    dcterms:modified "2021-12-28" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8960,14 +8960,14 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <https://romeresearchgroup.org/items/1000878> a lawd:Place ;
-rdfs:label "Temple (Campochiaro)" ;
+rdfs:label "Temple of Hercules (Campochiaro)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.439294"^^xsd:double ; geo:long "14.508281"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-spatial:C <https://pleiades.stoa.org/places/432746#this> ;
+spatial:C <https://pleiades.stoa.org/places/432875#this> ;
 .
 <https://romeresearchgroup.org/items/1000879> a lawd:Place ;
 rdfs:label "Temple P (Cività di Tricarico)" ;
@@ -10468,4 +10468,23 @@ geo:location [ geo:lat "40.6463673"^^xsd:double ; geo:long "14.6038184"^^xsd:dou
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001029> a lawd:Place ;
+rdfs:label "Temple of Athena (Castropignano)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.602066"^^xsd:double ; geo:long "14.5586524"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432771#this> ;
+.
+<https://romeresearchgroup.org/items/1001030> a lawd:Place ;
+rdfs:label "Temple (Frosolone)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.585381"^^xsd:double ; geo:long "14.437673"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432851#this> ;
 .
