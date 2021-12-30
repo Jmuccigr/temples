@@ -33845,9 +33845,9 @@
         "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
-        "modernplace": "Alitlia",
+        "modernplace": "Altilia",
         "ancientplace": "Saepinum",
         "pleiadesplace": "433073",
         "country": "IT",
@@ -33886,17 +33886,17 @@
       "type": "Feature",
       "properties": {
         "id": "1000751",
-        "name": "Temple",
+        "name": "Cult building",
         "dedicatee": "",
-        "type": "temple",
-        "setting": "",
+        "type": "unknown",
+        "setting": "urban",
         "location": "",
         "modernplace": "Altilia",
         "ancientplace": "Saepinum",
         "pleiadesplace": "433073",
         "country": "IT",
-        "orientation": "144",
-        "compass": "SE",
+        "orientation": "54",
+        "compass": "NE",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -37181,8 +37181,8 @@
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "Località Nocette di Palo",
-        "modernplace": "",
+        "location": "Località Nocette di Pale",
+        "modernplace": "Pale",
         "ancientplace": "",
         "pleiadesplace": "",
         "country": "IT",
@@ -37207,8 +37207,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.777702,
+          42.982969
         ]
       }
     },
@@ -45294,6 +45294,31 @@
         "coordinates": [
           14.437673,
           41.585381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001031",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "San Pietro di Cantoni",
+        "modernplace": "Sepino",
+        "ancientplace": "",
+        "pleiadesplace": "352972521",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.601041,
+          41.431087
         ]
       }
     }

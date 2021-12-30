@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-12-28" ;
+    dcterms:modified "2021-12-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -7725,10 +7725,10 @@ spatial:C <https://pleiades.stoa.org/places/433073#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/949315840> ;
 .
 <https://romeresearchgroup.org/items/1000751> a lawd:Place ;
-rdfs:label "Temple at Saepinum" ;
+rdfs:label "Cult building at Saepinum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.433276"^^xsd:double ; geo:long "14.616969"^^xsd:double ] ;
-ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8545,8 +8545,9 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
 <https://romeresearchgroup.org/items/1000834> a lawd:Place ;
-rdfs:label "Temple with Double Cella" ;
+rdfs:label "Temple with Double Cella (Pale)" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.982969"^^xsd:double ; geo:long "12.777702"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -10487,4 +10488,14 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/432851#this> ;
+.
+<https://romeresearchgroup.org/items/1001031> a lawd:Place ;
+rdfs:label "Temple (Sepino)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.431087"^^xsd:double ; geo:long "14.601041"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/352972521#this> ;
 .

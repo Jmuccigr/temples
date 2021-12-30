@@ -27344,9 +27344,9 @@ var temples =  {
         "name": "Temple of Jupiter",
         "dedicatee": "Jupiter",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
-        "modernplace": "Alitlia",
+        "modernplace": "Altilia",
         "ancientplace": "Saepinum",
         "pleiadesplace": "433073",
         "country": "IT",
@@ -27385,17 +27385,17 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000751",
-        "name": "Temple",
+        "name": "Cult building",
         "dedicatee": "",
-        "type": "temple",
-        "setting": "",
+        "type": "unknown",
+        "setting": "urban",
         "location": "",
         "modernplace": "Altilia",
         "ancientplace": "Saepinum",
         "pleiadesplace": "433073",
         "country": "IT",
-        "orientation": "144",
-        "compass": "SE",
+        "orientation": "54",
+        "compass": "NE",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -30300,6 +30300,45 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000834",
+        "name": "Temple with Double Cella",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Località Nocette di Pale",
+        "modernplace": "Pale",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "186",
+        "compass": "S",
+        "geocertainty": "",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.777702,
+          42.982969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000835",
         "name": "Temple of Hercules",
         "dedicatee": "",
@@ -31727,29 +31766,29 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000878",
-        "name": "Temple",
-        "dedicatee": "",
+        "name": "Temple of Hercules",
+        "dedicatee": "Hercules",
         "type": "temple",
-        "setting": "",
-        "location": "",
+        "setting": "sanctuary",
+        "location": "Località Civitella",
         "modernplace": "Campochiaro",
         "ancientplace": "",
-        "pleiadesplace": "432746",
+        "pleiadesplace": "432875",
         "country": "IT",
         "orientation": "105",
         "compass": "E",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "2nd half 2nd c BCE",
+        "startdateearly": "-149",
+        "startdatelate": "-100",
+        "century": "-2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "hero",
         "culture": "Roman",
         "style": "",
         "extant": "yes"
@@ -37491,6 +37530,112 @@ var temples =  {
         "coordinates": [
           14.6038184,
           40.6463673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001029",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "",
+        "location": "Roccaspromonte",
+        "modernplace": "Castropignano",
+        "ancientplace": "",
+        "pleiadesplace": "432771",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Known from altar & inscription"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5586524,
+          41.602066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001030",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "località Colle S. Martino",
+        "modernplace": "Frosolone",
+        "ancientplace": "",
+        "pleiadesplace": "432851",
+        "country": "IT",
+        "orientation": "80",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Samnite",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437673,
+          41.585381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001031",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "San Pietro di Cantoni",
+        "modernplace": "Sepino",
+        "ancientplace": "",
+        "pleiadesplace": "352972521",
+        "country": "IT",
+        "orientation": "128",
+        "compass": "SE",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.601041,
+          41.431087
         ]
       }
     }
