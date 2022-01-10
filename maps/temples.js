@@ -10055,7 +10055,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "Poggio Talamonaccio",
-        "modernplace": "Telamone",
+        "modernplace": "Talamone",
         "ancientplace": "Telamon",
         "pleiadesplace": "403280",
         "country": "IT",
@@ -10685,7 +10685,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Montalto di Castro",
         "ancientplace": "Vulci",
         "pleiadesplace": "413393",
         "country": "IT",
@@ -36365,8 +36365,8 @@ var temples =  {
         "ancientplace": "Fescennium",
         "pleiadesplace": "413133",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "196",
+        "compass": "S",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -37629,13 +37629,189 @@ var temples =  {
         "country": "IT",
         "orientation": "128",
         "compass": "SE",
-        "geocertainty": "0"
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           14.601041,
           41.431087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001032",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "località Scarti di Sant'Antonio",
+        "modernplace": "Civitavecchia",
+        "ancientplace": "Aquae Tauri",
+        "pleiadesplace": "413026",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Architectural remains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82275,
+          42.113894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001033",
+        "name": "Temple of Via di S. Gregorio",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Via di S. Gregorio",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Architectural remains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.489814,
+          41.886785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001034",
+        "name": "Acropolis Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Poggio Colla",
+        "modernplace": "Vicchio",
+        "ancientplace": "",
+        "pleiadesplace": "34221419",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4746829,
+          43.925938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001035",
+        "name": "Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Alcúdia",
+        "ancientplace": "Pollentia",
+        "pleiadesplace": "266004",
+        "country": "ES",
+        "orientation": "148",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.122458,
+          39.84927
         ]
       }
     }

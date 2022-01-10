@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2021-12-29" ;
+    dcterms:modified "2022-01-10" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10176,6 +10176,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 rdfs:label "Tempio at Fescennium" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.208627"^^xsd:double ; geo:long "12.415593"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10498,4 +10499,41 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/352972521#this> ;
+.
+<https://romeresearchgroup.org/items/1001032> a lawd:Place ;
+rdfs:label "Temple at Aquae Tauri" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.113894"^^xsd:double ; geo:long "11.82275"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413026#this> ;
+.
+<https://romeresearchgroup.org/items/1001033> a lawd:Place ;
+rdfs:label "Temple of Via di S. Gregorio at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.886785"^^xsd:double ; geo:long "12.489814"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001034> a lawd:Place ;
+rdfs:label "Acropolis Temple (Vicchio)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.925938"^^xsd:double ; geo:long "11.4746829"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/34221419#this> ;
+.
+<https://romeresearchgroup.org/items/1001035> a lawd:Place ;
+rdfs:label "Forum Temple at Pollentia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.84927"^^xsd:double ; geo:long "3.122458"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/266004#this> ;
 .
