@@ -251,8 +251,7 @@ echo ""
 # Ask to quit MAMP if we're running local
 if [[ $MAMP != '' ]]  &&  [[ "$local" == "true" ]]
 then
-    echo -n 'Quit MAMP? (y/n)'
-    read reply
+    read -t 10 -p 'Quit MAMP? (y/n)' reply
     if [[ $reply == "y" ]]
     then
         osascript -e 'tell application "MAMP" to quit' &
