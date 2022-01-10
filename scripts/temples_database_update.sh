@@ -7,9 +7,9 @@ compareTables=true
 checkSize=true
 dryRun=false
 local=true
-bigger=false
 cmdStr=''
 me=$(whoami)
+declare -a deleteList
 declare -a dbList
 declare -a fileList
 tableList="biblio citations temples" # Shouldn't have used biblio. More work!
@@ -70,6 +70,7 @@ while test $# -gt 0; do
       shift
       ;;
     -d|--delete)
+      deleteList=("bibliography" "citations" "temples")
       delete=true
       shift
       ;;
@@ -183,6 +184,7 @@ EOF
     # Compare the two sets of row counts
     for i in {0..2}
     do
+        bigger=false
         if [ ${fileCounts[$i]} != ${sqlCount[$i]} ]
         then
             echo ${tableList[$i]}" table needs to be updated"
@@ -190,11 +192,14 @@ EOF
             if [[ $bigger == "true" && !$delete=="true" ]]
             then
                 echo "    NB More rows on server than locally ("${sqlCount[$i]}" vs "${fileCounts[$i]}")."
-                echo "    Do you want to delete the server rows? (y/n) "
-                read reply
-                if [[ $reply == "y" ]]
+                if [ "$dryRun" != true ]
                 then
-                    delete=true
+                    echo "    Do you want to delete the server rows? (y/n) "
+                    read reply
+                    if [[ $reply == "y" ]]
+                    then
+                        deleteList+=(${tableList[$i]})
+                    fi
                 fi
             fi
             dbList+=(${tableList[$i]})
@@ -222,7 +227,7 @@ then
         db=${unique[$i]}
         filename=${fileList[$i]}
         echo -n "Trying to update "$db" table..."
-        if $delete
+        if [[ $deleteList =~ (^|[[:space:]])${db}($|[[:space:]]) ]]
         then
             echo -n "deleting the entries in table "$db"..."
 mysql $cmdStr << EOF
