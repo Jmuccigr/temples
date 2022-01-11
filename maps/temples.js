@@ -2135,7 +2135,7 @@ var temples =  {
         "meetings": "",
         "note": "",
         "vici": "16415",
-        "pleiades": "",
+        "pleiades": "758001563",
         "dare": "",
         "arachne": "",
         "livius": "place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-jupiter/",
@@ -2647,7 +2647,7 @@ var temples =  {
         "meetings": "",
         "note": "",
         "vici": "",
-        "pleiades": "",
+        "pleiades": "823121346",
         "dare": "",
         "arachne": "5747",
         "livius": "",
@@ -4615,7 +4615,17 @@ var temples =  {
         "deitytype": "god",
         "culture": "Roman",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "387686949",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "it=Tempio_di_Giove_(Cosa)",
+        "wikidata": "Q3983250"
       },
       "geometry": {
         "type": "Point",
@@ -24097,14 +24107,14 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
         "extant": "",
         "source": "topostext",
         "meetings": "",
         "note": "",
         "vici": "",
-        "pleiades": "",
+        "pleiades": "468194251",
         "dare": "46858",
         "arachne": "",
         "livius": "",
@@ -37812,6 +37822,50 @@ var temples =  {
         "coordinates": [
           3.122458,
           39.84927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001037",
+        "name": "Temple of Enodia",
+        "dedicatee": "Enodia",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Velestino",
+        "ancientplace": "Pherai",
+        "pleiadesplace": "541044",
+        "country": "GR",
+        "orientation": "116",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "Pleiades",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "786277755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.74234,
+          39.38925
         ]
       }
     }

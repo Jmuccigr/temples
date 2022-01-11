@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-01-10" ;
+    dcterms:modified "2022-01-11" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -628,6 +628,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/678179#this> ;
 skos:exactMatch <http://vici.org/vici/16415> ;
+skos:exactMatch <http://pleiades.stoa.org/places/758001563> ;
 skos:exactMatch <http://www.livius.org/articles/place/place/heliopolis-baalbek/baalbek-photos/baalbek-temple-of-jupiter//> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Jupiter_(Roman_Heliopolis)> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q21079381> ;
@@ -862,6 +863,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/823121346> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5747> ;
 skos:exactMatch <http://www.trismegistos.org/place/43987> ;
 skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_di_Marte_Ultore> ;
@@ -1487,6 +1489,9 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413107#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/387686949> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_di_Giove_(Cosa)> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983250> ;
 .
 <https://romeresearchgroup.org/items/1000138> a lawd:Place ;
 rdfs:label "Capitolium at Cumae" ;
@@ -6577,6 +6582,7 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/468194251> ;
 skos:exactMatch <http://dare.ht.lu.se/places/46858> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Ares> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q2405583> ;
@@ -10536,4 +10542,29 @@ gn:countryCode "ES" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/266004#this> ;
+.
+<https://romeresearchgroup.org/items/1001036> a lawd:Place ;
+rdfs:label "Temple of Claudius at Camulodunum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "51.890594"^^xsd:double ; geo:long "0.903104"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79393#this> ;
+skos:exactMatch <http://vici.org/vici/4382> ;
+skos:exactMatch <http://pleiades.stoa.org/places/86419549> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Claudius,_Colchester> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q764886> ;
+.
+<https://romeresearchgroup.org/items/1001037> a lawd:Place ;
+rdfs:label "Temple of Enodia at Pherai" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.38925"^^xsd:double ; geo:long "22.74234"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/541044#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/786277755> ;
 .
