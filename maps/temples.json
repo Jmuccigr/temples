@@ -37868,6 +37868,84 @@
           39.38925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001038",
+        "name": "Small Temple I",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Alcúdia",
+        "ancientplace": "Pollentia",
+        "pleiadesplace": "266004",
+        "country": "ES",
+        "orientation": "148",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1225575,
+          39.849398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001039",
+        "name": "Small Temple II",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Alcúdia",
+        "ancientplace": "Pollentia",
+        "pleiadesplace": "266004",
+        "country": "ES",
+        "orientation": "238",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1226892,
+          39.849272
+        ]
+      }
     }
   ]
 }
