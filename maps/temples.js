@@ -29599,6 +29599,45 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000814",
+        "name": "Temple of Aesculapius",
+        "dedicatee": "Aesculapius",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Arce",
+        "ancientplace": "Fregellae",
+        "pleiadesplace": "432846",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.533406,
+          41.536675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000815",
         "name": "Temple A",
         "dedicatee": "",
@@ -30061,8 +30100,8 @@ var temples =  {
         "ancientplace": "Ardea",
         "pleiadesplace": "422843",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "209",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -37944,6 +37983,176 @@ var temples =  {
         "coordinates": [
           3.1226892,
           39.849272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001040",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Güllübahçe",
+        "ancientplace": "Priene",
+        "pleiadesplace": "599905",
+        "country": "TR",
+        "orientation": "89",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 340 BCE",
+        "startdateearly": "-345",
+        "startdatelate": "-335",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "298577312",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Athena_Polias_(Priene)",
+        "wikidata": "Q105038853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.296499,
+          37.659302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001041",
+        "name": "Temple of Artemis Limnatis",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Ithomi",
+        "ancientplace": "Ithome",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "117",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "3rd c. BCE",
+        "startdateearly": "-299",
+        "startdatelate": "-200",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.930181,
+          37.17875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001042",
+        "name": "Temple of Demeter",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Ithomi",
+        "ancientplace": "Ithome",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "114",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.927586,
+          37.180349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001043",
+        "name": "Temple of Zeus Ithomatas",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "mountain",
+        "location": "",
+        "modernplace": "Ithomi",
+        "ancientplace": "Ithome",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "24208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9240896,
+          37.185854
         ]
       }
     }
