@@ -10633,3 +10633,12 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/570479#this> ;
 skos:exactMatch <http://vici.org/vici/24208> ;
 .
+<https://romeresearchgroup.org/items/1001044> a lawd:Place ;
+rdfs:label "Temple of Fortuna Melior at Interamna Nahars" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.560601"^^xsd:double ; geo:long "12.643427"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413178#this> ;
+.

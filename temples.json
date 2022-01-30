@@ -45848,6 +45848,48 @@
           37.185854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001044",
+        "name": "Temple of Fortuna Melior",
+        "dedicatee": "Fortuna",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Terni",
+        "ancientplace": "Interamna Nahars",
+        "pleiadesplace": "413178",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Known from  CIL 11, 4216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.643427,
+          42.560601
+        ]
+      }
     }
   ]
 }
