@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-01-12" ;
+    dcterms:modified "2022-01-30" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8362,6 +8362,7 @@ spatial:C <https://pleiades.stoa.org/places/413125#this> ;
 <https://romeresearchgroup.org/items/1000814> a lawd:Place ;
 rdfs:label "Temple of Aesculapius at Fregellae" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.536675"^^xsd:double ; geo:long "13.533406"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8496,6 +8497,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 rdfs:label "Temple of Colle della Noce at Ardea" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.608159"^^xsd:double ; geo:long "12.548294"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10587,4 +10589,47 @@ gn:countryCode "ES" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/266004#this> ;
+.
+<https://romeresearchgroup.org/items/1001040> a lawd:Place ;
+rdfs:label "Temple of Athena at Priene" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.659302"^^xsd:double ; geo:long "27.296499"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599905#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/298577312> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Athena_Polias_(Priene)> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q105038853> ;
+.
+<https://romeresearchgroup.org/items/1001041> a lawd:Place ;
+rdfs:label "Temple of Artemis Limnatis at Ithome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.17875"^^xsd:double ; geo:long "21.930181"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570479#this> ;
+.
+<https://romeresearchgroup.org/items/1001042> a lawd:Place ;
+rdfs:label "Temple of Demeter at Ithome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.180349"^^xsd:double ; geo:long "21.927586"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570479#this> ;
+.
+<https://romeresearchgroup.org/items/1001043> a lawd:Place ;
+rdfs:label "Temple of Zeus Ithomatas at Ithome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.185854"^^xsd:double ; geo:long "21.9240896"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570479#this> ;
+skos:exactMatch <http://vici.org/vici/24208> ;
 .
