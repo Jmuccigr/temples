@@ -17,7 +17,7 @@ $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username,
 // $conn->exec("SET group_concat_max_len = 2048");
 
 # Build SQL SELECT statement and return the geometry as a GeoJSON element
-$queryStart = 'select temples.*, IFNULL(cite,"") as cite from temples left join (select templeID, GROUP_CONCAT(CONCAT(UCASE(LEFT(loci, 1)), SUBSTRING(loci, 2), IF(loci = "", "", ", "), biblio.citation_html) SEPARATOR "</li>\n<li>") AS cite from citations left join biblio on citations.refKey = biblio.refKey group by templeID) cites on id = templeID WHERE ';
+$queryStart = 'select temples.*, IFNULL(cite,"") as cite from temples left join (select templeID, GROUP_CONCAT(CONCAT(biblio.citation_html, IF(loci = "", "", ", "), loci, "." ) SEPARATOR "</li>\n<li>") AS cite from citations left join biblio on citations.refKey = biblio.refKey group by templeID) cites on id = templeID WHERE ';
 
 # Check for cookies
 # First determine whether request is for one item (info) or for a set (mapping)

@@ -51,7 +51,7 @@ csv=`grep 'div id="ref-' "$dest/temple_bib.html" | perl -pe 's/^.*ref\-(.+?)\".*
 plain=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t plain | perl -pe 's/^([^\s]+? )/"\1"/' | perl -pe 's/,\s/",/' | perl -pe 's/(.)\.(\”)*$/\1\2"/'`
 
 # HTML
-html=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t html | perl -pe 's/<(p|\/p)>//' | perl -pe 's/<span class=.*?>//g' | perl -pe 's/"/\\\"/g' | perl -pe 's/^.+?,\s/"/' | perl -pe 's/<\/span>$/"/'`
+html=`echo "$csv" | pandoc --citeproc --wrap=preserve --bibliography=$dest/temple_bib.json --csl=$dest/chicago-author-date.csl -t html | perl -pe 's/<(p|\/p)>//' | perl -pe 's/<span class=.*?>//g' | perl -pe 's/"/\\\"/g' | perl -pe 's/^.+?,\s/"/' | perl -pe 's/<\/span>$/"/' | perl -pe 's/\."$/"/g'`
 
 # Combine two formats into final output format and save to file
 paste -d , <(printf %s "$plain") <(printf %s "$html") > "$dest/bibliography.csv"
