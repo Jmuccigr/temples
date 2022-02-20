@@ -4705,7 +4705,8 @@
         "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "Roman"
+        "culture": "Roman",
+        "style": "prostyle, hexastyle, periptero sine postico, 3 cellae"
       },
       "geometry": {
         "type": "Point",
@@ -14697,7 +14698,7 @@
       "properties": {
         "id": "1000390",
         "name": "Temple",
-        "dedicatee": "",
+        "dedicatee": "Apollo Grannus",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -14716,10 +14717,10 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
-        "culture": "",
+        "deitytype": "god",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -22705,7 +22706,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000591",
-        "name": "Temple",
+        "name": "Temple B",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
@@ -22714,14 +22715,14 @@
         "ancientplace": "Aquae Granni",
         "pleiadesplace": "108749",
         "country": "DE",
-        "orientation": "",
-        "compass": "",
+        "orientation": "220",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "late 2nd - early 3rd c. CE",
+        "startdateearly": "175",
+        "startdatelate": "225",
+        "century": "2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -22739,8 +22740,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.085007,
-          50.775005
+          6.085273,
+          50.775129
         ]
       }
     },
@@ -23479,7 +23480,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000609",
-        "name": "Sanctuary of Isis and Magna Mater",
+        "name": "Temple of Isis and Magna Mater",
         "dedicatee": "Isis, Magna Mater",
         "type": "temple",
         "setting": "",
@@ -23492,10 +23493,10 @@
         "compass": "",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "-1",
-        "startdatelate": "",
-        "century": "",
+        "date": "Vespasianic",
+        "startdateearly": "69",
+        "startdatelate": "79",
+        "century": "1",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -23508,11 +23509,11 @@
         "source": "",
         "meetings": "",
         "note": "",
-        "vici": "23672",
+        "vici": "7962",
         "pleiades": "",
         "dare": "",
         "arachne": "",
-        "livius": "pictures/germany/mainz-mogontiacum/mainz-temple-of-isis/"
+        "livius": "place/mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis/"
       },
       "geometry": {
         "type": "Point",
@@ -38195,6 +38196,159 @@
         "coordinates": [
           12.643427,
           42.560601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001045",
+        "name": "Temple of Apollo-Grannus",
+        "dedicatee": "Apollo Grannus",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Neuenstadt am Kocher",
+        "ancientplace": "",
+        "pleiadesplace": "118868",
+        "country": "DE",
+        "orientation": "174",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "vici.org",
+        "meetings": "",
+        "note": "",
+        "vici": "54258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.323432,
+          49.24007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001046",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Aachen",
+        "ancientplace": "Aquae Granni",
+        "pleiadesplace": "108749",
+        "country": "DE",
+        "orientation": "220",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 2nd - early 3rd c. CE",
+        "startdateearly": "175",
+        "startdatelate": "225",
+        "century": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.085157,
+          50.775272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001047",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Oberlauchringen",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "DE",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Gallo-Roman",
+        "style": "Umgangstempel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.348225,
+          47.610055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001048",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Perugia",
+        "ancientplace": "Perusia",
+        "pleiadesplace": "413248",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "5th c. BCE",
+        "startdateearly": "-499",
+        "startdatelate": "",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "dated from t-c decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3887174,
+          43.1124946
         ]
       }
     }

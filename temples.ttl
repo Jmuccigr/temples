@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-01-30" ;
+    dcterms:modified "2022-02-20" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6245,9 +6245,10 @@ spatial:C <https://pleiades.stoa.org/places/108896#this> ;
 skos:exactMatch <http://vici.org/vici/17413> ;
 .
 <https://romeresearchgroup.org/items/1000591> a lawd:Place ;
-rdfs:label "Temple at Aquae Granni" ;
+rdfs:label "Temple B at Aquae Granni" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "50.775005"^^xsd:double ; geo:long "6.085007"^^xsd:double ] ;
+geo:location [ geo:lat "50.775129"^^xsd:double ; geo:long "6.085273"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "DE" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -6419,15 +6420,15 @@ spatial:C <https://pleiades.stoa.org/places/108801#this> ;
 skos:exactMatch <http://vici.org/vici/23244> ;
 .
 <https://romeresearchgroup.org/items/1000609> a lawd:Place ;
-rdfs:label "Sanctuary of Isis and Magna Mater at Mogontiacum" ;
+rdfs:label "Temple of Isis and Magna Mater at Mogontiacum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "50.001255"^^xsd:double ; geo:long "8.268003"^^xsd:double ] ;
 gn:countryCode "DE" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/109169#this> ;
-skos:exactMatch <http://vici.org/vici/23672> ;
-skos:exactMatch <http://www.livius.org/articles/place/pictures/germany/mainz-mogontiacum/mainz-temple-of-isis//> ;
+skos:exactMatch <http://vici.org/vici/7962> ;
+skos:exactMatch <http://www.livius.org/articles/place/place/mogontiacum-mainz/mogontiacum-mainz-photos/mainz-temple-of-isis//> ;
 .
 <https://romeresearchgroup.org/items/1000610> a lawd:Place ;
 rdfs:label "Temple ruins at Bonna" ;
@@ -10641,4 +10642,42 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413178#this> ;
+.
+<https://romeresearchgroup.org/items/1001045> a lawd:Place ;
+rdfs:label "Temple of Apollo-Grannus (Neuenstadt am Kocher)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "49.24007"^^xsd:double ; geo:long "9.323432"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "DE" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/118868#this> ;
+skos:exactMatch <http://vici.org/vici/54258> ;
+.
+<https://romeresearchgroup.org/items/1001046> a lawd:Place ;
+rdfs:label "Temple A at Aquae Granni" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "50.775272"^^xsd:double ; geo:long "6.085157"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "DE" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108749#this> ;
+.
+<https://romeresearchgroup.org/items/1001047> a lawd:Place ;
+rdfs:label "Temple (Oberlauchringen)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "47.610055"^^xsd:double ; geo:long "8.348225"^^xsd:double ] ;
+gn:countryCode "DE" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001048> a lawd:Place ;
+rdfs:label "Temple at Perusia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.1124946"^^xsd:double ; geo:long "12.3887174"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413248#this> ;
 .
