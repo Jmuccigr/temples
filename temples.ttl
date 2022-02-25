@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-02-24" ;
+    dcterms:modified "2022-02-25" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10720,4 +10720,110 @@ skos:exactMatch <http://pleiades.stoa.org/places/462127127> ;
 skos:exactMatch <http://dare.ht.lu.se/places/46638> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q42114709> ;
 skos:exactMatch <https://topostext.org/place/384238SDap> ;
+.
+<https://romeresearchgroup.org/items/1001052> a lawd:Place ;
+rdfs:label "Capitolium at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.483455"^^xsd:double ; geo:long "6.4662"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36163> ;
+.
+<https://romeresearchgroup.org/items/1001053> a lawd:Place ;
+rdfs:label "Forum Temple at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.484682"^^xsd:double ; geo:long "6.468354"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36187> ;
+.
+<https://romeresearchgroup.org/items/1001054> a lawd:Place ;
+rdfs:label "Temple at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.4827094"^^xsd:double ; geo:long "6.4672"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36173> ;
+.
+<https://romeresearchgroup.org/items/1001055> a lawd:Place ;
+rdfs:label "Temple of Mercury at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36158> ;
+.
+<https://romeresearchgroup.org/items/1001056> a lawd:Place ;
+rdfs:label "Temple of Ceres at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.484206"^^xsd:double ; geo:long "6.469358"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36169> ;
+.
+<https://romeresearchgroup.org/items/1001057> a lawd:Place ;
+rdfs:label "Temple at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.48545428"^^xsd:double ; geo:long "6.46675"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36175> ;
+.
+<https://romeresearchgroup.org/items/1001058> a lawd:Place ;
+rdfs:label "Temple of the Genius Coloniae at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.48673787"^^xsd:double ; geo:long "6.465848634"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36147> ;
+.
+<https://romeresearchgroup.org/items/1001059> a lawd:Place ;
+rdfs:label "Northeast Temple at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.486656"^^xsd:double ; geo:long "6.470231"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+skos:exactMatch <http://vici.org/vici/36161> ;
+.
+<https://romeresearchgroup.org/items/1001060> a lawd:Place ;
+rdfs:label "Temple of Dea Patria and Genius Coloniae at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.479252"^^xsd:double ; geo:long "6.467609"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+.
+<https://romeresearchgroup.org/items/1001061> a lawd:Place ;
+rdfs:label "Temple of Serapis at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.479216"^^xsd:double ; geo:long "6.467782"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+.
+<https://romeresearchgroup.org/items/1001062> a lawd:Place ;
+rdfs:label "Temple of Asclepius at Thamugadi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.4792"^^xsd:double ; geo:long "6.467475"^^xsd:double ] ;
+gn:countryCode "DZ" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/334636#this> ;
 .
