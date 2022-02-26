@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-02-25" ;
+    dcterms:modified "2022-02-26" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3133,6 +3133,7 @@ skos:exactMatch <http://dare.ht.lu.se/places/22559> ;
 rdfs:label "Temple at Mevania" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.934608"^^xsd:double ; geo:long "12.609744"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10826,4 +10827,24 @@ gn:countryCode "DZ" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/334636#this> ;
+.
+<https://romeresearchgroup.org/items/1001063> a lawd:Place ;
+rdfs:label "Temple B at Naxos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.8192386"^^xsd:double ; geo:long "15.2694484"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462386#this> ;
+.
+<https://romeresearchgroup.org/items/1001064> a lawd:Place ;
+rdfs:label "Temple A at Naxos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.81928449"^^xsd:double ; geo:long "15.26942982"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462386#this> ;
 .
