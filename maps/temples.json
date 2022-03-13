@@ -38948,6 +38948,43 @@
           37.81928449
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001065",
+        "name": "Tempietto di San Faustino",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "suburban",
+        "location": "",
+        "modernplace": "Perugia",
+        "ancientplace": "Perusia",
+        "pleiadesplace": "",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Italic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.367578,
+          43.090799
+        ]
+      }
     }
   ]
 }
