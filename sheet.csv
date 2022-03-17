@@ -1055,3 +1055,6 @@
 "1001063","Temple B","","temple","urban","","Giardini Naxos","Naxos","462386","IT","37.8192386","15.2694484","64","NE","0","","late 6th c. BCE","-520","-500","-6","","","1001064","","","","Greek","Ionic","yes","","","38.40 m x 14.25 m"
 "1001064","Temple A","","temple","urban","","Giardini Naxos","Naxos","462386","IT","37.81928449","15.26942982","46","NE","0","","early 6th c. BCE","-600","-575","-7","","1001063","","","","","Greek","","yes"
 "1001065","Tempietto di San Faustino","","temple","suburban","","Perugia","Perusia","","IT","43.090799","12.367578","","","1","","","","","","","","","","","","Italic"
+"1001066","Temple of Ceres","","temple","urban","","Catania","Catina","462270","IT","37.502959","15.088142","","","1","","","","","","","","","F","","god","","","no","","","Noted in Cicero Ver. 2.5.187"
+"1001067","Temple of Artemis","","temple","","","Makrisia","Skillous","570674","GR","37.609552","21.602752","","","0","","early 4th c. BCE","-396","-371","-4","","","","F","","god","Greek","","no","","","Described by Xenophon Ana. 5.3"
+"1001068","Temple of Athena Skillountia","","temple","","","Skillountia","Skillous","570674","GR","37.604619","21.675708","81","E","1","","","","","","","","","F","","god","Greek","Doric hexastyle","yes","","","","32422"
