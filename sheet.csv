@@ -921,7 +921,7 @@
 "1000929","Temple","","temple","","Bagni di Stigliano","Canale di Monterano","","","IT","","","","","","","","","","","","","","","","","Roman","","yes"
 "1000930","Forum Temple","","temple","","","Altino","Altinum","393374","IT","45.550029","12.391763","117","SE","0","","","","","","","","","","","","Roman","","yes","","","Info from survey"
 "1000931","Temple of Aphrodite","","temple","","","Ancona","Ancona","413014","IT","43.6253452","13.5102418","134","SE","0","","","","","","","","","F","","god","Greek","Doric hexastyle","yes"
-"1000932","South Temple","","temple","","","Kalapodi","","","GR","38.636619","22.895672","69","E","0","","","","","","","","","","","","Greek","","yes","","","archaic phase","","540665"
+"1000932","South Temple","","temple","","","Kalapodi","Abai","","GR","38.636619","22.895672","69","E","0","","","","","","","","","","","god","Greek","","yes","","","archaic phase","","540665"
 "1000933","Forum Temple","","temple","","","Conza della Campania","Compsa","442550","IT","40.87016","15.330445","","","0","","","","","","","","","","","","Roman","","yes"
 "1000934","Temple of Apollo","Apollo","temple","","","","","541139","GR","38.559732","21.668077","191","S","0","","625 BCE","-625","","-7","","","","M","","god","Greek","","yes","","","","","728329645","","","","es=Templo_de_Apolo_(Termo)"
 "1000935","Temple of Artemis ","Artemis","temple","","Saint Theodore Monastery","Corfu","Corcyra","530834","GR","39.60712","19.91808","94","E","0","","580 BCE","","","","","","","","","godess","Greek","Doric Peripteral","yes","","","","","630250253","","270097","","Temple_of_Artemis,_Corfu","Q2654754"
@@ -1058,3 +1058,4 @@
 "1001066","Temple of Ceres","","temple","urban","","Catania","Catina","462270","IT","37.502959","15.088142","","","1","","","","","","","","","F","","god","","","no","","","Noted in Cicero Ver. 2.5.187"
 "1001067","Temple of Artemis","","temple","","","Makrisia","Skillous","570674","GR","37.609552","21.602752","","","0","","early 4th c. BCE","-396","-371","-4","","","","F","","god","Greek","","no","","","Described by Xenophon Ana. 5.3"
 "1001068","Temple of Athena Skillountia","","temple","","","Skillountia","Skillous","570674","GR","37.604619","21.675708","81","E","1","","","","","","","","","F","","god","Greek","Doric hexastyle","yes","","","","32422"
+"1001069","North Temple","","temple","","","Kalapodi","Abae","","GR","38.636754","22.895563","69","E","0","","","","","","","","","","","god","Greek","","yes"
