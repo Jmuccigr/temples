@@ -33661,7 +33661,7 @@ var temples =  {
         "setting": "",
         "location": "",
         "modernplace": "Kalapodi",
-        "ancientplace": "",
+        "ancientplace": "Abai",
         "pleiadesplace": "",
         "country": "GR",
         "orientation": "69",
@@ -33677,7 +33677,7 @@ var temples =  {
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "Greek",
         "style": "",
         "extant": "yes",
@@ -38983,6 +38983,172 @@ var temples =  {
         "coordinates": [
           12.367578,
           43.090799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001066",
+        "name": "Temple of Ceres",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Catania",
+        "ancientplace": "Catina",
+        "pleiadesplace": "462270",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Noted in Cicero Ver. 2.5.187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.088142,
+          37.502959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001067",
+        "name": "Temple of Artemis",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Makrisia",
+        "ancientplace": "Skillous",
+        "pleiadesplace": "570674",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 4th c. BCE",
+        "startdateearly": "-396",
+        "startdatelate": "-371",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Described by Xenophon Ana. 5.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.602752,
+          37.609552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001068",
+        "name": "Temple of Athena Skillountia",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Skillountia",
+        "ancientplace": "Skillous",
+        "pleiadesplace": "570674",
+        "country": "GR",
+        "orientation": "81",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "32422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.675708,
+          37.604619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001069",
+        "name": "North Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kalapodi",
+        "ancientplace": "Abai",
+        "pleiadesplace": "",
+        "country": "GR",
+        "orientation": "69",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.895563,
+          38.636754
         ]
       }
     }

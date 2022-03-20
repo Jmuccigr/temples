@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-02-27" ;
+    dcterms:modified "2022-03-20" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9505,7 +9505,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/413014#this> ;
 .
 <https://romeresearchgroup.org/items/1000932> a lawd:Place ;
-rdfs:label "South Temple (Kalapodi)" ;
+rdfs:label "South Temple at Abai" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.636619"^^xsd:double ; geo:long "22.895672"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -10853,6 +10853,44 @@ rdfs:label "Tempietto di San Faustino at Perusia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "43.090799"^^xsd:double ; geo:long "12.367578"^^xsd:double ] ;
 gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001066> a lawd:Place ;
+rdfs:label "Temple of Ceres at Catina" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.502959"^^xsd:double ; geo:long "15.088142"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462270#this> ;
+.
+<https://romeresearchgroup.org/items/1001067> a lawd:Place ;
+rdfs:label "Temple of Artemis at Skillous" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.609552"^^xsd:double ; geo:long "21.602752"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570674#this> ;
+.
+<https://romeresearchgroup.org/items/1001068> a lawd:Place ;
+rdfs:label "Temple of Athena Skillountia at Skillous" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.604619"^^xsd:double ; geo:long "21.675708"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570674#this> ;
+skos:exactMatch <http://vici.org/vici/32422> ;
+.
+<https://romeresearchgroup.org/items/1001069> a lawd:Place ;
+rdfs:label "North Temple at Abai" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.636754"^^xsd:double ; geo:long "22.895563"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
