@@ -41,7 +41,7 @@ while test $# -gt 0; do
       echo "-t, --temples    force updating of the temples table"
       echo "-a, --all        force updating of all three tables"
       echo "-d, --delete     remove all entries from the table before updating (SQL 'truncate')"
-      echo "-y, --dryrun     don't change any files"
+      echo "-y, --dryrun     don't change any files (overrides forced updating switches)"
       echo "-i, --ignore     ignore csv file size and just do the update"
       echo "-m, --manual     only update tables indicated in the command"
       echo ""
@@ -100,8 +100,8 @@ if [[ "$local" == "true" && $test == '' ]]
 then
     echo ""
     echo -n "The database doesn't seem to be open. Start it? (y/n) "
-    read reply
-    if [[ $reply == "y" ]]
+    read startReply
+    if [[ $startReply == "y" ]]
     then
         if [[ $MAMP == '' ]]
         then
@@ -195,8 +195,8 @@ EOF
                 if [ "$dryRun" != true ]
                 then
                     echo "    Do you want to delete the server rows? (y/n) "
-                    read reply
-                    if [[ $reply == "y" ]]
+                    read deleteReply
+                    if [[ $deleteReply == "y" ]]
                     then
                         deleteList+=(${tableList[$i]})
                     fi
@@ -213,14 +213,14 @@ echo ""
 # Push the updates to the database
 # Could use a sanity check
 
-ct=${#dbList[@]}
+unique=($(printf "%s\n" "${dbList[@]}" | sort -u ))
+fileList=($(printf "%s\n" "${fileList[@]}" | sort -u ))
+ct=${#unique[@]}
 if (( $ct == 0 ))
 then
     echo "Nothing to update!"
 elif ! $dryRun
 then
-    unique=($(printf "%s\n" "${dbList[@]}" | sort -u ))
-    fileList=($(printf "%s\n" "${fileList[@]}" | sort -u ))
     ct=$((ct-1))
     for i in $( seq 0 $ct )
     do
@@ -251,8 +251,8 @@ echo ""
 # Ask to quit MAMP if we're running local
 if [[ $MAMP != '' ]]  &&  [[ "$local" == "true" ]]
 then
-    read -t 10 -p 'Quit MAMP? (y/n)' reply
-    if [[ $reply == "y" ]]
+    read -t 10 -p 'Quit MAMP? (y/n)' quitReply
+    if [[ $quitReply == "y" ]]
     then
         osascript -e 'tell application "MAMP" to quit' &
     fi
