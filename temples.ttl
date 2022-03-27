@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-03-20" ;
+    dcterms:modified "2022-03-22" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2953,7 +2953,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/283133307> ;
 skos:exactMatch <https://arachne.dainst.org/entity/2108310> ;
 .
 <https://romeresearchgroup.org/items/1000274> a lawd:Place ;
-rdfs:label "Sanctuary of Demeter Malophorus at Selinus" ;
+rdfs:label "Temple of Demeter at Selinus" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.586776"^^xsd:double ; geo:long "12.816947"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
@@ -2962,6 +2962,8 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/462489#this> ;
 skos:exactMatch <http://vici.org/vici/17980> ;
+skos:exactMatch <http://pleiades.stoa.org/places/502577471> ;
+skos:exactMatch <https://topostext.org/place/376128SDeM> ;
 .
 <https://romeresearchgroup.org/items/1000275> a lawd:Place ;
 rdfs:label "Greek temple at Tarentum" ;
@@ -10893,4 +10895,24 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001070> a lawd:Place ;
+rdfs:label "Temple B at Himera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.971001"^^xsd:double ; geo:long "13.82313"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462244#this> ;
+.
+<https://romeresearchgroup.org/items/1001071> a lawd:Place ;
+rdfs:label "Temple A at Himera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.971019"^^xsd:double ; geo:long "13.823192"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462244#this> ;
 .

@@ -12833,7 +12833,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000274",
-        "name": "Sanctuary of Demeter Malophorus",
+        "name": "Temple of Demeter",
         "dedicatee": "Demeter",
         "type": "temple",
         "setting": "",
@@ -12853,7 +12853,7 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Greek",
@@ -12862,7 +12862,19 @@
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "17980"
+        "vici": "17980",
+        "pleiades": "502577471",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "376128SDeM"
       },
       "geometry": {
         "type": "Point",
@@ -46928,6 +46940,84 @@
         "coordinates": [
           22.895563,
           38.636754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001070",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Imera",
+        "ancientplace": "Himera",
+        "pleiadesplace": "462244",
+        "country": "IT",
+        "orientation": "68",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-625",
+        "startdatelate": "-600",
+        "century": "-7",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1001069",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.82313,
+          37.971001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001071",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Imera",
+        "ancientplace": "Himera",
+        "pleiadesplace": "462244",
+        "country": "IT",
+        "orientation": "68",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "6th c.",
+        "startdateearly": "-599",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "1001070",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.823192,
+          37.971019
         ]
       }
     }
