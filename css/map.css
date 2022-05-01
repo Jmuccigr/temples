@@ -73,6 +73,7 @@ h2 {
 
 .leaflet-container {
   font: inherit;
+  font-size: smaller;
 }
 
 #bottom {
