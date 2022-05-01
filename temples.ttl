@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-03-22" ;
+    dcterms:modified "2022-05-01" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3890,14 +3890,16 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/167719#this> ;
 skos:exactMatch <http://vici.org/vici/10170> ;
+skos:exactMatch <http://pleiades.stoa.org/places/306618381> ;
 skos:exactMatch <http://dare.ht.lu.se/places/202070> ;
-skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_di_Augusto_e_Livia> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Livia> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3517516> ;
 .
 <https://romeresearchgroup.org/items/1000360> a lawd:Place ;
-rdfs:label "Temple of the Cybele at Colonia Vienna" ;
+rdfs:label "Temple of Cybele at Colonia Vienna" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "45.524319"^^xsd:double ; geo:long "4.875925"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "FR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9526,15 +9528,16 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/442550#this> ;
 .
 <https://romeresearchgroup.org/items/1000934> a lawd:Place ;
-rdfs:label "Temple of Apollo" ;
+rdfs:label "Temple of Apollo Thermios at Thermon" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "38.559732"^^xsd:double ; geo:long "21.668077"^^xsd:double ] ;
-ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+geo:location [ geo:lat "38.55984418"^^xsd:double ; geo:long "21.6680933"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/541139#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/728329645> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5684> ;
 skos:exactMatch <https://es.wikipedia.org/wiki/Templo_de_Apolo_(Termo)> ;
 .
 <https://romeresearchgroup.org/items/1000935> a lawd:Place ;
@@ -9649,7 +9652,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 skos:exactMatch <http://pleiades.stoa.org/places/168254096> ;
-skos:exactMatch <https://arachne.dainst.org/entity/2100006> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5584> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Parthenon> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q10288> ;
 skos:exactMatch <https://topostext.org/place/380237SAth> ;
@@ -10915,4 +10918,43 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/462244#this> ;
+.
+<https://romeresearchgroup.org/items/1001072> a lawd:Place ;
+rdfs:label "Temple of Demeter at Heloros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.841459"^^xsd:double ; geo:long "15.106068"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462234#this> ;
+.
+<https://romeresearchgroup.org/items/1001073> a lawd:Place ;
+rdfs:label "Temple of Apollo Lyseios at Thermon" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.559832"^^xsd:double ; geo:long "21.668331"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/541139#this> ;
+.
+<https://romeresearchgroup.org/items/1001074> a lawd:Place ;
+rdfs:label "Temple of Artemis at Thermon" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.560091"^^xsd:double ; geo:long "21.668014"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/541139#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/10740> ;
+.
+<https://romeresearchgroup.org/items/1001075> a lawd:Place ;
+rdfs:label "Temple of Zeus Casius at Pelusium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "31.04166559"^^xsd:double ; geo:long "32.54285754"^^xsd:double ] ;
+gn:countryCode "EG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/727192#this> ;
 .
