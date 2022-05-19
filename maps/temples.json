@@ -39404,6 +39404,84 @@
           31.04166559
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001076",
+        "name": "Temple of Demeter Chthonia",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "",
+        "location": "Pron Hill",
+        "modernplace": "Ermioni ",
+        "ancientplace": "Hermione",
+        "pleiadesplace": "570292",
+        "country": "GR",
+        "orientation": "84",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2445427,
+          37.3849341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001077",
+        "name": "Temple of Poseidon ",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "suburban sanctuary",
+        "location": "Bisti",
+        "modernplace": "Ermioni ",
+        "ancientplace": "Hermione",
+        "pleiadesplace": "570292",
+        "country": "GR",
+        "orientation": "78",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2567624,
+          37.3839268
+        ]
+      }
     }
   ]
 }
