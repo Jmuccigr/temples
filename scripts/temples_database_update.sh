@@ -178,6 +178,13 @@ SELECT count(*) FROM temples;
 EOF
 `
 
+    # On error accessing the database (probably a IP address problem), just quit as the script reports the error.
+    status=$?
+    if [ $status -ne 0 ]; then
+        echo -e '\007Problem connecting to the database.\n'
+        exit 1
+    fi
+
     sqlValues=($sqloutput)
     sqlCount=(${sqlValues[1]} ${sqlValues[3]} ${sqlValues[5]})
 
