@@ -10978,3 +10978,17 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570292#this> ;
 .
+<https://romeresearchgroup.org/items/1001078> a lawd:Place ;
+rdfs:label "Temple of Zeus Basileus at Lebadeia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.4303396"^^xsd:double ; geo:long "22.8604735"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/540907#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/474652024> ;
+skos:exactMatch <http://dare.ht.lu.se/places/4644106> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q106497024> ;
+skos:exactMatch <https://topostext.org/place/384229SZeu> ;
+.

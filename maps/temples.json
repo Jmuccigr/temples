@@ -39482,6 +39482,61 @@
           37.3839268
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001078",
+        "name": "Temple of Zeus Basileus",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Livadia",
+        "ancientplace": "Lebadeia",
+        "pleiadesplace": "540907",
+        "country": "GR",
+        "orientation": "63",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation from Kanellopoulos2021",
+        "vici": "",
+        "pleiades": "474652024",
+        "dare": "4644106",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "Q106497024",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "384229SZeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8604735,
+          38.4303396
+        ]
+      }
     }
   ]
 }
