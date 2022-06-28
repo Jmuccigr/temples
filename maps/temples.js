@@ -39393,5 +39393,151 @@ var temples =  {
         "sex": "M",
         "dedicationday": "",
         "deitytype": "god",
-        "culture
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54285754,
+          31.04166559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001076",
+        "name": "Temple of Demeter Chthonia",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "",
+        "location": "Pron Hill",
+        "modernplace": "Ermioni ",
+        "ancientplace": "Hermione",
+        "pleiadesplace": "570292",
+        "country": "GR",
+        "orientation": "84",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2445427,
+          37.3849341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001077",
+        "name": "Temple of Poseidon ",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "suburban sanctuary",
+        "location": "Bisti",
+        "modernplace": "Ermioni ",
+        "ancientplace": "Hermione",
+        "pleiadesplace": "570292",
+        "country": "GR",
+        "orientation": "78",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2567624,
+          37.3839268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001078",
+        "name": "Temple of Zeus Basileus",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Livadia",
+        "ancientplace": "Lebadeia",
+        "pleiadesplace": "540907",
+        "country": "GR",
+        "orientation": "63",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Orientation from Kanellopoulos2021",
+        "vici": "",
+        "pleiades": "474652024",
+        "dare": "4644106",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "Q106497024",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "384229SZeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8604735,
+          38.4303396
+        ]
+      }
+    }
+  ]
+}
 ;
