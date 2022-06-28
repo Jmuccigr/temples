@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2022-05-19" ;
+    dcterms:modified "2022-06-27" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1959,6 +1959,7 @@ skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/mapre
 rdfs:label "Temple (Bourton Grounds)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "51.99158"^^xsd:double ; geo:long "-0.939216473"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10991,4 +10992,12 @@ skos:exactMatch <http://pleiades.stoa.org/places/474652024> ;
 skos:exactMatch <http://dare.ht.lu.se/places/4644106> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q106497024> ;
 skos:exactMatch <https://topostext.org/place/384229SZeu> ;
+.
+<https://romeresearchgroup.org/items/1001079> a lawd:Place ;
+rdfs:label "Ratham Mill Temple (Funtington)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "50.85235466"^^xsd:double ; geo:long "-0.8522824816"^^xsd:double ] ;
+gn:countryCode "GB" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .

@@ -8552,9 +8552,9 @@
         "ancientplace": "",
         "pleiadesplace": "",
         "country": "UK",
-        "orientation": "",
-        "compass": "",
-        "geocertainty": "",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -47314,6 +47314,43 @@
         "coordinates": [
           22.8604735,
           38.4303396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001079",
+        "name": "Ratham Mill Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Ratham Mill",
+        "modernplace": "Funtington",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "GB",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Romano-Celtic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8522824816,
+          50.85235466
         ]
       }
     }
