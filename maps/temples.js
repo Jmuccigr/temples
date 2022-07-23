@@ -39537,6 +39537,45 @@ var temples =  {
           38.4303396
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001079",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Saint-Martin-au-Val",
+        "modernplace": "Chartres",
+        "ancientplace": "Autricum",
+        "pleiadesplace": "108778",
+        "country": "FR",
+        "orientation": "98",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Gallo-Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.493126,
+          48.437653
+        ]
+      }
     }
   ]
 }
