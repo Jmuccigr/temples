@@ -8,7 +8,7 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like pandoc for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 # Convert the json file to html directly.
 bib=`pandoc -f csljson "$dest/temple_bib_general.json" --citeproc`

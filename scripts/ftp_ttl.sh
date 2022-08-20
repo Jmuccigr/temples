@@ -5,7 +5,7 @@ me=$(whoami)
 src="/Users/$me/Documents/github/local/temples"
 
 # Path to include Cyberduck's duck command for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 fname="$src/htdocs-items/temples.ttl"
 

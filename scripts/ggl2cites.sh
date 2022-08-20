@@ -10,7 +10,7 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 # Get google doc as json via the public feed & exit on failure to return any/enough data
 json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/citations!A:AS?key=$apikey")

@@ -10,7 +10,7 @@ dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 
 # Path to include homebrew stuff like jq for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 # Quick check that ogr2ogr exists
 check=$(which ogr2ogr)

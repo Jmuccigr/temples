@@ -9,7 +9,7 @@ newfile="$dest/temples.csv"
 proplist=""
 
 # Path to include homebrew jq for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 # Get all the column names for properties except for the record-keeping one, "checked".
 # Google v4 API doesn't return blank values at the end of rows, so we have to grab

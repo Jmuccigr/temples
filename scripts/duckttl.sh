@@ -6,7 +6,7 @@ me=$(whoami)
 src="/Users/$me/Documents/github/local/temples"
 
 # Path to include Cyberduck's duck command for running via launchctl
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 # If file is big enough, Upload via FTP and log success or failure
 fsize=`stat -f%z "$src/temples.ttl"`
