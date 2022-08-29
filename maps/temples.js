@@ -10707,7 +10707,7 @@ var temples =  {
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "forum",
         "modernplace": "Montalto di Castro",
         "ancientplace": "Vulci",
         "pleiadesplace": "413393",
@@ -10752,7 +10752,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Montalto di Castro",
         "ancientplace": "Vulci",
         "pleiadesplace": "413393",
         "country": "IT",
@@ -29007,6 +29007,43 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000793",
+        "name": "Sanctuary temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Fontanile di Legnisina",
+        "modernplace": "Montalto di Castro",
+        "ancientplace": "Vulci",
+        "pleiadesplace": "413393",
+        "country": "IT",
+        "orientation": "209",
+        "compass": "SW",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63607,
+          42.409068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000797",
         "name": "Temple",
         "dedicatee": "",
@@ -39574,6 +39611,48 @@ var temples =  {
         "coordinates": [
           1.493126,
           48.437653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001080",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "forum",
+        "modernplace": "Montalto di Castro",
+        "ancientplace": "Vulci",
+        "pleiadesplace": "413393",
+        "country": "IT",
+        "orientation": "187",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 6th - early 5th c. BCE",
+        "startdateearly": "-525",
+        "startdatelate": "-475",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Under excavation by Germans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627813,
+          42.420028
         ]
       }
     }
