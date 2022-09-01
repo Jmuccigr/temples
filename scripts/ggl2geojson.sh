@@ -33,26 +33,33 @@ fi
 echo "$json" | json_verify -q
 if [ "$?" == 0 ]
 then
-    json=`echo "$json" | jq -r '.values[] | @csv'`
+    csv=`echo "$json" | jq -r '.values[] | @csv'`
 else
    echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: Invalid temple json received from google" 1>&2
+   exit 1
+fi
+
+# Make sure the resultant csv is big enough
+if [ ${#csv} -lt 100 ]
+   then
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) json to csv conversion is too short" 1>&2
    exit 1
 fi
 
 # Fix headers so that they're like the old method:
 # 		= no caps or spaces
 # Delete this when I decide there's no harm
-newheaders=`echo "$json" | head -n 1 | tr -d " " | tr [:upper:] [:lower:]`
-newsheet=`echo "$json" | tail -n +2`
+newheaders=`echo "$csv" | head -n 1 | tr -d " " | tr [:upper:] [:lower:]`
+newsheet=`echo "$csv" | tail -n +2`
 
-json=`echo -e $newheaders"\n""$newsheet"`
+csv=`echo -e $newheaders"\n""$newsheet"`
 
 # Make sure something has changed or else exit
 if [ -s "$dest/sheet.csv" ]
 then
-	jsonsum=`echo "$json" | md5`
+	csvsum=`echo "$csv" | md5`
 	filesum=`md5 -q "$dest/sheet.csv"`
-	if [ $jsonsum = $filesum ]
+	if [ $csvsum = $filesum ]
 	then
 	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
 	   exit 0
@@ -60,7 +67,7 @@ then
 fi
 
 # Save a copy as a csv file
-echo "$json" > "$dest/sheet.csv"
+echo "$csv" > "$dest/sheet.csv"
 if [ ! $? ]
 then
   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: There was a problem saving the temple csv file." 1>&2
