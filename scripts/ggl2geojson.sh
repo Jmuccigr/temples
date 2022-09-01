@@ -25,7 +25,7 @@ fi
 json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AV?key=$apikey")
 if [ ${#json} -lt 100 ]
    then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no temple data from Google spreadsheet server" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: Too little or no temple data from Google spreadsheet server" 1>&2
    exit 1
 fi
 
@@ -42,7 +42,7 @@ fi
 # Make sure the resultant csv is big enough
 if [ ${#csv} -lt 100 ]
    then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) json to csv conversion is too short" 1>&2
+   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: json to csv conversion is too short" 1>&2
    exit 1
 fi
 
@@ -61,7 +61,7 @@ then
 	filesum=`md5 -q "$dest/sheet.csv"`
 	if [ $csvsum = $filesum ]
 	then
-	   echo "$(date +%Y-%m-%d\ %H:%M:%S) No change to temple data." 1>&2
+	   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: No change to temple data." 1>&2
 	   exit 0
 	fi
 fi
