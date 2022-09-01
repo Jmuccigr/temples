@@ -39655,6 +39655,45 @@
           42.420028
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001081",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Sant'Omobono",
+        "modernplace": "Rome",
+        "ancientplace": "Roma",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "187",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 6th c BCE",
+        "startdateearly": "-575",
+        "startdatelate": "",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481525,
+          41.890629
+        ]
+      }
     }
   ]
 }
