@@ -39669,7 +39669,7 @@ var temples =  {
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
         "country": "IT",
-        "orientation": "190",
+        "orientation": "200",
         "compass": "S",
         "geocertainty": "0",
         "vowed": "",
