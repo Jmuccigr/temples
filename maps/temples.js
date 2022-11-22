@@ -39694,6 +39694,45 @@ var temples =  {
           41.890629
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001082",
+        "name": "Temple of Poseidon ",
+        "dedicatee": "Poseidon",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kleidi",
+        "ancientplace": "Samikon",
+        "pleiadesplace": "570653",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "archaic",
+        "startdateearly": "-599",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.589222,
+          37.529194
+        ]
+      }
     }
   ]
 }
