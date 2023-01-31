@@ -3734,7 +3734,14 @@
         "sex": "M",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "Roman"
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "107133090"
       },
       "geometry": {
         "type": "Point",
@@ -5185,7 +5192,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-278-275",
         "startdateearly": "-278",
@@ -5197,13 +5204,20 @@
         "sex": "M",
         "dedicationday": "June 20",
         "deitytype": "god",
-        "culture": "Roman"
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "408534259"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.4851202,
+          41.88619868
         ]
       }
     },
@@ -7391,8 +7405,8 @@
         "source": "The Rural Settlement of Roman Britain",
         "meetings": "",
         "note": "",
-        "vici": "",
-        "pleiades": "",
+        "vici": "73935",
+        "pleiades": "503058494",
         "dare": "",
         "arachne": "",
         "livius": "",

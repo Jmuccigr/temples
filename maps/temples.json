@@ -3992,6 +3992,50 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000114",
+        "name": "Temple of Summanus",
+        "dedicatee": "Summanus",
+        "type": "temple",
+        "setting": "",
+        "location": "Circus Maximus",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "-278-275",
+        "startdateearly": "-278",
+        "startdatelate": "-275",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "June 20",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "408534259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4851202,
+          41.88619868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000115",
         "name": "Temple of Sybil",
         "dedicatee": "Sybil",
