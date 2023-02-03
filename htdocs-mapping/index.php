@@ -107,8 +107,14 @@
 		<script type="text/javascript">document.cookie = "querytype=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
 		</script>
 		</script>
-		<script type="text/javascript">document.cookie = "querytype=map; path=/";
+		<script type="text/javascript">
+		    document.cookie = "querytype=map; path=/";
+		    document.cookie = "sqlquery=; path=/";
 		</script>
+<!--
+		<script type="text/javascript">document.cookie = "sqlquery=dummy; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+		</script>
+ -->
 		<script type="text/javascript" src="scripts/function_fix_date.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_check_run.js">
@@ -228,11 +234,6 @@
 				collapsed: false
 			}).addTo(map);
 
-			// Clear the cookie on startup
-			// Will generate a php error in json.php
-			// var sqlquery = '';
-			setCookie('sqlquery', 'dummy', '-1');
-
 			// Load navigation instructions
 			loadNavigation();
 
@@ -260,12 +261,12 @@
 				if ( thirdInputMenu != '' ) {
 				searchInput = searchInput + conn + thirdInputMenu + opTrans(thirdOpText, thirdInputText);
 				}
+				if ( firstInputMenu + secondInputMenu + thirdInputMenu == '' ) {
+					alert('You need to select a field to search on.')
+				}
 				if ( searchInput != '' ) {
 // 					document.getElementById("side").innerHTML = 'Inputted query:' + searchInput;
 					setCookie('sqlquery', searchInput, '1');
-				}
-				if ( firstInputMenu + secondInputMenu + thirdInputMenu == '' ) {
-					alert('You need to select a field to search on.')
 				}
 			};
 
