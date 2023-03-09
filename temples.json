@@ -47489,6 +47489,45 @@
           37.529194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001083",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Collemancio",
+        "ancientplace": "Urvinum Hortense",
+        "pleiadesplace": "413365",
+        "country": "IT",
+        "orientation": "2",
+        "compass": "N",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52534,
+          42.984639
+        ]
+      }
     }
   ]
 }
