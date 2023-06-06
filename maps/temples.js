@@ -5940,7 +5940,7 @@ var temples =  {
         "succeeded": "",
         "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "Romano-Celtic",
         "style": "",
         "extant": "",
@@ -8388,7 +8388,7 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Greek",
@@ -20100,7 +20100,7 @@ var temples =  {
         "succeeded": "",
         "sex": "M",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "style": "",
         "extant": "",
@@ -27772,8 +27772,8 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000759",
-        "name": "Temple of the Divine Julius Caesar",
-        "dedicatee": "Julius Caesar",
+        "name": "Temple H",
+        "dedicatee": "",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -27792,9 +27792,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "M",
+        "sex": "",
         "dedicationday": "",
-        "deitytype": "hero",
+        "deitytype": "",
         "culture": "Roman",
         "style": "",
         "extant": "yes"
@@ -27802,8 +27802,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.76892,
-          41.241955
+          13.769041,
+          41.2419
         ]
       }
     },
@@ -30848,9 +30848,9 @@ var temples =  {
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "Greek",
         "style": "",
         "extant": "",
@@ -31313,7 +31313,7 @@ var temples =  {
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
-        "deitytype": "",
+        "deitytype": "god",
         "culture": "",
         "style": "",
         "extant": "",
@@ -39814,6 +39814,162 @@ var temples =  {
         "coordinates": [
           12.52534,
           42.984639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001084",
+        "name": "Temple of Dea Marica",
+        "dedicatee": "Dea Marica",
+        "type": "temple",
+        "setting": "river sanctuary",
+        "location": "",
+        "modernplace": "Minturno",
+        "ancientplace": "Minturnae",
+        "pleiadesplace": "432940",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-550",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Italic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758706,
+          41.229232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001085",
+        "name": "Temple L",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Minturno",
+        "ancientplace": "Minturnae",
+        "pleiadesplace": "432940",
+        "country": "IT",
+        "orientation": "287",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c.",
+        "startdateearly": "50",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.768576,
+          41.241064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001086",
+        "name": "Temple of Apollo Karneios",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Santorini",
+        "ancientplace": "Thera",
+        "pleiadesplace": "599971",
+        "country": "GR",
+        "orientation": "130",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.480695,
+          36.362163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001087",
+        "name": "Temple of Dionysus",
+        "dedicatee": "Dionysus",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Santorini",
+        "ancientplace": "Thera",
+        "pleiadesplace": "599971",
+        "country": "GR",
+        "orientation": "77",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.477979,
+          36.364474
         ]
       }
     }
