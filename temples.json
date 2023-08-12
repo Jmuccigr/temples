@@ -12551,7 +12551,7 @@
         "vici": "17972",
         "pleiades": "795363785",
         "dare": "",
-        "arachne": "2100098",
+        "arachne": "5676",
         "livius": "",
         "wikipedia": "Temple_C_(Selinus)",
         "wikidata": "Q3983175"
@@ -12600,7 +12600,7 @@
         "vici": "17974",
         "pleiades": "",
         "dare": "",
-        "arachne": "2100342"
+        "arachne": "5902"
       },
       "geometry": {
         "type": "Point",
@@ -12689,7 +12689,7 @@
         "vici": "17976",
         "pleiades": "502577471",
         "dare": "",
-        "arachne": "2112368"
+        "arachne": "4075946"
       },
       "geometry": {
         "type": "Point",
@@ -12735,7 +12735,7 @@
         "vici": "17977",
         "pleiades": "502577470",
         "dare": "",
-        "arachne": "2100097",
+        "arachne": "5675",
         "livius": "",
         "wikipedia": "Temple_E_(Selinus)",
         "wikidata": "Q3983181"
@@ -12784,7 +12784,7 @@
         "vici": "17978",
         "pleiades": "71706222",
         "dare": "",
-        "arachne": "2109328",
+        "arachne": "12050",
         "livius": "",
         "wikipedia": "Temple_F_(Selinus)",
         "wikidata": "Q3983186"
@@ -12833,7 +12833,7 @@
         "vici": "17979",
         "pleiades": "283133307",
         "dare": "",
-        "arachne": "2108310"
+        "arachne": "11044"
       },
       "geometry": {
         "type": "Point",
@@ -40953,7 +40953,7 @@
         "vici": "29940",
         "pleiades": "66028350",
         "dare": "",
-        "arachne": "2117711"
+        "arachne": "6862248"
       },
       "geometry": {
         "type": "Point",
@@ -40999,7 +40999,7 @@
         "vici": "11538",
         "pleiades": "103565779",
         "dare": "",
-        "arachne": "2107124",
+        "arachne": "9881",
         "livius": "",
         "wikipedia": "",
         "wikidata": "Q12243758",
@@ -41362,7 +41362,7 @@
         "vici": "",
         "pleiades": "630250253",
         "dare": "",
-        "arachne": "270097",
+        "arachne": "5479",
         "livius": "",
         "wikipedia": "Temple_of_Artemis,_Corfu",
         "wikidata": "Q2654754"
@@ -42302,7 +42302,7 @@
         "vici": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "2108052"
+        "arachne": "1211833"
       },
       "geometry": {
         "type": "Point",
@@ -42721,7 +42721,7 @@
         "vici": "",
         "pleiades": "627230788",
         "dare": "",
-        "arachne": "2106411",
+        "arachne": "9184",
         "livius": "",
         "wikipedia": "es=Templo_de_Trajano_de_Itálica",
         "wikidata": "Q6141053"
@@ -44495,7 +44495,7 @@
         "vici": "11522",
         "pleiades": "",
         "dare": "",
-        "arachne": "2103891"
+        "arachne": "6764"
       },
       "geometry": {
         "type": "Point",
@@ -45784,7 +45784,14 @@
         "deitytype": "god",
         "culture": "Greek",
         "style": "Ionic",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "1210110"
       },
       "geometry": {
         "type": "Point",
@@ -47721,6 +47728,201 @@
         "coordinates": [
           "",
           ""
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001089",
+        "name": "Asklepeion",
+        "dedicatee": "Asclepius",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Messene",
+        "ancientplace": "Messene",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "107",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "17787",
+        "pleiades": "52154983",
+        "dare": "46665",
+        "arachne": "1350442",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "372219SAsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.920506,
+          37.175615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001090",
+        "name": "Temple of Messana",
+        "dedicatee": "Messana",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Messene",
+        "ancientplace": "Messene",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "105",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 4th c. BC",
+        "startdateearly": "-349",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.920293,
+          37.176725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001091",
+        "name": "Sanctuary of Demeter",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Messene",
+        "ancientplace": "Messene",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "24209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.919995,
+          37.17609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001092",
+        "name": "Sebasteion",
+        "dedicatee": "Augustus",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Messene",
+        "ancientplace": "Messene",
+        "pleiadesplace": "570479",
+        "country": "GR",
+        "orientation": "197",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.920626,
+          37.175973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "Temple of Artemis",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Delos",
+        "ancientplace": "Delos",
+        "pleiadesplace": "599587",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.266315,
+          37.400771
         ]
       }
     }
