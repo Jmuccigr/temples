@@ -36746,9 +36746,9 @@ var temples =  {
         "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
-        "date": "1st half 8th c. BCE",
-        "startdateearly": "-799",
-        "startdatelate": "-750",
+        "date": "End of 8th c. BCE",
+        "startdateearly": "-720",
+        "startdatelate": "-700",
         "century": "-8",
         "enddate": "-550",
         "preceded": "1001005",
@@ -40801,6 +40801,84 @@ var temples =  {
         "coordinates": [
           25.27089,
           37.40282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001110",
+        "name": "Temple A",
+        "dedicatee": "Apollo",
+        "type": "temple ",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Despotiko",
+        "ancientplace": "Presepinthos",
+        "pleiadesplace": "590012",
+        "country": "GR",
+        "orientation": "80",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0139711,
+          36.9704928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001111",
+        "name": "Temple Δ",
+        "dedicatee": "Apollo",
+        "type": "temple ",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Despotiko",
+        "ancientplace": "Presepinthos",
+        "pleiadesplace": "590012",
+        "country": "GR",
+        "orientation": "169",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0140972,
+          36.9706441
         ]
       }
     }
