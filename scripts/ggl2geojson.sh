@@ -40,7 +40,10 @@ else
 fi
 
 # Make sure the resultant csv is big enough
-if [ ${#csv} -lt 100 ]
+# First check that individual lines aren't just coords by counting lengths
+longLinesCount=`echo "$csv" | awk '{print length}'  | sort | uniq -c | sort | tail -n 1 |  awk '{print $1}'`
+# Then also check that the variable is big enough
+if [ ${#csv} -lt 100 ] || [ $longLinesCount -gt 200 ]
    then
    echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: json to csv conversion is too short" 1>&2
    exit 1
