@@ -48632,6 +48632,45 @@
           36.9706441
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001112",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Sarsina",
+        "ancientplace": "Sarsina",
+        "pleiadesplace": "413306",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1429661,
+          43.9198133
+        ]
+      }
     }
   ]
 }
