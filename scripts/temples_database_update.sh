@@ -138,14 +138,9 @@ then
             fi
         fi
     fi
-echo ""
-echo "OK, that seemed to work, let's go..."
-else
-    echo "OK!"
-    exit 1
+    echo ""
+    echo "OK, that seemed to work, let's go..."
 fi
-
-echo
 
 # Get the database to update. Default is local.
 if ! $local
