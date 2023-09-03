@@ -37029,7 +37029,7 @@
         "compass": "E",
         "geocertainty": "0",
         "vowed": "",
-        "date": "early 2nc c. BCE",
+        "date": "early 2nd c. BCE",
         "startdateearly": "-199",
         "startdatelate": "-175",
         "century": "-2",
@@ -38108,15 +38108,15 @@
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Greek",
-        "style": "Ionic",
+        "style": "Ionic hexastyle",
         "extant": "yes",
         "source": "",
         "meetings": "",
         "note": "",
-        "vici": "",
+        "vici": "11332",
         "pleiades": "298577312",
         "dare": "",
-        "arachne": "",
+        "arachne": "5896",
         "livius": "",
         "wikipedia": "Temple_of_Athena_Polias_(Priene)",
         "wikidata": "Q105038853"
@@ -41159,7 +41159,14 @@
         "deitytype": "god",
         "culture": "Greek",
         "style": "Ionic octastyle",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "14874",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "5825"
       },
       "geometry": {
         "type": "Point",
@@ -41198,7 +41205,14 @@
         "deitytype": "god",
         "culture": "Greek",
         "style": "Ionic tetrastyle",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "18149",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "7807"
       },
       "geometry": {
         "type": "Point",
@@ -41235,13 +41249,19 @@
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "Greek"
+        "culture": "Greek",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "29087"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5254544,
-          37.8506379
+          27.526353,
+          37.850046
         ]
       }
     },
@@ -41279,6 +41299,178 @@
         "coordinates": [
           27.520767,
           37.85271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001124",
+        "name": "Temple of Apollo Smintheus",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Gülpınar",
+        "ancientplace": "Hamxitos",
+        "pleiadesplace": "550565",
+        "country": "TR",
+        "orientation": "216",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Mid-2nd c. BCE",
+        "startdateearly": "-175",
+        "startdatelate": "-125",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic octastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11599",
+        "pleiades": "550892",
+        "dare": "",
+        "arachne": "1395580",
+        "livius": "smintheum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11772,
+          39.5361886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001125",
+        "name": "Temple of Zeus",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Güllübahçe",
+        "ancientplace": "Priene",
+        "pleiadesplace": "599905",
+        "country": "TR",
+        "orientation": "89",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 300 BCE",
+        "startdateearly": "-320",
+        "startdatelate": "-280",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic tetrastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "18151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.298116,
+          37.658531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001126",
+        "name": "Temple of Demeter and Kore",
+        "dedicatee": "Demeter, Kore",
+        "type": "temple",
+        "setting": "extra-urban",
+        "location": "",
+        "modernplace": "Güllübahçe",
+        "ancientplace": "Priene",
+        "pleiadesplace": "599905",
+        "country": "TR",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd half 3rd c. BCE",
+        "startdateearly": "-350",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.29603,
+          37.660605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001127",
+        "name": "Temple of Cybele",
+        "dedicatee": "Cybele",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Güllübahçe",
+        "ancientplace": "Priene",
+        "pleiadesplace": "599905",
+        "country": "TR",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "24179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.29425,
+          37.65867
         ]
       }
     }
