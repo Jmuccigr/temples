@@ -43575,7 +43575,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15,
+          15.0,
           40.4235
         ]
       }
@@ -49327,6 +49327,94 @@
         "coordinates": [
           14.34626,
           40.805702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001130",
+        "name": "Temple of Athena Lindia",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Lindos",
+        "ancientplace": "Lindos",
+        "pleiadesplace": "589913",
+        "country": "GR",
+        "orientation": "35",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "90959",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "5600",
+        "livius": "",
+        "wikipedia": "Temple_of_Athena_Lindia",
+        "wikidata": "Q57841105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.088301,
+          36.0911274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001131",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Lindos",
+        "ancientplace": "Lindos",
+        "pleiadesplace": "589913",
+        "country": "GR",
+        "orientation": "209",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0890537,
+          36.0918925
         ]
       }
     }
