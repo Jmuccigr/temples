@@ -30,6 +30,13 @@ else
    exit 0
 fi
 
+# Somehow invalid json is sneaking through and causing a 0-length $json
+if [ "$json" == '' ]
+then
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2cites: Invalid citations received from google" 1>&2
+	exit 0
+fi
+
 # Make sure something has changed or else exit
 if [ -s "$dest/citations.csv" ]
 then
