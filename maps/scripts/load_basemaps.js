@@ -14,6 +14,8 @@ var cawmAttr = 'Powered by <a href="http://leafletjs.com/">Leaflet</a> and <a hr
 var osmAttr = 'OpenStreetMap',
     osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
+var stadiaAttr = '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> <a href="https://stamen.com/" target="_blank">&copy; Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/about" target="_blank">OpenStreetMap</a> contributors'
+
 var grayscale = L.tileLayer(mbUrl, {
         id: 'mapbox/light-v10',
         tileSize: 512,
@@ -30,9 +32,18 @@ var grayscale = L.tileLayer(mbUrl, {
         zoomOffset: -1,
         attribution: mbAttr
     }),
-    watercolor = new L.StamenTileLayer("watercolor"),
-    toner = new L.StamenTileLayer("toner"),
-    terrain = new L.StamenTileLayer("terrain"),
+    watercolor = new L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> <a href="https://stamen.com/" target="_blank">&copy; Stamen Design</a> &copy; <a href="https://www.openstreetmap.org/about" target="_blank">OpenStreetMap</a> contributors'
+    }),
+    toner = new L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: stadiaAttr
+    }),
+    terrain = new L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_terrain/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: stadiaAttr
+    }),
     imperium = L.tileLayer(dareUrl, {
         maxZoom: 11,
         attribution: dareAttr
