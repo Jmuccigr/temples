@@ -49417,6 +49417,45 @@
           36.0918925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001132",
+        "name": "Temple of Zeus",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "agora",
+        "location": "",
+        "modernplace": "Yeni Boğaziçi",
+        "ancientplace": "Salamis",
+        "pleiadesplace": "707617",
+        "country": "CY",
+        "orientation": "170",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Hellenistic",
+        "startdateearly": "-330",
+        "startdatelate": "-200",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8997407,
+          35.1766313
+        ]
+      }
     }
   ]
 }
