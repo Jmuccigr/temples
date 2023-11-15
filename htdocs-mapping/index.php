@@ -147,8 +147,10 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
-		<script type="text/javascript" src="scripts/tile.stamen.js">
-		</script>
+<!--
+        <script type="text/javascript" src="scripts/tile.stamen.js">
+        </script>
+ -->
 		<script type="text/javascript" src="scripts/aurelian_wall.js">
 		</script>
 		<script type="text/javascript" src="scripts/load_basemaps.js">
