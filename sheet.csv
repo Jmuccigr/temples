@@ -1128,3 +1128,5 @@
 "1001137","Temple of Leto","Leto","temple","sanctuary","","Kumluova","Letoon","638958","TR","36.3307596","29.288644","208","SW","0","","","","","","","","","F","","god","Greek","Ionic","yes","","","","11856"
 "1001138","Temple of Artemis","Artemis","temple","sanctuary","","Kumluova","Letoon","638958","TR","36.3307126","29.288802","208","SW","0","","","","","","","","","F","","god","Greek","","yes","","","","11855"
 "1001139","Temple of Apollo","Apollo","temple","sanctuary","","Kumluova","Letoon","638958","TR","36.3306382","29.288936","208","SW","0","","","","","","","","","M","","god","Greek","Ionic","yes","","","","11854"
+"1001140","Temple of Artemis","Artemis","temple","","","Sart","Sardis","550867","TR","38.479222","28.031282","297","NW","0","","#rd c. BCE","-299","-200","-3","","","","F","","god","Greek","Ionic","yes","","","","","66376536","","","","","Q3983222","","","","","","","","","http://sardisexpedition.org/en/essays/about-artemis-temple"
+"1001141","Early Imperial Temple","","temple","","","Sart","Sardis","550867","TR","","","","","","","","","","","","","","","","emperor","Roman","","yes"
