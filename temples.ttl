@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-11-15" ;
+    dcterms:modified "2023-11-22" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6496,6 +6496,7 @@ spatial:C <https://pleiades.stoa.org/places/579859#this> ;
 rdfs:label "Temple of Zeus at Aizanoi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.201218"^^xsd:double ; geo:long "29.609631"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
 gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -11631,4 +11632,52 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/638958#this> ;
 skos:exactMatch <http://vici.org/vici/11854> ;
+.
+<https://romeresearchgroup.org/items/1001140> a lawd:Place ;
+rdfs:label "Temple of Artemis at Sardis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.479222"^^xsd:double ; geo:long "28.031282"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550867#this> ;
+skos:exactMatch <http://vici.org/vici/12022> ;
+skos:exactMatch <http://pleiades.stoa.org/places/66376536> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6575> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983222> ;
+.
+<https://romeresearchgroup.org/items/1001141> a lawd:Place ;
+rdfs:label "Wadi B Temple at Sardis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.483471"^^xsd:double ; geo:long "28.045231"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550867#this> ;
+.
+<https://romeresearchgroup.org/items/1001142> a lawd:Place ;
+rdfs:label "Temple of Augustus and Roma at Ancyra" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.9442083"^^xsd:double ; geo:long "32.8582704"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/619103#this> ;
+skos:exactMatch <http://vici.org/vici/11828> ;
+skos:exactMatch <http://pleiades.stoa.org/places/228297636> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5920> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Rome> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q1640233> ;
+.
+<https://romeresearchgroup.org/items/1001143> a lawd:Place ;
+rdfs:label "Temple of Hadrian-Zeus at Cyzicus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.38800938"^^xsd:double ; geo:long "27.87050074"^^xsd:double ] ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/511218#this> ;
 .
