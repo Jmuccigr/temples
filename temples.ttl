@@ -11673,7 +11673,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Rome> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1640233> ;
 .
 <https://romeresearchgroup.org/items/1001143> a lawd:Place ;
-rdfs:label "Temple of Hadrian-Zeus at Cyzicus" ;
+rdfs:label "Temple of Hadrian at Cyzicus" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "40.38800938"^^xsd:double ; geo:long "27.87050074"^^xsd:double ] ;
 gn:countryCode "TR" ;

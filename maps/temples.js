@@ -42113,7 +42113,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1001143",
-        "name": "Temple of Hadrian-Zeus",
+        "name": "Temple of Hadrian",
         "dedicatee": "Hadrian",
         "type": "temple",
         "setting": "",
