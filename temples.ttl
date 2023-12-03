@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-11-22" ;
+    dcterms:modified "2023-12-03" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11680,4 +11680,36 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/511218#this> ;
+.
+<https://romeresearchgroup.org/items/1001144> a lawd:Place ;
+rdfs:label "Temple A (Kommos)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.01322478"^^xsd:double ; geo:long "24.7606129"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589690#this> ;
+.
+<https://romeresearchgroup.org/items/1001145> a lawd:Place ;
+rdfs:label "Temple B (Kommos)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.0132757"^^xsd:double ; geo:long "24.7607144"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589690#this> ;
+skos:exactMatch <http://vici.org/vici/34791> ;
+.
+<https://romeresearchgroup.org/items/1001146> a lawd:Place ;
+rdfs:label "Temple C (Kommos)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.0132175"^^xsd:double ; geo:long "24.7607246"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589690#this> ;
+skos:exactMatch <http://vici.org/vici/22416> ;
 .
