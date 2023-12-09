@@ -10474,7 +10474,8 @@ var temples =  {
         "source": "Vici.org",
         "meetings": "",
         "note": "",
-        "vici": "20380"
+        "vici": "20380",
+        "pleiades": "109342090"
       },
       "geometry": {
         "type": "Point",
