@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-12-05" ;
+    dcterms:modified "2023-12-12" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11713,4 +11713,44 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/589690#this> ;
 skos:exactMatch <http://vici.org/vici/22416> ;
+.
+<https://romeresearchgroup.org/items/1001147> a lawd:Place ;
+rdfs:label "Temple of Aphrodite at Kassope" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.1481502"^^xsd:double ; geo:long "20.68036"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530922#this> ;
+.
+<https://romeresearchgroup.org/items/1001148> a lawd:Place ;
+rdfs:label "Tripartite Building at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.745882"^^xsd:double ; geo:long "20.021101"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+.
+<https://romeresearchgroup.org/items/1001149> a lawd:Place ;
+rdfs:label "Two-storey Building at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.745934"^^xsd:double ; geo:long "20.021266"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+.
+<https://romeresearchgroup.org/items/1001150> a lawd:Place ;
+rdfs:label "Temple above the Theater at Bouthroton" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.7457295"^^xsd:double ; geo:long "20.0201396"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "AL" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/530824#this> ;
 .
