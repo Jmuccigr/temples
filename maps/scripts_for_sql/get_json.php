@@ -1,7 +1,8 @@
 <?php
 header_remove();
 $file = "../pelagios.json";
-$requestedID = $_SERVER['QUERY_STRING'];
+// Get id fromo the URL after the rewrite rule is applied
+$requestedID = $_GET['id'];
 
 // get the file contents, assuming the file to be readable (and exist)
 $contents = file_get_contents($file);
