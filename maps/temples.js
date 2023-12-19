@@ -26312,8 +26312,8 @@ var temples =  {
         "ancientplace": "Lavinium",
         "pleiadesplace": "422960",
         "country": "IT",
-        "orientation": "63",
-        "compass": "NE",
+        "orientation": "243",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -30651,7 +30651,7 @@ var temples =  {
         "name": "Temple of Athena",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Karthea",
         "ancientplace": "Karthaia",
@@ -30677,7 +30677,8 @@ var temples =  {
         "source": "",
         "meetings": "",
         "note": "",
-        "vici": "26382"
+        "vici": "26382",
+        "pleiades": "372021189"
       },
       "geometry": {
         "type": "Point",
@@ -30694,7 +30695,7 @@ var temples =  {
         "name": "Temple of Apollo",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "acropolis",
         "location": "",
         "modernplace": "Karthea",
         "ancientplace": "Karthaia",
@@ -42465,6 +42466,48 @@ var temples =  {
         "coordinates": [
           20.0201396,
           39.7457295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001151",
+        "name": "Temple of Juno",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Padua",
+        "ancientplace": "Patavium",
+        "pleiadesplace": "393473",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Italic",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Mentioned by Livy 10.2.14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.876975,
+          45.409561
         ]
       }
     }

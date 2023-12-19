@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-12-12" ;
+    dcterms:modified "2023-12-19" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -7424,7 +7424,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 rdfs:label "Temple of Sol Indiges at Lavinium" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.647847"^^xsd:double ; geo:long "12.437675"^^xsd:double ] ;
-ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8653,6 +8653,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570333#this> ;
 skos:exactMatch <http://vici.org/vici/26382> ;
+skos:exactMatch <http://pleiades.stoa.org/places/372021189> ;
 .
 <https://romeresearchgroup.org/items/1000843> a lawd:Place ;
 rdfs:label "Temple of Apollo at Karthaia" ;
@@ -11753,4 +11754,13 @@ gn:countryCode "AL" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/530824#this> ;
+.
+<https://romeresearchgroup.org/items/1001151> a lawd:Place ;
+rdfs:label "Temple of Juno at Patavium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "45.409561"^^xsd:double ; geo:long "11.876975"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/393473#this> ;
 .
