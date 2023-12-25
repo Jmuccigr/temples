@@ -42510,6 +42510,48 @@
           45.409561
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001152",
+        "name": "Temple of Jupiter Pantheus Augustus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Valle de Abdalajís",
+        "ancientplace": "Nescania",
+        "pleiadesplace": "256326",
+        "country": "ES",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "153 CE",
+        "startdateearly": "153",
+        "startdatelate": "153",
+        "century": "2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "CIL 2.2008",
+        "meetings": "",
+        "note": "Inscription only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.682723,
+          36.931327
+        ]
+      }
     }
   ]
 }
