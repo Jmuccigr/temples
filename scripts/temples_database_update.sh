@@ -101,41 +101,42 @@ then
     echo ""
     echo -n "The database doesn't seem to be open. Start it? (y/n) "
     read startReply
-    if [[ $startReply == "y" ]]
+    if [[ $startReply == "n" ]]
     then
-        if [[ $MAMP == '' ]]
-        then
-            open -j '/Applications/MAMP/MAMP.app'
-            echo ""
-            echo "MAMP is not running. Let me try to start it..."
-            sleep 10
-            # Make sure MAMP is running now
-            MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
+	    exit 0
+    fi
+    if [[ $MAMP == '' ]]
+    then
+        open -j '/Applications/MAMP/MAMP.app'
+        echo ""
+        echo "MAMP is not running. Let me try to start it..."
+        sleep 10
+        # Make sure MAMP is running now
+        MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
-            # Make sure the database is running by checking for mysql
-            test=`ps -x | grep mysqld | grep -v grep`
-            if [[ $MAMP = '' ]]
-            then
-                echo "That didn't work. Check it out."
-                exit 0
-            fi
-        fi
-        # Check again that the database is running by checking for mysql
+        # Make sure the database is running by checking for mysql
         test=`ps -x | grep mysqld | grep -v grep`
-        if [[ $test = '' ]]
+        if [[ $MAMP = '' ]]
         then
-            # Explicitly tell MAMP to open the database
-            osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
-            sleep 1
-            osascript -e 'tell application "iTerm2" to activate'
-            echo "MAMP is running. Let me try to start the databases..."
-            sleep 4
-            test=`ps -x | grep mysqld | grep -v grep`
-            if [[ $test == '' ]]
-            then
-                echo "That didn't work. Check it out."
-                exit 0
-            fi
+            echo "That didn't work. Check it out."
+            exit 0
+        fi
+    fi
+    # Check again that the database is running by checking for mysql
+    test=`ps -x | grep mysqld | grep -v grep`
+    if [[ $test = '' ]]
+    then
+        # Explicitly tell MAMP to open the database
+        osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
+        sleep 1
+        osascript -e 'tell application "iTerm2" to activate'
+        echo "MAMP is running. Let me try to start the databases..."
+        sleep 4
+        test=`ps -x | grep mysqld | grep -v grep`
+        if [[ $test == '' ]]
+        then
+            echo "That didn't work. Check it out."
+            exit 0
         fi
     fi
     echo ""
