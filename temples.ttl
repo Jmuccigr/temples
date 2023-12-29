@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-12-25" ;
+    dcterms:modified "2023-12-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8705,10 +8705,15 @@ spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 rdfs:label "Hekatompedon (Old Temple of Athena) at Athens" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.9719"^^xsd:double ; geo:long "23.72628"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <http://vici.org/vici/26307> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5686> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Old_Temple_of_Athena> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q683988> ;
 skos:exactMatch <https://topostext.org/place/380237SOTA> ;
 .
 <https://romeresearchgroup.org/items/1000849> a lawd:Place ;
@@ -8723,10 +8728,15 @@ spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 rdfs:label "Temple of Wingless Victory (Athena Nike) at Athens" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.97154"^^xsd:double ; geo:long "23.72487"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/118337619> ;
+skos:exactMatch <http://dare.ht.lu.se/places/25117> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Athena_Nike> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q384813> ;
 skos:exactMatch <https://topostext.org/place/380237SANi> ;
 .
 <https://romeresearchgroup.org/items/1000851> a lawd:Place ;
@@ -9662,6 +9672,7 @@ spatial:C <https://pleiades.stoa.org/places/580097#this> ;
 rdfs:label "The Parthenon  at Athens" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.97146"^^xsd:double ; geo:long "23.72667"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -11772,4 +11783,47 @@ gn:countryCode "ES" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/256326#this> ;
+.
+<https://romeresearchgroup.org/items/1001153> a lawd:Place ;
+rdfs:label "Temple of Apollo Zoster at Zoster" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.81003"^^xsd:double ; geo:long "23.773671"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580140#this> ;
+skos:exactMatch <http://vici.org/vici/29368> ;
+skos:exactMatch <http://pleiades.stoa.org/places/579875> ;
+skos:exactMatch <https://arachne.dainst.org/entity/7637> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Apollo_Zoster> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q7698709> ;
+.
+<https://romeresearchgroup.org/items/1001154> a lawd:Place ;
+rdfs:label "Temple of Athena Pallenis at Pallene" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.0141542"^^xsd:double ; geo:long "23.8442961"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580051#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4642784> ;
+.
+<https://romeresearchgroup.org/items/1001155> a lawd:Place ;
+rdfs:label "Erchtheion at Athens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.972115"^^xsd:double ; geo:long "23.726488"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/750203268#this> ;
+skos:exactMatch <http://vici.org/vici/17741> ;
+skos:exactMatch <http://pleiades.stoa.org/places/750203268> ;
+skos:exactMatch <http://dare.ht.lu.se/places/25116> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5588> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Erechtheion> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q242741> ;
+skos:exactMatch <https://topostext.org/place/380237SEre> ;
 .
