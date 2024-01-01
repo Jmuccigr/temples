@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2023-12-29" ;
+    dcterms:modified "2024-01-01" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11826,4 +11826,14 @@ skos:exactMatch <https://arachne.dainst.org/entity/5588> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Erechtheion> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q242741> ;
 skos:exactMatch <https://topostext.org/place/380237SEre> ;
+.
+<https://romeresearchgroup.org/items/1001156> a lawd:Place ;
+rdfs:label "Archaic Temple at Mycale" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.703505"^^xsd:double ; geo:long "27.328793"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599805#this> ;
 .

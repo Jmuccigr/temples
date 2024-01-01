@@ -42702,6 +42702,48 @@
           37.972115
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001156",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Dilek Dağları",
+        "ancientplace": "Mycale",
+        "pleiadesplace": "599805",
+        "country": "TR",
+        "orientation": "94",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "mid-6th c. BCE",
+        "startdateearly": "-570",
+        "startdatelate": "-540",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Coords from @Lohmann2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.328793,
+          37.703505
+        ]
+      }
     }
   ]
 }
