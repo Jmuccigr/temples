@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-01-01" ;
+    dcterms:modified "2024-01-06" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8775,6 +8775,8 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
+skos:exactMatch <http://vici.org/vici/26338> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4642256> ;
 skos:exactMatch <https://topostext.org/place/380237SDel> ;
 .
 <https://romeresearchgroup.org/items/1000855> a lawd:Place ;
@@ -8844,13 +8846,17 @@ spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 <https://romeresearchgroup.org/items/1000862> a lawd:Place ;
 rdfs:label "Temple of Apollo Patroos at Athens" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "37.97139"^^xsd:double ; geo:long "23.72482"^^xsd:double ] ;
-ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+geo:location [ geo:lat "37.975527"^^xsd:double ; geo:long "23.7221256"^^xsd:double ] ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579885#this> ;
-skos:exactMatch <https://topostext.org/place/380237SApP> ;
+skos:exactMatch <http://vici.org/vici/26345> ;
+skos:exactMatch <http://dare.ht.lu.se/places/25125> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5885> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Apollo_Patroos> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3142437> ;
+skos:exactMatch <https://topostext.org/place/380237SPtr> ;
 .
 <https://romeresearchgroup.org/items/1000863> a lawd:Place ;
 rdfs:label "Temple of Ares at Athens" ;
