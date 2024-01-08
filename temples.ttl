@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-01-06" ;
+    dcterms:modified "2024-01-07" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11842,4 +11842,26 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599805#this> ;
+.
+<https://romeresearchgroup.org/items/1001157> a lawd:Place ;
+rdfs:label "Temple of Despoina at Lykosoura" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.38959"^^xsd:double ; geo:long "22.03095"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570444#this> ;
+skos:exactMatch <http://vici.org/vici/11150> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6802> ;
+.
+<https://romeresearchgroup.org/items/1001158> a lawd:Place ;
+rdfs:label "Temple of Demeter at Lepreon" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.439416"^^xsd:double ; geo:long "21.724407"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570423#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/87367171> ;
+skos:exactMatch <https://topostext.org/place/374217SDem> ;
 .

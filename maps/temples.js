@@ -42744,6 +42744,107 @@ var temples =  {
           37.703505
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001157",
+        "name": "Temple of Despoina",
+        "dedicatee": "Despoina",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Petrovoúni",
+        "ancientplace": "Lykosoura",
+        "pleiadesplace": "570444",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11150",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "6802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.03095,
+          37.38959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001158",
+        "name": "Temple of Demeter",
+        "dedicatee": "Demeter",
+        "type": "temples",
+        "setting": "",
+        "location": "",
+        "modernplace": "Zacharo",
+        "ancientplace": "Lepreon",
+        "pleiadesplace": "570423",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "87367171",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "374217SDem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.724407,
+          37.439416
+        ]
+      }
     }
   ]
 }
