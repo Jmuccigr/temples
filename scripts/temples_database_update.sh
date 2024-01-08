@@ -20,7 +20,7 @@ filenameList=($filenameList)
 PROGNAME=$(basename $0)
 
 # Check whether the database is running by checking for mysql
-test=`ps -x | grep mysqld | grep -v grep`
+sqltest=`ps -x | grep mysqld | grep -v grep`
 MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
 # Add tables based on switches
@@ -96,11 +96,10 @@ while test $# -gt 0; do
   esac
 done
 
-if [[ "$local" == "true" && $test == '' ]]
+if [[ "$local" == "true" && $sqltest == '' ]]
 then
     echo ""
-    echo -n "The database doesn't seem to be open. Start it? (y/n) "
-    read startReply
+    read -t 10 -p "The database doesn't seem to be open. Start it? (Y/n) " startReply
     if [[ $startReply == "n" ]]
     then
 	    exit 0
@@ -115,7 +114,7 @@ then
         MAMP=`ps -x | grep 'MAMP.app' | grep -v grep`
 
         # Make sure the database is running by checking for mysql
-        test=`ps -x | grep mysqld | grep -v grep`
+        sqltest=`ps -x | grep mysqld | grep -v grep`
         if [[ $MAMP = '' ]]
         then
             echo "That didn't work. Check it out."
@@ -123,17 +122,18 @@ then
         fi
     fi
     # Check again that the database is running by checking for mysql
-    test=`ps -x | grep mysqld | grep -v grep`
-    if [[ $test = '' ]]
+    sqltest=`ps -x | grep mysqld | grep -v grep`
+    if [[ $sqltest = '' ]]
     then
         # Explicitly tell MAMP to open the database
         osascript -e 'tell application "MAMP.app"' -e 'activate' -e 'tell application "System Events"' -e 'keystroke "l" using command down' -e 'keystroke "h" using command down' -e 'end tell' -e 'end tell'
         sleep 1
         osascript -e 'tell application "iTerm2" to activate'
+        echo ""
         echo "MAMP is running. Let me try to start the databases..."
         sleep 4
-        test=`ps -x | grep mysqld | grep -v grep`
-        if [[ $test == '' ]]
+        sqltest=`ps -x | grep mysqld | grep -v grep`
+        if [[ $sqltest == '' ]]
         then
             echo "That didn't work. Check it out."
             exit 0
@@ -205,8 +205,7 @@ EOF
                 echo "    NB More rows on server than locally ("${sqlCount[$i]}" vs "${fileCounts[$i]}")."
                 if [ "$dryRun" != true ]
                 then
-                    echo "    Do you want to delete the server rows? (y/n) "
-                    read deleteReply
+                    read -t 10 -p "    Do you want to delete the server rows? (y/N) " deleteReply
                     if [[ $deleteReply == "y" ]]
                     then
                         deleteList+=(${tableList[$i]})
@@ -262,7 +261,7 @@ echo ""
 # Ask to quit MAMP if we're running local
 if [[ $MAMP != '' ]]  &&  [[ "$local" == "true" ]]
 then
-    read -t 10 -p 'Quit MAMP? (y/n)' quitReply
+    read -t 10 -p 'Quit MAMP? (y/N)' quitReply
     if [[ $quitReply == "y" ]]
     then
         osascript -e 'tell application "MAMP" to quit' &
