@@ -60,6 +60,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -152,8 +156,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -180,9 +187,6 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -4205,6 +4209,17 @@ Richmond, I. A., and J. M. C. Toynbee. 1955. <span>“The Temple of
 Sulis-Minerva at Bath.”</span> <em>Journal of Roman Studies</em> 45
 (1-2): 97–105. <a
 href="https://doi.org/10.2307/298749">https://doi.org/10.2307/298749</a>.
+</div>
+<div id="ref-Riethmuller1999" class="csl-entry" role="listitem">
+Riethmüller, Jürgen W. 1999. <span>“<em>Bothros</em> and Tetrastyle: The
+<em>Heroon</em> of Asclepius in Athens.”</span> In <em>Ancient Greek
+Hero Cult: Proceedings of the Fifth International Seminar on Ancient
+Greek Cult, Organized by the Department of Classical Archaeology and
+Ancient History, Göteborg University, 21-23 April 1995</em>, edited by
+Robin Hägg, 123–43. Skrifter Utgivna Av Svenska Institutet i Athen.
+Stockholm: Svenska Institutet i Athen: Distributor, P. Åströms Förlag.
+<a
+href="http://swbplus.bsz-bw.de/bsz079888666inh.htm">http://swbplus.bsz-bw.de/bsz079888666inh.htm</a>.
 </div>
 <div id="ref-Rio-MirandaAlcon2010" class="csl-entry" role="listitem">
 Rio-Miranda Alcón, Jaime. 2010. <em>La ciudad romana de Cáparra:
