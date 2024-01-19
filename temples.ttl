@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-01-15" ;
+    dcterms:modified "2024-01-19" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2724,7 +2724,7 @@ skos:exactMatch <http://vici.org/vici/16310> ;
 <https://romeresearchgroup.org/items/1000254> a lawd:Place ;
 rdfs:label "Temple of Hera I at Poseidonia" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.419327"^^xsd:double ; geo:long "15.005457"^^xsd:double ] ;
+geo:location [ geo:lat "40.41927859"^^xsd:double ; geo:long "15.0054544"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -2736,7 +2736,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/608476833> ;
 <https://romeresearchgroup.org/items/1000255> a lawd:Place ;
 rdfs:label "Temple of Hera II at Poseidonia" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "40.419971"^^xsd:double ; geo:long "15.005339"^^xsd:double ] ;
+geo:location [ geo:lat "40.419971"^^xsd:double ; geo:long "15.0054544"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -11938,6 +11938,56 @@ spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 rdfs:label "Archaic Tempietto at Poseidonia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "40.423369"^^xsd:double ; geo:long "14.999239"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1001165> a lawd:Place ;
+rdfs:label "Amphiprostyle Temple at Poseidonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.4208222"^^xsd:double ; geo:long "15.0056798"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1001166> a lawd:Place ;
+rdfs:label "Tetrastyle Tempietto at Poseidonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.4207131"^^xsd:double ; geo:long "15.0056159"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1001167> a lawd:Place ;
+rdfs:label "Temple of Magna Mater at Poseidonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.4207782"^^xsd:double ; geo:long "15.0050114"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1001168> a lawd:Place ;
+rdfs:label "Temple of Demeter at Poseidonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.4206777"^^xsd:double ; geo:long "15.0050228"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442733#this> ;
+.
+<https://romeresearchgroup.org/items/1001169> a lawd:Place ;
+rdfs:label "Southern Temple at Poseidonia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.4187851"^^xsd:double ; geo:long "15.0051306"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;

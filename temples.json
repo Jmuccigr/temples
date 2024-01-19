@@ -11923,7 +11923,7 @@
         "dedicatee": "Hera",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "urban sanctuary",
         "modernplace": "Paestum",
         "ancientplace": "Poseidonia",
         "pleiadesplace": "442733",
@@ -11954,8 +11954,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.005457,
-          40.419327
+          15.0054544,
+          40.41927859
         ]
       }
     },
@@ -11967,7 +11967,7 @@
         "dedicatee": "Hera",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "urban sanctuary",
         "modernplace": "Paestum",
         "ancientplace": "Poseidonia",
         "pleiadesplace": "442733",
@@ -11998,7 +11998,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.005339,
+          15.0054544,
           40.419971
         ]
       }
@@ -13854,7 +13854,7 @@
         "dedicatee": "Athena",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "urban sanctuary",
         "modernplace": "Paestum",
         "ancientplace": "Poseidonia",
         "pleiadesplace": "442733",
@@ -50910,6 +50910,201 @@
         "coordinates": [
           14.999239,
           40.423369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001165",
+        "name": "Amphiprostyle Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "urban sanctuary",
+        "modernplace": "Paestum",
+        "ancientplace": "Poseidonia",
+        "pleiadesplace": "442733",
+        "country": "IT",
+        "orientation": "95",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "4th c. BCE",
+        "startdateearly": "-399",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0056798,
+          40.4208222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001166",
+        "name": "Tetrastyle Tempietto",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "urban sanctuary",
+        "modernplace": "Paestum",
+        "ancientplace": "Poseidonia",
+        "pleiadesplace": "442733",
+        "country": "IT",
+        "orientation": "96",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0056159,
+          40.4207131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001167",
+        "name": "Temple of Magna Mater",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "urban sanctuary",
+        "modernplace": "Paestum",
+        "ancientplace": "Poseidonia",
+        "pleiadesplace": "442733",
+        "country": "IT",
+        "orientation": "91",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0050114,
+          40.4207782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001168",
+        "name": "Temple of Demeter",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "urban sanctuary",
+        "modernplace": "Paestum",
+        "ancientplace": "Poseidonia",
+        "pleiadesplace": "442733",
+        "country": "IT",
+        "orientation": "91",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0050228,
+          40.4206777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001169",
+        "name": "Southern Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "urban sanctuary",
+        "modernplace": "Paestum",
+        "ancientplace": "Poseidonia",
+        "pleiadesplace": "442733",
+        "country": "IT",
+        "orientation": "82",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0051306,
+          40.4187851
         ]
       }
     }
