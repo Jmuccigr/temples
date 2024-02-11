@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-01-28" ;
+    dcterms:modified "2024-02-10" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9429,7 +9429,7 @@ spatial:C <https://pleiades.stoa.org/places/433182#this> ;
 skos:exactMatch <http://vici.org/vici/59154> ;
 .
 <https://romeresearchgroup.org/items/1000921> a lawd:Place ;
-rdfs:label "Temple of Hera at Samos" ;
+rdfs:label "Great Temple of Hera at Samos" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.671948"^^xsd:double ; geo:long "26.885502"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -9438,6 +9438,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599641#this> ;
 skos:exactMatch <http://vici.org/vici/11096> ;
+skos:exactMatch <https://arachne.dainst.org/entity/7764> ;
 .
 <https://romeresearchgroup.org/items/1000922> a lawd:Place ;
 rdfs:label "Temple of Asclepius at Epidauros" ;
@@ -12004,4 +12005,48 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579889#this> ;
 skos:exactMatch <http://vici.org/vici/40206> ;
+.
+<https://romeresearchgroup.org/items/1001171> a lawd:Place ;
+rdfs:label "Temple A at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.672493"^^xsd:double ; geo:long "26.886374"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11499> ;
+.
+<https://romeresearchgroup.org/items/1001172> a lawd:Place ;
+rdfs:label "Temple B at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.672636"^^xsd:double ; geo:long "26.8866505"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11500> ;
+.
+<https://romeresearchgroup.org/items/1001173> a lawd:Place ;
+rdfs:label "Roman Temple of Hera at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.6720896"^^xsd:double ; geo:long "26.886616"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11467> ;
+.
+<https://romeresearchgroup.org/items/1001174> a lawd:Place ;
+rdfs:label "Temple C at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.67255"^^xsd:double ; geo:long "26.8865472"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/12336> ;
 .
