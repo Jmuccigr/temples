@@ -6197,7 +6197,7 @@
         "name": "Capitolium",
         "dedicatee": "Jupiter, Juno, Minerva",
         "type": "temple",
-        "setting": "",
+        "setting": "arx",
         "location": "",
         "modernplace": "Ansedonia",
         "ancientplace": "Cosa",
@@ -51335,6 +51335,178 @@
         "coordinates": [
           26.8865472,
           37.67255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001175",
+        "name": "Corinthian Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "Heraion",
+        "modernplace": "Samos",
+        "ancientplace": "Samos",
+        "pleiadesplace": "599641",
+        "country": "GR",
+        "orientation": "78",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.886378,
+          37.6722223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001176",
+        "name": "Temple of Artemis",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Selçuk",
+        "ancientplace": "Ephesus",
+        "pleiadesplace": "599612",
+        "country": "TR",
+        "orientation": "106",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Around 550 BCE",
+        "startdateearly": "-555",
+        "startdatelate": "-545",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "14873",
+        "pleiades": "873985034",
+        "dare": "",
+        "arachne": "9104",
+        "livius": "",
+        "wikipedia": "Temple_of_Artemis",
+        "wikidata": "Q43018",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "379274SEph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3639954,
+          37.949714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001177",
+        "name": "Temple D",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "arx",
+        "location": "",
+        "modernplace": "Ansedonia",
+        "ancientplace": "Cosa",
+        "pleiadesplace": "413107",
+        "country": "IT",
+        "orientation": "139",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "170-160 BCE",
+        "startdateearly": "-170",
+        "startdatelate": "-160",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286617,
+          42.4112638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001178",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Ansedonia",
+        "ancientplace": "Cosa",
+        "pleiadesplace": "413107",
+        "country": "IT",
+        "orientation": "220",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 175 BCE",
+        "startdateearly": "-180",
+        "startdatelate": "-170",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288839,
+          42.412716
         ]
       }
     }

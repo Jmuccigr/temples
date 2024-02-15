@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-02-10" ;
+    dcterms:modified "2024-02-13" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12049,4 +12049,50 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599641#this> ;
 skos:exactMatch <https://arachne.dainst.org/entity/12336> ;
+.
+<https://romeresearchgroup.org/items/1001175> a lawd:Place ;
+rdfs:label "Corinthian Temple at Samos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.6722223"^^xsd:double ; geo:long "26.886378"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599641#this> ;
+.
+<https://romeresearchgroup.org/items/1001176> a lawd:Place ;
+rdfs:label "Temple of Artemis at Ephesus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.949714"^^xsd:double ; geo:long "27.3639954"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599612#this> ;
+skos:exactMatch <http://vici.org/vici/14873> ;
+skos:exactMatch <http://pleiades.stoa.org/places/873985034> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9104> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Artemis> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q43018> ;
+skos:exactMatch <https://topostext.org/place/379274SEph> ;
+.
+<https://romeresearchgroup.org/items/1001177> a lawd:Place ;
+rdfs:label "Temple D at Cosa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.4112638"^^xsd:double ; geo:long "11.286617"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413107#this> ;
+.
+<https://romeresearchgroup.org/items/1001178> a lawd:Place ;
+rdfs:label "Temple B at Cosa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.412716"^^xsd:double ; geo:long "11.288839"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413107#this> ;
 .
