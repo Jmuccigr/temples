@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-03-19" ;
+    dcterms:modified "2024-04-28" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -6487,11 +6487,14 @@ spatial:C <https://pleiades.stoa.org/places/314843#this> ;
 <https://romeresearchgroup.org/items/1000614> a lawd:Place ;
 rdfs:label "Temple of Artemis Amarysia at Amarynthos" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "38.3871"^^xsd:double ; geo:long "23.9089"^^xsd:double ] ;
+geo:location [ geo:lat "38.387263"^^xsd:double ; geo:long "23.908299"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/579859#this> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Artemis_Amarynthia> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q60791237> ;
 .
 <https://romeresearchgroup.org/items/1000615> a lawd:Place ;
 rdfs:label "Temple of Zeus at Aizanoi" ;
@@ -8303,6 +8306,7 @@ skos:exactMatch <http://vici.org/vici/27661> ;
 rdfs:label "Temple of Church of S. Agapito at Praeneste" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.839043"^^xsd:double ; geo:long "12.892034"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12091,6 +12095,27 @@ rdfs:label "Temple B at Cosa" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.412716"^^xsd:double ; geo:long "11.288839"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413107#this> ;
+.
+<https://romeresearchgroup.org/items/1001179> a lawd:Place ;
+rdfs:label "Archaic Temple of Artemis Amarysia at Amarynthos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.387263"^^xsd:double ; geo:long "23.908299"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/579859#this> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Artemis_Amarynthia> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q60791237> ;
+.
+<https://romeresearchgroup.org/items/1001180> a lawd:Place ;
+rdfs:label "Temple E at Cosa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.412598"^^xsd:double ; geo:long "11.289773"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
