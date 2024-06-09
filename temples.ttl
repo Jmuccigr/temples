@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-04-28" ;
+    dcterms:modified "2024-06-09" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -602,12 +602,17 @@ spatial:C <https://pleiades.stoa.org/places/687928#this> ;
 <https://romeresearchgroup.org/items/1000051> a lawd:Place ;
 rdfs:label "Temple of Jupiter Damascenus at Damascus" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "33.510833"^^xsd:double ; geo:long "36.300833"^^xsd:double ] ;
+geo:location [ geo:lat "33.51158"^^xsd:double ; geo:long "36.3067318"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "SY" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/678106#this> ;
+skos:exactMatch <http://vici.org/vici/11934> ;
 skos:exactMatch <http://pleiades.stoa.org/places/245122016> ;
+skos:exactMatch <http://dare.ht.lu.se/places/21809> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Jupiter,_Damascus> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q7698734> ;
 .
 <https://romeresearchgroup.org/items/1000052> a lawd:Place ;
 rdfs:label "Temple of Jupiter at Iabrouda" ;

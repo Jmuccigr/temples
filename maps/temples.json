@@ -2033,8 +2033,8 @@
         "ancientplace": "Damascus",
         "pleiadesplace": "678106",
         "country": "SY",
-        "orientation": "",
-        "compass": "",
+        "orientation": "84",
+        "compass": "E",
         "geocertainty": "0",
         "vowed": "",
         "date": "14",
@@ -2053,14 +2053,19 @@
         "source": "Segal2013",
         "meetings": "",
         "note": "",
-        "vici": "",
-        "pleiades": "245122016"
+        "vici": "11934",
+        "pleiades": "245122016",
+        "dare": "21809",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_Jupiter,_Damascus",
+        "wikidata": "Q7698734"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.300833,
-          33.510833
+          36.3067318,
+          33.51158
         ]
       }
     },
