@@ -43783,6 +43783,48 @@
           42.412598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001181",
+        "name": "Temple of Ajax",
+        "dedicatee": "Ajax",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Yeni Boğaziçi",
+        "ancientplace": "Salamis",
+        "pleiadesplace": "707617",
+        "country": "CY",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Mentioned in Pausanias 1.35.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9119619,
+          35.179901
+        ]
+      }
     }
   ]
 }

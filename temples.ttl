@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-06-09" ;
+    dcterms:modified "2024-06-24" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12125,4 +12125,13 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413107#this> ;
+.
+<https://romeresearchgroup.org/items/1001181> a lawd:Place ;
+rdfs:label "Temple of Ajax at Salamis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.179901"^^xsd:double ; geo:long "33.9119619"^^xsd:double ] ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707617#this> ;
 .
