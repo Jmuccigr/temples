@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-06-24" ;
+    dcterms:modified "2024-07-04" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8970,6 +8970,7 @@ gn:countryCode "TN" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/324816#this> ;
+skos:exactMatch <http://vici.org/vici/7869> ;
 .
 <https://romeresearchgroup.org/items/1000872> a lawd:Place ;
 rdfs:label "Temple B at Sufetula" ;
@@ -8980,6 +8981,8 @@ gn:countryCode "TN" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/324816#this> ;
+skos:exactMatch <http://vici.org/vici/7869> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2443532> ;
 .
 <https://romeresearchgroup.org/items/1000873> a lawd:Place ;
 rdfs:label "Temple C at Sufetula" ;
@@ -8990,6 +8993,7 @@ gn:countryCode "TN" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/324816#this> ;
+skos:exactMatch <http://vici.org/vici/7869> ;
 .
 <https://romeresearchgroup.org/items/1000874> a lawd:Place ;
 rdfs:label "Temple of Diana at Pola" ;
@@ -11612,6 +11616,8 @@ skos:exactMatch <https://topostext.org/place/378235SAph> ;
 <https://romeresearchgroup.org/items/1001134> a lawd:Place ;
 rdfs:label "Temple of Zeus Hellanios at Aigina" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.7077746"^^xsd:double ; geo:long "23.497615"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12121,6 +12127,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q60791237> ;
 rdfs:label "Temple E at Cosa" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.412598"^^xsd:double ; geo:long "11.289773"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12134,4 +12141,97 @@ gn:countryCode "CY" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/707617#this> ;
+.
+<https://romeresearchgroup.org/items/1001182> a lawd:Place ;
+rdfs:label "Gallo-Roman Temple at Condate Redonum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "48.119036"^^xsd:double ; geo:long "-1.678609"^^xsd:double ] ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/69491#this> ;
+.
+<https://romeresearchgroup.org/items/1001183> a lawd:Place ;
+rdfs:label "Larger Gallo-Roman Temple (Chapelle-des-Fougeretz)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "48.173591"^^xsd:double ; geo:long "-1.740101"^^xsd:double ] ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/69486#this> ;
+.
+<https://romeresearchgroup.org/items/1001184> a lawd:Place ;
+rdfs:label "Smaller Gallo-Roman Temple (Chapelle-des-Fougeretz)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "48.173381"^^xsd:double ; geo:long "-1.740122"^^xsd:double ] ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/69486#this> ;
+.
+<https://romeresearchgroup.org/items/1001185> a lawd:Place ;
+rdfs:label "Temple at Iguvium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.3502672"^^xsd:double ; geo:long "12.5748768"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/881000319#this> ;
+.
+<https://romeresearchgroup.org/items/1001186> a lawd:Place ;
+rdfs:label "Temple of Liber Pater at Maktaris" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.853284"^^xsd:double ; geo:long "9.20701378"^^xsd:double ] ;
+gn:countryCode "TN" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/324774#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2341601> ;
+.
+<https://romeresearchgroup.org/items/1001187> a lawd:Place ;
+rdfs:label "Temple of Hathor at Maktaris" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.854584"^^xsd:double ; geo:long "9.2090938"^^xsd:double ] ;
+gn:countryCode "TN" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/324774#this> ;
+skos:exactMatch <http://vici.org/vici/31119> ;
+skos:exactMatch <http://pleiades.stoa.org/places/71163123> ;
+.
+<https://romeresearchgroup.org/items/1001188> a lawd:Place ;
+rdfs:label "Temple of Apollo and Diana at Maktaris" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.853541"^^xsd:double ; geo:long "9.19859679"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TN" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/324774#this> ;
+skos:exactMatch <http://vici.org/vici/31113> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1275190> ;
+.
+<https://romeresearchgroup.org/items/1001189> a lawd:Place ;
+rdfs:label "Temple of Isis at Bulla Regia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.55868268"^^xsd:double ; geo:long "8.75658077"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TN" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/314912#this> ;
+skos:exactMatch <http://vici.org/vici/81105> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1303650> ;
+.
+<https://romeresearchgroup.org/items/1001190> a lawd:Place ;
+rdfs:label "Temple of Apollo at Bulla Regia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.5598157"^^xsd:double ; geo:long "8.7558209"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "TN" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/314912#this> ;
+skos:exactMatch <http://vici.org/vici/81112> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1320766> ;
 .

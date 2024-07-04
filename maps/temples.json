@@ -31662,7 +31662,11 @@
         "deitytype": "",
         "culture": "Roman",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "7869"
       },
       "geometry": {
         "type": "Point",
@@ -31701,7 +31705,14 @@
         "deitytype": "",
         "culture": "Roman",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "7869",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2443532"
       },
       "geometry": {
         "type": "Point",
@@ -31740,7 +31751,11 @@
         "deitytype": "",
         "culture": "Roman",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "7869"
       },
       "geometry": {
         "type": "Point",
@@ -41749,6 +41764,49 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1001134",
+        "name": "Temple of Zeus Hellanios",
+        "dedicatee": "Zeus",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Egina",
+        "ancientplace": "Aigina",
+        "pleiadesplace": "579844",
+        "country": "GR",
+        "orientation": "80",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "28396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.497615,
+          37.7077746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1001135",
         "name": "Temple of Apollo",
         "dedicatee": "Apollo",
@@ -43758,8 +43816,8 @@
         "ancientplace": "Cosa",
         "pleiadesplace": "413107",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "138",
+        "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
         "date": "ca. 175 BCE",
@@ -43823,6 +43881,390 @@
         "coordinates": [
           33.9119619,
           35.179901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001182",
+        "name": "Gallo-Roman Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban sanctuary",
+        "location": "",
+        "modernplace": "Rennes",
+        "ancientplace": "Condate Redonum",
+        "pleiadesplace": "69491",
+        "country": "FR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "3rd c. CE",
+        "startdateearly": "201",
+        "startdatelate": "250",
+        "century": "3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Gallo-Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.678609,
+          48.119036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001183",
+        "name": "Larger Gallo-Roman Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Chapelle-des-Fougeretz",
+        "ancientplace": "",
+        "pleiadesplace": "69486",
+        "country": "FR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Gallo-Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.740101,
+          48.173591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001184",
+        "name": "Smaller Gallo-Roman Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Chapelle-des-Fougeretz",
+        "ancientplace": "",
+        "pleiadesplace": "69486",
+        "country": "FR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Gallo-Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.740122,
+          48.173381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001185",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Guastuglia",
+        "modernplace": "Gubbio",
+        "ancientplace": "Iguvium",
+        "pleiadesplace": "881000319",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "Beginning 1st c. CE",
+        "startdateearly": "1",
+        "startdatelate": "50",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5748768,
+          43.3502672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001186",
+        "name": "Temple of Liber Pater",
+        "dedicatee": "Liber Pater",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Maktar",
+        "ancientplace": "Maktaris",
+        "pleiadesplace": "324774",
+        "country": "TN",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2341601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20701378,
+          35.853284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001187",
+        "name": "Temple of Hathor",
+        "dedicatee": "Hathor",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Maktar",
+        "ancientplace": "Maktaris",
+        "pleiadesplace": "324774",
+        "country": "TN",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Punic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "31119",
+        "pleiades": "71163123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2090938,
+          35.854584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001188",
+        "name": "Temple of Apollo and Diana",
+        "dedicatee": "Apollo and Diana",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Maktar",
+        "ancientplace": "Maktaris",
+        "pleiadesplace": "324774",
+        "country": "TN",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "31113",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "1275190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19859679,
+          35.853541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001189",
+        "name": "Temple of Isis",
+        "dedicatee": "Isis",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Jendouba",
+        "ancientplace": "Bulla Regia",
+        "pleiadesplace": "314912",
+        "country": "TN",
+        "orientation": "151",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "81105",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "1303650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75658077,
+          36.55868268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001190",
+        "name": "Temple of Apollo",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Jendouba",
+        "ancientplace": "Bulla Regia",
+        "pleiadesplace": "314912",
+        "country": "TN",
+        "orientation": "158",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "1st c. CE",
+        "startdateearly": "1",
+        "startdatelate": "34",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "81112",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "1320766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7558209,
+          36.5598157
         ]
       }
     }
