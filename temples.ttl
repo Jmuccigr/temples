@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-04" ;
+    dcterms:modified "2024-07-06" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12234,4 +12234,25 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/314912#this> ;
 skos:exactMatch <http://vici.org/vici/81112> ;
 skos:exactMatch <https://arachne.dainst.org/entity/1320766> ;
+.
+<https://romeresearchgroup.org/items/1001191> a lawd:Place ;
+rdfs:label "Temple of Salus Augustana at Urbs Salvia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.1980162"^^xsd:double ; geo:long "13.3854482"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413364#this> ;
+skos:exactMatch <http://vici.org/vici/63017> ;
+.
+<https://romeresearchgroup.org/items/1001192> a lawd:Place ;
+rdfs:label "Forum Temple at Urbs Salvia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.197881"^^xsd:double ; geo:long "13.384612"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413364#this> ;
 .

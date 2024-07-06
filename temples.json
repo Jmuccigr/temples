@@ -50851,7 +50851,7 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "M,F",
+        "sex": "M/F",
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Greek",
@@ -52053,6 +52053,88 @@
         "coordinates": [
           8.7558209,
           36.5598157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001191",
+        "name": "Temple of Salus Augustana",
+        "dedicatee": "Salus Augustana",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Urbisaglia",
+        "ancientplace": "Urbs Salvia",
+        "pleiadesplace": "413364",
+        "country": "IT",
+        "orientation": "294",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "1st c. CE",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "concept",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "63017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3854482,
+          43.1980162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001192",
+        "name": "Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "forum",
+        "modernplace": "Urbisaglia",
+        "ancientplace": "Urbs Salvia",
+        "pleiadesplace": "413364",
+        "country": "IT",
+        "orientation": "22",
+        "compass": "N",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384612,
+          43.197881
         ]
       }
     }
