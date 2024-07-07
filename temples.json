@@ -14073,16 +14073,16 @@
       "properties": {
         "id": "1000301",
         "name": "Asclepieion",
-        "dedicatee": "",
+        "dedicatee": "Asclepius",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Noto",
         "ancientplace": "Heloros",
         "pleiadesplace": "462234",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "43",
+        "compass": "NE",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -14106,8 +14106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.105948,
-          36.841862
+          15.10599398,
+          36.8418188
         ]
       }
     },
@@ -38241,7 +38241,7 @@
       "type": "Feature",
       "properties": {
         "id": "1000858",
-        "name": "Asklepieion Temple",
+        "name": "Asclepieion Temple",
         "dedicatee": "",
         "type": "temple",
         "setting": "acropolis",
@@ -44381,8 +44381,8 @@
       "type": "Feature",
       "properties": {
         "id": "1001007",
-        "name": "Temple of Asklepios",
-        "dedicatee": "Asklepios",
+        "name": "Temple of Asclepios",
+        "dedicatee": "Asclepios",
         "type": "temple",
         "setting": "urban",
         "location": "",
@@ -47094,11 +47094,11 @@
         "ancientplace": "Heloros",
         "pleiadesplace": "462234",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
-        "geocertainty": "1",
+        "orientation": "100",
+        "compass": "E",
+        "geocertainty": "0",
         "vowed": "",
-        "date": "late 4th c.",
+        "date": "late 4th c. BCE",
         "startdateearly": "-350",
         "startdatelate": "-300",
         "century": "-4",
@@ -47115,8 +47115,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.106068,
-          36.841459
+          15.106201,
+          36.8412406
         ]
       }
     },
@@ -47774,7 +47774,7 @@
       "type": "Feature",
       "properties": {
         "id": "1001089",
-        "name": "Asklepeion",
+        "name": "Asclepeion",
         "dedicatee": "Asclepius",
         "type": "temple",
         "setting": "urban",
@@ -52135,6 +52135,151 @@
         "coordinates": [
           13.384612,
           43.197881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001193",
+        "name": "Temple of Asclepios",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Trizinia",
+        "ancientplace": "Troizen",
+        "pleiadesplace": "570756",
+        "country": "GR",
+        "orientation": "293",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 4th - early 3rd c BCE",
+        "startdateearly": "-325",
+        "startdatelate": "-275",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "18683",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "9154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3478938,
+          37.5036384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001194",
+        "name": "Temple of Hippolytus",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Trizinia",
+        "ancientplace": "Troizen",
+        "pleiadesplace": "570756",
+        "country": "GR",
+        "orientation": "289",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "4th c. BCE",
+        "startdateearly": "-399",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "48748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3482126,
+          37.5028392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001195",
+        "name": "Asclepieion",
+        "dedicatee": "Asclepius",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Feneos",
+        "ancientplace": "Pheneos",
+        "pleiadesplace": "570595",
+        "country": "GR",
+        "orientation": "115",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "44582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3074689,
+          37.909108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "",
+          ""
         ]
       }
     }

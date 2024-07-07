@@ -8829,7 +8829,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/413105#this> ;
 .
 <https://romeresearchgroup.org/items/1000858> a lawd:Place ;
-rdfs:label "Asklepieion Temple at Athens" ;
+rdfs:label "Asclepieion Temple at Athens" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.9707553"^^xsd:double ; geo:long "23.726662"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -10342,7 +10342,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/530824#this> ;
 .
 <https://romeresearchgroup.org/items/1001007> a lawd:Place ;
-rdfs:label "Temple of Asklepios at Bouthroton" ;
+rdfs:label "Temple of Asclepios at Bouthroton" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.745764"^^xsd:double ; geo:long "20.020064"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -11153,7 +11153,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/599971#this> ;
 .
 <https://romeresearchgroup.org/items/1001089> a lawd:Place ;
-rdfs:label "Asklepeion at Messene" ;
+rdfs:label "Asclepeion at Messene" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.175615"^^xsd:double ; geo:long "21.920506"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -12255,4 +12255,38 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413364#this> ;
+.
+<https://romeresearchgroup.org/items/1001193> a lawd:Place ;
+rdfs:label "Temple of Asclepios at Troizen" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.5036384"^^xsd:double ; geo:long "23.3478938"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570756#this> ;
+skos:exactMatch <http://vici.org/vici/18683> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9154> ;
+.
+<https://romeresearchgroup.org/items/1001194> a lawd:Place ;
+rdfs:label "Temple of Hippolytus at Troizen" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.5028392"^^xsd:double ; geo:long "23.3482126"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570756#this> ;
+skos:exactMatch <http://vici.org/vici/48748> ;
+.
+<https://romeresearchgroup.org/items/1001195> a lawd:Place ;
+rdfs:label "Asclepieion at Pheneos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.909108"^^xsd:double ; geo:long "22.3074689"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570595#this> ;
+skos:exactMatch <http://vici.org/vici/44582> ;
 .
