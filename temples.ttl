@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-06" ;
+    dcterms:modified "2024-07-14" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3265,7 +3265,8 @@ skos:exactMatch <http://vici.org/vici/24190> ;
 <https://romeresearchgroup.org/items/1000301> a lawd:Place ;
 rdfs:label "Asclepieion at Heloros" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "36.841862"^^xsd:double ; geo:long "15.105948"^^xsd:double ] ;
+geo:location [ geo:lat "36.8418188"^^xsd:double ; geo:long "15.10599398"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9018,6 +9019,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 rdfs:label "Temple of Mater Matuta at Satricum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.513128"^^xsd:double ; geo:long "12.755083"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10924,6 +10926,7 @@ geo:location [ geo:lat "43.090799"^^xsd:double ; geo:long "12.367578"^^xsd:doubl
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413248#this> ;
 .
 <https://romeresearchgroup.org/items/1001066> a lawd:Place ;
 rdfs:label "Temple of Ceres at Catina" ;
@@ -10986,7 +10989,8 @@ spatial:C <https://pleiades.stoa.org/places/462244#this> ;
 <https://romeresearchgroup.org/items/1001072> a lawd:Place ;
 rdfs:label "Temple of Demeter at Heloros" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "36.841459"^^xsd:double ; geo:long "15.106068"^^xsd:double ] ;
+geo:location [ geo:lat "36.8412406"^^xsd:double ; geo:long "15.106201"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12289,4 +12293,81 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570595#this> ;
 skos:exactMatch <http://vici.org/vici/44582> ;
+.
+<https://romeresearchgroup.org/items/1001196> a lawd:Place ;
+rdfs:label "Ionic Temple at Elea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.1604345"^^xsd:double ; geo:long "15.15435165"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452488#this> ;
+.
+<https://romeresearchgroup.org/items/1001197> a lawd:Place ;
+rdfs:label "Archaic Temple at Elea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.1604345"^^xsd:double ; geo:long "15.15435165"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452488#this> ;
+.
+<https://romeresearchgroup.org/items/1001198> a lawd:Place ;
+rdfs:label "Asea Vigla Temple at Asea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4217266"^^xsd:double ; geo:long "22.250341"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570122#this> ;
+skos:exactMatch <http://vici.org/vici/73377> ;
+skos:exactMatch <http://dare.ht.lu.se/places/46257> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q111082717> ;
+skos:exactMatch <https://topostext.org/place/374223SZeu> ;
+.
+<https://romeresearchgroup.org/items/1001199> a lawd:Place ;
+rdfs:label "Doric Temple at Asea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4339"^^xsd:double ; geo:long "22.3248"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570122#this> ;
+skos:exactMatch <http://vici.org/vici/32414> ;
+skos:exactMatch <http://pleiades.stoa.org/places/177523747> ;
+skos:exactMatch <http://dare.ht.lu.se/places/27409> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2362636> ;
+skos:exactMatch <https://topostext.org/place/374223PAse> ;
+.
+<https://romeresearchgroup.org/items/1001200> a lawd:Place ;
+rdfs:label "Archaic Temple of Athena Alea at Tegea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.45548"^^xsd:double ; geo:long "22.420397"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570707#this> ;
+skos:exactMatch <http://vici.org/vici/2129> ;
+skos:exactMatch <http://pleiades.stoa.org/places/372843530> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1208477> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Athena_Alea> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983230> ;
+.
+<https://romeresearchgroup.org/items/1001201> a lawd:Place ;
+rdfs:label "Temple of Athena Alea at Tegea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.45548"^^xsd:double ; geo:long "22.420397"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570707#this> ;
+skos:exactMatch <http://vici.org/vici/2129> ;
+skos:exactMatch <http://pleiades.stoa.org/places/372843530> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1208477> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Athena_Alea> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q3983230> ;
 .
