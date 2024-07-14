@@ -21,5 +21,13 @@ for i in ${header[*]}; do
   proplist="$proplist .properties.$i // \"\","
 done
 
+# Somehow the proplist seems to come out too short sometimes, so only coords make it to json.
+# Do a simple check to avoid this.
+if [ `echo $proplist | wc -w` -lt 100 ]
+  then
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) json2csv: proplist is too short." 1>&2
+    exit 1
+fi
+
 # Re-assemble the CVS using jq, then converting the escaped quotation marks
 jq '.features[]' "$dest/temples.json" | jq "[ $proplist .geometry.coordinates[0], .geometry.coordinates[1] ]" | jq -r @csv | perl -pe 's/([ a-zA-Z])""/\1\\"/g' > "$dest/temples.csv"

@@ -42,6 +42,9 @@ outputText += u'    .\n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
 
+if os.stat(basedir + 'temples.json').st_size < 100000:
+	sys.exit(dateTimeObj.strftime("%Y-%m-%d %H:%M:%S") + " temples json file is too small to process for turtle.")
+
 fo = open(basedir + 'temples.json', "r+")
 myjson = fo.read();
 fo.close()
