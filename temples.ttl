@@ -12371,3 +12371,43 @@ skos:exactMatch <https://arachne.dainst.org/entity/1208477> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Athena_Alea> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983230> ;
 .
+<https://romeresearchgroup.org/items/1001202> a lawd:Place ;
+rdfs:label "Temple A at Pallantion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.452451"^^xsd:double ; geo:long "22.32882"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570548#this> ;
+.
+<https://romeresearchgroup.org/items/1001203> a lawd:Place ;
+rdfs:label "Temple B at Pallantion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4531864"^^xsd:double ; geo:long "22.3284006"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570548#this> ;
+.
+<https://romeresearchgroup.org/items/1001204> a lawd:Place ;
+rdfs:label "Temple C at Pallantion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4526163"^^xsd:double ; geo:long "22.3287728"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570548#this> ;
+.
+<https://romeresearchgroup.org/items/1001205> a lawd:Place ;
+rdfs:label "Temple D at Pallantion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4530247"^^xsd:double ; geo:long "22.3286356"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570548#this> ;
+.

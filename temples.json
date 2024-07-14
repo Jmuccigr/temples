@@ -52475,10 +52475,10 @@
         "compass": "E",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "late 7th c BCE",
+        "startdateearly": "-633",
+        "startdatelate": "-600",
+        "century": "-7",
         "enddate": "",
         "preceded": "1001201",
         "succeeded": "",
@@ -52524,10 +52524,10 @@
         "compass": "E",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "mid-4th c BCE",
+        "startdateearly": "-375",
+        "startdatelate": "-325",
+        "century": "-4",
         "enddate": "",
         "preceded": "",
         "succeeded": "1001200",
@@ -52553,6 +52553,154 @@
         "coordinates": [
           22.420397,
           37.45548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001202",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tripoli",
+        "ancientplace": "Pallantion",
+        "pleiadesplace": "570548",
+        "country": "GR",
+        "orientation": "72",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.32882,
+          37.452451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001203",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tripoli",
+        "ancientplace": "Pallantion",
+        "pleiadesplace": "570548",
+        "country": "GR",
+        "orientation": "112",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3284006,
+          37.4531864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001204",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tripoli",
+        "ancientplace": "Pallantion",
+        "pleiadesplace": "570548",
+        "country": "GR",
+        "orientation": "106",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3287728,
+          37.4526163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001205",
+        "name": "Temple D",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Tripoli",
+        "ancientplace": "Pallantion",
+        "pleiadesplace": "570548",
+        "country": "GR",
+        "orientation": "106",
+        "compass": "E",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3286356,
+          37.4530247
         ]
       }
     }
