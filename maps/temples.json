@@ -29413,13 +29413,13 @@
       "type": "Feature",
       "properties": {
         "id": "1000807",
-        "name": "Temple of Tina",
-        "dedicatee": "Tina",
+        "name": "Temple of Tinia",
+        "dedicatee": "Tinia",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "",
         "modernplace": "Marzabotto",
-        "ancientplace": "",
+        "ancientplace": "Kainua",
         "pleiadesplace": "393448",
         "country": "IT",
         "orientation": "177",
@@ -44913,6 +44913,148 @@
         "coordinates": [
           22.3286356,
           37.4530247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001206",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Marzabotto",
+        "ancientplace": "Kainua",
+        "pleiadesplace": "393448",
+        "country": "IT",
+        "orientation": "176",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.199667,
+          44.336364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001207",
+        "name": "Tuscan Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "Regio I, insula IV",
+        "modernplace": "Marzabotto",
+        "ancientplace": "Kainua",
+        "pleiadesplace": "393448",
+        "country": "IT",
+        "orientation": "177",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.20322,
+          44.336545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001208",
+        "name": "Temple E",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Marzabotto",
+        "ancientplace": "Kainua",
+        "pleiadesplace": "393448",
+        "country": "IT",
+        "orientation": "68",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.199211,
+          44.336108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001209",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Marzabotto",
+        "ancientplace": "Kainua",
+        "pleiadesplace": "393448",
+        "country": "IT",
+        "orientation": "172",
+        "compass": "S",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.19991,
+          44.336545
         ]
       }
     }
