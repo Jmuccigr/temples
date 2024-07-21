@@ -10,7 +10,7 @@ class menuItems extends RecursiveIteratorIterator {
 
         #[\ReturnTypeWillChange]
     function beginChildren() {
-        echo '<option value="' . parent::current() . '">' . parent::current() . '</option>';
+        echo '<option label="' . ucfirst(parent::current()) .  '" value="' . parent::current() . '">' . parent::current() . '</option>';
     }
 
         #[\ReturnTypeWillChange]
