@@ -8463,19 +8463,19 @@
         "dedicatee": "Diana",
         "type": "temple",
         "setting": "",
-        "location": "",
-        "modernplace": "Alberese",
-        "ancientplace": "",
-        "pleiadesplace": "",
+        "location": "rural sanctuary",
+        "modernplace": "Nemi",
+        "ancientplace": "Lake Nemi",
+        "pleiadesplace": "422984",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "214",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "end 4th - beg 3rd c BCE",
+        "startdateearly": "-325",
+        "startdatelate": "275",
+        "century": "-4",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -8485,10 +8485,10 @@
         "culture": "Roman",
         "style": "",
         "extant": "",
-        "source": "Vici.org",
+        "source": "",
         "meetings": "",
         "note": "",
-        "vici": "11973",
+        "vici": "11609",
         "pleiades": "422917",
         "dare": "22227",
         "arachne": "",
@@ -8505,8 +8505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.05109,
-          42.672871
+          12.709257,
+          41.724496
         ]
       }
     },
@@ -29106,6 +29106,84 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000795",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Località Sant'Antonio",
+        "modernplace": "Cerveteri",
+        "ancientplace": "Caere",
+        "pleiadesplace": "422859",
+        "country": "IT",
+        "orientation": "213",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "Etruscan",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.107891,
+          41.996939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000796",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Località Sant'Antonio",
+        "modernplace": "Cerveteri",
+        "ancientplace": "Caere",
+        "pleiadesplace": "422859",
+        "country": "IT",
+        "orientation": "211",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "Etruscan",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10824,
+          41.996812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000797",
         "name": "Temple",
         "dedicatee": "",
@@ -29231,7 +29309,20 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "0"
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "Etruscan"
       },
       "geometry": {
         "type": "Point",
@@ -45055,6 +45146,88 @@
         "coordinates": [
           11.19991,
           44.336545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001210",
+        "name": "Temple of Diana Umbronensis",
+        "dedicatee": "Diana",
+        "type": "temple",
+        "setting": "",
+        "location": "rural sanctuary",
+        "modernplace": "Alberese",
+        "ancientplace": "",
+        "pleiadesplace": "441559176",
+        "country": "IT",
+        "orientation": "25",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c CE",
+        "startdateearly": "75",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "Vici.org",
+        "meetings": "",
+        "note": "",
+        "vici": "11973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05109,
+          42.672871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001211",
+        "name": "Small Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "rural sanctuary",
+        "modernplace": "Nemi",
+        "ancientplace": "Lake Nemi",
+        "pleiadesplace": "422984",
+        "country": "IT",
+        "orientation": "214",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "-275",
+        "startdatelate": "-225",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.709374,
+          41.724373
         ]
       }
     }

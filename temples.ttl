@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-16" ;
+    dcterms:modified "2024-07-21" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2659,13 +2659,15 @@ spatial:C <https://pleiades.stoa.org/places/462503#this> ;
 skos:exactMatch <http://vici.org/vici/11870> ;
 .
 <https://romeresearchgroup.org/items/1000248> a lawd:Place ;
-rdfs:label "Temple of Diana Nemorensis (Alberese)" ;
+rdfs:label "Temple of Diana Nemorensis at Lake Nemi" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "42.672871"^^xsd:double ; geo:long "11.05109"^^xsd:double ] ;
+geo:location [ geo:lat "41.724496"^^xsd:double ; geo:long "12.709257"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
-skos:exactMatch <http://vici.org/vici/11973> ;
+spatial:C <https://pleiades.stoa.org/places/422984#this> ;
+skos:exactMatch <http://vici.org/vici/11609> ;
 skos:exactMatch <http://pleiades.stoa.org/places/422917> ;
 skos:exactMatch <http://dare.ht.lu.se/places/22227> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Diana_(Nemi)> ;
@@ -8216,6 +8218,8 @@ spatial:C <https://pleiades.stoa.org/places/422859#this> ;
 <https://romeresearchgroup.org/items/1000795> a lawd:Place ;
 rdfs:label "Temple A at Caere" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.996939"^^xsd:double ; geo:long "12.107891"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8224,6 +8228,8 @@ spatial:C <https://pleiades.stoa.org/places/422859#this> ;
 <https://romeresearchgroup.org/items/1000796> a lawd:Place ;
 rdfs:label "Temple B at Caere" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.996812"^^xsd:double ; geo:long "12.10824"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12450,4 +12456,25 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/393448#this> ;
+.
+<https://romeresearchgroup.org/items/1001210> a lawd:Place ;
+rdfs:label "Temple of Diana Umbronensis (Alberese)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.672871"^^xsd:double ; geo:long "11.05109"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/441559176#this> ;
+skos:exactMatch <http://vici.org/vici/11973> ;
+.
+<https://romeresearchgroup.org/items/1001211> a lawd:Place ;
+rdfs:label "Small Temple at Lake Nemi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.724373"^^xsd:double ; geo:long "12.709374"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422984#this> ;
 .
