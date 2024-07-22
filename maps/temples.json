@@ -45156,8 +45156,8 @@
         "name": "Temple of Diana Umbronensis",
         "dedicatee": "Diana",
         "type": "temple",
-        "setting": "",
-        "location": "rural sanctuary",
+        "setting": "rural sanctuary",
+        "location": "",
         "modernplace": "Alberese",
         "ancientplace": "",
         "pleiadesplace": "441559176",
@@ -45199,8 +45199,8 @@
         "name": "Small Temple",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
-        "location": "rural sanctuary",
+        "setting": "rural sanctuary",
+        "location": "",
         "modernplace": "Nemi",
         "ancientplace": "Lake Nemi",
         "pleiadesplace": "422984",
@@ -45228,6 +45228,45 @@
         "coordinates": [
           12.709374,
           41.724373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001212",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "Cannicella",
+        "modernplace": "Orvieto",
+        "ancientplace": "Volsinii Veteres",
+        "pleiadesplace": "413373",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "6th c. BCE",
+        "startdateearly": "-599",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.117471,
+          42.715057
         ]
       }
     }
