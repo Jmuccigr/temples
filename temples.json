@@ -53029,6 +53029,45 @@
           42.715057
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001213",
+        "name": "Oikos Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "Piazza d'Armi",
+        "modernplace": "Veio",
+        "ancientplace": "Veii",
+        "pleiadesplace": "423116",
+        "country": "IT",
+        "orientation": "215",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 6th c BCE",
+        "startdateearly": "-599",
+        "startdatelate": "-575",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.407711,
+          42.013832
+        ]
+      }
     }
   ]
 }
