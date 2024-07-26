@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-23" ;
+    dcterms:modified "2024-07-26" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -4481,6 +4481,7 @@ skos:exactMatch <http://vici.org/vici/16776> ;
 rdfs:label "Temple of Mercury (Orcines)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "45.771854"^^xsd:double ; geo:long "2.964456"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "FR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8282,6 +8283,7 @@ spatial:C <https://pleiades.stoa.org/places/413126#this> ;
 rdfs:label "Temple \"del Manganello\" at Caere" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.002596"^^xsd:double ; geo:long "12.103849"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9606,7 +9608,7 @@ skos:exactMatch <https://arachne.dainst.org/entity/5684> ;
 skos:exactMatch <https://es.wikipedia.org/wiki/Templo_de_Apolo_(Termo)> ;
 .
 <https://romeresearchgroup.org/items/1000935> a lawd:Place ;
-rdfs:label "Temple of Artemis  at Corcyra" ;
+rdfs:label "Temple of Artemis at Corcyra" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.60712"^^xsd:double ; geo:long "19.91808"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -9620,7 +9622,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Artemis,_Corfu> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q2654754> ;
 .
 <https://romeresearchgroup.org/items/1000936> a lawd:Place ;
-rdfs:label "Temple of Apollo Epicurius  at Bassae" ;
+rdfs:label "Temple of Apollo Epicurius at Bassae" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.429621"^^xsd:double ; geo:long "21.900202"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -9631,7 +9633,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/570148> ;
 skos:exactMatch <https://topostext.org/place/374219SBas> ;
 .
 <https://romeresearchgroup.org/items/1000937> a lawd:Place ;
-rdfs:label "Kardaki Temple  at Corcyra" ;
+rdfs:label "Kardaki Temple at Corcyra" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.60136"^^xsd:double ; geo:long "19.9261"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -9643,7 +9645,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Kardaki_Temple> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q63382820> ;
 .
 <https://romeresearchgroup.org/items/1000938> a lawd:Place ;
-rdfs:label "Temple of Poseidon  at Isthmia" ;
+rdfs:label "Temple of Poseidon at Isthmia" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.91575"^^xsd:double ; geo:long "22.99305"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -9666,7 +9668,7 @@ spatial:C <https://pleiades.stoa.org/places/540726#this> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q105394648> ;
 .
 <https://romeresearchgroup.org/items/1000940> a lawd:Place ;
-rdfs:label "Temple of Athena Pronaia  at Delphi" ;
+rdfs:label "Temple of Athena Pronaia at Delphi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.480127"^^xsd:double ; geo:long "22.508375"^^xsd:double ] ;
 gn:countryCode "GR" ;
@@ -9691,7 +9693,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_the_Delians> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q27663954> ;
 .
 <https://romeresearchgroup.org/items/1000942> a lawd:Place ;
-rdfs:label "Tholos of Delphi  at Delphi" ;
+rdfs:label "Tholos of Delphi at Delphi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.48016"^^xsd:double ; geo:long "22.507898"^^xsd:double ] ;
 gn:countryCode "GR" ;
@@ -9701,7 +9703,7 @@ skos:exactMatch <https://en.wikipedia.org/wiki/Tholos_of_Delphi> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q12013451> ;
 .
 <https://romeresearchgroup.org/items/1000943> a lawd:Place ;
-rdfs:label "Temple of Nemesis  at Rhamnous" ;
+rdfs:label "Temple of Nemesis at Rhamnous" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.2176"^^xsd:double ; geo:long "24.02689"^^xsd:double ] ;
 gn:countryCode "GR" ;
@@ -9710,7 +9712,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/580097#this> ;
 .
 <https://romeresearchgroup.org/items/1000944> a lawd:Place ;
-rdfs:label "The Parthenon  at Athens" ;
+rdfs:label "The Parthenon at Athens" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.97146"^^xsd:double ; geo:long "23.72667"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -10311,7 +10313,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/599719#this> ;
 .
 <https://romeresearchgroup.org/items/1001003> a lawd:Place ;
-rdfs:label "Temple of Artemis  at Claros" ;
+rdfs:label "Temple of Artemis at Claros" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.005237"^^xsd:double ; geo:long "27.193117"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -10423,7 +10425,7 @@ skos:exactMatch <https://arachne.dainst.org/entity/6974> ;
 skos:exactMatch <https://topostext.org/place/380237SArt> ;
 .
 <https://romeresearchgroup.org/items/1001014> a lawd:Place ;
-rdfs:label "Temple of Nemesis  at Mytilene" ;
+rdfs:label "Temple of Nemesis at Mytilene" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.110094"^^xsd:double ; geo:long "26.547001"^^xsd:double ] ;
 gn:countryCode "GR" ;
@@ -10754,6 +10756,10 @@ geo:location [ geo:lat "47.610055"^^xsd:double ; geo:long "8.348225"^^xsd:double
 gn:countryCode "DE" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/67046> ;
+skos:exactMatch <http://dare.ht.lu.se/places/41796> ;
+skos:exactMatch <https://de.wikipedia.org/wiki/Gallo-römischer_Umgangstempel_bei_Oberlauchringen> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q1303043> ;
 .
 <https://romeresearchgroup.org/items/1001048> a lawd:Place ;
 rdfs:label "Temple at Perusia" ;
@@ -11043,7 +11049,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/570292#this> ;
 .
 <https://romeresearchgroup.org/items/1001077> a lawd:Place ;
-rdfs:label "Temple of Poseidon  at Hermione" ;
+rdfs:label "Temple of Poseidon at Hermione" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.3839268"^^xsd:double ; geo:long "23.2567624"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -11097,7 +11103,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
 <https://romeresearchgroup.org/items/1001082> a lawd:Place ;
-rdfs:label "Temple of Poseidon  at Samikon" ;
+rdfs:label "Temple of Poseidon at Samikon" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.529194"^^xsd:double ; geo:long "21.589222"^^xsd:double ] ;
 gn:countryCode "GR" ;
@@ -11608,7 +11614,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/707617#this> ;
 .
 <https://romeresearchgroup.org/items/1001133> a lawd:Place ;
-rdfs:label "Temple of Aphaia at Aigina" ;
+rdfs:label "Temple of Aphaia at Aegina" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.75432"^^xsd:double ; geo:long "23.53318"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -11624,7 +11630,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q596988> ;
 skos:exactMatch <https://topostext.org/place/378235SAph> ;
 .
 <https://romeresearchgroup.org/items/1001134> a lawd:Place ;
-rdfs:label "Temple of Zeus Hellanios at Aigina" ;
+rdfs:label "Temple of Zeus Hellanios at Aegina" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.7077746"^^xsd:double ; geo:long "23.497615"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -11635,7 +11641,7 @@ spatial:C <https://pleiades.stoa.org/places/579844#this> ;
 skos:exactMatch <http://vici.org/vici/28396> ;
 .
 <https://romeresearchgroup.org/items/1001135> a lawd:Place ;
-rdfs:label "Temple of Apollo at Aigina" ;
+rdfs:label "Temple of Apollo at Aegina" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "37.750343"^^xsd:double ; geo:long "23.423689"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
@@ -12496,4 +12502,100 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423116#this> ;
+.
+<https://romeresearchgroup.org/items/1001214> a lawd:Place ;
+rdfs:label "Curia-Temple at Tusculum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.798067"^^xsd:double ; geo:long "12.710017"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423108#this> ;
+.
+<https://romeresearchgroup.org/items/1001215> a lawd:Place ;
+rdfs:label "Cigognier Temple at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.881705"^^xsd:double ; geo:long "7.045941"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+skos:exactMatch <http://vici.org/vici/10199> ;
+skos:exactMatch <http://dare.ht.lu.se/places/20464> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Aventicum#Cigognier_Temple> ;
+.
+<https://romeresearchgroup.org/items/1001216> a lawd:Place ;
+rdfs:label "Temple of the Grange-des-Dîmes at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.882332"^^xsd:double ; geo:long "7.044892"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+skos:exactMatch <http://vici.org/vici/10200> ;
+skos:exactMatch <http://dare.ht.lu.se/places/20463> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Aventicum#The_Temple_of_the_Grange-des-Dîmes_(2nd_century_AD)> ;
+.
+<https://romeresearchgroup.org/items/1001217> a lawd:Place ;
+rdfs:label "North Temple at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.880148"^^xsd:double ; geo:long "7.047405"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+.
+<https://romeresearchgroup.org/items/1001218> a lawd:Place ;
+rdfs:label "South Temple at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.880541"^^xsd:double ; geo:long "7.046657"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+.
+<https://romeresearchgroup.org/items/1001219> a lawd:Place ;
+rdfs:label "Temple behind the Tower at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.881913"^^xsd:double ; geo:long "7.043466"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+.
+<https://romeresearchgroup.org/items/1001220> a lawd:Place ;
+rdfs:label "Round Temple at Aventicum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "46.881669"^^xsd:double ; geo:long "7.04448"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/177495#this> ;
+.
+<https://romeresearchgroup.org/items/1001221> a lawd:Place ;
+rdfs:label "Temple Pfaffenlohweg (Riehen)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "47.577541"^^xsd:double ; geo:long "7.641812"^^xsd:double ] ;
+gn:countryCode "CH" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/13165> ;
+skos:exactMatch <http://dare.ht.lu.se/places/38835> ;
+.
+<https://romeresearchgroup.org/items/1001222> a lawd:Place ;
+rdfs:label "Temple (Champlieu)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "49.309998"^^xsd:double ; geo:long "2.853743"^^xsd:double ] ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/108876#this> ;
+skos:exactMatch <http://vici.org/vici/55507> ;
 .
