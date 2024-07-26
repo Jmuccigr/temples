@@ -1203,9 +1203,10 @@
 "1001212","Temple","","temple","rural sanctuary","Cannicella","Orvieto","Volsinii Veteres","413373","IT","42.715057","12.117471","","","1","","6th c. BCE","-599","-500","-6","","","","","","","Etruscan","","yes"
 "1001213","Oikos Temple","","temple","urban","Piazza d'Armi","Veio","Veii","423116","IT","42.013832","12.407711","215","SW","0","","early 6th c BCE","-599","-575","-6","","","","","","","Etruscan","","yes"
 "1001214","Curia-Temple","","temple","forum","","Tuscolo","Tusculum","423108","IT","41.798067","12.710017","7","N","0","","Augustan - mid 1st c CE","-13","50","-1","","","","","","","Roman","","yes"
-"1001215","Cigognier Temple","","temple","","","Avenches","Aventicum","177495","CH","","","","","0","","","","","","","","","","","","Roman","","yes","","","","10199","","20464","","","Aventicum#Cigognier_Temple"
-"1001216","Temple of the Grange-des-Dîmes","","temple","","","Avenches","Aventicum","177495","CH","","","","","0","","","","","","","","","","","","Roman","","yes","","","","10200","","20463","","","Aventicum#The_Temple_of_the_Grange-des-Dîmes_(2nd_century_AD)
+"1001215","Cigognier Temple","","temple","","","Avenches","Aventicum","177495","CH","46.881705","7.045941","126","SE","0","","","","","","","","","","","","Roman","","yes","","","","10199","","20464","","","Aventicum#Cigognier_Temple"
+"1001216","Temple of the Grange-des-Dîmes","","temple","","","Avenches","Aventicum","177495","CH","46.882332","7.044892","110","E","0","","late 1st c. CE","70","100","1","","","","","","","Roman","","yes","","","","10200","","20463","","","Aventicum#The_Temple_of_the_Grange-des-Dîmes_(2nd_century_AD)
 "
-"1001215","Temple de Cigognier","","temple","","","Avenches","Aventicum","177495","CH","","","","","0","","","","","","","","","","","","Roman","","yes","","","","","","20464"
-"1001215","Temple de Cigognier","","temple","","","Avenches","Aventicum","177495","CH","","","","","0","","","","","","","","","","","","Roman","","yes","","","","","","20464"
-"1001215","Temple de Cigognier","","temple","","","Avenches","Aventicum","177495","CH","","","","","0","","","","","","","","","","","","Roman","","yes","","","","","","20464"
+"1001217","North Temple","","temple","","","Avenches","Aventicum","177495","CH","46.880148","7.047405","40","NE","0","","","","","","","","","","","","Roman","","yes"
+"1001218","South Temple","","temple","","","Avenches","Aventicum","177495","CH","46.880541","7.046657","53","NE","0","","","","","","","","","","","","Roman","","yes"
+"1001219","Temple behind the Tower","","temple","","","Avenches","Aventicum","177495","CH","46.881913","7.043466","76","E","0","","","","","","","","","","","","Roman","","yes"
+"1001220","Round Temple","","temple","","","Avenches","Aventicum","177495","CH","46.881669","7.04448","110","E","0","","","","","","","","","","","","Roman","","yes"
