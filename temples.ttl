@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-26" ;
+    dcterms:modified "2024-07-27" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12598,4 +12598,32 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/108876#this> ;
 skos:exactMatch <http://vici.org/vici/55507> ;
+.
+<https://romeresearchgroup.org/items/1001223> a lawd:Place ;
+rdfs:label "Archaic Temple at Keryneia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.1641102"^^xsd:double ; geo:long "22.1568912"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570354#this> ;
+skos:exactMatch <http://vici.org/vici/25777> ;
+skos:exactMatch <http://pleiades.stoa.org/places/330217806> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q111086427> ;
+skos:exactMatch <https://topostext.org/place/382222SKyr> ;
+.
+<https://romeresearchgroup.org/items/1001224> a lawd:Place ;
+rdfs:label "Classical Temple at Keryneia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.1641568"^^xsd:double ; geo:long "22.1561766"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570354#this> ;
+skos:exactMatch <http://vici.org/vici/25777> ;
+skos:exactMatch <http://pleiades.stoa.org/places/330217806> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q111086427> ;
+skos:exactMatch <https://topostext.org/place/382222SKyr> ;
 .
