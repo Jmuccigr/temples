@@ -96,6 +96,17 @@ while test $# -gt 0; do
   esac
 done
 
+# Get the database to update. Default is local.
+if ! $local
+then
+    pwd=$(dirname "$0")
+    pwd=$(dirname "$pwd")
+    cmdStr=--defaults-extra-file="$pwd"/forbidden/sql_remote_config.cnf
+    echo -e "Working with remote database.\n"
+else
+    echo -e "Working with local database.\n"
+fi
+
 if [[ "$local" == "true" && $sqltest == '' ]]
 then
     echo ""
@@ -141,14 +152,6 @@ then
     fi
     echo ""
     echo "OK, that seemed to work, let's go..."
-fi
-
-# Get the database to update. Default is local.
-if ! $local
-then
-    pwd=$(dirname "$0")
-    pwd=$(dirname "$pwd")
-    cmdStr=--defaults-extra-file="$pwd"/forbidden/sql_remote_config.cnf
 fi
 
 # Now count the rows in the local csv files
