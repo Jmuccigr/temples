@@ -45808,6 +45808,113 @@
           38.1641568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001225",
+        "name": "Acropolis Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Stimfalia",
+        "ancientplace": "Stymphalos",
+        "pleiadesplace": "570696",
+        "country": "GR",
+        "orientation": "85",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "400-350 BCE",
+        "startdateearly": "-399",
+        "startdatelate": "-350",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "44585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4573605,
+          37.8585278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001226",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Stimfalia",
+        "ancientplace": "Stymphalos",
+        "pleiadesplace": "570696",
+        "country": "GR",
+        "orientation": "60",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "tetrastyle prostyle",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.461018,
+          37.85925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001227",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Stimfalia",
+        "ancientplace": "Stymphalos",
+        "pleiadesplace": "570696",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4723968,
+          37.8746576
+        ]
+      }
     }
   ]
 }

@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-07-27" ;
+    dcterms:modified "2024-08-08" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12626,4 +12626,34 @@ skos:exactMatch <http://vici.org/vici/25777> ;
 skos:exactMatch <http://pleiades.stoa.org/places/330217806> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q111086427> ;
 skos:exactMatch <https://topostext.org/place/382222SKyr> ;
+.
+<https://romeresearchgroup.org/items/1001225> a lawd:Place ;
+rdfs:label "Acropolis Temple at Stymphalos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.8585278"^^xsd:double ; geo:long "22.4573605"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570696#this> ;
+skos:exactMatch <http://vici.org/vici/44585> ;
+.
+<https://romeresearchgroup.org/items/1001226> a lawd:Place ;
+rdfs:label "Temple at Stymphalos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.85925"^^xsd:double ; geo:long "22.461018"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570696#this> ;
+.
+<https://romeresearchgroup.org/items/1001227> a lawd:Place ;
+rdfs:label "Temple at Stymphalos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.8746576"^^xsd:double ; geo:long "22.4723968"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570696#this> ;
 .
