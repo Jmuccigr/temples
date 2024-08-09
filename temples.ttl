@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-08" ;
+    dcterms:modified "2024-08-09" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9661,6 +9661,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q18385210> ;
 rdfs:label "New Temple at Delphi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.480248"^^xsd:double ; geo:long "22.507672"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9671,6 +9672,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q105394648> ;
 rdfs:label "Temple of Athena Pronaia at Delphi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.480127"^^xsd:double ; geo:long "22.508375"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9696,6 +9698,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q27663954> ;
 rdfs:label "Tholos of Delphi at Delphi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.48016"^^xsd:double ; geo:long "22.507898"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9706,6 +9709,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q12013451> ;
 rdfs:label "Temple of Nemesis at Rhamnous" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.2176"^^xsd:double ; geo:long "24.02689"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -12656,4 +12660,14 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570696#this> ;
+.
+<https://romeresearchgroup.org/items/1001228> a lawd:Place ;
+rdfs:label "Temple at Kymisala" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.1762116"^^xsd:double ; geo:long "27.76411558"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589888#this> ;
 .
