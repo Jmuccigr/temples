@@ -44666,26 +44666,26 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1001198",
-        "name": "Asea Vigla Temple",
+        "name": "Late Archaic Temple",
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
-        "modernplace": "",
+        "location": "Vigla Hill",
+        "modernplace": "Asea",
         "ancientplace": "Asea",
         "pleiadesplace": "570122",
         "country": "GR",
         "orientation": "",
         "compass": "",
-        "geocertainty": "0",
+        "geocertainty": "1",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "520-510 BCE",
+        "startdateearly": "-520",
+        "startdatelate": "-510",
+        "century": "-6",
         "enddate": "",
         "preceded": "",
-        "succeeded": "",
+        "succeeded": "1001229",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
@@ -44697,8 +44697,8 @@ var temples =  {
         "note": "",
         "vici": "73377",
         "pleiades": "",
-        "dare": "46257",
-        "arachne": "",
+        "dare": "",
+        "arachne": "4642239",
         "livius": "",
         "wikipedia": "",
         "wikidata": "Q111082717",
@@ -44712,8 +44712,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.250341,
-          37.4217266
+          22.3248,
+          37.4339
         ]
       }
     },
@@ -44725,19 +44725,19 @@ var temples =  {
         "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
-        "modernplace": "Agios Elias",
+        "location": "Agios Elias",
+        "modernplace": "Asea",
         "ancientplace": "Asea",
         "pleiadesplace": "570122",
         "country": "GR",
         "orientation": "50",
         "compass": "NE",
-        "geocertainty": "1",
+        "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "ca. 500 BCE",
+        "startdateearly": "-510",
+        "startdatelate": "-490",
+        "century": "-6",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -44752,8 +44752,8 @@ var temples =  {
         "note": "",
         "vici": "32414",
         "pleiades": "177523747",
-        "dare": "27409",
-        "arachne": "2362636",
+        "dare": "",
+        "arachne": "",
         "livius": "",
         "wikipedia": "",
         "wikidata": "",
@@ -44767,8 +44767,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.3248,
-          37.4339
+          22.250341,
+          37.4217266
         ]
       }
     },
@@ -45966,6 +45966,61 @@ var temples =  {
         "coordinates": [
           27.76411558,
           36.1762116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001229",
+        "name": "Early Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Vigla Hill",
+        "modernplace": "Asea",
+        "ancientplace": "Asea",
+        "pleiadesplace": "570122",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "630-620 BCE",
+        "startdateearly": "-630",
+        "startdatelate": "-620",
+        "century": "-7",
+        "enddate": "",
+        "preceded": "1001198",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "73377",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "4642239",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "Q111082717",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "374223SZeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3248,
+          37.4339
         ]
       }
     }
