@@ -44,6 +44,9 @@
 							<option value="orientations">
 								orientation
 							</option>
+							<option value="orientations_long">
+								orientation (long)
+							</option>
 							<option value="heatmap">
 								heatmap
 							</option>
@@ -106,7 +109,6 @@
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
 		</script>
-		</script>
 		<script type="text/javascript">
 		    document.cookie = "querytype=map; path=/";
 		    document.cookie = "sqlquery=; path=/";
@@ -136,6 +138,8 @@
 		<script type="text/javascript" src="scripts/function_layer_by_century.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_layer_by_orientation.js">
+		</script>
+		<script type="text/javascript" src="scripts/function_layer_by_orientation_long.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_layer_by_heat.js">
 		</script>
@@ -172,6 +176,8 @@
 		</script>
 		<script type="text/javascript" src="scripts/relocate_map.js">
 		</script>
+	    <script type="text/javascript" src="scripts/timeout.js">
+		</script>
 
 		<!-- php script that loads a variable 'biblio' into js -->
 		<?php include 'scripts/get_biblio.php' ?>
@@ -180,6 +186,7 @@
 			// Set a variable to indicate start-up
 			// Cookies last a day, so they won't do.
 			var allPoints = [];
+			var counter = 0;
 
 			// Create menu to select the way to format the data
 			var selectmenu = document.getElementById("mymenu")
@@ -197,6 +204,9 @@
 				        break;
 				    case "orientations":
 				        layer_by_orientation();
+				        break;
+				    case "orientations_long":
+				        layer_by_orientation_long();
 				        break;
 					case "deitytype":
 						layer_by_deitytype();
@@ -241,6 +251,7 @@
 
 			// Read the inputted search
 			function readInput() {
+				counter = 0;
 				conn = '';
 				searchInput = '';
 				firstInputMenu = document.getElementById("first").value;

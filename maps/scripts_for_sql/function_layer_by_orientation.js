@@ -1,4 +1,7 @@
 ﻿function layer_by_orientation() {
+
+    timeout();
+
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
         templesN.addData(data);

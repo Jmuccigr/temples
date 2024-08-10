@@ -1,5 +1,8 @@
 function layer_by_heat() {
-    <!--  My datafile -->
+    
+    timeout();
+
+<!--  My datafile -->
 
     $.getJSON("scripts/json.php", function (data) {
         addDataToMap(data, map);

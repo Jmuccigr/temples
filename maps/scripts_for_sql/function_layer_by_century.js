@@ -1,4 +1,7 @@
 ﻿function layer_by_century() {
+
+    timeout();
+
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
         temples1.addData(data);
@@ -6,6 +9,8 @@
         temples3.addData(data);
         temples4.addData(data);
         temples5.addData(data);
+        temples6.addData(data);
+        temples7.addData(data);
         allPoints = data.features;
     });
 
@@ -26,11 +31,13 @@
 	clearControls();
 
     // Define layers for the various kinds of monuments in temples.js
-    var first = new L.LayerGroup(),
-        second = new L.LayerGroup(),
-        third = new L.LayerGroup(),
-        fourth = new L.LayerGroup(),
-        fifth = new L.LayerGroup();
+    var first   = new L.LayerGroup(),
+        second  = new L.LayerGroup(),
+        third   = new L.LayerGroup(),
+        fourth  = new L.LayerGroup(),
+        fifth   = new L.LayerGroup(),
+        sixth   = new L.LayerGroup(),
+        seventh = new L.LayerGroup();
 
     // Set the offset value for the tooltip
     oset = -28;
@@ -65,13 +72,13 @@
             if (feature.properties.geocertainty == "1") {
             return L.marker(latlng,
             {
-                icon: greenCircleIcon,
+                icon: greyCircleIcon,
                 riseOnHover: true
             })
             } else {
             return L.marker(latlng,
             {
-                icon: greenIcon,
+                icon: greyIcon,
                 riseOnHover: true
             })
             };
@@ -88,13 +95,13 @@
             if (feature.properties.geocertainty == "1") {
             return L.marker(latlng,
             {
-                icon: greyCircleIcon,
+                icon: greenCircleIcon,
                 riseOnHover: true
             })
             } else {
             return L.marker(latlng,
             {
-                icon: greyIcon,
+                icon: greenIcon,
                 riseOnHover: true
             })
             };
@@ -134,6 +141,52 @@
             if (feature.properties.geocertainty == "1") {
             return L.marker(latlng,
             {
+                icon: yellowCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
+                icon: yellowIcon,
+                riseOnHover: true
+            })
+            };
+        },
+        filter: function (feature, layer) {
+            return (feature.properties.century == "-5");
+        }
+    }).addTo(fifth);
+
+   temples6 = new L.geoJson(null, {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
+                icon: orangeCircleIcon,
+                riseOnHover: true
+            })
+            } else {
+            return L.marker(latlng,
+            {
+                icon: orangeIcon,
+                riseOnHover: true
+            })
+            };
+        },
+        filter: function (feature, layer) {
+            return (feature.properties.century == "-6");
+        }
+    }).addTo(sixth);
+
+   temples7 = new L.geoJson(null, {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng)
+        {
+            if (feature.properties.geocertainty == "1") {
+            return L.marker(latlng,
+            {
                 icon: redCircleIcon,
                 riseOnHover: true
             })
@@ -146,21 +199,23 @@
             };
         },
         filter: function (feature, layer) {
-            return (feature.properties.century == "-5");
+            return (feature.properties.century == "-7");
         }
-    }).addTo(fifth);
+    }).addTo(seventh);
 
     var overlays = {
         "<span style='color: black'>first c. BC</span>": first,
-        "<span style='color: green'>second c. BC</span>": second,
-        "<span style='color: grey'>third c. BC</span>": third,
+        "<span style='color: grey'>second c. BC</span>": second,
+        "<span style='color: green'>third c. BC</span>": third,
         "<span style='color: blue'>fourth c. BC</span>": fourth,
-        "<span style='color: red'>fifth c. BC</span>": fifth
+        "<span style='color: yellow; background: darkgrey'>fifth c. BC</span>": fifth,
+        "<span style='color: orange'>sixth c. BC</span>": sixth,
+        "<span style='color: red'>seventh c. BC</span>": seventh
     };
 
     // Make sure this is global so the control can be deleted.
     ctl = L.control.layers(baseLayers, overlays, {
-        collapsed: false,
+        collapsed: true,
         position: 'bottomleft'
     }).addTo(map);
 
@@ -174,6 +229,8 @@
     map.addLayer(third);
     map.addLayer(fourth);
     map.addLayer(fifth);
+    map.addLayer(sixth);
+    map.addLayer(seventh);
 
 	// Add back the wall, if needed
 	if (hasWalls) {

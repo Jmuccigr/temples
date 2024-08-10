@@ -1,4 +1,7 @@
 ﻿function layer_by_deitytype() {
+
+    timeout();
+
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
         temples1.addData(data);

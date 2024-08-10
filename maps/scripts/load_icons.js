@@ -112,6 +112,13 @@ var arrowIcon = L.icon(
     iconSize: [36, 36]
 });
 
+var arrowIconLong = L.icon(
+{
+    iconUrl: '/icons/arrow-markerup_long.png',
+    iconAnchor: [18, 1024],
+    iconSize: [36, 1024]
+});
+
 var circleIcon = L.icon(
 {
     iconUrl: '/icons/circle-marker_red.png',

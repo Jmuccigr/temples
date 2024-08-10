@@ -5,6 +5,7 @@ function onEachFeature(feature, layer) {
         markerOffset = 0;
     } else {
         markerOffset = oset;
+        counter++;
     }
     layer.bindTooltip(getTooltipText(feature, layer), {
             offset: [0, markerOffset]

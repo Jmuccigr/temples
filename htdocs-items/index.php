@@ -122,8 +122,10 @@
 		</script>
 		<script type="text/javascript" src="scripts/load_icons.js">
 		</script>
+<!-- 
 		<script type="text/javascript" src="scripts/tile.stamen.js">
 		</script>
+ -->
 		<script type="text/javascript" src="scripts/load_basemaps.js">
 		</script>
 <!-- Load jQuery library using plain JavaScript -->
@@ -149,6 +151,7 @@
 			// Set a variable to indicate start-up
 			// Cookies last a day, so they won't do.
 // 			allPoints = [];
+			var counter = 0;
 
 			// Create menu to select the way to format the data
 			var selectmenu = document.getElementById("mymenu")

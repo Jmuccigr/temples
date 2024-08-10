@@ -1,6 +1,9 @@
 ﻿function layer_by_type() {
-    // My datafile
-	$.getJSON("scripts/json.php", function (data) {
+
+    timeout();
+
+<!--  My datafile -->
+$.getJSON("scripts/json.php", function (data) {
         temples.addData(data);
         mithrae.addData(data);
         sanctuaries.addData(data);

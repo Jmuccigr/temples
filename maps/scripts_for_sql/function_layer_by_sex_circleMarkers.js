@@ -1,4 +1,7 @@
 ﻿function layer_by_sex_circleMarkers() {
+
+    timeout();
+
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
         templesM.addData(data);

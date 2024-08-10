@@ -1,5 +1,7 @@
 ﻿function layer_by_sex() {
 
+    timeout();
+
 <!--  My datafile -->
 	$.getJSON("scripts/json.php", function (data) {
         templesM.addData(data);
