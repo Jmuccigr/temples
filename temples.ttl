@@ -12712,5 +12712,5 @@ gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/79733#this> ;
-skos:exactMatch <http://vici.org/vici/1001231> ;
+skos:exactMatch <http://vici.org/vici/27832> ;
 .
