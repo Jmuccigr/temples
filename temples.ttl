@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-10" ;
+    dcterms:modified "2024-08-11" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12681,4 +12681,36 @@ skos:exactMatch <http://vici.org/vici/73377> ;
 skos:exactMatch <https://arachne.dainst.org/entity/4642239> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q111082717> ;
 skos:exactMatch <https://topostext.org/place/374223SZeu> ;
+.
+<https://romeresearchgroup.org/items/1001230> a lawd:Place ;
+rdfs:label "Temple of Artemis (Vervaina)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.396687"^^xsd:double ; geo:long "22.4669538"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q98147673> ;
+skos:exactMatch <https://topostext.org/place/374225SArt> ;
+.
+<https://romeresearchgroup.org/items/1001231> a lawd:Place ;
+rdfs:label "Temple at Venta Silurum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "51.611419"^^xsd:double ; geo:long "-2.7674072"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79733#this> ;
+skos:exactMatch <http://vici.org/vici/12217> ;
+.
+<https://romeresearchgroup.org/items/1001232> a lawd:Place ;
+rdfs:label "Octagonal Temple at Venta Silurum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "51.611465"^^xsd:double ; geo:long "-2.7674136"^^xsd:double ] ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/79733#this> ;
+skos:exactMatch <http://vici.org/vici/1001231> ;
 .

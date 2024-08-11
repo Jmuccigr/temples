@@ -46023,6 +46023,147 @@ var temples =  {
           37.4339
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001230",
+        "name": "Temple of Artemis",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Vervaina",
+        "ancientplace": "",
+        "pleiadesplace": "",
+        "country": "GR",
+        "orientation": "92",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Doric tetrastyle",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "",
+        "wikidata": "Q98147673",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "374225SArt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4669538,
+          37.396687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001231",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Caerwent",
+        "ancientplace": "Venta Silurum",
+        "pleiadesplace": "79733",
+        "country": "UK",
+        "orientation": "198",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "4th c CE",
+        "startdateearly": "300",
+        "startdatelate": "399",
+        "century": "3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Romano-Celtic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "12217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7674072,
+          51.611419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001232",
+        "name": "Octagonal Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "extraurban",
+        "location": "",
+        "modernplace": "Caerwent",
+        "ancientplace": "Venta Silurum",
+        "pleiadesplace": "79733",
+        "country": "UK",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Romano-Celtic",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "1001231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7674136,
+          51.611465
+        ]
+      }
     }
   ]
 }
