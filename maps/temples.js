@@ -46160,7 +46160,7 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.7674136,
+          -2.7641101,
           51.611465
         ]
       }

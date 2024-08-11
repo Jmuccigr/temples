@@ -12707,7 +12707,7 @@ skos:exactMatch <http://vici.org/vici/12217> ;
 <https://romeresearchgroup.org/items/1001232> a lawd:Place ;
 rdfs:label "Octagonal Temple at Venta Silurum" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.611465"^^xsd:double ; geo:long "-2.7674136"^^xsd:double ] ;
+geo:location [ geo:lat "51.611465"^^xsd:double ; geo:long "-2.7641101"^^xsd:double ] ;
 gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
