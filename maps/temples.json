@@ -9421,8 +9421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825308,
-          37.582333
+          12.825334,
+          37.582567
         ]
       }
     },
@@ -33005,8 +33005,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825334,
-          37.582567
+          12.825308,
+          37.582333
         ]
       }
     },
@@ -46162,6 +46162,49 @@
         "coordinates": [
           -2.7641101,
           51.611465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001235",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Paroikia",
+        "ancientplace": "Paros",
+        "pleiadesplace": "599867",
+        "country": "GR",
+        "orientation": "292",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "530-520 BCE",
+        "startdateearly": "-520",
+        "startdatelate": "-510",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "amphiprostyle hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "28376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1472892,
+          37.08464
         ]
       }
     }
