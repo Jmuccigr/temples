@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-11" ;
+    dcterms:modified "2024-08-12" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2892,7 +2892,7 @@ skos:exactMatch <https://www.wikidata.org/entity/Q3983175> ;
 <https://romeresearchgroup.org/items/1000268> a lawd:Place ;
 rdfs:label "Temple A at Selinus" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "37.582333"^^xsd:double ; geo:long "12.825308"^^xsd:double ] ;
+geo:location [ geo:lat "37.582567"^^xsd:double ; geo:long "12.825334"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -9323,7 +9323,7 @@ spatial:C <https://pleiades.stoa.org/places/462489#this> ;
 <https://romeresearchgroup.org/items/1000907> a lawd:Place ;
 rdfs:label "Temple O at Selinus" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "37.582567"^^xsd:double ; geo:long "12.825334"^^xsd:double ] ;
+geo:location [ geo:lat "37.582333"^^xsd:double ; geo:long "12.825308"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -12713,4 +12713,53 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/79733#this> ;
 skos:exactMatch <http://vici.org/vici/27832> ;
+.
+<https://romeresearchgroup.org/items/1001233> a lawd:Place ;
+rdfs:label "Temple of Athena at Paros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.126639"^^xsd:double ; geo:long "25.209404"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599867#this> ;
+.
+<https://romeresearchgroup.org/items/1001234> a lawd:Place ;
+rdfs:label "Temple of Artemis at Paros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.103491"^^xsd:double ; geo:long "25.1547992"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599586#this> ;
+skos:exactMatch <http://vici.org/vici/28376> ;
+skos:exactMatch <https://arachne.dainst.org/entity/8936> ;
+.
+<https://romeresearchgroup.org/items/1001235> a lawd:Place ;
+rdfs:label "Temple of Athena at Paros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.08464"^^xsd:double ; geo:long "25.1472892"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599867#this> ;
+skos:exactMatch <http://vici.org/vici/28376> ;
+.
+<https://romeresearchgroup.org/items/1001236> a lawd:Place ;
+rdfs:label "New Temple at Selinus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.5831982"^^xsd:double ; geo:long "12.8247782"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/462489#this> ;
+.
+<https://romeresearchgroup.org/items/1001237> a lawd:Place ;
+rdfs:label "Asclepion at Paros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.07825"^^xsd:double ; geo:long "25.1408788"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .

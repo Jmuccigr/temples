@@ -12610,8 +12610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825308,
-          37.582333
+          12.825334,
+          37.582567
         ]
       }
     },
@@ -40259,8 +40259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.825334,
-          37.582567
+          12.825308,
+          37.582333
         ]
       }
     },
@@ -41278,10 +41278,10 @@
         "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "end of 4th c BCE",
+        "startdateearly": "-350",
+        "startdatelate": "-300",
+        "century": "-4",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -48696,7 +48696,7 @@
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Greek",
-        "style": "",
+        "style": "Ionic amphiprostyle hexastyle",
         "extant": "yes"
       },
       "geometry": {
@@ -53922,6 +53922,212 @@
         "coordinates": [
           -2.7641101,
           51.611465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001233",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Paros",
+        "ancientplace": "Paros",
+        "pleiadesplace": "599867",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "soon after 700 CBE",
+        "startdateearly": "-699",
+        "startdatelate": "-680",
+        "century": "-7",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.209404,
+          37.126639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001234",
+        "name": "Temple of Artemis",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "",
+        "location": "Delion",
+        "modernplace": "Paros",
+        "ancientplace": "Paros",
+        "pleiadesplace": "599586",
+        "country": "GR",
+        "orientation": "114",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 480 BCE",
+        "startdateearly": "-490",
+        "startdatelate": "-470",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "28376",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "8936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1547992,
+          37.103491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001235",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Paroikia",
+        "ancientplace": "Paros",
+        "pleiadesplace": "599867",
+        "country": "GR",
+        "orientation": "292",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "530-520 BCE",
+        "startdateearly": "-520",
+        "startdatelate": "-510",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "amphiprostyle hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "28376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1472892,
+          37.08464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001236",
+        "name": "New Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Selinunte",
+        "ancientplace": "Selinus",
+        "pleiadesplace": "462489",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8247782,
+          37.5831982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001237",
+        "name": "Asclepion",
+        "dedicatee": "Asclepius",
+        "type": "temple",
+        "setting": "extra-urban",
+        "location": "",
+        "modernplace": "Paros",
+        "ancientplace": "Paros",
+        "pleiadesplace": "",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "4th c BCE",
+        "date": "-399",
+        "startdateearly": "-300",
+        "startdatelate": "",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1408788,
+          37.07825
         ]
       }
     }
