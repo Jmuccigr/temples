@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-12" ;
+    dcterms:modified "2024-08-18" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12298,6 +12298,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570756#this> ;
 skos:exactMatch <http://vici.org/vici/48748> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9153> ;
 .
 <https://romeresearchgroup.org/items/1001195> a lawd:Place ;
 rdfs:label "Asclepieion at Pheneos" ;
@@ -12762,4 +12763,28 @@ geo:location [ geo:lat "37.07825"^^xsd:double ; geo:long "25.1408788"^^xsd:doubl
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001238> a lawd:Place ;
+rdfs:label "Temple of Poseidon and Amphitrite at Tenos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.551995"^^xsd:double ; geo:long "25.1419986"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/590074#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/590006> ;
+skos:exactMatch <https://arachne.dainst.org/entity/8859> ;
+.
+<https://romeresearchgroup.org/items/1001239> a lawd:Place ;
+rdfs:label "Temple of Poseidon at Kalaureia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.522951"^^xsd:double ; geo:long "23.4801683"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570325#this> ;
+skos:exactMatch <http://vici.org/vici/32452> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9169> ;
 .

@@ -44531,7 +44531,10 @@
         "source": "",
         "meetings": "",
         "note": "",
-        "vici": "48748"
+        "vici": "48748",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "9153"
       },
       "geometry": {
         "type": "Point",
@@ -46368,6 +46371,98 @@
         "coordinates": [
           25.1408788,
           37.07825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001238",
+        "name": "Temple of Poseidon and Amphitrite",
+        "dedicatee": "Poseidon, Amphitrite",
+        "type": "temple",
+        "setting": "hilltop sanctuary",
+        "location": "",
+        "modernplace": "Kionia",
+        "ancientplace": "Tenos",
+        "pleiadesplace": "590074",
+        "country": "GR",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "4th c BCE",
+        "date": "-399",
+        "startdateearly": "-300",
+        "startdatelate": "",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "590006",
+        "dare": "",
+        "arachne": "8859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1419986,
+          37.551995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001239",
+        "name": "Temple of Poseidon",
+        "dedicatee": "Poseidon",
+        "type": "temple",
+        "setting": "mountaintop sanctuary",
+        "location": "",
+        "modernplace": "Poros",
+        "ancientplace": "Kalaureia",
+        "pleiadesplace": "570325",
+        "country": "GR",
+        "orientation": "65",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "ca. 520 BCE",
+        "date": "-530",
+        "startdateearly": "-510",
+        "startdatelate": "",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Doric hexastyle amphistyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "32452",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "9169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4801683,
+          37.522951
         ]
       }
     }
