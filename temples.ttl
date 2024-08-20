@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-18" ;
+    dcterms:modified "2024-08-20" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -12787,4 +12787,82 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/570325#this> ;
 skos:exactMatch <http://vici.org/vici/32452> ;
 skos:exactMatch <https://arachne.dainst.org/entity/9169> ;
+.
+<https://romeresearchgroup.org/items/1001240> a lawd:Place ;
+rdfs:label "Temple of Hera at Argos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.692015"^^xsd:double ; geo:long "22.7750012"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570289#this> ;
+skos:exactMatch <http://vici.org/vici/11095> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5582> ;
+.
+<https://romeresearchgroup.org/items/1001241> a lawd:Place ;
+rdfs:label "Old Temple of Hera at Argos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.692488"^^xsd:double ; geo:long "22.775562"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570289#this> ;
+skos:exactMatch <http://vici.org/vici/28841> ;
+skos:exactMatch <https://arachne.dainst.org/entity/1154> ;
+.
+<https://romeresearchgroup.org/items/1001242> a lawd:Place ;
+rdfs:label "Temple of Isis at Baelo Claudia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.090115"^^xsd:double ; geo:long "-5.77436312"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256005#this> ;
+skos:exactMatch <http://vici.org/vici/39915> ;
+.
+<https://romeresearchgroup.org/items/1001243> a lawd:Place ;
+rdfs:label "Temple of Minerva at Baelo Claudia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.0902297"^^xsd:double ; geo:long "-5.7747645"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256005#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11220> ;
+.
+<https://romeresearchgroup.org/items/1001244> a lawd:Place ;
+rdfs:label "Temple of Jupiter at Baelo Claudia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.090209"^^xsd:double ; geo:long "-5.7746757"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256005#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11221> ;
+.
+<https://romeresearchgroup.org/items/1001245> a lawd:Place ;
+rdfs:label "Temple of Juno at Baelo Claudia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.090178"^^xsd:double ; geo:long "-5.7745676"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256005#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/11222> ;
+.
+<https://romeresearchgroup.org/items/1001246> a lawd:Place ;
+rdfs:label "Neo-Punic Temple at Baelo Claudia" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.089457"^^xsd:double ; geo:long "-5.7750637"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256005#this> ;
 .
