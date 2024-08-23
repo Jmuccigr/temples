@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-08-20" ;
+    dcterms:modified "2024-08-23" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9753,7 +9753,10 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/17757> ;
 skos:exactMatch <http://pleiades.stoa.org/places/570500582> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6052> ;
+skos:exactMatch <https://topostext.org/place/379229SApT> ;
 .
 <https://romeresearchgroup.org/items/1000947> a lawd:Place ;
 rdfs:label "Temple of Hera at Corcyra" ;
@@ -12865,4 +12868,158 @@ gn:countryCode "ES" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/256005#this> ;
+.
+<https://romeresearchgroup.org/items/1001247> a lawd:Place ;
+rdfs:label "Temple E at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.904881"^^xsd:double ; geo:long "22.877917"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/17758> ;
+skos:exactMatch <https://topostext.org/place/379229SOct> ;
+.
+<https://romeresearchgroup.org/items/1001248> a lawd:Place ;
+rdfs:label "Temple C at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9055717"^^xsd:double ; geo:long "22.8784798"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+.
+<https://romeresearchgroup.org/items/1001249> a lawd:Place ;
+rdfs:label "Temple of Asclepius at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9055717"^^xsd:double ; geo:long "22.8784798"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/25714> ;
+.
+<https://romeresearchgroup.org/items/1001250> a lawd:Place ;
+rdfs:label "Temple of Aphrodite at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.891789"^^xsd:double ; geo:long "22.8755084"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570059#this> ;
+skos:exactMatch <http://vici.org/vici/25738> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Aphrodite_at_Acrocorinth> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q57559776> ;
+skos:exactMatch <https://topostext.org/place/379229SAph> ;
+.
+<https://romeresearchgroup.org/items/1001251> a lawd:Place ;
+rdfs:label "West Temple at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.898832"^^xsd:double ; geo:long "22.8761865"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570059#this> ;
+.
+<https://romeresearchgroup.org/items/1001252> a lawd:Place ;
+rdfs:label "Temple with the Mosaic Floor at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.898822"^^xsd:double ; geo:long "22.8763434"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570059#this> ;
+.
+<https://romeresearchgroup.org/items/1001253> a lawd:Place ;
+rdfs:label "East Temple at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.898814"^^xsd:double ; geo:long "22.8764942"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570059#this> ;
+.
+<https://romeresearchgroup.org/items/1001254> a lawd:Place ;
+rdfs:label "Temple D at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.90539087"^^xsd:double ; geo:long "22.8789259"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/25704> ;
+.
+<https://romeresearchgroup.org/items/1001255> a lawd:Place ;
+rdfs:label "Temple F at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.904937"^^xsd:double ; geo:long "22.8792329"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <https://topostext.org/place/379229SVGe> ;
+.
+<https://romeresearchgroup.org/items/1001256> a lawd:Place ;
+rdfs:label "Temple G at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.904993"^^xsd:double ; geo:long "22.879176"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <https://topostext.org/place/379229SKAp> ;
+.
+<https://romeresearchgroup.org/items/1001257> a lawd:Place ;
+rdfs:label "Temple H at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9051521"^^xsd:double ; geo:long "22.879162"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/25718> ;
+skos:exactMatch <https://topostext.org/place/379229SHrk> ;
+.
+<https://romeresearchgroup.org/items/1001258> a lawd:Place ;
+rdfs:label "Temple J at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9052145"^^xsd:double ; geo:long "22.8791245"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/25717> ;
+skos:exactMatch <https://topostext.org/place/379229SPoW> ;
+.
+<https://romeresearchgroup.org/items/1001259> a lawd:Place ;
+rdfs:label "Temple K at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.905262"^^xsd:double ; geo:long "22.879042"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
+skos:exactMatch <http://vici.org/vici/25707> ;
+.
+<https://romeresearchgroup.org/items/1001260> a lawd:Place ;
+rdfs:label "Temple A at Corinth" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.906006"^^xsd:double ; geo:long "22.880442"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570182#this> ;
 .
