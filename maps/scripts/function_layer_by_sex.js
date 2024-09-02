@@ -81,10 +81,9 @@
         "<span style='color: grey'>Both</span>": b
     };
 
-    // Make sure this is global so the control can be deleted by other scripts.
-    ctl = L.control.layers(baseLayers, overlays,
-    {
-        collapsed: false,
+    // Make sure this is global so the control can be deleted.
+    ctl = L.control.layers(baseLayers, overlays, {
+        collapsed: true,
         position: 'bottomleft'
     }).addTo(map);
 
