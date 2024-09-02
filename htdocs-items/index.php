@@ -106,6 +106,8 @@
 		</script>
 		<script type="text/javascript">document.cookie = "querytype=item; path=/";
 		</script>
+		<!-- php script that loads variable tokens for mapping. Call before basemaps. -->
+		<?php include 'scripts/get_tokens.php' ?>
 		<script type="text/javascript" src="scripts/function_fix_date.js">
 		</script>
 		<script type="text/javascript" src="scripts/function_check_run.js">
