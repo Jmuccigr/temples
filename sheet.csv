@@ -1075,7 +1075,7 @@
 "1001083","Temple","","temple","","","Collemancio","Urvinum Hortense","413365","IT","42.984639","12.52534","2","N","0","","","","","","","","","","","","Roman","","yes"
 "1001084","Temple of Dea Marica","Dea Marica","temple","river sanctuary","","Minturno","Minturnae","432940","IT","41.229232","13.758706","","","1","","","-550","-500","-6","","","","F","","god","Italic","","yes"
 "1001085","Temple L","","temple","urban","","Minturno","Minturnae","432940","IT","41.241064","13.768576","287","W","0","","late 1st c.","50","100","1","","","","","","","Roman","","yes"
-"1001086","Temple of Apollo Karneios","Apollo","temple","urban","","Santorini","Thera","599971","GR","36.362163","25.480695","130","SE","0","","","","","","","","","M","","god","Greek","","yes"
+"1001086","Temple of Apollo Karneios","Apollo","temple","urban","","Santorini","Thera","599971","GR","36.362163","25.480695","130","SE","0","","archaic","-599","-480","-6","","","","M","","god","Greek","","yes","","","","34835","","","9597"
 "1001087","Temple of Dionysus","Dionysus","temple","urban","","Santorini","Thera","599971","GR","36.364474","25.477979","77","E","0","","","","","","","","","M","","god","Greek","","yes"
 "1001088","Temple of Pythian Apollo","Apollo","temple","urban","","Santorini","Thera","599971","GR","","","","","1","","","","","","","","","M","","god","Greek","","yes"
 "1001089","Asclepeion","Asclepius","temple","urban","","Messene","Messene","570479","GR","37.175615","21.920506","107","E","0","","","","","","","","","M","","hero","Greek","","yes","","","","17787","52154983","46665","1350442","","","372219SAsk"

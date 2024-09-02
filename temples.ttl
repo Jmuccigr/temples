@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-01" ;
+    dcterms:modified "2024-09-02" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11157,6 +11157,8 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599971#this> ;
+skos:exactMatch <http://vici.org/vici/34835> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9597> ;
 .
 <https://romeresearchgroup.org/items/1001087> a lawd:Place ;
 rdfs:label "Temple of Dionysus at Thera" ;
