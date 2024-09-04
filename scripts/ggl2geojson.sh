@@ -23,9 +23,15 @@ fi
 # Get google doc as json via the v4 API & exit on failure to return any/enough data
 # Be sure to grab all the needed columns
 json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AV?key=$apikey")
-if [ ${#json} -lt 100 ]
+if [ ${#json} -lt 1000 ]
+then
+   errMsg=`echo "$json" | jq .error.message`
+   if [ -n "$errMsg" ]
    then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: Too little or no temple data from Google spreadsheet server" 1>&2
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) Google error getting temples: $errMsg" 1>&2
+   else
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) ggl2geojson: Too little or no temple data from Google spreadsheet server" 1>&2
+   fi
    exit 1
 fi
 

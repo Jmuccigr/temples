@@ -13,11 +13,19 @@ temp=$(echo $TMPDIR | sed 's:/$::')
 export PATH="/opt/homebrew/bin:$PATH"
 
 # Get google doc as json via the public feed & exit on failure to return any/enough data
+# after checking for an error response
+
 json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/citations!A:AS?key=$apikey")
-if [ ${#json} -lt 100 ]
+if [ ${#json} -lt 1000 ]
 then
-   echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no citation data from Google spreadsheet server" 1>&2
-   exit
+   errMsg=`echo "$json" | jq .error.message`
+   if [ -n "$errMsg" ]
+   then
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) Google error getting citations: $errMsg" 1>&2
+   else
+      echo "$(date +%Y-%m-%d\ %H:%M:%S) Too little or no citation data from Google spreadsheet server" 1>&2
+   fi
+   exit 0
 fi
 
 # Make sure response is also valid json
