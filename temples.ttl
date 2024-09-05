@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-02" ;
+    dcterms:modified "2024-09-05" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8791,6 +8791,8 @@ skos:exactMatch <https://topostext.org/place/380237BNic> ;
 <https://romeresearchgroup.org/items/1000853> a lawd:Place ;
 rdfs:label "Temple of Isis at Athens" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.9708379"^^xsd:double ; geo:long "23.7260106"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -8860,6 +8862,8 @@ spatial:C <https://pleiades.stoa.org/places/579885#this> ;
 <https://romeresearchgroup.org/items/1000860> a lawd:Place ;
 rdfs:label "Temple of Themis at Athens" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.97081"^^xsd:double ; geo:long "23.7261025"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -9703,6 +9707,7 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/540726#this> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Tholos_of_Delphi> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q12013451> ;
 .
@@ -9715,6 +9720,13 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/580097#this> ;
+skos:exactMatch <http://vici.org/vici/78058> ;
+skos:exactMatch <http://pleiades.stoa.org/places/580034> ;
+skos:exactMatch <http://dare.ht.lu.se/places/25435> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9367> ;
+skos:exactMatch <https://fi.wikipedia.org/wiki/Nemesiksen_temppeli> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q94946184> ;
+skos:exactMatch <https://topostext.org/place/382240SNem> ;
 .
 <https://romeresearchgroup.org/items/1000944> a lawd:Place ;
 rdfs:label "The Parthenon at Athens" ;
@@ -13243,4 +13255,47 @@ gn:countryCode "LY" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/373778#this> ;
+.
+<https://romeresearchgroup.org/items/1001281> a lawd:Place ;
+rdfs:label "Temple of Apollo Pythios at Gortyn" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.0594091"^^xsd:double ; geo:long "24.9498922"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589796#this> ;
+skos:exactMatch <http://vici.org/vici/24795> ;
+.
+<https://romeresearchgroup.org/items/1001282> a lawd:Place ;
+rdfs:label "Temple of the Egyptian Gods at Gortyn" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.0602469"^^xsd:double ; geo:long "24.9502811"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589796#this> ;
+skos:exactMatch <http://vici.org/vici/24803> ;
+.
+<https://romeresearchgroup.org/items/1001283> a lawd:Place ;
+rdfs:label "Temple of Athena at Gortyn" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.065615"^^xsd:double ; geo:long "24.945067"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589796#this> ;
+.
+<https://romeresearchgroup.org/items/1001284> a lawd:Place ;
+rdfs:label "Temple of Themis at Rhamnous" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.2175205"^^xsd:double ; geo:long "24.0268402"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580097#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9368> ;
 .
