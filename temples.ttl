@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-05" ;
+    dcterms:modified "2024-09-13" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -1055,6 +1055,8 @@ skos:exactMatch <http://pleiades.stoa.org/places/422973> ;
 <https://romeresearchgroup.org/items/1000097> a lawd:Place ;
 rdfs:label "Temple of Neptune at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.8934143"^^xsd:double ; geo:long "12.4770876"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10410,6 +10412,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/550463#this> ;
 skos:exactMatch <http://vici.org/vici/11522> ;
+skos:exactMatch <http://pleiades.stoa.org/places/989985817> ;
 skos:exactMatch <https://arachne.dainst.org/entity/6764> ;
 .
 <https://romeresearchgroup.org/items/1001011> a lawd:Place ;
@@ -11125,7 +11128,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 <https://romeresearchgroup.org/items/1001082> a lawd:Place ;
 rdfs:label "Temple of Poseidon at Samikon" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "37.529194"^^xsd:double ; geo:long "21.589222"^^xsd:double ] ;
+geo:location [ geo:lat "37.5299592"^^xsd:double ; geo:long "21.5922906"^^xsd:double ] ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -13298,4 +13301,23 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/580097#this> ;
 skos:exactMatch <https://arachne.dainst.org/entity/9368> ;
+.
+<https://romeresearchgroup.org/items/1001285> a lawd:Place ;
+rdfs:label "Temple of Apollo at Zone" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.8633326"^^xsd:double ; geo:long "25.6386976"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/501667#this> ;
+.
+<https://romeresearchgroup.org/items/1001286> a lawd:Place ;
+rdfs:label "Temple of Athena Hippolaitis at Hippola" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.503959"^^xsd:double ; geo:long "22.362287"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570294#this> ;
 .

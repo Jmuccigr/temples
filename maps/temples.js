@@ -3356,6 +3356,61 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000097",
+        "name": "Temple of Neptune",
+        "dedicatee": "Neptune",
+        "type": "temple",
+        "setting": "",
+        "location": "Circus Flaminius",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "186",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "-257-229",
+        "date": "-257-229",
+        "startdateearly": "-257",
+        "startdatelate": "-229",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "December 1",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "3467478",
+        "livius": "",
+        "wikipedia": "Temple_of_Neptune_(Rome)",
+        "wikidata": "Q2489646",
+        "digitalromanforum": "",
+        "digitalesforumromanum": "",
+        "trismegistos": "",
+        "ads": "",
+        "cona": "",
+        "topostext": "419125SNpt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4770876,
+          41.8934143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000098",
         "name": "Nymphaeum of the Villa dei Quintili",
         "dedicatee": "Nymphs",
@@ -37224,7 +37279,7 @@ var temples =  {
         "meetings": "",
         "note": "",
         "vici": "11522",
-        "pleiades": "",
+        "pleiades": "989985817",
         "dare": "",
         "arachne": "6764"
       },
@@ -39996,7 +40051,7 @@ var temples =  {
         "country": "GR",
         "orientation": "",
         "compass": "",
-        "geocertainty": "1",
+        "geocertainty": "0",
         "vowed": "",
         "date": "archaic",
         "startdateearly": "-599",
@@ -40015,8 +40070,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.589222,
-          37.529194
+          21.5922906,
+          37.5299592
         ]
       }
     },
@@ -48604,6 +48659,82 @@ var temples =  {
         "coordinates": [
           24.0268402,
           38.2175205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001285",
+        "name": "Temple of Apollo",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Dikella",
+        "ancientplace": "Zone",
+        "pleiadesplace": "501667",
+        "country": "GR",
+        "orientation": "206",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "6th c BCE",
+        "startdateearly": "-599",
+        "startdatelate": "-500",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6386976,
+          40.8633326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001286",
+        "name": "Temple of Athena Hippolaitis",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "",
+        "ancientplace": "Hippola",
+        "pleiadesplace": "570294",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.362287,
+          36.503959
         ]
       }
     }
