@@ -13055,6 +13055,33 @@
 		}
 	},
 	{
+		"id": "Cozza1975",
+		"type": "article-journal",
+		"container-title": "Bollettino dell'Istituto di Storia e di Arte del Lazio Meridionale / Istituto di Storia e di Arte del Lazio Meridionale .",
+		"language": "it-IT",
+		"note": "OCLC: 888723801",
+		"page": "117-136",
+		"source": "Open WorldCat",
+		"title": "Il modello del tempio di Alatri",
+		"author": [
+			{
+				"family": "Cozza",
+				"given": "Lucos"
+			},
+			{
+				"family": "Gallina",
+				"given": "A. Zevi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
 		"id": "Cifarelli2000",
 		"type": "article-journal",
 		"abstract": "Il recente recupero di due iscrizioni con dedica ad Ercole, databili fra fine II e inizi I secolo a.C, una delle quali conservante il dato di rinvenimento, ha spinto ad approfondire l'indagine sul settore meridionale del suburbio dell'antica Segni. In questa zona è ancora oggi visibile un interessante complesso di strutture, individuate in due occasioni fra 1910 e 1975, del quale è stato possibile analizzare una larga serie di dati. Il quadro di sintesi ha permesso di avanzare l'ipotesi della presenza, nell'immediato suburbio meridionale della città, in stretta relazione con la viabilità principale e subito al di fuori di Porta Maggiore, di un'area pubblica, in qualche mo- do legata al tempio di Ercole - ancora non posizionabile con precisione - e probabilmente attrezzata con strutture destinate ad usi funzionali.",
@@ -16891,6 +16918,30 @@
 				]
 			],
 			"season": "1960"
+		}
+	},
+	{
+		"id": "Staccioli1968",
+		"type": "book",
+		"event-place": "Firenze",
+		"language": "it-IT",
+		"note": "OCLC: 464649334",
+		"publisher": "Sansoni",
+		"publisher-place": "Firenze",
+		"source": "Open WorldCat",
+		"title": "Modelli di edifici etrusco-italici: i modelli votivi",
+		"author": [
+			{
+				"family": "Staccioli",
+				"given": "Romolo Augusto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
+				]
+			]
 		}
 	},
 	{
@@ -23515,6 +23566,28 @@
 		}
 	},
 	{
+		"id": "Johannowsky1962",
+		"type": "article-journal",
+		"container-title": "Bollettino d'arte",
+		"language": "it-IT",
+		"page": "63-69",
+		"title": "Modelli di edifici da Teano",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Johannowsky",
+				"given": "Werner"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		}
+	},
+	{
 		"id": "Barker1995",
 		"type": "book",
 		"call-number": "DG975.B542 B54 1995",
@@ -29836,6 +29909,50 @@
 		}
 	},
 	{
+		"id": "Maligorne2010",
+		"type": "article-journal",
+		"container-title": "Latomus",
+		"ISSN": "0023-8856",
+		"issue": "1",
+		"language": "fr-FR",
+		"note": "publisher: Societe d’Etudes Latines de Bruxelles",
+		"page": "99-122",
+		"source": "JSTOR",
+		"title": "Deux maquettes architecturales récemment découvertes à Rennes",
+		"URL": "https://www.jstor.org/stable/41546408",
+		"volume": "69",
+		"author": [
+			{
+				"family": "Maligorne",
+				"given": "Yvan"
+			},
+			{
+				"family": "Chevet",
+				"given": "Pierre"
+			},
+			{
+				"family": "Ferrette",
+				"given": "Romuald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
 		"id": "INRAP2022",
 		"type": "webpage",
 		"abstract": "Les archéologues de l’Inrap fouillent actuellement, sur prescription de l’État (Drac Bretagne), plus de 7 hectares à la Chapelle-des-Fougeretz. Le chantier, qui se poursuivra jusqu’en octobre 2022, met en évidence un important sanctuaire gallo-romain.",
@@ -33764,6 +33881,118 @@
 			"date-parts": [
 				[
 					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "Catling1994",
+		"type": "article-journal",
+		"abstract": "A fragment of an archaic temple model from the British School's early excavations at the sanctuary of Artemis Orthia at Sparta is published. It is suggested here that its decoration represents a timber-framed building. Support for this argument is found in the similar construction technique used for the early 7th-cent. temple of Artemis Orthia. Its contribution to the debate concerning the evolution of the developed Doric order is considered. In further discussion of the significance of votive 'house models', doubts are expressed about the universal applicability of recent explanations linking them with female cults explicitly associated with protection of the household. /// Δημοσιεύεται ένα ϑραύσμα ομοιώματος αρχαϊϰού ναού από τις παλιές ανασϰαφές της Βρεταννιϰής Σχολής στο ιερό της Αρτέμιδας Ορϑίας στην Σπάρτη. Προτείνεται ότι η διαϰόσμησή του αμδίδει ένα ϰτίριο με ξύλινο σϰελετό. Το επιχείρημα αυτό ενισχύεται από μία παρόμοια τδχνιϰή οιϰοδομήσεως που εφαρμοστηϰε στο ναό της Αρτέμιδας Ορϑίας του πρώιμου $7^{o\\upsilon}$ αι. Μελετάται η συμμβολή του ευρήματος στην διαμάχη γύρω από την πιϑανή εξέλιξη του ώριμου δωριϰού ρυϑμού. Στην διαπραγμάτευση της σημασίας τέτοιων αναϑηματιϰών 'ομοιωμάτων οιϰιών', εϰφράζονται αμφιβολίες ϰατά πόσο είναι δυνατή η γενιϰή εφαρμογή πρόσφατων ερμηνειών, οι οποίες συσχετίζουν τα ομοιώματα αυτά με την λατρεία ϑηλυϰών ϑεοτήτων που συνδέονται ϰαϑαρά με προστασία του σπιτιϰού.",
+		"container-title": "The Annual of the British School at Athens",
+		"DOI": "10.1017/S0068245400015409",
+		"ISSN": "0068-2454",
+		"journalAbbreviation": "ABSA",
+		"language": "en-GB",
+		"note": "publisher: [British School at Athens, Cambridge University Press]",
+		"page": "269-275",
+		"source": "JSTOR",
+		"title": "A fragment of an archaic temple model from Artemis Orthia, Sparta",
+		"URL": "https://www.jstor.org/stable/30102573",
+		"volume": "89",
+		"author": [
+			{
+				"family": "Catling",
+				"given": "R. W. V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "Dawkins1929",
+		"type": "book",
+		"collection-title": "Supplementary paper (Society for the Promotion of Hellenic Studies (London, England))",
+		"event-place": "London",
+		"language": "en-GB",
+		"note": "OCLC: 5466350",
+		"number-of-pages": "420",
+		"publisher": "Pub. by the Council, and sold on their behalf by Macmillan",
+		"publisher-place": "London",
+		"source": "Open WorldCat",
+		"title": "The sanctuary of Artemis Orthia at Sparta, excavated and described by members of the British school at Athens, 1906-1910",
+		"URL": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DF261.S68D3",
+		"editor": [
+			{
+				"family": "Dawkins",
+				"given": "R. M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1929"
+				]
+			]
+		}
+	},
+	{
+		"id": "Dabrowa1996",
+		"type": "article-journal",
+		"container-title": "Memoirs of the American Academy in Rome",
+		"DOI": "10.2307/4238739",
+		"ISSN": "0065-6801",
+		"journalAbbreviation": "MAAR",
+		"language": "en-US",
+		"note": "publisher: [American Academy in Rome, University of Michigan Press]",
+		"page": "153-161",
+		"source": "JSTOR",
+		"title": "The origin of the <i>templum gentis flaviae</i>: a hypothesis",
+		"title-short": "The origin of the \"templum gentis flaviae\"",
+		"URL": "https://www.jstor.org/stable/4238739",
+		"volume": "41",
+		"author": [
+			{
+				"family": "Da̧browa",
+				"given": "Edward"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
 				]
 			]
 		}
