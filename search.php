@@ -26,7 +26,8 @@ if ($queryString != []) {
 //  Turn it into a sql request
 	$count = count($queryString);
 	$counter = 0;
-	$sql = $sql . " WHERE ";
+	// Extra term needed only on local set-up
+	$sql = $sql . ' WHERE type = "temple" AND ';
 	foreach($queryString as $x => $x_value) {
 		$sql = $sql . test_input($x) . ' LIKE "%' . test_input($x_value) . '%"';
 		$counter++;
