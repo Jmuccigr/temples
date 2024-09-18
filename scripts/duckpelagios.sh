@@ -8,6 +8,9 @@ src="/Users/$me/Documents/github/local/temples"
 # Path to include Cyberduck's duck command for running via launchctl
 export PATH="/opt/homebrew/bin:$PATH"
 
+# Wait a bit to give time for pelagios file to be created
+sleep 30
+
 set -e
 # If file is big enough, Upload via FTP and log success or failure
 fsize=`stat -f%z "$src/pelagios.json"`

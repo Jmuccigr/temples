@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/Users/john_muccigrosso/.venv/bin/python3
 
 import json
 #import rdflib
@@ -7,6 +7,7 @@ import re
 import os
 from datetime import datetime
 import sys
+import time
 
 me = os.getenv("USER")
 dateTimeObj = datetime.now()
@@ -41,6 +42,10 @@ outputText += u'    dcterms:modified "' + dateTimeObj.strftime("%Y-%m-%d") + '" 
 outputText += u'    .\n\n'
 
 basedir = '/Users/' + me + '/Documents/github/local/temples/'
+
+# Delay for 30 seconds to allow time for the creation of the json file to finish.
+# Not sure this is the problem.
+time.sleep(30)
 
 if os.stat(basedir + 'temples.json').st_size < 100000:
 	sys.exit(dateTimeObj.strftime("%Y-%m-%d %H:%M:%S") + " temples json file is too small to process for turtle.")
