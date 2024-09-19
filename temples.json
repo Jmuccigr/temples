@@ -46302,8 +46302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          23.497701,
+          37.7078016
         ]
       }
     },
@@ -46506,7 +46506,7 @@
         "country": "DZ",
         "orientation": "",
         "compass": "",
-        "geocertainty": "0",
+        "geocertainty": "1",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -46529,8 +46529,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          6.469259,
+          35.483822
         ]
       }
     },
@@ -47857,7 +47857,7 @@
         "country": "GR",
         "orientation": "",
         "compass": "",
-        "geocertainty": "1",
+        "geocertainty": "0",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -47876,8 +47876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          25.478156,
+          36.3630039
         ]
       }
     },
@@ -49039,20 +49039,44 @@
         "dedicatee": "Flavian clan",
         "type": "temple",
         "setting": "urban",
-        "location": "",
+        "location": "Quirinal Hill",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "1"
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M/F",
+        "dedicationday": "",
+        "deitytype": "family",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "",
+        "livius": "",
+        "wikipedia": "Temple_of_the_gens_Flavia",
+        "wikidata": "Q1830216"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.4906792,
+          41.9020073
         ]
       }
     },
@@ -56364,6 +56388,89 @@
         "coordinates": [
           22.362287,
           36.503959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001287",
+        "name": "Early Temple of Artemis Orthia",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Sparti",
+        "ancientplace": "Sparta",
+        "pleiadesplace": "570685",
+        "country": "GR",
+        "orientation": "91",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "9th c BCE",
+        "startdateearly": "-899",
+        "startdatelate": "-800",
+        "century": "-9",
+        "enddate": "",
+        "preceded": "1001288",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4351776,
+          37.082881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001288",
+        "name": "Temple of Artemis Orthia",
+        "dedicatee": "Artemis",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Sparti",
+        "ancientplace": "Sparta",
+        "pleiadesplace": "570685",
+        "country": "GR",
+        "orientation": "99",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "around 570 BCE",
+        "startdateearly": "-580",
+        "startdatelate": "-560",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1001287",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "26288",
+        "pleiades": "139216315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4351776,
+          37.082881
         ]
       }
     }

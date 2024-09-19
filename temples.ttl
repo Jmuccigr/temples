@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-13" ;
+    dcterms:modified "2024-09-17" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10807,6 +10807,7 @@ skos:exactMatch <http://vici.org/vici/28365> ;
 <https://romeresearchgroup.org/items/1001050> a lawd:Place ;
 rdfs:label "Temple of Zeus Hellanios at Aegina" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.7078016"^^xsd:double ; geo:long "23.497701"^^xsd:double ] ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -10861,6 +10862,7 @@ skos:exactMatch <http://vici.org/vici/36173> ;
 <https://romeresearchgroup.org/items/1001055> a lawd:Place ;
 rdfs:label "Temple of Mercury at Thamugadi" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "35.483822"^^xsd:double ; geo:long "6.469259"^^xsd:double ] ;
 gn:countryCode "DZ" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -11188,6 +11190,7 @@ spatial:C <https://pleiades.stoa.org/places/599971#this> ;
 <https://romeresearchgroup.org/items/1001088> a lawd:Place ;
 rdfs:label "Temple of Pythian Apollo at Thera" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.3630039"^^xsd:double ; geo:long "25.478156"^^xsd:double ] ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -11490,10 +11493,13 @@ spatial:C <https://pleiades.stoa.org/places/432815#this> ;
 <https://romeresearchgroup.org/items/1001119> a lawd:Place ;
 rdfs:label "Temple of the Gens Flavia at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.9020073"^^xsd:double ; geo:long "12.4906792"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_the_gens_Flavia> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q1830216> ;
 .
 <https://romeresearchgroup.org/items/1001120> a lawd:Place ;
 rdfs:label "Temple of Artemis Leucophryene at Magnesia" ;
@@ -13320,4 +13326,26 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/570294#this> ;
+.
+<https://romeresearchgroup.org/items/1001287> a lawd:Place ;
+rdfs:label "Early Temple of Artemis Orthia at Sparta" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.082881"^^xsd:double ; geo:long "22.4351776"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570685#this> ;
+.
+<https://romeresearchgroup.org/items/1001288> a lawd:Place ;
+rdfs:label "Temple of Artemis Orthia at Sparta" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.082881"^^xsd:double ; geo:long "22.4351776"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570685#this> ;
+skos:exactMatch <http://vici.org/vici/26288> ;
+skos:exactMatch <http://pleiades.stoa.org/places/139216315> ;
 .
