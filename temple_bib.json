@@ -33996,5 +33996,104 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "Michlits2012",
+		"type": "thesis",
+		"abstract": "Die archäologischen Funde Theras zeigen ein Bild der Stadt, das nach Kenntnis der schriftlichen Quellen nicht völlig unerwartet sein kann. In der Zeit des Hellenismus und des Imperium Romanum stand die Insel beinahe durchgehend unter fremder Herrschaft, doch während die Ptolemäer die Insel als strategisch wichtigen Punkt nutzten und zwecks Stärkung ihrer Stellung im Kampf um die Herrschaft über die Ägäis ständig Truppen hierher entstandten, wurde die Stadt von den Römern eher passiv romanisiert. Durch die permanente Stationierung ptolemäischer Soldaten wurden ägyptische, bzw. eigentlich ptolemäische  Kulte hierher wie von selbst importiert und die Fremdherrschaft manifestierte sich in Anlagen wie den drei Ptolemäerbauten am Stadtbeginn. Neben den zahlreichen Neubauten wurde auch viel Bestehendes erneuert. Dabei ist vor allem der „Ausbau des ,centro monumentale' der Stadt mit der Achse Agora-Theater“  zu nennen. In die Zeit der Ptolemäerherrschaft – allerdings bereits zu einer Zeit, in...",
+		"event-place": "Wien",
+		"genre": "M. Phil.",
+		"language": "de-DE",
+		"number-of-pages": "194 S. : Ill., Kt.",
+		"publisher": "Universität Wien",
+		"publisher-place": "Wien",
+		"title": "Die archäologischen Zeugnisse Theras in hellenistischer und römischer Zeit",
+		"URL": "https://doi.org/10.25365/thesis.23150",
+		"author": [
+			{
+				"family": "Michlits",
+				"given": "Christian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "Fishwick1999",
+		"type": "article-journal",
+		"container-title": "Latomus",
+		"ISSN": "0023-8856",
+		"issue": "1",
+		"language": "en-US",
+		"note": "publisher: Societe d’Etudes Latines de Bruxelles",
+		"page": "121-138",
+		"source": "JSTOR",
+		"title": "The \"temple of Augustus\" at Tarraco",
+		"URL": "https://www.jstor.org/stable/41538599",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Fishwick",
+				"given": "Duncan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Haenlein-Schaefer1985",
+		"type": "book",
+		"call-number": "72",
+		"collection-number": "39",
+		"collection-title": "Archaeologica",
+		"event-place": "Roma",
+		"ISBN": "978-88-85007-83-3",
+		"language": "de-DE",
+		"publisher": "G. Bretschneider",
+		"publisher-place": "Roma",
+		"source": "BnF ISBN",
+		"title": "Veneratio Augusti: eine Studie zu den Tempeln des ersten römischen Kaisers",
+		"title-short": "Veneratio Augusti",
+		"author": [
+			{
+				"family": "Hänlein-Schäfer",
+				"given": "Heidi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
 	}
 ]
