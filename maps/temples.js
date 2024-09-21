@@ -40392,7 +40392,11 @@ var temples =  {
         "deitytype": "god",
         "culture": "Greek",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "34839"
       },
       "geometry": {
         "type": "Point",
@@ -48992,6 +48996,92 @@ var temples =  {
         "coordinates": [
           22.4351776,
           37.082881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001289",
+        "name": "Kaisarion",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Santorini",
+        "ancientplace": "Thera",
+        "pleiadesplace": "599971",
+        "country": "GR",
+        "orientation": "83",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "34844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4779077,
+          36.3641422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001290",
+        "name": "Temple of Aphrodite",
+        "dedicatee": "Aphrodite",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Santorini",
+        "ancientplace": "Thera",
+        "pleiadesplace": "599971",
+        "country": "GR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "34818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.475256,
+          36.3666445
         ]
       }
     }

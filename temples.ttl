@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-17" ;
+    dcterms:modified "2024-09-21" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11195,6 +11195,7 @@ gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599971#this> ;
+skos:exactMatch <http://vici.org/vici/34839> ;
 .
 <https://romeresearchgroup.org/items/1001089> a lawd:Place ;
 rdfs:label "Asclepeion at Messene" ;
@@ -13348,4 +13349,25 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/570685#this> ;
 skos:exactMatch <http://vici.org/vici/26288> ;
 skos:exactMatch <http://pleiades.stoa.org/places/139216315> ;
+.
+<https://romeresearchgroup.org/items/1001289> a lawd:Place ;
+rdfs:label "Kaisarion at Thera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.3641422"^^xsd:double ; geo:long "25.4779077"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599971#this> ;
+skos:exactMatch <http://vici.org/vici/34844> ;
+.
+<https://romeresearchgroup.org/items/1001290> a lawd:Place ;
+rdfs:label "Temple of Aphrodite at Thera" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.3666445"^^xsd:double ; geo:long "25.475256"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599971#this> ;
+skos:exactMatch <http://vici.org/vici/34818> ;
 .
