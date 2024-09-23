@@ -1763,6 +1763,42 @@
 		}
 	},
 	{
+		"id": "Taylor2000",
+		"type": "article-journal",
+		"container-title": "Memoirs of the American Academy in Rome",
+		"DOI": "10.2307/4238764",
+		"ISSN": "0065-6801",
+		"language": "en-US",
+		"page": "1-40",
+		"source": "JSTOR",
+		"title": "Watching the skies: Janus, auspication, and the shrine in the Roman forum",
+		"title-short": "Watching the skies",
+		"URL": "http://www.jstor.org/stable/4238764",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Taylor",
+				"given": "Rabun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
 		"id": "Richardson1978",
 		"type": "article-journal",
 		"container-title": "Parola del Passato",
@@ -10633,7 +10669,7 @@
 		"author": [
 			{
 				"family": "Plebani",
-				"given": "F. R."
+				"given": "Francesca Romana"
 			}
 		],
 		"issued": {
@@ -34092,6 +34128,222 @@
 			"date-parts": [
 				[
 					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "Lewis1966-1",
+		"type": "book",
+		"collection-title": "Cambridge classical studies",
+		"event-place": "Cambridge",
+		"language": "en-GB",
+		"note": "OCLC: 679330",
+		"number-of-pages": "218",
+		"publisher": "Cambridge U.P.",
+		"publisher-place": "Cambridge",
+		"source": "Open WorldCat",
+		"title": "Temples in Roman Britain",
+		"URL": "https://bac-lac.on.worldcat.org/oclc/490108591",
+		"author": [
+			{
+				"family": "Lewis",
+				"given": "Michael Jonathan Taunton"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1966"
+				]
+			]
+		}
+	},
+	{
+		"id": "Library2014",
+		"type": "article-journal",
+		"container-title": "Археология",
+		"language": "bg-BG",
+		"page": "28–48",
+		"title": "Надпис за строеж на храм от Никополис ад Иструм",
+		"volume": "1-2",
+		"author": [
+			{
+				"family": "ШАРАНКОВ",
+				"given": "Николай"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Diosono2009-1",
+		"type": "chapter",
+		"call-number": "DG55.S135 T45 2009",
+		"container-title": "I templi e il forum di Villa S. Silvestro: la Sabina dalla conquista romana a Vespasiano",
+		"event-place": "Roma",
+		"ISBN": "978-88-7140-407-3",
+		"language": "it-IT",
+		"note": "OCLC: ocn468976492",
+		"page": "141-143",
+		"publisher": "Quasar",
+		"publisher-place": "Roma",
+		"source": "Library of Congress ISBN",
+		"title": "Terrecotte architettoniche",
+		"editor": [
+			{
+				"family": "Diosono",
+				"given": "Francesca"
+			}
+		],
+		"author": [
+			{
+				"family": "Plebani",
+				"given": "Francesca Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "Sharankov2017",
+		"type": "article-journal",
+		"abstract": "The article proposes revised reading of several inscriptions from Cabyle. Two Hellenistic fragments are shown to belong to a decree honouring Kriton, son of Euma[chos] or Euma[res], who was put in charge of the city or the neighbouring territories and provided many great services to the citizens. Two alleged mentions of Celts (Γαλά[ται]) in Hellenistic fragments are proved to be misreading. In two inscriptions of AD 135-136, the nomen of the provincial governor ---rius Fronto is reconstructed as Cavarius. A consular date corresponding to AD 208 is restored in an inscription for the construction of a temple for Jupiter Optimus Maximus Dolichenus, which provides a date for the governor of Thrace Q. Egnatius Proculus. Several inscriptions are shown to mention military officers – a prefect, a centurion, and a duplicarius. A fragment erroneously thought to belong to a funerary monument is now read as a dedication to Phoebus and is identified as a fragment from a statue of the god. A Greek inscription, which was only partially read and incorrectly dated to the first half of the third century, in fact belongs to the period of the First Tetrarchy and documents the building of the fortifications of Cabyle under the governor Domitius Domninus in AD 297. Another inscription, from the time of the Fourth Tetrarchy (AD 309-310), is about the construction of a gynaeceum (state textile workshop), being the only such inscription hitherto found on the territory of the Roman Empire. The two tetrarchic inscriptions also reveal the new status of Cabyle in that period – previously a military camp (castra), it was raised to a city, with the title “the splendid city of Cabyle” (ἡ λαμπρὰ Καβυληνῶν πόλις). The main magistrate of the new city was the λογιστής (= curator civitatis), and the first members of the city’s curia were called δεκάπρωτοι (as a translation of the Latin decemprimi).",
+		"container-title": "Bulgarian e-Journal of Archaeology | Българско е-Списание за Археология",
+		"ISSN": "1314-5088",
+		"issue": "2",
+		"language": "bg-BG",
+		"license": "Copyright (c) 2017 Nikolay Sharankov",
+		"note": "number: 2",
+		"page": "199-243",
+		"source": "be-ja.org",
+		"title": "Надписи от Кабиле. Нови прочити и тълкувания: Inscriptions from Cabyle: New readings and interpretations",
+		"title-short": "Надписи от Кабиле. Нови прочити и тълкувания",
+		"URL": "https://be-ja.org/index.php/journal/article/view/be-ja-7-2-2017-199-243",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Sharankov",
+				"given": "Nikolay"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "Birley2019",
+		"type": "article-journal",
+		"abstract": "In 2009, two large alters were excavated side by side in the north-west quadrant of the third-century stone fort at Vindolanda, evidently inside a temple. A third, smaller altar was found just outside the temple. The relief on the main altar is a notable addition to the inscriptions and images of the Dolichenus cult in Britain. This article deals first with the excavation, then the alters, gives a brief account of the cult in general, with particular reference to Britain, and finally offers some reflections on the two cohorts.",
+		"container-title": "Archaeologia Aeliana",
+		"DOI": "10.5284/1061217",
+		"language": "en-GB",
+		"license": "ADS Terms and Conditions of reuse apply",
+		"note": "publisher: Archaeology Data Service",
+		"page": "25-51",
+		"source": "DOI.org (Datacite)",
+		"title": "A Dolichenum at Vindolanda",
+		"URL": "https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3213551",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Birley",
+				"given": "Anthony R"
+			},
+			{
+				"family": "Birley",
+				"given": "Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Birley2012",
+		"type": "chapter",
+		"collection-title": "Orientalische Religionen in der Antike",
+		"container-title": "Iuppiter Dolichenus: vom Lokalkult zur Reichsreligion",
+		"event-place": "Tübingen",
+		"ISBN": "978-3-16-151797-6",
+		"language": "de-DE",
+		"note": "OCLC: 795157288",
+		"page": "231-258",
+		"publisher": "Mohr Siebeck",
+		"publisher-place": "Tübingen",
+		"source": "Open WorldCat",
+		"title": "A new Dolichenum, inside the third-century fort at Vindolanda",
+		"editor": [
+			{
+				"family": "Blömer",
+				"given": "Michael"
+			},
+			{
+				"family": "Winter",
+				"given": "Engelbert"
+			}
+		],
+		"author": [
+			{
+				"family": "Birley",
+				"given": "Michael"
+			},
+			{
+				"family": "Birley",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
 				]
 			]
 		}
