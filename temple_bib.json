@@ -34347,5 +34347,116 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "Lawall2009",
+		"type": "article-journal",
+		"abstract": "The Temple of Apollo Patroos in the Athenian Agora is often dated to ca. 330 B.C. A fragment of a Thasian amphora with a stamp bearing the eponym Πουλυς was found in a pit closed no later than the period of the temple's construction. This stamp dates to ca. 313 B.C. The temple must therefore have been constructed in the very late 4th or very early 3rd century. Review of the textual and other archaeological evidence related to the temple and its vicinity clarifies the physical development of this cult site from ca. 375 to ca. 300 B.C.",
+		"container-title": "Hesperia: The Journal of the American School of Classical Studies at Athens",
+		"DOI": "10.2972/hesp.78.3.387",
+		"ISSN": "0018-098X",
+		"issue": "3",
+		"journalAbbreviation": "Hesp",
+		"language": "en-US",
+		"note": "publisher: The American School of Classical Studies at Athens",
+		"page": "387-403",
+		"source": "JSTOR",
+		"title": "The temple of Apollo Patroos dated by an amphora stamp",
+		"URL": "https://www.jstor.org/stable/25622701",
+		"volume": "78",
+		"author": [
+			{
+				"family": "Lawall",
+				"given": "Mark L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "Senseney2007-1",
+		"type": "article-journal",
+		"abstract": "The author uses analytic geometry and AutoCAD software to analyze the plan of Temple A of the Asklepieion at Kos, revealing a circumscribed Pythagorean triangle as the basis for the plan's design. This methodology and its results counter earlier doubts about the application of geometry to Doric temple design and suggest the existence of an alternative to the grid-based approach characteristic of Hellenistic temples of the Ionic order. Appreciation of the geometric system underlying the plan of Temple A leads to a consideration of the role of visuality in Hellenistic architecture, characterized here as the manner in which abstract ideas shared by architects and scholars conditioned viewing and influenced the design process.",
+		"container-title": "Hesperia: The Journal of the American School of Classical Studies at Athens",
+		"DOI": "10.2972/hesp.76.3.555",
+		"ISSN": "0018-098X",
+		"issue": "3",
+		"journalAbbreviation": "Hesp",
+		"language": "en-US",
+		"note": "publisher: The American School of Classical Studies at Athens",
+		"page": "555-595",
+		"source": "JSTOR",
+		"title": "Idea and visuality in Hellenistic architecture: a geometric analysis of temple A of the Asklepieion at Kos",
+		"title-short": "Idea and visuality in hellenistic architecture",
+		"URL": "https://www.jstor.org/stable/25068032",
+		"volume": "76",
+		"author": [
+			{
+				"family": "Senseney",
+				"given": "John R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "Schazmann1932",
+		"type": "book",
+		"collection-title": "Kos",
+		"event-place": "Berlin",
+		"language": "de-DE",
+		"note": "DOI: 10.11588/diglit.24195\nOCLC: 5509171",
+		"number-of-pages": "78",
+		"publisher": "H. Keller",
+		"publisher-place": "Berlin",
+		"source": "Open WorldCat",
+		"title": "Asklepieion. Baubeschreibung und Baugeschichte",
+		"author": [
+			{
+				"family": "Schazmann",
+				"given": "Paul"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herzog",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1932"
+				]
+			]
+		}
 	}
 ]
