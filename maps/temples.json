@@ -49084,6 +49084,289 @@
           36.3666445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001291",
+        "name": "Romano-Celtic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Hexham",
+        "ancientplace": "Vindolanda",
+        "pleiadesplace": "89313",
+        "country": "UK",
+        "orientation": "166",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st c.",
+        "startdateearly": "75",
+        "startdatelate": "100",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Romano-Celtic",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3633988,
+          54.99153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001292",
+        "name": "Temple of Apollo ",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "hilltop",
+        "location": "",
+        "modernplace": "Plovdiv",
+        "ancientplace": "Philippopolis",
+        "pleiadesplace": "216927",
+        "country": "BG",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7315172,
+          42.1370242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001293",
+        "name": "Temple of Jupiter Dolichenus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kabile",
+        "ancientplace": "Kabyle",
+        "pleiadesplace": "216859",
+        "country": "BG",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Inscription: AE 1999, 1374а; SEG 42, 646[a]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.48333495,
+          42.55015366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001294",
+        "name": "Temple of Artemis-Hekate-Phosphorion",
+        "dedicatee": "Artemis/Hekate/Phosphorion",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kabile",
+        "ancientplace": "Kabyle",
+        "pleiadesplace": "216859",
+        "country": "BG",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Inscription: IG Bulg. III/2, n. 1731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.48333495,
+          42.55015366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001295",
+        "name": "Temple of the Great Gods",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kazanlak",
+        "ancientplace": "Seuthopolis",
+        "pleiadesplace": "216981",
+        "country": "BG",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Inscription: IG Bulg. III/2, n. 1731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.362928,
+          42.612271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001296",
+        "name": "Temple of Dionysus",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Kazanlak",
+        "ancientplace": "Seuthopolis",
+        "pleiadesplace": "216981",
+        "country": "BG",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "no",
+        "source": "",
+        "meetings": "",
+        "note": "Inscription: IG Bulg. III/2, n. 1731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.362928,
+          42.612271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001297",
+        "name": "Temple of Jupiter Dolichenus",
+        "dedicatee": "Jupiter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Hexham",
+        "ancientplace": "Vindolanda",
+        "pleiadesplace": "89313",
+        "country": "UK",
+        "orientation": "164",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36087255,
+          54.9917881
+        ]
+      }
     }
   ]
 }

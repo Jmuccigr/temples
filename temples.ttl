@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-21" ;
+    dcterms:modified "2024-09-23" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -13370,4 +13370,69 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599971#this> ;
 skos:exactMatch <http://vici.org/vici/34818> ;
+.
+<https://romeresearchgroup.org/items/1001291> a lawd:Place ;
+rdfs:label "Romano-Celtic Temple at Vindolanda" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "54.99153"^^xsd:double ; geo:long "-2.3633988"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/89313#this> ;
+.
+<https://romeresearchgroup.org/items/1001292> a lawd:Place ;
+rdfs:label "Temple of Apollo  at Philippopolis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.1370242"^^xsd:double ; geo:long "24.7315172"^^xsd:double ] ;
+gn:countryCode "BG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/216927#this> ;
+.
+<https://romeresearchgroup.org/items/1001293> a lawd:Place ;
+rdfs:label "Temple of Jupiter Dolichenus at Kabyle" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.55015366"^^xsd:double ; geo:long "26.48333495"^^xsd:double ] ;
+gn:countryCode "BG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/216859#this> ;
+.
+<https://romeresearchgroup.org/items/1001294> a lawd:Place ;
+rdfs:label "Temple of Artemis-Hekate-Phosphorion at Kabyle" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.55015366"^^xsd:double ; geo:long "26.48333495"^^xsd:double ] ;
+gn:countryCode "BG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/216859#this> ;
+.
+<https://romeresearchgroup.org/items/1001295> a lawd:Place ;
+rdfs:label "Temple of the Great Gods at Seuthopolis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.612271"^^xsd:double ; geo:long "25.362928"^^xsd:double ] ;
+gn:countryCode "BG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/216981#this> ;
+.
+<https://romeresearchgroup.org/items/1001296> a lawd:Place ;
+rdfs:label "Temple of Dionysus at Seuthopolis" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.612271"^^xsd:double ; geo:long "25.362928"^^xsd:double ] ;
+gn:countryCode "BG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/216981#this> ;
+.
+<https://romeresearchgroup.org/items/1001297> a lawd:Place ;
+rdfs:label "Temple of Jupiter Dolichenus at Vindolanda" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "54.9917881"^^xsd:double ; geo:long "-2.36087255"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "UK" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/89313#this> ;
 .
