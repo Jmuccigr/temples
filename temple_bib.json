@@ -15655,7 +15655,7 @@
 		"collection-title": "Archaeology and Economy in the Ancient World – Proceedings of the 19th International Congress of Classical Archaeology",
 		"container-title": "Boundaries Archaeology: Economy, Sacred Places, Cultural Influences in the Ionian and Adriatic Areas: Panel 7.3",
 		"event-place": "Heidelberg",
-		"language": "en",
+		"language": "en-US",
 		"note": "publisher: University Library Heidelberg\nversion: 1",
 		"page": "25–35",
 		"publisher": "Propylaeum",
@@ -26770,6 +26770,7 @@
 		"container-title": "Thiasos",
 		"ISSN": "2279-7297",
 		"issue": "2",
+		"language": "it-IT",
 		"page": "33-50",
 		"title": "Il cantiere del Grande Tempio di Luni tra ricezione dei modelli, tradizione e innovazione",
 		"volume": "9",
@@ -34455,6 +34456,99 @@
 			"date-parts": [
 				[
 					"1932"
+				]
+			]
+		}
+	},
+	{
+		"id": "Rocco2009",
+		"type": "article-journal",
+		"abstract": "The inventorying of the architec- tural fragments of the “Walled Town” at Kos started in 2004 and the new reliefs made possible the revision of what had already been published up to now and the beginning of a study programme regarding the main monuments. This article synthesizes the new information about the Aphrodite Pandamos and Pontia sanctu- ary: the plan has been restored, by defining mainly the eastern part, articulated by a big central exedra, on the side of which there are two staircases and four hestiatoria. The wall has also been restored, enhancing the use of two colours white/black and the rich decoration of the internal part of the enclosure, with the rear wall of the portico, completely in black/blue stone, articulated by engaged Ionian columns as background to the Doric white marble collonade of the peristyle. It has also been possible to outline the chronology, with its first phase dated to the second half of the 3rd century BC and a successive second one to the earthquake of 198 BC.",
+		"container-title": "Annuario della Scuola archeologica di Atene e delle missioni italiane in Oriente",
+		"journalAbbreviation": "ASAten",
+		"language": "it-IT",
+		"page": "599-612",
+		"title": "Note sul santuario di Afrodite <i>Pandamos</i> e <i>Pontia</i> a Kos",
+		"volume": "87",
+		"author": [
+			{
+				"family": "Rocco",
+				"given": "Giorgio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "Parker2015",
+		"type": "chapter",
+		"container-title": "Kykeon: studies in honour of H.S. Versnel",
+		"event-place": "Leyden",
+		"ISBN": "978-90-04-29594-0",
+		"language": "en-US",
+		"note": "DOI: 10.1163/9789004295940_008\nOCLC: 1194930442",
+		"page": "143–160",
+		"publisher": "Brill",
+		"publisher-place": "Leyden",
+		"source": "Open WorldCat",
+		"title": "The cult of Aphrodite Pandamos and Pontia on Cos",
+		"editor": [
+			{
+				"family": "Horstmanshoff",
+				"given": "H.F.J."
+			},
+			{
+				"family": "Singor",
+				"given": "H. W."
+			},
+			{
+				"family": "Straten",
+				"given": "F. T. Van"
+			},
+			{
+				"family": "Strubbe",
+				"given": "J. H. M."
+			}
+		],
+		"author": [
+			{
+				"family": "Parker",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "Ranieri2014",
+		"type": "article-journal",
+		"abstract": "I have measured orientations of the diagonals of Greek temples using a larger sample than before (Ranieri 2010), amounting to 200 temples, including several Treasures and Megarons. In addition, for each temple, I have used the best plan among those obtainable from the archives of archaeological journals, archaeological reports, and books. This approach has allowed more accurate and reliable geometrical analyses. The results show 57 temples with an unequivocally cardinally oriented main axis. Among the remaining 143 temples, 103 (72% of 143) have their diagonal cardinally oriented, with a standard deviation of about ± 2.5°. For the other 40 temples (28% of 143), the cardinal orientation can be attributed to the diagonals of half of the rectangle of the temple. The results point to a generalized topographical practice of establishing, as the first activity prior to construc- tion, a cardinally oriented line on the terrain.",
+		"container-title": "Mediterranean Archaeology and Archaeometry",
+		"issue": "3",
+		"language": "en-US",
+		"page": "15-27",
+		"title": "Digging the archives: the orientation of Greek temples and their diagonals",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Ranieri",
+				"given": "Marcello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
 				]
 			]
 		}
