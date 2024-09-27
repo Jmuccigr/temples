@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-23" ;
+    dcterms:modified "2024-09-27" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -13435,4 +13435,302 @@ gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/89313#this> ;
+.
+<https://romeresearchgroup.org/items/1001298> a lawd:Place ;
+rdfs:label "Temple A at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8753238"^^xsd:double ; geo:long "27.25677773"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+skos:exactMatch <http://vici.org/vici/23155> ;
+.
+<https://romeresearchgroup.org/items/1001299> a lawd:Place ;
+rdfs:label "Temple B at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8758479"^^xsd:double ; geo:long "27.25691838"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+.
+<https://romeresearchgroup.org/items/1001300> a lawd:Place ;
+rdfs:label "Temple C at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8757179"^^xsd:double ; geo:long "27.257281"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+.
+<https://romeresearchgroup.org/items/1001301> a lawd:Place ;
+rdfs:label "Temple of Hercules at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8938405"^^xsd:double ; geo:long "27.2911378"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599728#this> ;
+skos:exactMatch <http://vici.org/vici/71304> ;
+.
+<https://romeresearchgroup.org/items/1001302> a lawd:Place ;
+rdfs:label "Temple of the Attalids at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8910511"^^xsd:double ; geo:long "27.2898261"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599728#this> ;
+.
+<https://romeresearchgroup.org/items/1001303> a lawd:Place ;
+rdfs:label "Temple of Athena at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8937082"^^xsd:double ; geo:long "27.2904671"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599728#this> ;
+.
+<https://romeresearchgroup.org/items/1001304> a lawd:Place ;
+rdfs:label "Temple of Athena at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8937431"^^xsd:double ; geo:long "27.2906566"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599728#this> ;
+.
+<https://romeresearchgroup.org/items/1001305> a lawd:Place ;
+rdfs:label "Temple of Demeter and Kore at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.85296"^^xsd:double ; geo:long "27.1691271"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+skos:exactMatch <http://vici.org/vici/71347> ;
+.
+<https://romeresearchgroup.org/items/1001306> a lawd:Place ;
+rdfs:label "Doric Temple at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.744619"^^xsd:double ; geo:long "26.9595267"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+.
+<https://romeresearchgroup.org/items/1001307> a lawd:Place ;
+rdfs:label "Doric Temple at Kos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.744619"^^xsd:double ; geo:long "26.9596"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599581#this> ;
+.
+<https://romeresearchgroup.org/items/1001308> a lawd:Place ;
+rdfs:label "Southwest Temple (Kos)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.89051"^^xsd:double ; geo:long "27.284213"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599728#this> ;
+.
+<https://romeresearchgroup.org/items/1001309> a lawd:Place ;
+rdfs:label "Temple of Rome and Augustus at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.639572"^^xsd:double ; geo:long "14.2948581"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/18042> ;
+skos:exactMatch <http://pleiades.stoa.org/places/676148653> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5940> ;
+.
+<https://romeresearchgroup.org/items/1001310> a lawd:Place ;
+rdfs:label "Temple of Liber Pater at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6394303"^^xsd:double ; geo:long "14.2946496"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/18043> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6861301> ;
+.
+<https://romeresearchgroup.org/items/1001311> a lawd:Place ;
+rdfs:label "Temple of Hercules at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6396438"^^xsd:double ; geo:long "14.2950586"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/26562> ;
+.
+<https://romeresearchgroup.org/items/1001312> a lawd:Place ;
+rdfs:label "North Flavian Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6384927"^^xsd:double ; geo:long "14.2962423"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9384> ;
+.
+<https://romeresearchgroup.org/items/1001313> a lawd:Place ;
+rdfs:label "Temple of Jupiter Dolichenus at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6368405"^^xsd:double ; geo:long "14.2974083"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/18034> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6111121> ;
+.
+<https://romeresearchgroup.org/items/1001314> a lawd:Place ;
+rdfs:label "Severan Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.636781"^^xsd:double ; geo:long "14.2930338"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/55152> ;
+.
+<https://romeresearchgroup.org/items/1001315> a lawd:Place ;
+rdfs:label "Doric Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.638133"^^xsd:double ; geo:long "14.3010133"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/18036> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6188> ;
+.
+<https://romeresearchgroup.org/items/1001316> a lawd:Place ;
+rdfs:label "Beach Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6362122"^^xsd:double ; geo:long "14.3011012"^^xsd:double ] ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2326902> ;
+.
+<https://romeresearchgroup.org/items/1001317> a lawd:Place ;
+rdfs:label "Temple of Serapis at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6391587"^^xsd:double ; geo:long "14.2934267"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <http://vici.org/vici/18044> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6233885> ;
+.
+<https://romeresearchgroup.org/items/1001318> a lawd:Place ;
+rdfs:label "Temple on the Decumanus at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6369681"^^xsd:double ; geo:long "14.28811"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/3455184> ;
+.
+<https://romeresearchgroup.org/items/1001319> a lawd:Place ;
+rdfs:label "Forum Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.639061"^^xsd:double ; geo:long "14.294732"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9385> ;
+.
+<https://romeresearchgroup.org/items/1001320> a lawd:Place ;
+rdfs:label "Temple of Magna Mater at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6388853"^^xsd:double ; geo:long "14.2948132"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6752790> ;
+.
+<https://romeresearchgroup.org/items/1001321> a lawd:Place ;
+rdfs:label "South Flavian Temple at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6383816"^^xsd:double ; geo:long "14.2961685"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/9384> ;
+.
+<https://romeresearchgroup.org/items/1001322> a lawd:Place ;
+rdfs:label "Temple of the Oriental God at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6392235"^^xsd:double ; geo:long "14.2944336"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+.
+<https://romeresearchgroup.org/items/1001323> a lawd:Place ;
+rdfs:label "Temple of Di Augusti at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6386291"^^xsd:double ; geo:long "14.2909254"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+.
+<https://romeresearchgroup.org/items/1001324> a lawd:Place ;
+rdfs:label "Temple of Ceres Augusta at Leptis Magna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "32.6381817"^^xsd:double ; geo:long "14.2902023"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "LY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/344448#this> ;
+.
+<https://romeresearchgroup.org/items/1001325> a lawd:Place ;
+rdfs:label "Temple of Athena Polias at Ialysos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.3991306"^^xsd:double ; geo:long "28.1441278"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/589815#this> ;
+skos:exactMatch <http://vici.org/vici/90967> ;
 .
