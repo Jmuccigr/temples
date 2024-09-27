@@ -8284,6 +8284,39 @@
 		}
 	},
 	{
+		"id": "LaRocca2012",
+		"type": "chapter",
+		"container-title": "Sacra nominis latini: i santuari del Lazio arcaico e repubblicano: atti del Convegno internazionale, Roma, Palazzo Massimo, 19-21 febbraio 2009",
+		"event-place": "Napoli",
+		"ISBN": "978-88-7564-568-7",
+		"language": "it-IT",
+		"note": "OCLC: 926794957",
+		"page": "37-87",
+		"publisher": "Loffredo",
+		"publisher-place": "Napoli",
+		"source": "Open WorldCat",
+		"title": "La pietrificazione della memoria: i templi a Roma in età medio-repubblicana",
+		"editor": [
+			{
+				"family": "Marroni",
+				"given": "Elisa"
+			}
+		],
+		"author": [
+			{
+				"family": "La Rocca",
+				"given": "Eugenio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
 		"id": "Battaglini2019",
 		"type": "book",
 		"collection-number": "23",
@@ -34549,6 +34582,420 @@
 			"date-parts": [
 				[
 					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Rocco2009-1",
+		"type": "article-journal",
+		"abstract": "The inventorying of the architec- tural fragments of the “Walled Town” at Kos started in 2004 and the new reliefs made possible the revision of what had already been published up to now and the beginning of a study programme regarding the main monuments. This article synthesizes the new information about the Aphrodite Pandamos and Pontia sanctu- ary: the plan has been restored, by defining mainly the eastern part, articulated by a big central exedra, on the side of which there are two staircases and four hestiatoria. The wall has also been restored, enhancing the use of two colours white/black and the rich decoration of the internal part of the enclosure, with the rear wall of the portico, completely in black/blue stone, articulated by engaged Ionian columns as background to the Doric white marble collonade of the peristyle. It has also been possible to outline the chronology, with its first phase dated to the second half of the 3rd century BC and a successive second one to the earthquake of 198 BC.",
+		"container-title": "Annuario della Scuola archeologica di Atene e delle missioni italiane in Oriente",
+		"issue": "1",
+		"journalAbbreviation": "ASAten",
+		"language": "it-IT",
+		"page": "143-192",
+		"title": "Of gods and men: continuities and disruptions in the sacred topography of the acropolis at Eleutherna",
+		"volume": "99",
+		"author": [
+			{
+				"family": "Kalpaxis",
+				"given": "Athanasios"
+			},
+			{
+				"family": "Tsigonaki",
+				"given": "Christina"
+			},
+			{
+				"family": "Spanou",
+				"given": "Nikolia"
+			},
+			{
+				"family": "Bitis",
+				"given": "Ioannis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "Albana2004",
+		"type": "article-journal",
+		"abstract": "Templi e archivi, due tipologie dell’organizzazione e gestione della cultura scritta nella Roma repubblicana, vengono studiati, a partire dal V secolo a.C., attraverso l’esame delle componenti documentarie. In età repubblicana alcuni templi, divenuti sede privilegiata di deposito di atti pubblici, assunsero, per la notevole giacenza documentale, sempre più la fisionomia di archivi. Non tutte le aedes ebbero, per la preziosità dei beni custoditi, uguale rilevanza. Quelle consacrate a divinità, quali Giove, Saturno, Cerere, oggetto di particolare culto e all’apice della gerarchia politeistica, divennero veri e propri archivi di stato. Dall’importanza riconosciuta alla documentazione scritta scaturì, inoltre, l’esigenza di un apparato conservativo razionale, organizzato e gestito da quaestores e aediles, sui quali ricadeva la responsabilità di una corretta fruizione. L’ampliamento territoriale di Roma ed il diversificarsi dei rapporti internazionali portarono, in età imperiale, ad una evoluzione dei sistemi di conservazione e trasmissione della memoria: gli archivi assunsero, infatti, nuove e ben diverse connotazioni.",
+		"container-title": "Annali della facoltà di Scienze della formazione",
+		"language": "it-IT",
+		"title": "I luoghi della memoria a Roma in età repubblicana: templi e archivi",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Albana",
+				"given": "Mela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "DiVita2005",
+		"type": "book",
+		"collection-number": "12",
+		"collection-title": "Monografie di archeologia libica",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-350-7",
+		"language": "it-IT",
+		"number-of-pages": "393",
+		"publisher": "\"L'Erma\" di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "I tre templi del lato nord-ovest del foro vecchio a Leptis Magna",
+		"editor": [
+			{
+				"family": "Di Vita",
+				"given": "Antonino"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "DiVita2005-1",
+		"type": "chapter",
+		"collection-number": "12",
+		"collection-title": "Monografie di archeologia libica",
+		"container-title": "I tre templi del lato nord-ovest del foro vecchio a Leptis Magna",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-350-7",
+		"language": "it-IT",
+		"page": "14-",
+		"publisher": "\"L'Erma\" di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "\"Liber Pater\" o capitolium? Una nota",
+		"editor": [
+			{
+				"family": "Di Vita",
+				"given": "Antonino"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			}
+		],
+		"author": [
+			{
+				"family": "Di Vita",
+				"given": "Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Nasturzo2005",
+		"type": "chapter",
+		"collection-number": "12",
+		"collection-title": "Monografie di archeologia libica",
+		"container-title": "I tre templi del lato nord-ovest del foro vecchio a Leptis Magna",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-350-7",
+		"language": "it-IT",
+		"page": "35",
+		"publisher": "\"L'Erma\" di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "Il tempio occidentale - tempio di “Liber Pater”",
+		"editor": [
+			{
+				"family": "Di Vita",
+				"given": "Antonino"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			}
+		],
+		"author": [
+			{
+				"family": "Nasturzo",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Livadiotti2005",
+		"type": "chapter",
+		"collection-number": "12",
+		"collection-title": "Monografie di archeologia libica",
+		"container-title": "I tre templi del lato nord-ovest del foro vecchio a Leptis Magna",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-350-7",
+		"language": "it-IT",
+		"page": "165",
+		"publisher": "\"L'Erma\" di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "Il tempio di Roma e Augusto",
+		"editor": [
+			{
+				"family": "Di Vita",
+				"given": "Antonino"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			}
+		],
+		"author": [
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			},
+			{
+				"family": "Rocco",
+				"given": "Giorgio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Ricciardi2005",
+		"type": "chapter",
+		"collection-number": "12",
+		"collection-title": "Monografie di archeologia libica",
+		"container-title": "I tre templi del lato nord-ovest del foro vecchio a Leptis Magna",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-350-7",
+		"language": "it-IT",
+		"page": "309-",
+		"publisher": "\"L'Erma\" di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "Il tempio di Milk' Ashtart Ercole",
+		"editor": [
+			{
+				"family": "Di Vita",
+				"given": "Antonino"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			}
+		],
+		"author": [
+			{
+				"family": "Ricciardi",
+				"given": "Monica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Tomasello2011",
+		"type": "book",
+		"collection-number": "31",
+		"collection-title": "Monografie di archeologia libica",
+		"event-place": "Roma",
+		"ISBN": "978-88-8265-612-6",
+		"language": "it-IT",
+		"number-of-pages": "327",
+		"publisher": "L'Erma di Bretschneider",
+		"publisher-place": "Roma",
+		"source": "K10plus ISBN",
+		"title": "Il tempio sul decumano maggiore di Leptis Magna",
+		"editor": [
+			{
+				"family": "Tomasello",
+				"given": "Francesco"
+			},
+			{
+				"family": "Albertocchi",
+				"given": "Marina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "Kenrick2009",
+		"type": "book",
+		"ISBN": "978-1-900971-81-2",
+		"language": "en-US",
+		"note": "DOI: 10.2307/jj.4350570",
+		"publisher": "Silphium Press",
+		"source": "DOI.org (Crossref)",
+		"title": "Libya archaeological guides: Tripolitania",
+		"title-short": "Libya Archaeological Guides",
+		"URL": "http://www.jstor.org/stable/10.2307/jj.4350570",
+		"author": [
+			{
+				"family": "Kenrick",
+				"given": "Philip"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "Bomgardner2016",
+		"type": "chapter",
+		"abstract": "My subject is the theatre-temple complex at Lepcis Magna, including a brief historical introduction, an overview of the theatre itself within the context of other North African theatres, and an outline of its phases of development and abandonment. I shall also investigate the religious aspects of the two temples incorporated into the monumental complex and the sculptural programme of the theatre in relation to the Imperial cult. Finally I shall consider the types of performances that one might have expected to see in the theatre with an attempt to reconstruct one such possible spectacle.",
+		"collection-number": "50",
+		"collection-title": "Forschungen in Augst",
+		"container-title": "Theaterbauten als Teil monumentaler Heiligtümer in den nordwestlichen Provinzen des Imperium Romanum: Architektur - Organisation - Nutzung: internationales Kolloquium in Augusta Raurica, 18.-21. September 2013, Auditorium Römerstiftung Dr. René Clavel, Augst-Kastelen",
+		"event-place": "Augst",
+		"ISBN": "978-3-7151-0050-0",
+		"language": "en-US",
+		"note": "event-title: Theaterbauten als Teil monumentaler Heiligtümer in den nordwestlichen Provinzen des Imperium Romanum: Architektur - Organisation - Nutzung",
+		"page": "63-80",
+		"publisher": "Augusta Raurica",
+		"publisher-place": "Augst",
+		"source": "K10plus ISBN",
+		"title": "The theatre-temple complex at <i>Lepcis Magna</i>:  multiple dimensions of functionality or  There’s more than one way to act on the emperor",
+		"editor": [
+			{
+				"family": "Hufschmid",
+				"given": "Thomas"
+			}
+		],
+		"author": [
+			{
+				"family": "Bomgardner",
+				"given": "David L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "I.Baldini2007",
+		"type": "article-journal",
+		"container-title": "Annuario della scuola archeologica italiana di atene",
+		"journalAbbreviation": "ASAten",
+		"language": "it-IT",
+		"page": "271– 296",
+		"title": "Il tempio del Caput Aquae nel tessuto urbano circostante",
+		"volume": "83",
+		"author": [
+			{
+				"family": "Baldini",
+				"given": "Isabella"
+			},
+			{
+				"family": "Lippolis",
+				"given": "Enzo"
+			},
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			},
+			{
+				"family": "Rocco",
+				"given": "Giorio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "Livadiotti1999",
+		"type": "chapter",
+		"container-title": "Ροδος 2400 χρονια. Rhodes from the foundation until the Turkish conquest (1523)",
+		"event-place": "Athena",
+		"ISBN": "978-960-214-244-8",
+		"language": "it-IT",
+		"page": "109-118",
+		"publisher": "Hypurgeio Politismu, 22. Ephoreia Proïstorikōn kai Klasikōn Archaiotētō [u.a.]",
+		"publisher-place": "Athena",
+		"source": "K10plus ISBN",
+		"title": "Il tempio di Athena Polias a Ialiso: un contributo alla conoscenza dell’architettura rodia",
+		"author": [
+			{
+				"family": "Livadiotti",
+				"given": "Monica"
+			},
+			{
+				"family": "Rocco",
+				"given": "Giorgio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
 				]
 			]
 		}
