@@ -41496,7 +41496,7 @@
         "ancientplace": "Bassae",
         "pleiadesplace": "",
         "country": "GR",
-        "orientation": "0",
+        "orientation": "14",
         "compass": "N",
         "geocertainty": "0",
         "vowed": "",
@@ -41515,11 +41515,11 @@
         "extant": "yes",
         "source": "",
         "meetings": "",
-        "note": "orientation in @Penrose1894",
-        "vici": "",
+        "note": "orientation in @Kelly1995",
+        "vici": "10903",
         "pleiades": "570148",
         "dare": "",
-        "arachne": "",
+        "arachne": "5622",
         "livius": "",
         "wikipedia": "",
         "wikidata": "",
@@ -42006,7 +42006,7 @@
         "type": "temple",
         "setting": "urban",
         "location": "",
-        "modernplace": "Corinth",
+        "modernplace": "Corinthia",
         "ancientplace": "Corinth",
         "pleiadesplace": "570182",
         "country": "GR",
@@ -58045,6 +58045,94 @@
         "coordinates": [
           28.1441278,
           36.3991306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001326",
+        "name": "Temple of Amphiareus",
+        "dedicatee": "Amphiareus",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "",
+        "ancientplace": "Oropos",
+        "pleiadesplace": "580044",
+        "country": "GR",
+        "orientation": "40",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Greek",
+        "style": "Doric hexastyle in antis",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "71107898",
+        "dare": "",
+        "arachne": "8835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8447443,
+          38.2906796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001327",
+        "name": "Archaic Temple of Apollo",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "mountain sanctuary",
+        "location": "",
+        "modernplace": "Phigalia",
+        "ancientplace": "Bassae",
+        "pleiadesplace": "",
+        "country": "GR",
+        "orientation": "11",
+        "compass": "N",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "orientation in @Kelly1995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9001968,
+          37.4292482
         ]
       }
     }

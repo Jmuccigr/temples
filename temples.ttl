@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-27" ;
+    dcterms:modified "2024-09-29" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -9636,7 +9636,9 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://vici.org/vici/10903> ;
 skos:exactMatch <http://pleiades.stoa.org/places/570148> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5622> ;
 skos:exactMatch <https://topostext.org/place/374219SBas> ;
 .
 <https://romeresearchgroup.org/items/1000937> a lawd:Place ;
@@ -13733,4 +13735,25 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/589815#this> ;
 skos:exactMatch <http://vici.org/vici/90967> ;
+.
+<https://romeresearchgroup.org/items/1001326> a lawd:Place ;
+rdfs:label "Temple of Amphiareus at Oropos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.2906796"^^xsd:double ; geo:long "23.8447443"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/580044#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/71107898> ;
+skos:exactMatch <https://arachne.dainst.org/entity/8835> ;
+.
+<https://romeresearchgroup.org/items/1001327> a lawd:Place ;
+rdfs:label "Archaic Temple of Apollo at Bassae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.4292482"^^xsd:double ; geo:long "21.9001968"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 .
