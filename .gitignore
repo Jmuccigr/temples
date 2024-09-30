@@ -1,6 +1,6 @@
 forbidden/
 leaflet*
-
+*.ods
 scripts/ggl2geojson.sh.orig
 maps/scripts/standalone
 
