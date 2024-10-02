@@ -12008,10 +12008,10 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -12066,10 +12066,10 @@
         "enddate": "",
         "preceded": "",
         "succeeded": "",
-        "sex": "",
+        "sex": "M",
         "dedicationday": "",
         "deitytype": "god",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "Vici.org",
@@ -12078,7 +12078,7 @@
         "vici": "27428",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "12016",
         "livius": "",
         "wikipedia": "",
         "wikidata": "",
@@ -50654,6 +50654,86 @@
         "coordinates": [
           21.9001968,
           37.4292482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001328",
+        "name": "Temple of Liber Pater",
+        "dedicatee": "Liber Pater",
+        "type": "temple",
+        "setting": "port",
+        "location": "",
+        "modernplace": "Fiumicino",
+        "ancientplace": "Portus",
+        "pleiadesplace": "423012",
+        "country": "IT",
+        "orientation": "242",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "Assuming temple aligned with harbor",
+        "vici": "58128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2662468,
+          41.7814338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001329",
+        "name": "Harbor Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "port",
+        "location": "",
+        "modernplace": "Fiumicino",
+        "ancientplace": "Portus",
+        "pleiadesplace": "423012",
+        "country": "IT",
+        "orientation": "250",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd quarter of 1st c CE",
+        "startdateearly": "25",
+        "startdatelate": "50",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.280697,
+          41.754048
         ]
       }
     }

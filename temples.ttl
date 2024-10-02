@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-09-29" ;
+    dcterms:modified "2024-09-30" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3507,6 +3507,7 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423012#this> ;
 skos:exactMatch <http://vici.org/vici/27428> ;
+skos:exactMatch <https://arachne.dainst.org/entity/12016> ;
 .
 <https://romeresearchgroup.org/items/1000324> a lawd:Place ;
 rdfs:label "Round Temple at Ostia" ;
@@ -13756,4 +13757,25 @@ ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001328> a lawd:Place ;
+rdfs:label "Temple of Liber Pater at Portus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.7814338"^^xsd:double ; geo:long "12.2662468"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423012#this> ;
+skos:exactMatch <http://vici.org/vici/58128> ;
+.
+<https://romeresearchgroup.org/items/1001329> a lawd:Place ;
+rdfs:label "Harbor Temple at Portus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.754048"^^xsd:double ; geo:long "12.280697"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423012#this> ;
 .
