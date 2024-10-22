@@ -83,30 +83,18 @@ then
   exit 1
 fi
 
-# Convert to bad geojson
-
-# Create the vrt file for the conversion from csv to geojson
-text="      <OGRVRTDataSource>"
-text="$text     <OGRVRTLayer name=\"sheet\">"
-text="$text         <SrcDataSource>$dest/sheet.csv</SrcDataSource>"
-text="$text         <GeometryType>wkbPoint</GeometryType>"
-text="$text         <LayerSRS>WGS84</LayerSRS>"
-text="$text         <GeometryField encoding=\"PointFromColumns\" x=\"Longitude\" y=\"Latitude\"/>"
-text="$text     </OGRVRTLayer>"
-text="$text </OGRVRTDataSource>"
-
-echo $text > "$temp/sheet.vrt"
+# Convert to bad geojson without using VRT file
 
 rm "$temp/sheet.json" 2>/dev/null
-ogr2ogr -addfields -skipfailures -f geojson "$temp/sheet.json" "$temp/sheet.vrt"
+ogr2ogr -f "geojson" "$temp/sheet.json" "$dest/sheet.csv" -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -skipfailures -addfields
 
-# Clear false 0,0 coords resulting from empty fields, and remove some unwanted
+# Replace null geometry with blank coordinates, and remove some unwanted
 # properties that were stuck in during the csv export, after making sure that
 # file exists or else something went wrong. v4 API doesn't include blank values
 # at line ends, so more steps are needed after removing coord lines
 if [ -s "$temp/sheet.json" ]
 then
-	cat "$temp/sheet.json"  | perl -pe "s/\[ 0\.0, 0\.0 \]/[\"\",\"\"]/g"  | jq '.' | \
+	cat "$temp/sheet.json"  | perl -pe 's/(\"geometry\"\: )null/\1\{\"type\"\: \"Point\",\"coordinates\"\: \[\"\",\"\"\]\}/g' | jq '.' | \
 	   grep -v -e \"latitude\": -e \"longitude\":  | \
 	   perl -pe "s/\n/ /g" \
 	   | perl -pe "s/,\s+}/}/g" | jq '.' \
