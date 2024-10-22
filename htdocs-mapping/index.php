@@ -6,7 +6,38 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="scripts/leaflet/leaflet.css" />
 		<link rel="stylesheet" href="/css/map.css" />
-	</head>
+        <link rel="preconnect" href="http://cawm.lib.uiowa.edu/" crossorigin />
+        <link rel="preconnect" href="https://api.mapbox.com/" crossorigin />
+        <link rel="preconnect" href="https://api.tiles.mapbox.com/" crossorigin />
+        <link rel="preconnect" href="https://dh.gu.se/" crossorigin />
+        <link rel="preconnect" href="https://maptiles.p.rapidapi.com/" crossorigin />
+        <link rel="preconnect" href="https://www.mapbox.com/map-feedback/" crossorigin />
+        <link rel="preconnect" href="http://tile.openstreetmap.org/" crossorigin />
+        <link rel="preconnect" href="https://www.openstreetmap.org/" crossorigin />
+        <link rel="prefetch" href="/icons/arrow-markerup_long.png" as="image" />
+        <link rel="prefetch" href="/icons/arrow-markerup_red.png" as="image" />
+        <link rel="prefetch" href="/icons/circle-marker_red.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-b&w-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-b&w.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-black-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-black.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-blue-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-blue.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-green-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-green.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-grey-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-grey.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-orange-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-orange.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-red-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-red.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-white-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-white.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-yellow-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-icon-2x-yellow.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-shadow-circle.png" as="image" />
+        <link rel="prefetch" href="/icons/marker-shadow.png" as="image" />
+    </head>
 	<body>
 	<div id='mask'>
 	<table>
