@@ -1064,7 +1064,7 @@
 "1001072","Temple of Demeter","","temple","urban","","Noto","Heloros","462234","IT","36.8412406","15.106201","100","E","0","","late 4th c. BCE","-350","-300","-4","","","","F","","god","Greek","","yes"
 "1001073","Temple of Apollo Lyseios","","temple","sanctuary","","Thermo","Thermon","541139","GR","38.559832","21.668331","195","S","0","","","","","","","","","M","","god","Greek","","yes"
 "1001074","Temple of Artemis","","temple","sanctuary","","Thermo","Thermon","541139","GR","38.560091","21.668014","191","S","0","","","","","","","","","F","","god","Greek","","yes","","","","","","","10740"
-"1001075","Temple of Zeus Casius","Zeus","temple","","","Tell el-Faramā","Pelusium","727192","EG","31.04166559","32.54285754","","","1","","","","","","","","","M","","god","Greek","","yes"
+"1001075","Temple of Zeus Casius","Zeus","temple","","","Tell el-Faramā","Pelusium","727192","EG","31.04166559","32.54285754","","","1","","","","","","","","","M","","god","Greek","","yes","","","","78268"
 "1001076","Temple of Demeter Chthonia","Demeter","temple","","Pron Hill","Ermioni","Hermione","570292","GR","37.3849341","23.2445427","84","E","0","","","","","","","","","F","","god","Greek","","yes"
 "1001077","Temple of Poseidon","","temple","suburban sanctuary","Bisti","Ermioni","Hermione","570292","GR","37.3839268","23.2567624","78","E","0","","","","","","","","","","","","Greek","","yes"
 "1001078","Temple of Zeus Basileus","Zeus","temple","","","Livadia","Lebadeia","540907","GR","38.4303396","22.8604735","63","NE","0","","","","","","","","","M","","god","Greek","","yes","","","Orientation from Kanellopoulos2021","","474652024","4644106","","","","Q106497024","","","","","","384229SZeu"
@@ -1328,3 +1328,4 @@
 "1001337","Temple of Aphrodite","Aphrodite","temple","acropolis","","Palazzolo Acreide","Acrae","462068","IT","37.0565844","14.8944725","","","0","","","","","","","","","F","","god","Greek","","","Vici.org","","","","442417398","","2108943"
 "1001338","Roman Temple","","temple","","","Ayaş","Elaiussa Sebaste","","TR","36.479706","34.172268","333","NW","0","","1st c CE","1","100","1","","","","","","","Roman","","yes","","","","19771","","","","","","","","","","","","","","","https://www.antichita.uniroma1.it/eng/node/523"
 "1001339","Temple of Hermes","Hermes","temple","","","Çatıören","","779964391","TR","36.52167644","34.12549449","133","SE","0","","3rd-2nd c BCE","-299","-100","-3","","","","M","","god","Greek","","yes","","","","19988","403927880"
+"1001340","Ras el-Soda Temple","Isis, others","temple","","","Ras el-Soda","Alexandria","727070","EG","","","","","0","","2nd c. CE","101","200","2","","","","M/F","","god","Greek","","yes","","","","","","","12239"
