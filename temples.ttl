@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-10-22" ;
+    dcterms:modified "2024-10-28" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -11070,6 +11070,7 @@ gn:countryCode "EG" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/727192#this> ;
+skos:exactMatch <http://vici.org/vici/78268> ;
 .
 <https://romeresearchgroup.org/items/1001076> a lawd:Place ;
 rdfs:label "Temple of Demeter Chthonia at Hermione" ;
@@ -11652,6 +11653,7 @@ gn:countryCode "CY" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/707617#this> ;
+skos:exactMatch <http://vici.org/vici/41742> ;
 .
 <https://romeresearchgroup.org/items/1001133> a lawd:Place ;
 rdfs:label "Temple of Aphaia at Aegina" ;
@@ -12927,7 +12929,7 @@ spatial:C <https://pleiades.stoa.org/places/570182#this> ;
 <https://romeresearchgroup.org/items/1001249> a lawd:Place ;
 rdfs:label "Temple of Asclepius at Corinth" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "37.9055717"^^xsd:double ; geo:long "22.8784798"^^xsd:double ] ;
+geo:location [ geo:lat "37.910717"^^xsd:double ; geo:long "22.877506"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "GR" ;
 dcterms:subject "temple" ;
@@ -13890,4 +13892,83 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/779964391#this> ;
 skos:exactMatch <http://vici.org/vici/19988> ;
 skos:exactMatch <http://pleiades.stoa.org/places/403927880> ;
+.
+<https://romeresearchgroup.org/items/1001340> a lawd:Place ;
+rdfs:label "Ras el-Soda Temple at Alexandria" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "EG" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/727070#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/12239> ;
+.
+<https://romeresearchgroup.org/items/1001341> a lawd:Place ;
+rdfs:label "Temple of Aphrodite Aphakitis at Aphaca" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.0678456"^^xsd:double ; geo:long "35.8928357"^^xsd:double ] ;
+gn:countryCode "SY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+skos:exactMatch <http://dare.ht.lu.se/places/37121> ;
+.
+<https://romeresearchgroup.org/items/1001342> a lawd:Place ;
+rdfs:label "Temple of Aphrodite Amathusia at Amathous" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.7140352"^^xsd:double ; geo:long "33.1404469"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707462#this> ;
+skos:exactMatch <http://vici.org/vici/22456> ;
+.
+<https://romeresearchgroup.org/items/1001343> a lawd:Place ;
+rdfs:label "Temple of Apollo Hylates at Kurion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.673559"^^xsd:double ; geo:long "32.86370226"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707549#this> ;
+skos:exactMatch <http://vici.org/vici/32336> ;
+skos:exactMatch <http://pleiades.stoa.org/places/707476> ;
+.
+<https://romeresearchgroup.org/items/1001344> a lawd:Place ;
+rdfs:label "Temple of Aphrodite at Palaipaphos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.7071557"^^xsd:double ; geo:long "32.5739692"^^xsd:double ] ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707596#this> ;
+skos:exactMatch <http://vici.org/vici/22754> ;
+.
+<https://romeresearchgroup.org/items/1001345> a lawd:Place ;
+rdfs:label "Round Temple at Grumentum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.2857337"^^xsd:double ; geo:long "15.90772038"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/442603#this> ;
+.
+<https://romeresearchgroup.org/items/1001346> a lawd:Place ;
+rdfs:label "Temples of the sanctuary of Aphrodite (Chytroi)" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707496#this> ;
+.
+<https://romeresearchgroup.org/items/1001347> a lawd:Place ;
+rdfs:label "Temple of Aphrodite Paphia at Paphos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "34.761713"^^xsd:double ; geo:long "32.413654"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "CY" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/707586#this> ;
 .

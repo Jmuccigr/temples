@@ -9016,7 +9016,7 @@ var temples =  {
         "name": "Temple C",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
         "modernplace": "Grumento Nova",
         "ancientplace": "Grumentum",
@@ -9059,7 +9059,7 @@ var temples =  {
         "name": "Temple D",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "forum",
         "location": "",
         "modernplace": "Grumento Nova",
         "ancientplace": "Grumentum",
@@ -39863,7 +39863,11 @@ var temples =  {
         "deitytype": "god",
         "culture": "Greek",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "78268"
       },
       "geometry": {
         "type": "Point",
@@ -42148,7 +42152,11 @@ var temples =  {
         "deitytype": "god",
         "culture": "Greek",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "41742"
       },
       "geometry": {
         "type": "Point",
@@ -47260,8 +47268,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.8784798,
-          37.9055717
+          22.877506,
+          37.910717
         ]
       }
     },
@@ -51190,6 +51198,245 @@ var temples =  {
         "coordinates": [
           34.12549449,
           36.52167644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001341",
+        "name": "Temple of Aphrodite Aphakitis",
+        "dedicatee": "Aphrodite",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Afqa",
+        "ancientplace": "Aphaca",
+        "pleiadesplace": "",
+        "country": "SY",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "",
+        "dare": "37121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8928357,
+          34.0678456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001342",
+        "name": "Temple of Aphrodite Amathusia",
+        "dedicatee": "Aphrodite",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Agios Tychon",
+        "ancientplace": "Amathous",
+        "pleiadesplace": "707462",
+        "country": "CY",
+        "orientation": "132",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca 100 CE",
+        "startdateearly": "90",
+        "startdatelate": "110",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "22456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1404469,
+          34.7140352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001343",
+        "name": "Temple of Apollo Hylates",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Episkopi",
+        "ancientplace": "Kurion",
+        "pleiadesplace": "707549",
+        "country": "CY",
+        "orientation": "193",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Augustan",
+        "startdateearly": "-31",
+        "startdatelate": "14",
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "Second Trajanic phase",
+        "vici": "32336",
+        "pleiades": "707476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86370226,
+          34.673559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001344",
+        "name": "Temple of Aphrodite",
+        "dedicatee": "Aphrodite",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "",
+        "ancientplace": "Palaipaphos",
+        "pleiadesplace": "707596",
+        "country": "CY",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "22754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5739692,
+          34.7071557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001345",
+        "name": "Round Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Grumento Nova",
+        "ancientplace": "Grumentum",
+        "pleiadesplace": "442603",
+        "country": "IT",
+        "orientation": "37",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.90772038,
+          40.2857337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001347",
+        "name": "Temple of Aphrodite Paphia",
+        "dedicatee": "Aphrodite",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Pafos",
+        "ancientplace": "Paphos",
+        "pleiadesplace": "707586",
+        "country": "CY",
+        "orientation": "94",
+        "compass": "E",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.413654,
+          34.761713
         ]
       }
     }
