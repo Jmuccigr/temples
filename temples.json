@@ -1458,8 +1458,8 @@
         "name": "Temple of Fortuna Muliebris",
         "dedicatee": "Fortuna",
         "type": "temple",
-        "setting": "",
-        "location": "",
+        "setting": "suburban",
+        "location": "via Latina",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
@@ -58984,6 +58984,84 @@
         "coordinates": [
           32.413654,
           34.761713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001348",
+        "name": "Temple of Demeter",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Sülümenli",
+        "ancientplace": "Blaundos",
+        "pleiadesplace": "609344",
+        "country": "TR",
+        "orientation": "157",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2090508,
+          38.3574547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001349",
+        "name": "Northern Temple",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Sülümenli",
+        "ancientplace": "Blaundos",
+        "pleiadesplace": "609344",
+        "country": "TR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2093294,
+          38.3568968
         ]
       }
     }

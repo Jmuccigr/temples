@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-10-28" ;
+    dcterms:modified "2024-12-14" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -13971,4 +13971,23 @@ gn:countryCode "CY" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/707586#this> ;
+.
+<https://romeresearchgroup.org/items/1001348> a lawd:Place ;
+rdfs:label "Temple of Demeter at Blaundos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.3574547"^^xsd:double ; geo:long "29.2090508"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/609344#this> ;
+.
+<https://romeresearchgroup.org/items/1001349> a lawd:Place ;
+rdfs:label "Northern Temple at Blaundos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.3568968"^^xsd:double ; geo:long "29.2093294"^^xsd:double ] ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/609344#this> ;
 .
