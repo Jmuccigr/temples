@@ -1338,3 +1338,7 @@
 "1001347","Temple of Aphrodite Paphia","Aphrodite","temple","","","Pafos","Paphos","707586","CY","34.761713","32.413654","94","E","0"
 "1001348","Temple of Demeter","","temple","","","Sülümenli","Blaundos","609344","TR","38.3574547","29.2090508","157","SE","0","","","","","","","","","F","","god","Greek","","yes"
 "1001349","Northern Temple","Demeter","temple","","","Sülümenli","Blaundos","609344","TR","38.3568968","29.2093294","","","1","","","","","","","","","","","","Greek","","yes"
+"1001350","Temple of Athena","Athena","temple","agora","","Balat","Miletus","599799","TR","37.52827014","27.27166011","207","SW","0","","Classical","-479","-450","-5","","","","F","","god","Greek","Ionic","yes","","","","24166","185031048","","6359","","es=Templo_de_Atenea_(Mileto)","Q78210835"
+"1001352","Temple of Artemis Chitone","Artemis","temple","","","Balat","Miletus","599799","TR","","","","","0","","","","","","","","","F","","god","Greek","","yes","","","","24166","185031048","","6359"
+"1001353","Temple of Apollo Delphinios","Apollo","temple","","","Balat","Miletus","599799","TR","37.52988465","27.28067503","293","NW","0","","Roman","25","75","1","","","1001351","M","","god","Roman","","yes"
+"1001351","Archaic Temple of Athena","Athena","temple","agora","","Balat","Miletus","599799","TR","37.52816","27.27151","115","SE","0","","Archaic","-610","-590","-7","","1001350","","F","","god","Greek","Ionic","yes"

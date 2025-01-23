@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2024-12-14" ;
+    dcterms:modified "2025-01-23" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -13990,4 +13990,50 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/609344#this> ;
+.
+<https://romeresearchgroup.org/items/1001350> a lawd:Place ;
+rdfs:label "Temple of Athena at Miletus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.52827014"^^xsd:double ; geo:long "27.27166011"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599799#this> ;
+skos:exactMatch <http://vici.org/vici/24166> ;
+skos:exactMatch <http://pleiades.stoa.org/places/185031048> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6359> ;
+skos:exactMatch <https://es.wikipedia.org/wiki/Templo_de_Atenea_(Mileto)> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q78210835> ;
+.
+<https://romeresearchgroup.org/items/1001352> a lawd:Place ;
+rdfs:label "Temple of Artemis Chitone at Miletus" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599799#this> ;
+skos:exactMatch <http://vici.org/vici/24166> ;
+skos:exactMatch <http://pleiades.stoa.org/places/185031048> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6359> ;
+.
+<https://romeresearchgroup.org/items/1001353> a lawd:Place ;
+rdfs:label "Temple of Apollo Delphinios at Miletus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.52988465"^^xsd:double ; geo:long "27.28067503"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599799#this> ;
+.
+<https://romeresearchgroup.org/items/1001351> a lawd:Place ;
+rdfs:label "Archaic Temple of Athena at Miletus" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.52816"^^xsd:double ; geo:long "27.27151"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599799#this> ;
 .

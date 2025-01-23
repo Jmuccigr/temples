@@ -1251,8 +1251,8 @@ var temples =  {
         "name": "Temple of Fortuna Muliebris",
         "dedicatee": "Fortuna",
         "type": "temple",
-        "setting": "",
-        "location": "",
+        "setting": "suburban",
+        "location": "via Latina",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
@@ -51437,6 +51437,211 @@ var temples =  {
         "coordinates": [
           32.413654,
           34.761713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001348",
+        "name": "Temple of Demeter",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Sülümenli",
+        "ancientplace": "Blaundos",
+        "pleiadesplace": "609344",
+        "country": "TR",
+        "orientation": "157",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2090508,
+          38.3574547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001349",
+        "name": "Northern Temple",
+        "dedicatee": "Demeter",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Sülümenli",
+        "ancientplace": "Blaundos",
+        "pleiadesplace": "609344",
+        "country": "TR",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2093294,
+          38.3568968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001350",
+        "name": "Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "agora",
+        "location": "",
+        "modernplace": "Balat",
+        "ancientplace": "Miletus",
+        "pleiadesplace": "599799",
+        "country": "TR",
+        "orientation": "207",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Classical",
+        "startdateearly": "-479",
+        "startdatelate": "-450",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "24166",
+        "pleiades": "185031048",
+        "dare": "",
+        "arachne": "6359",
+        "livius": "",
+        "wikipedia": "es=Templo_de_Atenea_(Mileto)",
+        "wikidata": "Q78210835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.27166011,
+          37.52827014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001353",
+        "name": "Temple of Apollo Delphinios",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Balat",
+        "ancientplace": "Miletus",
+        "pleiadesplace": "599799",
+        "country": "TR",
+        "orientation": "293",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Roman",
+        "startdateearly": "25",
+        "startdatelate": "75",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1001351",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.28067503,
+          37.52988465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001351",
+        "name": "Archaic Temple of Athena",
+        "dedicatee": "Athena",
+        "type": "temple",
+        "setting": "agora",
+        "location": "",
+        "modernplace": "Balat",
+        "ancientplace": "Miletus",
+        "pleiadesplace": "599799",
+        "country": "TR",
+        "orientation": "115",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Archaic",
+        "startdateearly": "-610",
+        "startdatelate": "-590",
+        "century": "-7",
+        "enddate": "",
+        "preceded": "1001350",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.27151,
+          37.52816
         ]
       }
     }
