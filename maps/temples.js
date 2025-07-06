@@ -1355,7 +1355,7 @@ var temples =  {
         "name": "Temple of Hercules Musarum",
         "dedicatee": "Hercules",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "Circus Flaminius",
         "modernplace": "Rome",
         "ancientplace": "Rome",
@@ -1401,7 +1401,7 @@ var temples =  {
         "name": "Temple of Hercules Victor",
         "dedicatee": "Hercules",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "ad portam trigeminam",
         "modernplace": "Rome",
         "ancientplace": "Rome",
@@ -1486,6 +1486,50 @@ var temples =  {
         "coordinates": [
           12.792638,
           41.963553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000037",
+        "name": "Temple of Hercules Invictus (Victor; Pompeianus)",
+        "dedicatee": "Hercules",
+        "type": "temple",
+        "setting": "urban",
+        "location": "ad circum maximum",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "-292-219",
+        "date": "-292",
+        "startdateearly": "-219",
+        "startdatelate": "",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "August 13",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "",
+        "pleiades": "355242955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4825572,
+          41.8877602
         ]
       }
     },
@@ -28210,7 +28254,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Fiano Romano",
         "ancientplace": "Lucus Feroniae",
         "pleiadesplace": "413184",
         "country": "IT",
@@ -28249,7 +28293,7 @@ var temples =  {
         "type": "temple",
         "setting": "",
         "location": "",
-        "modernplace": "",
+        "modernplace": "Fiano Romano",
         "ancientplace": "Lucus Feroniae",
         "pleiadesplace": "413184",
         "country": "IT",
@@ -29823,7 +29867,7 @@ var temples =  {
         "name": "South Temple",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "",
         "modernplace": "Falerii Novi",
         "ancientplace": "Falerii Novi",
@@ -29843,12 +29887,13 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Roman",
         "style": "",
         "extant": "",
         "source": "",
         "meetings": "",
-        "note": "Known from geomag survey"
+        "note": "Known from geomag survey",
+        "vici": "65985"
       },
       "geometry": {
         "type": "Point",
@@ -33009,10 +33054,10 @@ var temples =  {
         "compass": "NE",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "Hadrianic",
+        "startdateearly": "117",
+        "startdatelate": "138",
+        "century": "2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -33021,7 +33066,12 @@ var temples =  {
         "deitytype": "god",
         "culture": "Greek",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "11029",
+        "pleiades": "642990135"
       },
       "geometry": {
         "type": "Point",
@@ -50064,7 +50114,7 @@ var temples =  {
         "dedicatee": "",
         "type": "temple",
         "setting": "forum",
-        "location": "Several Forum",
+        "location": "Severan Forum",
         "modernplace": "",
         "ancientplace": "Leptis Magna",
         "pleiadesplace": "344448",
@@ -50477,7 +50527,7 @@ var temples =  {
         "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
-        "date": "Claudian",
+        "date": "Claudian era",
         "startdateearly": "43",
         "startdatelate": "",
         "century": "1",
@@ -50753,7 +50803,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1001330",
-        "name": "Forum Temple",
+        "name": "Forum West Temple",
         "dedicatee": "",
         "type": "temple",
         "setting": "forum",
@@ -50762,8 +50812,8 @@ var temples =  {
         "ancientplace": "Falerii Novi",
         "pleiadesplace": "413125",
         "country": "IT",
-        "orientation": "95",
-        "compass": "E",
+        "orientation": "275",
+        "compass": "W",
         "geocertainty": "0",
         "vowed": "",
         "date": "2nd half 3rd c BCE",
@@ -51642,6 +51692,665 @@ var temples =  {
         "coordinates": [
           27.27151,
           37.52816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001354",
+        "name": "Capitolium",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "gate",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "181",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "65984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354518,
+          42.300767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001355",
+        "name": "West Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "gate",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "88",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "65984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354208,
+          42.300264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001356",
+        "name": "Main Forum Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "274",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.360105,
+          42.300205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001357",
+        "name": "Northwestern Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "178",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.357505,
+          42.301873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001358",
+        "name": "Northeastern Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "178",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.360697,
+          42.301927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001359",
+        "name": "Eastern Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "gate",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "182",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.362681,
+          42.300375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001360",
+        "name": "Small Northeastern Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Falerii Novi",
+        "ancientplace": "Falerii Novi",
+        "pleiadesplace": "413125",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.361591,
+          42.301802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001363",
+        "name": "Large Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Castrocielo",
+        "ancientplace": "Aquinum",
+        "pleiadesplace": "432695",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "29251",
+        "pleiades": "806520372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6858687,
+          41.5009053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001364",
+        "name": "Tempietto",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Albe",
+        "ancientplace": "Alba Fucens",
+        "pleiadesplace": "413005",
+        "country": "IT",
+        "orientation": "231",
+        "compass": "SW",
+        "geocertainty": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410937,
+          42.07999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001365",
+        "name": "Augusteum",
+        "dedicatee": "Augustus",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Fiano Romano",
+        "ancientplace": "Lucus Feroniae",
+        "pleiadesplace": "413184",
+        "country": "IT",
+        "orientation": "158",
+        "compass": "S",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "early 1st c. CE",
+        "startdateearly": "14",
+        "startdatelate": "",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "emperor",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5966802,
+          42.1303092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001366",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Luni",
+        "ancientplace": "Luna",
+        "pleiadesplace": "403235",
+        "country": "IT",
+        "orientation": "295",
+        "compass": "NW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd half 1st c. CE",
+        "startdateearly": "150",
+        "startdatelate": "199",
+        "century": "2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01611687,
+          44.0618982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001367",
+        "name": "Temple of Diana",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Luni",
+        "ancientplace": "Luna",
+        "pleiadesplace": "403235",
+        "country": "IT",
+        "orientation": "25",
+        "compass": "NE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "Claudian era",
+        "startdateearly": "43",
+        "startdatelate": "",
+        "century": "1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0174233,
+          44.0633442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001368",
+        "name": "Temple of Hecate",
+        "dedicatee": "Hecate",
+        "type": "temple",
+        "setting": "rural sanctuary",
+        "location": "",
+        "modernplace": "Turgut",
+        "ancientplace": "Lagina",
+        "pleiadesplace": "599747",
+        "country": "TR",
+        "orientation": "141",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 2nd c. BC",
+        "startdateearly": "-125",
+        "startdatelate": "-100",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Corinthian octostyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "28562",
+        "pleiades": "376215160",
+        "dare": "",
+        "arachne": "7594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0394389,
+          37.3785801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001369",
+        "name": "Temple of Hercules Victor (Aedes Aemiliana)",
+        "dedicatee": "Hercules",
+        "type": "temple",
+        "setting": "urban",
+        "location": "in foro boario",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "hero",
+        "culture": "Roman",
+        "style": "round",
+        "extant": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482016,
+          41.888414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001370",
+        "name": "West Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Aleria",
+        "ancientplace": "Aleria",
+        "pleiadesplace": "472048",
+        "country": "FR",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5095441,
+          42.1025531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001371",
+        "name": "Temple of Augustus and Rome",
+        "dedicatee": "Augustus, Rome",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Aleria",
+        "ancientplace": "Aleria",
+        "pleiadesplace": "472048",
+        "country": "FR",
+        "orientation": "262",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51054525,
+          42.1025831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001372",
+        "name": "",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Aleria",
+        "ancientplace": "Aleria",
+        "pleiadesplace": "472048",
+        "country": "FR",
+        "orientation": "90",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50976142,
+          42.1026646
         ]
       }
     }

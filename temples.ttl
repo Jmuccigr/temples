@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-01-23" ;
+    dcterms:modified "2025-07-03" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -452,10 +452,12 @@ spatial:C <https://pleiades.stoa.org/places/423081#this> ;
 <https://romeresearchgroup.org/items/1000037> a lawd:Place ;
 rdfs:label "Temple of Hercules Invictus (Victor; Pompeianus) at Rome" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.8877602"^^xsd:double ; geo:long "12.4825572"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://pleiades.stoa.org/places/355242955> ;
 .
 <https://romeresearchgroup.org/items/1000038> a lawd:Place ;
 rdfs:label "Temple of Honos and Virtus at Rome" ;
@@ -8409,6 +8411,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+skos:exactMatch <http://vici.org/vici/65985> ;
 .
 <https://romeresearchgroup.org/items/1000814> a lawd:Place ;
 rdfs:label "Temple of Aesculapius at Fregellae" ;
@@ -9311,6 +9314,8 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599616#this> ;
+skos:exactMatch <http://vici.org/vici/11029> ;
+skos:exactMatch <http://pleiades.stoa.org/places/642990135> ;
 .
 <https://romeresearchgroup.org/items/1000905> a lawd:Place ;
 rdfs:label "Temple at Alinda" ;
@@ -13787,10 +13792,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423012#this> ;
 .
 <https://romeresearchgroup.org/items/1001330> a lawd:Place ;
-rdfs:label "Forum Temple at Falerii Novi" ;
+rdfs:label "Forum West Temple at Falerii Novi" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "42.300103"^^xsd:double ; geo:long "12.357633"^^xsd:double ] ;
-ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14036,4 +14041,194 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/599799#this> ;
+.
+<https://romeresearchgroup.org/items/1001354> a lawd:Place ;
+rdfs:label "Capitolium at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.300767"^^xsd:double ; geo:long "12.354518"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+skos:exactMatch <http://vici.org/vici/65984> ;
+.
+<https://romeresearchgroup.org/items/1001355> a lawd:Place ;
+rdfs:label "West Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.300264"^^xsd:double ; geo:long "12.354208"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+skos:exactMatch <http://vici.org/vici/65984> ;
+.
+<https://romeresearchgroup.org/items/1001356> a lawd:Place ;
+rdfs:label "Main Forum Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.300205"^^xsd:double ; geo:long "12.360105"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001357> a lawd:Place ;
+rdfs:label "Northwestern Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.301873"^^xsd:double ; geo:long "12.357505"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001358> a lawd:Place ;
+rdfs:label "Northeastern Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.301927"^^xsd:double ; geo:long "12.360697"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001359> a lawd:Place ;
+rdfs:label "Eastern Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.300375"^^xsd:double ; geo:long "12.362681"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001360> a lawd:Place ;
+rdfs:label "Small Northeastern Temple at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.301802"^^xsd:double ; geo:long "12.361591"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001361> a lawd:Place ;
+rdfs:label " at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001362> a lawd:Place ;
+rdfs:label " at Falerii Novi" ;
+dcterms:temporal "-750/640" ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413125#this> ;
+.
+<https://romeresearchgroup.org/items/1001363> a lawd:Place ;
+rdfs:label "Large Temple at Aquinum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.5009053"^^xsd:double ; geo:long "13.6858687"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/432695#this> ;
+skos:exactMatch <http://vici.org/vici/29251> ;
+skos:exactMatch <http://pleiades.stoa.org/places/806520372> ;
+.
+<https://romeresearchgroup.org/items/1001364> a lawd:Place ;
+rdfs:label "Tempietto at Alba Fucens" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.07999"^^xsd:double ; geo:long "13.410937"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413005#this> ;
+.
+<https://romeresearchgroup.org/items/1001365> a lawd:Place ;
+rdfs:label "Augusteum at Lucus Feroniae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.1303092"^^xsd:double ; geo:long "12.5966802"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078825> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413184#this> ;
+.
+<https://romeresearchgroup.org/items/1001366> a lawd:Place ;
+rdfs:label "Temple C at Luna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "44.0618982"^^xsd:double ; geo:long "10.01611687"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078812> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403235#this> ;
+.
+<https://romeresearchgroup.org/items/1001367> a lawd:Place ;
+rdfs:label "Temple of Diana at Luna" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "44.0633442"^^xsd:double ; geo:long "10.0174233"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403235#this> ;
+.
+<https://romeresearchgroup.org/items/1001368> a lawd:Place ;
+rdfs:label "Temple of Hecate at Lagina" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.3785801"^^xsd:double ; geo:long "28.0394389"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599747#this> ;
+skos:exactMatch <http://vici.org/vici/28562> ;
+skos:exactMatch <http://pleiades.stoa.org/places/376215160> ;
+skos:exactMatch <https://arachne.dainst.org/entity/7594> ;
+.
+<https://romeresearchgroup.org/items/1001369> a lawd:Place ;
+rdfs:label "Temple of Hercules Victor (Aedes Aemiliana) at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.888414"^^xsd:double ; geo:long "12.482016"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001370> a lawd:Place ;
+rdfs:label "West Temple at Aleria" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.1025531"^^xsd:double ; geo:long "9.5095441"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/472048#this> ;
+.
+<https://romeresearchgroup.org/items/1001371> a lawd:Place ;
+rdfs:label "Temple of Augustus and Rome at Aleria" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.1025831"^^xsd:double ; geo:long "9.51054525"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/472048#this> ;
+.
+<https://romeresearchgroup.org/items/1001372> a lawd:Place ;
+rdfs:label " at Aleria" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.1026646"^^xsd:double ; geo:long "9.50976142"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "FR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/472048#this> ;
 .
