@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-07-03" ;
+    dcterms:modified "2025-07-07" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -4255,7 +4255,7 @@ spatial:C <https://pleiades.stoa.org/places/138351#this> ;
 skos:exactMatch <http://vici.org/vici/14591> ;
 .
 <https://romeresearchgroup.org/items/1000390> a lawd:Place ;
-rdfs:label "Temple at Grannum" ;
+rdfs:label "Temple of Apollo-Grannus at Grannum" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.383953"^^xsd:double ; geo:long "5.48573"^^xsd:double ] ;
 gn:countryCode "FR" ;
@@ -5892,7 +5892,7 @@ spatial:C <https://pleiades.stoa.org/places/118758#this> ;
 skos:exactMatch <http://vici.org/vici/10071> ;
 .
 <https://romeresearchgroup.org/items/1000551> a lawd:Place ;
-rdfs:label "Temple of Jupiter Dolichenum at Vetoniana" ;
+rdfs:label "Temple of Jupiter Dolichenus at Vetoniana" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "48.882706"^^xsd:double ; geo:long "11.263725"^^xsd:double ] ;
 gn:countryCode "DE" ;
@@ -8471,6 +8471,8 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442525#this> ;
+skos:exactMatch <http://vici.org/vici/43906> ;
+skos:exactMatch <https://arachne.dainst.org/entity/6580677> ;
 .
 <https://romeresearchgroup.org/items/1000820> a lawd:Place ;
 rdfs:label "Temple of Jupiter \"Toro\" at Canusium" ;
@@ -8481,6 +8483,8 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/442525#this> ;
+skos:exactMatch <http://vici.org/vici/43907> ;
+skos:exactMatch <https://it.wikipedia.org/wiki/Tempio_di_Giove_Toro> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q3983260> ;
 .
 <https://romeresearchgroup.org/items/1000821> a lawd:Place ;
@@ -10387,7 +10391,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/530824#this> ;
 .
 <https://romeresearchgroup.org/items/1001007> a lawd:Place ;
-rdfs:label "Temple of Asclepios at Bouthroton" ;
+rdfs:label "Temple of Asclepius at Bouthroton" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "39.745764"^^xsd:double ; geo:long "20.020064"^^xsd:double ] ;
 ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
@@ -14231,4 +14235,24 @@ gn:countryCode "FR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/472048#this> ;
+.
+<https://romeresearchgroup.org/items/1001373> a lawd:Place ;
+rdfs:label "Temple of Area 7 at Elea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.164487"^^xsd:double ; geo:long "15.162187"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452488#this> ;
+.
+<https://romeresearchgroup.org/items/1001374> a lawd:Place ;
+rdfs:label "Temple of Area 6 at Elea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.16424"^^xsd:double ; geo:long "15.161626"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452488#this> ;
 .

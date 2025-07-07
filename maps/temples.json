@@ -6023,7 +6023,7 @@
       "properties": {
         "id": "1000193",
         "name": "Temple of Apollo Cunomaglos",
-        "dedicatee": "Apollo Cunomaglos",
+        "dedicatee": "Apollo",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -9377,7 +9377,7 @@
       "properties": {
         "id": "1000266",
         "name": "Temple of Rome and Augustus",
-        "dedicatee": "Rome, Augustus",
+        "dedicatee": "Augustus, Rome",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -11743,7 +11743,7 @@
       "properties": {
         "id": "1000317",
         "name": "Shrine of the Altar of the Twins",
-        "dedicatee": "Romulus and Remus",
+        "dedicatee": "Romulus, Remus",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -12936,7 +12936,7 @@
       "properties": {
         "id": "1000341",
         "name": "Temple",
-        "dedicatee": "Trajan and the Roman Gods",
+        "dedicatee": "Trajan, the Roman Gods",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -14858,8 +14858,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000390",
-        "name": "Temple",
-        "dedicatee": "Apollo Grannus",
+        "name": "Temple of Apollo-Grannus",
+        "dedicatee": "Apollo",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -20184,7 +20184,7 @@
       "properties": {
         "id": "1000530",
         "name": "Temple of Apollo-Grannus",
-        "dedicatee": "Apollo Grannus",
+        "dedicatee": "Apollo",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -21129,8 +21129,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000551",
-        "name": "Temple of Jupiter Dolichenum",
-        "dedicatee": "Jupiter Dolichenum",
+        "name": "Temple of Jupiter Dolichenus",
+        "dedicatee": "Jupiter",
         "type": "temple",
         "setting": "",
         "location": "Pfünz",
@@ -30105,7 +30105,7 @@
         "name": "Temple of Minerva",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "Basilica of San Leucio",
         "modernplace": "Canosa",
         "ancientplace": "Canusium",
@@ -30127,7 +30127,14 @@
         "deitytype": "god",
         "culture": "Italic",
         "style": "",
-        "extant": "yes"
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "43906",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "6580677"
       },
       "geometry": {
         "type": "Point",
@@ -30144,7 +30151,7 @@
         "name": "Temple of Jupiter \"Toro\"",
         "dedicatee": "",
         "type": "temple",
-        "setting": "",
+        "setting": "urban",
         "location": "",
         "modernplace": "Canosa",
         "ancientplace": "Canusium",
@@ -30154,10 +30161,10 @@
         "compass": "W",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "Antoninus Pius",
+        "startdateearly": "141",
+        "startdatelate": "142",
+        "century": "2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -30165,17 +30172,17 @@
         "dedicationday": "",
         "deitytype": "god",
         "culture": "Roman",
-        "style": "",
+        "style": "hexastyle",
         "extant": "yes",
         "source": "",
         "meetings": "",
         "note": "",
-        "vici": "",
+        "vici": "43907",
         "pleiades": "",
         "dare": "",
         "arachne": "",
         "livius": "",
-        "wikipedia": "",
+        "wikipedia": "it=Tempio_di_Giove_Toro",
         "wikidata": "Q3983260",
         "digitalromanforum": "",
         "digitalesforumromanum": "",
@@ -31155,7 +31162,7 @@
       "properties": {
         "id": "1000851",
         "name": "Temple of Rome and Augustus",
-        "dedicatee": "Rome, Augustus",
+        "dedicatee": "Augustus, Rome",
         "type": "temple",
         "setting": "acropolis",
         "location": "",
@@ -31532,7 +31539,7 @@
       "properties": {
         "id": "1000862",
         "name": "Temple of Apollo Patroos",
-        "dedicatee": "Apollo Patroos",
+        "dedicatee": "Apollo",
         "type": "temple",
         "setting": "agora",
         "location": "",
@@ -37182,8 +37189,8 @@
       "type": "Feature",
       "properties": {
         "id": "1001007",
-        "name": "Temple of Asclepios",
-        "dedicatee": "Asclepios",
+        "name": "Temple of Asclepius",
+        "dedicatee": "Asclepius",
         "type": "temple",
         "setting": "urban",
         "location": "",
@@ -38637,7 +38644,7 @@
       "properties": {
         "id": "1001045",
         "name": "Temple of Apollo-Grannus",
-        "dedicatee": "Apollo Grannus",
+        "dedicatee": "Apollo",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -44645,7 +44652,7 @@
       "properties": {
         "id": "1001188",
         "name": "Temple of Apollo and Diana",
-        "dedicatee": "Apollo and Diana",
+        "dedicatee": "Apollo, Diana",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -49722,7 +49729,7 @@
       "properties": {
         "id": "1001305",
         "name": "Temple of Demeter and Kore",
-        "dedicatee": "Demeter/Kore",
+        "dedicatee": "Demeter, Kore",
         "type": "temple",
         "setting": "rural sanctuary",
         "location": "",
@@ -50065,7 +50072,7 @@
       "properties": {
         "id": "1001313",
         "name": "Temple of Jupiter Dolichenus",
-        "dedicatee": "Jupiter Dolichenus",
+        "dedicatee": "Jupiter",
         "type": "temple",
         "setting": "urban",
         "location": "",
@@ -52351,6 +52358,84 @@
         "coordinates": [
           9.50976142,
           42.1026646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001373",
+        "name": "Temple of Area 7",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Velia",
+        "ancientplace": "Elea",
+        "pleiadesplace": "452488",
+        "country": "IT",
+        "orientation": "74",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "2nd c. BCE",
+        "startdateearly": "-199",
+        "startdatelate": "",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.162187,
+          40.164487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001374",
+        "name": "Temple of Area 6",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Velia",
+        "ancientplace": "Elea",
+        "pleiadesplace": "452488",
+        "country": "IT",
+        "orientation": "72",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "After mid 2nd c. BCE",
+        "startdateearly": "-150",
+        "startdatelate": "",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.161626,
+          40.16424
         ]
       }
     }
