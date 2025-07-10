@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-07-07" ;
+    dcterms:modified "2025-07-10" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8164,8 +8164,10 @@ skos:exactMatch <http://vici.org/vici/16874> ;
 skos:exactMatch <http://dare.ht.lu.se/places/20503> ;
 .
 <https://romeresearchgroup.org/items/1000788> a lawd:Place ;
-rdfs:label "Ionic Temple at Vibo Valentia" ;
+rdfs:label "Ionic Temple at Hipponion" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.67661"^^xsd:double ; geo:long "16.115999"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14255,4 +14257,66 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/452488#this> ;
+.
+<https://romeresearchgroup.org/items/1001375> a lawd:Place ;
+rdfs:label "Temple Α (Longa)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8640412"^^xsd:double ; geo:long "21.9186273"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570096#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4119> ;
+.
+<https://romeresearchgroup.org/items/1001376> a lawd:Place ;
+rdfs:label "Temple Β (Longa)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8640413"^^xsd:double ; geo:long "21.9186273"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570096#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4119> ;
+.
+<https://romeresearchgroup.org/items/1001377> a lawd:Place ;
+rdfs:label "Temple Γ (Longa)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8640412"^^xsd:double ; geo:long "21.9186274"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570096#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4119> ;
+.
+<https://romeresearchgroup.org/items/1001378> a lawd:Place ;
+rdfs:label "Temple Δ (Longa)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "36.8640413"^^xsd:double ; geo:long "21.9186274"^^xsd:double ] ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570096#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4119> ;
+.
+<https://romeresearchgroup.org/items/1001379> a lawd:Place ;
+rdfs:label "Temple L at Epidauros" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.5994847"^^xsd:double ; geo:long "23.0743283"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/570127#this> ;
+skos:exactMatch <https://arachne.dainst.org/entity/4638228> ;
+.
+<https://romeresearchgroup.org/items/1001380> a lawd:Place ;
+rdfs:label "Doric Temple at Hipponion" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.6854931"^^xsd:double ; geo:long "16.1098262"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452337#this> ;
+skos:exactMatch <http://vici.org/vici/89698> ;
 .

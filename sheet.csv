@@ -777,7 +777,7 @@
 "1000785","Temple of Valetudo","Valetudo","temple","","","Saint-Rémy-de-Provence","Glanum","148093","FR","43.772627","4.833131","253","W","0","","19 BCE","-19","","-1","Last quarter 3rd c. CE","","","F","","concept","Roman","","yes"
 "1000786","Temple","","temple","","","Neung-sur-Beuvron","","","FR","47.514506","1.813998","282","W","0","","","","","","","","","","","","Gallo-Roman","","no"
 "1000787","South temple","","temple","","Pied de Bourges","","Clion","138299","FR","46.946785","1.229261","90","E","0","","","","","","","","","","","","Gallo-Roman","","no","Vici.org","","","16874","","20503"
-"1000788","Ionic Temple","","temple","","","Vibo Valentia","Vibo Valentia","452337","IT"
+"1000788","Ionic Temple","","temple","urban","Cófino","Vibo Valentia","Hipponion","452337","IT","38.67661","16.115999","83","E","0","","end of 5th-early 4th c BCE","-520","-480","-6","","","","","","","Greek","Ionic","yes"
 "1000789","Temple A","","temple","","","Altilia","Saepinum","433073","IT","41.43229","14.617611","31","NE","0","","","","","","","","","","","","Roman"
 "1000790","Temple","","temple","","Poggio Casetta","Bolsena","Volsinii","413389","IT","42.656053","11.991613","","","0","","","","","","","","","","","","Roman"
 "1000791","Tempietto","","temple","","Poggio Moscini","Bolsena","Volsinii","413389","IT","42.648916","11.984524","","","0"
@@ -1368,3 +1368,4 @@
 "1001377","Temple Γ","Apollo","temple","rural sanctuary","","Longa","","570096","GR","36.8640412","21.9186274","","","1","","","","","","","1001377","","","","","Greek","","","","","","","","","4119"
 "1001378","Temple Δ","Apollo","temple","rural sanctuary","","Longa","","570096","GR","36.8640413","21.9186274","","","1","","","","","","","","","","","","Greek","","","","","","","","","4119"
 "1001379","Temple L","Aphrodite","temple","sanctuary","Asclepeion","Epidafro","Epidauros","570127","GR","37.5994847","23.0743283","80","E","0","","","","","","","","","","","","","","","","","","","","","4638228"
+"1001380","Doric Temple","","temple","urban","","Vibo Valentia","Hipponion","452337","IT","38.6854931","16.1098262","94","E","0","","","","","","","","","","","","Greek","Doric","yes","","","","89698"
