@@ -6,6 +6,7 @@ $username = "romerese_temples";
 $dbname = "romerese_temples";
 $password = trim(file_get_contents("../forbidden/pw.txt"));
 $sql = 'select ID, name, location, modernplace, country FROM temples WHERE ID = ' . basename($_SERVER['REQUEST_URI']);
+$text = "Temples of the Classical World";
 
 # Connect to SQLite database
 // $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8'));
