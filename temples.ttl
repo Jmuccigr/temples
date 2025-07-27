@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-07-10" ;
+    dcterms:modified "2025-07-26" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
