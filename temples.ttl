@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-07-26" ;
+    dcterms:modified "2025-09-19" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -14319,4 +14319,64 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/452337#this> ;
 skos:exactMatch <http://vici.org/vici/89698> ;
+.
+<https://romeresearchgroup.org/items/1001381> a lawd:Place ;
+rdfs:label "Temple of Apollo Chresterios at Aigai" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.8290772"^^xsd:double ; geo:long "27.216971"^^xsd:double ] ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550404#this> ;
+skos:exactMatch <http://vici.org/vici/96410> ;
+skos:exactMatch <https://arachne.dainst.org/entity/10192> ;
+.
+<https://romeresearchgroup.org/items/1001382> a lawd:Place ;
+rdfs:label "Temple of Athena at Aigai" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.830955"^^xsd:double ; geo:long "27.1869017"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550404#this> ;
+skos:exactMatch <http://vici.org/vici/34340> ;
+.
+<https://romeresearchgroup.org/items/1001383> a lawd:Place ;
+rdfs:label "Temple of Demeter and Kore at Aigai" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.83091"^^xsd:double ; geo:long "27.18615"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550404#this> ;
+skos:exactMatch <http://vici.org/vici/34347> ;
+.
+<https://romeresearchgroup.org/items/1001384> a lawd:Place ;
+rdfs:label "Temple (Chianciano Terme)" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.0410168"^^xsd:double ; geo:long "11.818194"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+.
+<https://romeresearchgroup.org/items/1001385> a lawd:Place ;
+rdfs:label "Temple at Ossonoba" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.013103"^^xsd:double ; geo:long "-7.9349814"^^xsd:double ] ;
+gn:countryCode "PT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256345#this> ;
+skos:exactMatch <http://vici.org/vici/101776> ;
+.
+<https://romeresearchgroup.org/items/1001386> a lawd:Place ;
+rdfs:label "Temple of Neptune at Cosa" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.4114707"^^xsd:double ; geo:long "11.295427"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413107#this> ;
 .
