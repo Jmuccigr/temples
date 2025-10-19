@@ -30336,10 +30336,10 @@ var temples =  {
         "compass": "NE",
         "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "mid 2nd c BCE",
+        "startdateearly": "-175",
+        "startdatelate": "-125",
+        "century": "-2",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
@@ -38272,21 +38272,21 @@ var temples =  {
         "ancientplace": "",
         "pleiadesplace": "34221419",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "153",
+        "compass": "SE",
         "geocertainty": "1",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "Early 5th century. BCE",
+        "startdateearly": "-499",
+        "startdatelate": "-480",
+        "century": "-5",
         "enddate": "",
         "preceded": "",
         "succeeded": "",
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Etruscan",
         "style": "",
         "extant": "yes"
       },
@@ -53029,6 +53029,80 @@ var temples =  {
         "coordinates": [
           11.295427,
           42.4114707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001387",
+        "name": "Temple of Bona Dea",
+        "dedicatee": "Bona Dea",
+        "type": "temple",
+        "setting": "suburban",
+        "location": "",
+        "modernplace": "Trieste",
+        "ancientplace": "Tergeste",
+        "pleiadesplace": "187578",
+        "country": "IT",
+        "orientation": "95",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 1st century BCE",
+        "startdateearly": "-50",
+        "startdatelate": "-1",
+        "century": "-1",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7744263,
+          45.649928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001388",
+        "name": "Temple of Magna Mater",
+        "dedicatee": "Magna Mater",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Trieste",
+        "ancientplace": "Tergeste",
+        "pleiadesplace": "187578",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.768885,
+          45.647801
         ]
       }
     }

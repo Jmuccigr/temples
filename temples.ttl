@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-09-19" ;
+    dcterms:modified "2025-10-14" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -10655,6 +10655,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 rdfs:label "Acropolis Temple (Vicchio)" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "43.925938"^^xsd:double ; geo:long "11.4746829"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14379,4 +14380,23 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413107#this> ;
+.
+<https://romeresearchgroup.org/items/1001387> a lawd:Place ;
+rdfs:label "Temple of Bona Dea at Tergeste" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "45.649928"^^xsd:double ; geo:long "13.7744263"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/187578#this> ;
+.
+<https://romeresearchgroup.org/items/1001388> a lawd:Place ;
+rdfs:label "Temple of Magna Mater at Tergeste" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "45.647801"^^xsd:double ; geo:long "13.768885"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/187578#this> ;
 .
