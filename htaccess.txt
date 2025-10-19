@@ -5,6 +5,9 @@ RewriteBase /
 # For single-item queries: only a number string will work, so remove everything else
 RewriteRule "^([a-z0-9_\-]+)$" "$1.php" [L]
 RewriteRule "^items/([0-9]+)$" "items/index.php?$1" [L]
+# Rules for alternate forms (json and csv)
+RewriteRule "^items/([0-9]+)/json/$" "items/scripts/get_json.php?id=$1" [L]
+RewriteRule "^items/([0-9]+)/csv/$" "search?id=$1" [L]
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -12,6 +15,3 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
-
-# For single-item queries: only a number string will work, so remove everything else
-RewriteRule "items/([0-9]+)$" "items/index.php?$1" [L]
