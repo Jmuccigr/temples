@@ -1377,3 +1377,5 @@
 "1001386","Temple of Neptune","Neptune","temple","port","","","Cosa","413107","IT","42.4114707","11.295427","","","1","","2nd qu. 2nd c. BCE","-175","-150","-2","","","","M","","god","Roman"
 "1001387","Temple of Bona Dea","Bona Dea","temple","suburban","","Trieste","Tergeste","187578","IT","45.649928","13.7744263","95","E","0","","late 1st century BCE","-50","-1","-1","","","","F","","god","Roman"
 "1001388","Temple of Magna Mater","Magna Mater","temple","","","Trieste","Tergeste","187578","IT","45.647801","13.768885","","","1","","","","","","","","","F","","god","Roman"
+"1001389","Archaic Temple","","temple","","","Policoro","Heraclea","452333","IT","40.21733698","16.67125081","","","0","","ca. 580 BCE","-599","-570","-6","","1001390","","","","","Greek","","no"
+"1001390","Classical Temple","","temple","","","Policoro","Heraclea","452333","IT","40.21733698","16.67125081","108","E","0","","End 5th - early 4th c. BCE","-420","-375","-5","","","1001389","","","","Greek","","yes"
