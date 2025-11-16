@@ -3,7 +3,7 @@
 # Commits some files to github.
 
 # Set up some variables
-me=$(whoami)
+me=$USER
 dest="/Users/$me/Documents/github/local/temples"
 counter=0
 

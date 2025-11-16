@@ -8,7 +8,7 @@ checkSize=true
 dryRun=false
 local=true
 cmdStr=''
-me=$(whoami)
+me=$USER
 declare -a deleteList
 declare -a dbList
 declare -a fileList

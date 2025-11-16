@@ -3,7 +3,7 @@
 # Converts Zotero-produced json bib file into html
 
 # Set up some variables
-me=$(whoami)
+me=$USER
 dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 

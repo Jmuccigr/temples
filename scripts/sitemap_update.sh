@@ -2,7 +2,7 @@
 
 # Updates sitemap file
 # Set up some variables
-me=$(whoami)
+me=$USER
 src="/Users/$me/Documents/github/local/temples"
 
 # Update sitemap file

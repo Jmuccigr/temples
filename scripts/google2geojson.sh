@@ -4,7 +4,7 @@
 
 # Set the target directory
 # Abstract out my local info (which also anonymizes it)
-me=`whoami`
+me=$USER
 # Set the folder to one in the relevant github repository
 destFolder="/Users/$me/Documents/github/local/temples/"
 # Make sure that folder exists

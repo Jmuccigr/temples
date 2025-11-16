@@ -2,7 +2,7 @@
 
 # Convert the temple json file to a simple javascript "script" for use by leaflet
 # Set up some variables
-me=$(whoami)
+me=$USER
 dest="$HOME/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 

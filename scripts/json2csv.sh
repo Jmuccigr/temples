@@ -2,7 +2,7 @@
 
 # Converts google-derived json into a nice csv
 # Set up some variables
-me=$(whoami)
+me=$USER
 dest="/Users/$me/Documents/github/local/temples"
 temp=$(echo $TMPDIR | sed 's:/$::')
 newfile="$dest/temples.csv"

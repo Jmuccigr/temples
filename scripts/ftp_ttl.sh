@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set up some variables
-me=$(whoami)
+me=$USER
 src="/Users/$me/Documents/github/local/temples"
 
 # Path to include Cyberduck's duck command for running via launchctl

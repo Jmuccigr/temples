@@ -3,7 +3,7 @@
 # Converts a Google spreadsheet to csv, v. 2.
 
 # Set up some variables
-me=$(whoami)
+me=$USER
 sheet=$(cat "/Users/$me/Documents/Academic/Research/google_info/temples_sheet_ID.txt")
 apikey=$(cat "/Users/$me/Documents/Academic/Research/google_info/google_api_key.txt")
 dest="/Users/$me/Documents/github/local/temples"
