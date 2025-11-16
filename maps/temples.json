@@ -10627,8 +10627,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.787855,
-          43.652519
+          11.8265794,
+          43.6464679
         ]
       }
     },
@@ -53103,6 +53103,84 @@
         "coordinates": [
           13.768885,
           45.647801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001389",
+        "name": "Archaic Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Policoro",
+        "ancientplace": "Heraclea",
+        "pleiadesplace": "452333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 580 BCE",
+        "startdateearly": "-599",
+        "startdatelate": "-570",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "1001390",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67125081,
+          40.21733698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001390",
+        "name": "Classical Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Policoro",
+        "ancientplace": "Heraclea",
+        "pleiadesplace": "452333",
+        "country": "IT",
+        "orientation": "108",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "End 5th - early 4th c. BCE",
+        "startdateearly": "-420",
+        "startdatelate": "-375",
+        "century": "-5",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1001389",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67125081,
+          40.21733698
         ]
       }
     }

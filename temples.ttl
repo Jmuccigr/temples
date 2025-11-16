@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-10-14" ;
+    dcterms:modified "2025-11-06" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3179,7 +3179,7 @@ skos:exactMatch <http://pleiades.stoa.org/places/109342090> ;
 <https://romeresearchgroup.org/items/1000292> a lawd:Place ;
 rdfs:label "Temple (Pieve a Socano)" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "43.652519"^^xsd:double ; geo:long "11.787855"^^xsd:double ] ;
+geo:location [ geo:lat "43.6464679"^^xsd:double ; geo:long "11.8265794"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14399,4 +14399,23 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/187578#this> ;
+.
+<https://romeresearchgroup.org/items/1001389> a lawd:Place ;
+rdfs:label "Archaic Temple at Heraclea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.21733698"^^xsd:double ; geo:long "16.67125081"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452333#this> ;
+.
+<https://romeresearchgroup.org/items/1001390> a lawd:Place ;
+rdfs:label "Classical Temple at Heraclea" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "40.21733698"^^xsd:double ; geo:long "16.67125081"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/452333#this> ;
 .
