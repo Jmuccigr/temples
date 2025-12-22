@@ -5973,14 +5973,14 @@ var temples =  {
         "ancientplace": "",
         "pleiadesplace": "79470",
         "country": "UK",
-        "orientation": "",
-        "compass": "",
-        "geocertainty": "",
+        "orientation": "91",
+        "compass": "E",
+        "geocertainty": "0",
         "vowed": "",
-        "date": "later 1st c. CE",
-        "startdateearly": "51",
-        "startdatelate": "100",
-        "century": "1",
+        "date": "late 3rd-early 4th c CE",
+        "startdateearly": "375",
+        "startdatelate": "425",
+        "century": "4",
         "enddate": "early 5th c. CE",
         "preceded": "",
         "succeeded": "",
@@ -6013,7 +6013,7 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.366780827,
+          -1.367001,
           51.6633
         ]
       }
@@ -8331,7 +8331,7 @@ var temples =  {
       "type": "Feature",
       "properties": {
         "id": "1000243",
-        "name": "Acropolis",
+        "name": "Temple A",
         "dedicatee": "",
         "type": "temple",
         "setting": "acropolis",
@@ -8340,8 +8340,8 @@ var temples =  {
         "ancientplace": "Populonium",
         "pleiadesplace": "403212",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
+        "orientation": "204",
+        "compass": "SW",
         "geocertainty": "0",
         "vowed": "",
         "date": "",
@@ -8354,19 +8354,19 @@ var temples =  {
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Etruscan",
         "style": "",
         "extant": "yes",
-        "source": "Vici.org",
+        "source": "",
         "meetings": "",
         "note": "",
-        "vici": "11649"
+        "vici": "30501"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5092,
-          42.988754
+          10.4900406,
+          42.98845733
         ]
       }
     },
@@ -29242,6 +29242,44 @@ var temples =  {
         "coordinates": [
           11.63607,
           42.409068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000794",
+        "name": "Temple of Vigna Parocchiale",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Vigna Parrocchiale",
+        "modernplace": "Cerveteri",
+        "ancientplace": "Caere",
+        "pleiadesplace": "422859",
+        "country": "IT",
+        "orientation": "142",
+        "compass": "SE",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "",
+        "style": "Etruscan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.107759,
+          42.001689
         ]
       }
     },
@@ -53181,6 +53219,92 @@ var temples =  {
         "coordinates": [
           16.67125081,
           40.21733698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001391",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Populonia",
+        "ancientplace": "Populonium",
+        "pleiadesplace": "403212",
+        "country": "IT",
+        "orientation": "108",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "30504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4896122,
+          42.9883993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001392",
+        "name": "Temple C",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Populonia",
+        "ancientplace": "Populonium",
+        "pleiadesplace": "403212",
+        "country": "IT",
+        "orientation": "108",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "30502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4895218,
+          42.9881382
         ]
       }
     }

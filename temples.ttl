@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-11-06" ;
+    dcterms:modified "2025-12-19" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -2045,7 +2045,8 @@ skos:exactMatch <http://archaeologydataservice.ac.uk/archives/view/romangl/mapre
 <https://romeresearchgroup.org/items/1000192> a lawd:Place ;
 rdfs:label "Temple (Marcham/Frilford)" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "51.6633"^^xsd:double ; geo:long "-1.366780827"^^xsd:double ] ;
+geo:location [ geo:lat "51.6633"^^xsd:double ; geo:long "-1.367001"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
 gn:countryCode "UK" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -2607,14 +2608,15 @@ skos:exactMatch <http://vici.org/vici/11625> ;
 skos:exactMatch <http://pleiades.stoa.org/places/721328707> ;
 .
 <https://romeresearchgroup.org/items/1000243> a lawd:Place ;
-rdfs:label "Acropolis at Populonium" ;
+rdfs:label "Temple A at Populonium" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "42.988754"^^xsd:double ; geo:long "10.5092"^^xsd:double ] ;
+geo:location [ geo:lat "42.98845733"^^xsd:double ; geo:long "10.4900406"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/403212#this> ;
-skos:exactMatch <http://vici.org/vici/11649> ;
+skos:exactMatch <http://vici.org/vici/30501> ;
 .
 <https://romeresearchgroup.org/items/1000244> a lawd:Place ;
 rdfs:label "Temple of Fortuna at Praeneste" ;
@@ -8221,8 +8223,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/413393#this> ;
 .
 <https://romeresearchgroup.org/items/1000794> a lawd:Place ;
-rdfs:label "Temple at Caere" ;
+rdfs:label "Temple of Vigna Parocchiale at Caere" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.001689"^^xsd:double ; geo:long "12.107759"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14418,4 +14422,26 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/452333#this> ;
+.
+<https://romeresearchgroup.org/items/1001391> a lawd:Place ;
+rdfs:label "Temple B at Populonium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.9883993"^^xsd:double ; geo:long "10.4896122"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403212#this> ;
+skos:exactMatch <http://vici.org/vici/30504> ;
+.
+<https://romeresearchgroup.org/items/1001392> a lawd:Place ;
+rdfs:label "Temple C at Populonium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.9881382"^^xsd:double ; geo:long "10.4895218"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403212#this> ;
+skos:exactMatch <http://vici.org/vici/30502> ;
 .
