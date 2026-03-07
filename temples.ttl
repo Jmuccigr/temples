@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2025-12-19" ;
+    dcterms:modified "2026-03-05" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3019,7 +3019,7 @@ spatial:C <https://pleiades.stoa.org/places/462068#this> ;
 skos:exactMatch <http://vici.org/vici/17988> ;
 .
 <https://romeresearchgroup.org/items/1000278> a lawd:Place ;
-rdfs:label "Sanctuary at Locri Epizephiri" ;
+rdfs:label "Sanctuary at Locri Epizephyri" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.211281"^^xsd:double ; geo:long "16.238371"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -9525,9 +9525,10 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/452469#this> ;
 .
 <https://romeresearchgroup.org/items/1000925> a lawd:Place ;
-rdfs:label "Temple at Locri Epizephyri" ;
+rdfs:label "Marasà Temple at Locri Epizephyri" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "38.211181"^^xsd:double ; geo:long "16.238451"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
