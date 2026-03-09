@@ -8,6 +8,9 @@ src="/Users/$me/Documents/github/local/temples"
 # Path to include Cyberduck's duck command for running via launchctl
 export PATH="/opt/homebrew/bin:$PATH"
 
+if [ ! -f "$src/temple_bib_general.html" ]; then
+    echo "$(date +%Y-%m-%d\ %H:%M:%S) duckgenbib: general temple bibliography file is missing" 1>&2
+
 # If file is big enough, Upload via FTP and log success or failure
 fsize=`stat -f%z "$src/temple_bib_general.html"`
 if [ $fsize -lt 500 ]

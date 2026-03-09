@@ -23,6 +23,8 @@ then
   else
 	echo "$bib" > $dest/temple_bib_general.html
   fi
+else
+  echo "$bib" > $dest/temple_bib_general.html
 fi
 
 # Make sure that it went ok before proceeding
