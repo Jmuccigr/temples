@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-03-05" ;
+    dcterms:modified "2026-03-09" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -231,7 +231,7 @@ skos:exactMatch <https://topostext.org/place/419125SFas> ;
 <https://romeresearchgroup.org/items/1000018> a lawd:Place ;
 rdfs:label "Temple of the Divine Augustus at Rome" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "41.891616"^^xsd:double ; geo:long "12.484471"^^xsd:double ] ;
+geo:location [ geo:lat "41.891254"^^xsd:double ; geo:long "12.4853277"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -7712,6 +7712,8 @@ spatial:C <https://pleiades.stoa.org/places/422995#this> ;
 <https://romeresearchgroup.org/items/1000745> a lawd:Place ;
 rdfs:label "Temple of Juno Sospita at Lanuvium" ;
 dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.6776386"^^xsd:double ; geo:long "12.6998485"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14445,4 +14447,14 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/403212#this> ;
 skos:exactMatch <http://vici.org/vici/30502> ;
+.
+<https://romeresearchgroup.org/items/1001393> a lawd:Place ;
+rdfs:label "Temple of Juno Sospita at Lanuvium" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.6776386"^^xsd:double ; geo:long "12.6998485"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/422956#this> ;
 .

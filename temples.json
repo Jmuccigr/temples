@@ -862,7 +862,7 @@
         "preceded": "",
         "succeeded": "",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "August 30",
         "deitytype": "emperor",
         "culture": "Roman",
         "style": "",
@@ -887,8 +887,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.484471,
-          41.891616
+          12.4853277,
+          41.891254
         ]
       }
     },
@@ -33698,17 +33698,17 @@
         "ancientplace": "Lanuvium",
         "pleiadesplace": "422956",
         "country": "IT",
-        "orientation": "",
-        "compass": "",
-        "geocertainty": "",
+        "orientation": "275",
+        "compass": "W",
+        "geocertainty": "0",
         "vowed": "",
-        "date": "",
-        "startdateearly": "",
-        "startdatelate": "",
-        "century": "",
+        "date": "end 6th-early 5th c. BCE",
+        "startdateearly": "-520",
+        "startdatelate": "-480",
+        "century": "-6",
         "enddate": "",
         "preceded": "",
-        "succeeded": "",
+        "succeeded": "1000745",
         "sex": "F",
         "dedicationday": "",
         "deitytype": "god",
@@ -33719,8 +33719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.6998485,
+          41.6776386
         ]
       }
     },
@@ -60875,6 +60875,45 @@
         "coordinates": [
           10.4895218,
           42.9881382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001393",
+        "name": "Temple of Juno Sospita",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Lanuvio",
+        "ancientplace": "Lanuvium",
+        "pleiadesplace": "422956",
+        "country": "IT",
+        "orientation": "278",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "4th c. BCE",
+        "startdateearly": "-399",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "1001393",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6998485,
+          41.6776386
         ]
       }
     }
