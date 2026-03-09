@@ -734,7 +734,7 @@
 "1000742","Temple of the Magna Mater","Magna Mater","temple","","","Ostia Antica","Ostia","422995","IT","41.752114","12.2903","52","NE","0","","","","","","","","","F","","god","Roman","","yes","","","","","","","","","","","","","","","","","","","https://www.ostia-antica.org/regio4/1/1-1.htm"
 "1000743","Temple of Bona Dea","Bona Dea","temple","","","Ostia Antica","Ostia","422995","IT","41.754603","12.291503","158","S","0","","2nd c. BCE","-199","-100","-2","","","","F","","god","Roman","","yes","","","","","","","","","","","","","","","","","","","https://www.ostia-antica.org/regio5/10/10-2.htm"
 "1000744","Temple of L. Hortensius Heraclida","","temple","","","Ostia Antica","Ostia","422995","IT","41.755478","12.292198","145","SE","0","","3rd qu. 3rd c. CE","251","275","3","","","","","","","Roman","","yes","","","","","","","","","","","","","","","","","","","https://www.ostia-antica.org/regio5/12/12-1.htm"
-"1000745","Temple of Juno Sospita","Juno","temple","","","Lanuvio","Lanuvium","422956","IT","","","","","","","","","","","","","","F","","god","Roman","","yes"
+"1000745","Temple of Juno Sospita","Juno","temple","","","Lanuvio","Lanuvium","422956","IT","41.6776386","12.6998485","275","W","0","","end 6th-early 5th c. BCE","-520","-480","-6","","","1000745","F","","god","Roman","","yes"
 "1000746","Temple of S. Pietro","","temple","","","Albe","Alba Fucens","413005","IT","42.07709","13.410732","70","E","0","","","","","","","","","","","","Roman","","yes"
 "1000747","Temple on the Pettorino Hill","","temple","","","Albe","Alba Fucens","413005","IT","42.080027","13.414105","232","SW","0","","","","","","","","","","","","Roman","","yes"
 "1000748","Temple","Mihr","temple","","","Garni","Gorneae","863795","AM","40.112555","44.730136","345","N","0","","77 CE","77","","1","","","","M","","god","Armenian","Ionic","yes","","","","","976360689","7873","","","Temple_of_Garni","Q684072"
@@ -1381,3 +1381,4 @@
 "1001390","Classical Temple","","temple","","","Policoro","Heraclea","452333","IT","40.21733698","16.67125081","108","E","0","","End 5th - early 4th c. BCE","-420","-375","-5","","","1001389","","","","Greek","","yes"
 "1001391","Temple B","","temple","acropolis","","Populonia","Populonium","403212","IT","42.9883993","10.4896122","108","E","0","","","","","","","","","","","","Etruscan","","yes","","","","30504"
 "1001392","Temple C","","temple","acropolis","","Populonia","Populonium","403212","IT","42.9881382","10.4895218","108","E","0","","","","","","","","","","","","Etruscan","","yes","","","","30502"
+"1001393","Temple of Juno Sospita","Juno","temple","","","Lanuvio","Lanuvium","422956","IT","41.6776386","12.6998485","278","W","0","","4th c. BCE","-399","-300","-4","","1001393","","F","","god","Roman","","yes"
