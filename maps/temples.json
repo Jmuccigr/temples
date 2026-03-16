@@ -3937,6 +3937,43 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1000109",
+        "name": "Temple of Salus",
+        "dedicatee": "Salus",
+        "type": "temple",
+        "setting": "",
+        "location": "Quirinal Hill",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "-311",
+        "date": "-303",
+        "startdateearly": "-303",
+        "startdatelate": "",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "August 5",
+        "deitytype": "concept",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486065,
+          41.900527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000110",
         "name": "Temple of Saturn",
         "dedicatee": "Saturn",
@@ -40316,8 +40353,8 @@
         "ancientplace": "Samikon",
         "pleiadesplace": "570653",
         "country": "GR",
-        "orientation": "",
-        "compass": "",
+        "orientation": "151",
+        "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
         "date": "archaic",

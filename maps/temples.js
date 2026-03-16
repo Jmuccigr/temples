@@ -862,7 +862,7 @@ var temples =  {
         "preceded": "",
         "succeeded": "",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "August 30",
         "deitytype": "emperor",
         "culture": "Roman",
         "style": "",
@@ -887,8 +887,8 @@ var temples =  {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.484471,
-          41.891616
+          12.4853277,
+          41.891254
         ]
       }
     },
@@ -3931,6 +3931,43 @@ var temples =  {
         "coordinates": [
           12.447668,
           41.959271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1000109",
+        "name": "Temple of Salus",
+        "dedicatee": "Salus",
+        "type": "temple",
+        "setting": "",
+        "location": "Quirinal Hill",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "-311",
+        "date": "-303",
+        "startdateearly": "-303",
+        "startdatelate": "",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "August 5",
+        "deitytype": "concept",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486065,
+          41.900527
         ]
       }
     },
@@ -27348,6 +27385,45 @@ var temples =  {
     {
       "type": "Feature",
       "properties": {
+        "id": "1000745",
+        "name": "Temple of Juno Sospita",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Lanuvio",
+        "ancientplace": "Lanuvium",
+        "pleiadesplace": "422956",
+        "country": "IT",
+        "orientation": "275",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "end 6th-early 5th c. BCE",
+        "startdateearly": "-520",
+        "startdatelate": "-480",
+        "century": "-6",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "1000745",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6998485,
+          41.6776386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1000746",
         "name": "Temple of S. Pietro",
         "dedicatee": "",
@@ -40277,8 +40353,8 @@ var temples =  {
         "ancientplace": "Samikon",
         "pleiadesplace": "570653",
         "country": "GR",
-        "orientation": "",
-        "compass": "",
+        "orientation": "151",
+        "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
         "date": "archaic",
@@ -53305,6 +53381,45 @@ var temples =  {
         "coordinates": [
           10.4895218,
           42.9881382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001393",
+        "name": "Temple of Juno Sospita",
+        "dedicatee": "Juno",
+        "type": "temple",
+        "setting": "",
+        "location": "",
+        "modernplace": "Lanuvio",
+        "ancientplace": "Lanuvium",
+        "pleiadesplace": "422956",
+        "country": "IT",
+        "orientation": "278",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "4th c. BCE",
+        "startdateearly": "-399",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "1001393",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6998485,
+          41.6776386
         ]
       }
     }

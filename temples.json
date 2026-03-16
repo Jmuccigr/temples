@@ -4971,7 +4971,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "-311",
         "date": "-303",
         "startdateearly": "-303",
@@ -4988,8 +4988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.486065,
+          41.900527
         ]
       }
     },
@@ -47659,8 +47659,8 @@
         "ancientplace": "Samikon",
         "pleiadesplace": "570653",
         "country": "GR",
-        "orientation": "",
-        "compass": "",
+        "orientation": "151",
+        "compass": "SE",
         "geocertainty": "0",
         "vowed": "",
         "date": "archaic",
