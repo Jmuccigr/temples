@@ -9983,18 +9983,18 @@
       "type": "Feature",
       "properties": {
         "id": "1000278",
-        "name": "Sanctuary",
-        "dedicatee": "Hera",
+        "name": "Temple of Casa Marafioti",
+        "dedicatee": "",
         "type": "temple",
         "setting": "",
-        "location": "",
+        "location": "Casa Marafioti",
         "modernplace": "Locri",
         "ancientplace": "Locri Epizephyri",
         "pleiadesplace": "452369",
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "0",
+        "geocertainty": "1",
         "vowed": "",
         "date": "",
         "startdateearly": "",
@@ -10006,20 +10006,15 @@
         "sex": "",
         "dedicationday": "",
         "deitytype": "",
-        "culture": "",
+        "culture": "Greek",
         "style": "",
-        "extant": "",
-        "source": "Vici.org",
-        "meetings": "",
-        "note": "",
-        "vici": "17993",
-        "pleiades": "629225363"
+        "extant": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.238371,
-          38.211281
+          16.2291,
+          38.21707
         ]
       }
     },

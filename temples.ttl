@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-03-12" ;
+    dcterms:modified "2026-03-18" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -3020,15 +3020,13 @@ spatial:C <https://pleiades.stoa.org/places/462068#this> ;
 skos:exactMatch <http://vici.org/vici/17988> ;
 .
 <https://romeresearchgroup.org/items/1000278> a lawd:Place ;
-rdfs:label "Sanctuary at Locri Epizephyri" ;
+rdfs:label "Temple of Casa Marafioti at Locri Epizephyri" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "38.211281"^^xsd:double ; geo:long "16.238371"^^xsd:double ] ;
+geo:location [ geo:lat "38.21707"^^xsd:double ; geo:long "16.2291"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/452369#this> ;
-skos:exactMatch <http://vici.org/vici/17993> ;
-skos:exactMatch <http://pleiades.stoa.org/places/629225363> ;
 .
 <https://romeresearchgroup.org/items/1000279> a lawd:Place ;
 rdfs:label "Tavole Palatine at Metapontum" ;
