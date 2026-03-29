@@ -60911,6 +60911,92 @@
           41.6776386
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001394",
+        "name": "Temple A",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Volterra",
+        "ancientplace": "Volaterrae",
+        "pleiadesplace": "403292",
+        "country": "IT",
+        "orientation": "241",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 3rd c. BCE",
+        "startdateearly": "-225",
+        "startdatelate": "-200",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "30633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8605942,
+          43.4008409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001395",
+        "name": "Temple B",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "acropolis",
+        "location": "",
+        "modernplace": "Volterra",
+        "ancientplace": "Volaterrae",
+        "pleiadesplace": "403292",
+        "country": "IT",
+        "orientation": "240",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "mid 2nd c. BCE",
+        "startdateearly": "-175",
+        "startdatelate": "-125",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Etruscan",
+        "style": "",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "30634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8604354,
+          43.4009733
+        ]
+      }
     }
   ]
 }

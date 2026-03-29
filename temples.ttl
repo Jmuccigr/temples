@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-03-18" ;
+    dcterms:modified "2026-03-23" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -14457,4 +14457,26 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/422956#this> ;
+.
+<https://romeresearchgroup.org/items/1001394> a lawd:Place ;
+rdfs:label "Temple A at Volaterrae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.4008409"^^xsd:double ; geo:long "10.8605942"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403292#this> ;
+skos:exactMatch <http://vici.org/vici/30633> ;
+.
+<https://romeresearchgroup.org/items/1001395> a lawd:Place ;
+rdfs:label "Temple B at Volaterrae" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.4009733"^^xsd:double ; geo:long "10.8604354"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/403292#this> ;
+skos:exactMatch <http://vici.org/vici/30634> ;
 .
