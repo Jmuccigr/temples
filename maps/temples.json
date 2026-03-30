@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000001",
-        "name": "Temple of Aesculapius",
-        "dedicatee": "Aesculapius",
+        "name": "Temple of Asclepius",
+        "dedicatee": "Asclepius",
         "type": "temple",
         "setting": "",
         "location": "Tiber Island",
@@ -30055,8 +30055,8 @@
       "type": "Feature",
       "properties": {
         "id": "1000814",
-        "name": "Temple of Aesculapius",
-        "dedicatee": "Aesculapius",
+        "name": "Temple of Asclepius",
+        "dedicatee": "Asclepius",
         "type": "temple",
         "setting": "",
         "location": "",
@@ -36059,7 +36059,7 @@
       "properties": {
         "id": "1000974",
         "name": "Temple C",
-        "dedicatee": "Aesculapius",
+        "dedicatee": "Asclepius",
         "type": "temple",
         "setting": "",
         "location": "Località Le Salzare",

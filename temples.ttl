@@ -22,11 +22,11 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-03-23" ;
+    dcterms:modified "2026-03-30" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
-rdfs:label "Temple of Aesculapius at Rome" ;
+rdfs:label "Temple of Asclepius at Rome" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.890278"^^xsd:double ; geo:long "12.478333"^^xsd:double ] ;
 gn:countryCode "IT" ;
@@ -1487,7 +1487,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
 <https://romeresearchgroup.org/items/1000136> a lawd:Place ;
-rdfs:label "Temple of Aesculapius at Rome" ;
+rdfs:label "Temple of Asclepius at Rome" ;
 dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
@@ -8421,7 +8421,7 @@ spatial:C <https://pleiades.stoa.org/places/413125#this> ;
 skos:exactMatch <http://vici.org/vici/65985> ;
 .
 <https://romeresearchgroup.org/items/1000814> a lawd:Place ;
-rdfs:label "Temple of Aesculapius at Fregellae" ;
+rdfs:label "Temple of Asclepius at Fregellae" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.536675"^^xsd:double ; geo:long "13.533406"^^xsd:double ] ;
 gn:countryCode "IT" ;
