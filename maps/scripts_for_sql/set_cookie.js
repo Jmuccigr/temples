@@ -11,13 +11,14 @@ function setCookie(name, value, days) {
     }
     document.cookie = escape(name) + "=" + escape(value) + expires + "; path=/";
     if (days != '-1') {
-//         alert('Current query:' + value);
+        //         alert('Current query:' + value);
         var map = document.getElementById("mymenu").options[selectmenu.selectedIndex].value;
-        if (map == 'nothing') {
-            alert("Don't forget to select a map variable!")
-        } else {
-            // Send change event to menu that selects overlay layers so it updates the map
+        if (map == "nothing") {
+            document.getElementById("mymenu").selectedIndex = 2;
             selectmenu.dispatchEvent(new Event('change'));
+            alert("Don't forget to select a map variable!\n\nAutomatically using \"type of deity\".")
         }
+        // Send change event to menu that selects overlay layers so it updates the map
+        selectmenu.dispatchEvent(new Event('change'));
     }
 }
