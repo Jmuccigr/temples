@@ -424,7 +424,7 @@
         "dedicatee": "Ceres, Liber, Libera",
         "type": "temple",
         "setting": "",
-        "location": "Aventine",
+        "location": "Aventine Hill",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
@@ -450,7 +450,7 @@
         "meetings": "",
         "note": "",
         "vici": "",
-        "pleiades": "",
+        "pleiades": "581361483",
         "dare": "",
         "arachne": "",
         "livius": "",
@@ -733,7 +733,7 @@
         "dedicatee": "Diana",
         "type": "temple",
         "setting": "",
-        "location": "Aventine",
+        "location": "Aventine Hill",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
@@ -761,7 +761,7 @@
         "vici": "",
         "pleiades": "",
         "dare": "",
-        "arachne": "",
+        "arachne": "6576339",
         "livius": "",
         "wikipedia": "",
         "wikidata": "",
@@ -2863,7 +2863,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-246",
         "startdateearly": "-246",
@@ -2883,8 +2883,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.479516,
+          41.884481
         ]
       }
     },
@@ -3416,7 +3416,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-292-219",
         "startdateearly": "-292",
@@ -3433,8 +3433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.4805488,
+          41.88538
         ]
       }
     },
@@ -3734,7 +3734,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "",
         "date": "-495",
         "startdateearly": "-495",
@@ -3742,9 +3742,9 @@
         "century": "-5",
         "enddate": "",
         "preceded": "",
-        "succeeded": "May 15",
+        "succeeded": "",
         "sex": "M",
-        "dedicationday": "",
+        "dedicationday": "May 15",
         "deitytype": "god",
         "culture": "Roman",
         "style": "",
@@ -3758,8 +3758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.485313,
+          41.884121
         ]
       }
     },
@@ -3778,7 +3778,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "-263-262",
         "date": "-263-260",
         "startdateearly": "-263",
@@ -3800,8 +3800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.482365,
+          41.885219
         ]
       }
     },
@@ -6030,7 +6030,7 @@
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "-264",
         "date": "-264-219",
         "startdateearly": "-264",
@@ -6047,8 +6047,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.479647,
+          41.883846
         ]
       }
     },
@@ -6796,14 +6796,14 @@
         "dedicatee": "Consus",
         "type": "temple",
         "setting": "",
-        "location": "Aventine",
+        "location": "Aventine Hill",
         "modernplace": "Rome",
         "ancientplace": "Rome",
         "pleiadesplace": "423025",
         "country": "IT",
         "orientation": "",
         "compass": "",
-        "geocertainty": "",
+        "geocertainty": "1",
         "vowed": "-272",
         "date": "-272",
         "startdateearly": "-272",
@@ -6823,8 +6823,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "",
-          ""
+          12.479516,
+          41.883736
         ]
       }
     },
