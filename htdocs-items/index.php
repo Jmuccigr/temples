@@ -28,7 +28,7 @@
      "contactPoint":{
      	"@type":"contactPoint",
      	"contactType":"technical support",
-        "email":"jmuccigr@drew.edu",
+        "email":"muccigrosso@icloud.com",
         "url":"http://jmuccigr.github.io/"
      }
   },
