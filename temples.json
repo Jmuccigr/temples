@@ -60997,6 +60997,43 @@
           43.4009733
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001396",
+        "name": "Temple of Diana",
+        "dedicatee": "Diana",
+        "type": "temple",
+        "setting": "",
+        "location": "Circus Flaminius",
+        "modernplace": "Rome",
+        "ancientplace": "Rome",
+        "pleiadesplace": "423025",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "-179",
+        "startdateearly": "-179",
+        "startdatelate": "-179",
+        "century": "-2",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "F",
+        "dedicationday": "December 23",
+        "deitytype": "god",
+        "culture": "Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.476054,
+          41.89298
+        ]
+      }
     }
   ]
 }
