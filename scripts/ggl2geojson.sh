@@ -22,7 +22,7 @@ fi
 
 # Get google doc as json via the v4 API & exit on failure to return any/enough data
 # Be sure to grab all the needed columns
-json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AV?key=$apikey")
+json=$(curl -s -stdout "https://sheets.googleapis.com/v4/spreadsheets/$sheet/values/temples!A:AW?key=$apikey")
 if [ ${#json} -lt 1000 ]
 then
    errMsg=`echo "$json" | jq .error.message`

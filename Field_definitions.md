@@ -53,6 +53,7 @@ The following is a list of the fields found in the database and how they are def
 | wikidata | Wikidata ID for the temple. |
 | digitalromanforum | Digital Roman Forum ID for the temple. |
 | digitalesforumromanum | Digitales Forum Romanum ID for the temple. |
+| digitalaugustanrome | Digital Augustan Rome ID for the temple. |
 | trismegistos | Trismegistos ID for the temple. |
 | ads | Archeological Data Service ID for the temple (British). |
 | cona | Getty Cultural Objects Names Authority ID for the temple. |

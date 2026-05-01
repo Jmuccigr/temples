@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-04-08" ;
+    dcterms:modified "2026-05-02" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -304,6 +304,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/39266> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5865> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/area-sacra-temple-c/> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q1541068> ;
 .
 <https://romeresearchgroup.org/items/1000024> a lawd:Place ;
@@ -364,6 +365,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/39264> ;
 skos:exactMatch <http://pleiades.stoa.org/places/635795593> ;
 skos:exactMatch <https://arachne.dainst.org/entity/6515> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/fortuna-huiusce-diei-aedes/> ;
 skos:exactMatch <https://topostext.org/place/419125SFor> ;
 .
 <https://romeresearchgroup.org/items/1000030> a lawd:Place ;
@@ -437,6 +439,7 @@ spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/15006> ;
 skos:exactMatch <http://pleiades.stoa.org/places/825969667> ;
 skos:exactMatch <https://arachne.dainst.org/entity/10771> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/round-temple-tiberis/> ;
 skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor> ;
 skos:exactMatch <https://www.wikidata.org/entity/Q576929> ;
 skos:exactMatch <https://topostext.org/place/419125SHrc> ;
@@ -807,6 +810,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/39261> ;
 skos:exactMatch <https://arachne.dainst.org/entity/5864> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/area-sacra-temple-a/> ;
 skos:exactMatch <https://topostext.org/place/419125SFer> ;
 .
 <https://romeresearchgroup.org/items/1000072> a lawd:Place ;
@@ -836,6 +840,7 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 skos:exactMatch <http://vici.org/vici/39263> ;
 skos:exactMatch <https://arachne.dainst.org/entity/6516> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/area-sacra-temple-d/> ;
 skos:exactMatch <https://topostext.org/place/419125SLPe> ;
 .
 <https://romeresearchgroup.org/items/1000075> a lawd:Place ;
@@ -14223,6 +14228,7 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/round-temple-forum-bovarium/> ;
 .
 <https://romeresearchgroup.org/items/1001370> a lawd:Place ;
 rdfs:label "West Temple at Aleria" ;
@@ -14492,6 +14498,64 @@ skos:exactMatch <http://vici.org/vici/30634> ;
 rdfs:label "Temple of Diana at Rome" ;
 dcterms:temporal "-750/640" ;
 geo:location [ geo:lat "41.89298"^^xsd:double ; geo:long "12.476054"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001397> a lawd:Place ;
+rdfs:label "Forum Temple at Munigua" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.7132792"^^xsd:double ; geo:long "-5.74081361"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078809> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256318#this> ;
+.
+<https://romeresearchgroup.org/items/1001398> a lawd:Place ;
+rdfs:label "Podium Temple at Munigua" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.713276"^^xsd:double ; geo:long "-5.74113211"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078827> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256318#this> ;
+.
+<https://romeresearchgroup.org/items/1001399> a lawd:Place ;
+rdfs:label "Terrace Temple at Munigua" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.7130572"^^xsd:double ; geo:long "-5.74142809"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "ES" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/256318#this> ;
+.
+<https://romeresearchgroup.org/items/1001400> a lawd:Place ;
+rdfs:label "Temple of Febris at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.88888"^^xsd:double ; geo:long "12.4865183"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+.
+<https://romeresearchgroup.org/items/1001401> a lawd:Place ;
+rdfs:label "Temple of Febris at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.905617"^^xsd:double ; geo:long "12.496651"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <http://vici.org/vici/70723> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/febris-templum/> ;
+.
+<https://romeresearchgroup.org/items/1001402> a lawd:Place ;
+rdfs:label "Temple of Febris at Rome" ;
+dcterms:temporal "-750/640" ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;

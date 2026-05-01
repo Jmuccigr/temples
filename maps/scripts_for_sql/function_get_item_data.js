@@ -113,6 +113,12 @@ res = res[0];
 			};
 			otherDB = otherDB + '<a target="_blank" href="http://www.digitales-forum-romanum.de/gebaeude/' + res.properties.digitalesforumromanum + '/?lang=en/">Digitales Forum Romanum</a>';
 		}
+		if (res.properties.digitalaugustanrome != '') {
+			if (otherDB.length > 4) {
+				otherDB = otherDB + ', '
+			};
+			otherDB = otherDB + '<a target="_blank" href="https://www.digitalaugustanrome.org/records/' + res.properties.digitalaugustanrome + '">Digital Augustan Rome</a>';
+		}
 		if (res.properties.livius != '') {
 			if (otherDB.length > 4) {
 				otherDB = otherDB + ', '
