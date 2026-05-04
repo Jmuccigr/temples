@@ -14561,3 +14561,15 @@ dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/423025#this> ;
 .
+<https://romeresearchgroup.org/items/1001403> a lawd:Place ;
+rdfs:label "Temple of Fortuna Equestris at Rome" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "41.894328"^^xsd:double ; geo:long "12.474375"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/423025#this> ;
+skos:exactMatch <https://www.digitalaugustanrome.org/records/fortuna-equestris-aedes/> ;
+skos:exactMatch <https://en.wikipedia.org/wiki/Temple_of_Fortuna_Equestris> ;
+skos:exactMatch <https://www.wikidata.org/entity/Q2210179> ;
+.
