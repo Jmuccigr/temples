@@ -94,7 +94,7 @@ ogr2ogr -f "geojson" "$temp/sheet.json" "$dest/sheet.csv" -oo X_POSSIBLE_NAMES=l
 # at line ends, so more steps are needed after removing coord lines
 if [ -s "$temp/sheet.json" ]
 then
-	cat "$temp/sheet.json"  | perl -pe 's/(\"geometry\"\: )null/\1\{\"type\"\: \"Point\",\"coordinates\"\: \[\"\",\"\"\]\}/g' | jq '.' | \
+	cat "$temp/sheet.json"  | perl -pe 's/(\"geometry\"\:)null/\1\{\"type\"\: \"Point\",\"coordinates\"\: \[\"\",\"\"\]\}/g' | jq '.' | \
 	   grep -v -e \"latitude\": -e \"longitude\":  | \
 	   perl -pe "s/\n/ /g" \
 	   | perl -pe "s/,\s+}/}/g" | jq '.' \
