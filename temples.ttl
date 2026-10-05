@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-09-19" ;
+    dcterms:modified "2026-10-01" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -8414,9 +8414,9 @@ pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temp
 spatial:C <https://pleiades.stoa.org/places/432846#this> ;
 .
 <https://romeresearchgroup.org/items/1000812> a lawd:Place ;
-rdfs:label "Temple at Sentinum" ;
+rdfs:label "Temple at Alba" ;
 dcterms:temporal "-750/640" ;
-geo:location [ geo:lat "43.4726746"^^xsd:double ; geo:long "12.8960632"^^xsd:double ] ;
+geo:location [ geo:lat "43.473126"^^xsd:double ; geo:long "12.895494"^^xsd:double ] ;
 gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
@@ -14590,4 +14590,67 @@ gn:countryCode "TR" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/638961#this> ;
+.
+<https://romeresearchgroup.org/items/1001406> a lawd:Place ;
+rdfs:label "Temple at Teate Marrucinorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.34557"^^xsd:double ; geo:long "14.1627"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413333#this> ;
+.
+<https://romeresearchgroup.org/items/1001407> a lawd:Place ;
+rdfs:label "Temple at Sentinum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.420996"^^xsd:double ; geo:long "12.851632"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413312#this> ;
+.
+<https://romeresearchgroup.org/items/1001408> a lawd:Place ;
+rdfs:label "Tetrastyle Temple at Sentinum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "43.42079"^^xsd:double ; geo:long "12.851646"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413312#this> ;
+.
+<https://romeresearchgroup.org/items/1001409> a lawd:Place ;
+rdfs:label "Temple of the Dioscuri at Teate Marrucinorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.34842"^^xsd:double ; geo:long "14.16541"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413333#this> ;
+.
+<https://romeresearchgroup.org/items/1001410> a lawd:Place ;
+rdfs:label "Temple 2 at Teate Marrucinorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.34842"^^xsd:double ; geo:long "14.16525"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413333#this> ;
+.
+<https://romeresearchgroup.org/items/1001411> a lawd:Place ;
+rdfs:label "Temple 3 at Teate Marrucinorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.34842"^^xsd:double ; geo:long "14.16525"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413333#this> ;
+.
+<https://romeresearchgroup.org/items/1001412> a lawd:Place ;
+rdfs:label "Temple 4 at Teate Marrucinorum" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "42.34842"^^xsd:double ; geo:long "14.16525"^^xsd:double ] ;
+gn:countryCode "IT" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/413333#this> ;
 .

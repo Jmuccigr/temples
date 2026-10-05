@@ -36560,7 +36560,7 @@
         "setting": "",
         "location": "",
         "modernplace": "Civitalba",
-        "ancientplace": "Sentinum",
+        "ancientplace": "Alba",
         "pleiadesplace": "413087",
         "country": "IT",
         "orientation": "",
@@ -36587,8 +36587,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8960632,
-          43.4726746
+          12.895494,
+          43.473126
         ]
       }
     },
@@ -61617,6 +61617,279 @@
         "coordinates": [
           30.167452,
           36.342254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001406",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "",
+        "location": "Civitella",
+        "modernplace": "Chieti",
+        "ancientplace": "Teate Marrucinorum",
+        "pleiadesplace": "413333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1627,
+          42.34557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001407",
+        "name": "Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Sassoferrato",
+        "ancientplace": "Sentinum",
+        "pleiadesplace": "413312",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.851632,
+          43.420996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001408",
+        "name": "Tetrastyle Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Sassoferrato",
+        "ancientplace": "Sentinum",
+        "pleiadesplace": "413312",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.851646,
+          43.42079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001409",
+        "name": "Temple of the Dioscuri",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Chieti",
+        "ancientplace": "Teate Marrucinorum",
+        "pleiadesplace": "413333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16541,
+          42.34842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001410",
+        "name": "Temple 2",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Chieti",
+        "ancientplace": "Teate Marrucinorum",
+        "pleiadesplace": "413333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16525,
+          42.34842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001411",
+        "name": "Temple 3",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Chieti",
+        "ancientplace": "Teate Marrucinorum",
+        "pleiadesplace": "413333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16525,
+          42.34842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001412",
+        "name": "Temple 4",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "forum",
+        "location": "",
+        "modernplace": "Chieti",
+        "ancientplace": "Teate Marrucinorum",
+        "pleiadesplace": "413333",
+        "country": "IT",
+        "orientation": "",
+        "compass": "",
+        "geocertainty": "1",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Roman",
+        "style": "",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16525,
+          42.34842
         ]
       }
     }
