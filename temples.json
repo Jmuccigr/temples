@@ -61892,6 +61892,183 @@
           42.34842
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001413",
+        "name": "Temple of the Three Gods",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "sanctuary",
+        "location": "",
+        "modernplace": "Messa",
+        "ancientplace": "Messon",
+        "pleiadesplace": "550734",
+        "country": "GR",
+        "orientation": "291",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "late 4th c BC",
+        "startdateearly": "-330",
+        "startdatelate": "-300",
+        "century": "-4",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Ionic octostyle",
+        "extant": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.30555838,
+          39.19650925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001414",
+        "name": "Temple of Dionysus",
+        "dedicatee": "Dionysus",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "Sığacık",
+        "ancientplace": "Teos",
+        "pleiadesplace": "550913",
+        "country": "TR",
+        "orientation": "82",
+        "compass": "E",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic hexastyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "2296",
+        "pleiades": "319662579",
+        "dare": "",
+        "arachne": "5823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7850422,
+          38.1772349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001415",
+        "name": "Doric Temple",
+        "dedicatee": "",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "",
+        "ancientplace": "Alabanda",
+        "pleiadesplace": "599479",
+        "country": "TR",
+        "orientation": "268",
+        "compass": "W",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "ca. 200 BC",
+        "startdateearly": "-200",
+        "startdatelate": "",
+        "century": "-3",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "",
+        "dedicationday": "",
+        "deitytype": "",
+        "culture": "Greek",
+        "style": "Doric",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "21365",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2108971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9822278,
+          37.5923029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1001416",
+        "name": "Temple of Apollo Isotomos",
+        "dedicatee": "Apollo",
+        "type": "temple",
+        "setting": "urban",
+        "location": "",
+        "modernplace": "",
+        "ancientplace": "Alabanda",
+        "pleiadesplace": "599479",
+        "country": "TR",
+        "orientation": "215",
+        "compass": "SW",
+        "geocertainty": "0",
+        "vowed": "",
+        "date": "",
+        "startdateearly": "",
+        "startdatelate": "",
+        "century": "",
+        "enddate": "",
+        "preceded": "",
+        "succeeded": "",
+        "sex": "M",
+        "dedicationday": "",
+        "deitytype": "god",
+        "culture": "Greek",
+        "style": "Ionic octostyle",
+        "extant": "yes",
+        "source": "",
+        "meetings": "",
+        "note": "",
+        "vici": "24443",
+        "pleiades": "",
+        "dare": "",
+        "arachne": "2170949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9838858,
+          37.594914
+        ]
+      }
     }
   ]
 }

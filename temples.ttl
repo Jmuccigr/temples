@@ -22,7 +22,7 @@
     foaf:homepage <https://romeresearchgroup.org/database-of-temples/> ;
     dcterms:description "A database of structures, extant and attested, identified as temples in the Classical World, broadly defined." ;
     dcterms:temporal "2016-2021" ;
-    dcterms:modified "2026-10-01" ;
+    dcterms:modified "2026-10-09" ;
     .
 
 <https://romeresearchgroup.org/items/1000001> a lawd:Place ;
@@ -14653,4 +14653,51 @@ gn:countryCode "IT" ;
 dcterms:subject "temple" ;
 pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
 spatial:C <https://pleiades.stoa.org/places/413333#this> ;
+.
+<https://romeresearchgroup.org/items/1001413> a lawd:Place ;
+rdfs:label "Temple of the Three Gods at Messon" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "39.19650925"^^xsd:double ; geo:long "26.30555838"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "GR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550734#this> ;
+.
+<https://romeresearchgroup.org/items/1001414> a lawd:Place ;
+rdfs:label "Temple of Dionysus at Teos" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "38.1772349"^^xsd:double ; geo:long "26.7850422"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078759> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/550913#this> ;
+skos:exactMatch <http://vici.org/vici/2296> ;
+skos:exactMatch <http://pleiades.stoa.org/places/319662579> ;
+skos:exactMatch <https://arachne.dainst.org/entity/5823> ;
+.
+<https://romeresearchgroup.org/items/1001415> a lawd:Place ;
+rdfs:label "Doric Temple at Alabanda" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.5923029"^^xsd:double ; geo:long "27.9822278"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078836> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599479#this> ;
+skos:exactMatch <http://vici.org/vici/21365> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2108971> ;
+.
+<https://romeresearchgroup.org/items/1001416> a lawd:Place ;
+rdfs:label "Temple of Apollo Isotomos at Alabanda" ;
+dcterms:temporal "-750/640" ;
+geo:location [ geo:lat "37.594914"^^xsd:double ; geo:long "27.9838858"^^xsd:double ] ;
+ov:compassDirection <http://vocab.getty.edu/page/aat/300078829> ;
+gn:countryCode "TR" ;
+dcterms:subject "temple" ;
+pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/place-types/temple-2> ;
+spatial:C <https://pleiades.stoa.org/places/599479#this> ;
+skos:exactMatch <http://vici.org/vici/24443> ;
+skos:exactMatch <https://arachne.dainst.org/entity/2170949> ;
 .
